@@ -6,7 +6,7 @@ today=$(date +"%Y-%m-%d")
 last=$(git log -1 --format="%s" 2>/dev/null || echo "")
 [[ "$last" == "$today" ]] && exit 0
 
-python3 bloop.py
+python3 daily.py
 git add README.md
 git commit -m "$today"
 git push origin main
