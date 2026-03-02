@@ -3,8 +3,8 @@ set -e
 cd "$(dirname "$0")"
 
 today=$(date +"%Y-%m-%d")
-last=$(git log -1 --format="%s" 2>/dev/null || echo "")
-[[ "$last" == "$today" ]] && exit 0
+last_date=$(git log -1 --format="%as" 2>/dev/null || echo "")
+[[ "$last_date" == "$today" ]] && exit 0
 
 python3 daily.py
 git add README.md

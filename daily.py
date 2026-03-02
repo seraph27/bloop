@@ -8,6 +8,8 @@ import yfinance as yf
 from datetime import date
 from pathlib import Path
 
+yf.set_tz_cache_location("/tmp/yf-cache")
+
 TICKERS = [
     "NVDA", "SPGI", "META", "AAPL", "MSFT", "GOOG",
     "TSM", "IONQ", "COST", "ASML", "SPYM", "LLY",
