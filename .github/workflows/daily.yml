@@ -1,0 +1,31 @@
+name: daily
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 8am PST (UTC-8)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - run: pip install yfinance -q
+
+      - run: python daily.py
+
+      - name: commit
+        run: |
+          git config user.name "bloop"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "$(date +%Y-%m-%d)"
+          git push
