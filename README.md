@@ -1,42 +1,34 @@
-# Daily TL;DR — March 01, 2026
+# Daily TL;DR — March 02, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   177.19 | ▼ -7.70 (-4.16%) |
-| SPGI  | $   441.88 | ▲ +4.39 (+1.00%) |
-| META  | $   648.18 | ▼ -8.83 (-1.34%) |
-| AAPL  | $   264.18 | ▼ -8.77 (-3.21%) |
-| MSFT  | $   392.74 | ▼ -8.98 (-2.24%) |
-| GOOG  | $   311.43 | ▲ +4.28 (+1.39%) |
-| TSM   | $   374.58 | ▼ -2.23 (-0.59%) |
-| IONQ  | $    38.37 | ▼ -2.51 (-6.14%) |
-| COST  | $  1010.79 | ▲ +24.05 (+2.44%) |
-| ASML  | $  1450.56 | ▼ -13.24 (-0.90%) |
-| SPYM  | $    80.76 | ▼ -0.37 (-0.46%) |
-| LLY   | $  1051.99 | ▲ +29.97 (+2.93%) |
-| OKLO  | $    62.95 | ▼ -6.12 (-8.86%) |
-| V     | $   320.14 | ▲ +3.44 (+1.09%) |
-| MA    | $   517.21 | ▲ +2.44 (+0.47%) |
-| AMZN  | $   210.00 | ▲ +2.08 (+1.00%) |
-| DUOL  | $   101.00 | ▼ -16.45 (-14.01%) |
+| NVDA  | — | — |
+| SPGI  | $   440.28 | ▼ -1.60 (-0.36%) |
+| META  | $   656.64 | ▲ +8.46 (+1.30%) |
+| AAPL  | $   265.38 | ▲ +1.20 (+0.45%) |
+| MSFT  | $   399.48 | ▲ +6.74 (+1.72%) |
+| GOOG  | $   307.14 | ▼ -4.29 (-1.38%) |
+| TSM   | $   371.57 | ▼ -3.01 (-0.80%) |
+| IONQ  | $    38.11 | ▼ -0.26 (-0.68%) |
+| COST  | $  1008.13 | ▼ -2.66 (-0.26%) |
+| ASML  | $  1422.80 | ▼ -27.76 (-1.91%) |
+| SPYM  | $    80.75 | ▼ -0.01 (-0.02%) |
+| LLY   | $  1032.08 | ▼ -19.91 (-1.89%) |
+| OKLO  | $    64.68 | ▲ +1.73 (+2.76%) |
+| V     | $   319.04 | ▼ -1.10 (-0.34%) |
+| MA    | $   515.72 | ▼ -1.49 (-0.29%) |
+| AMZN  | $   209.14 | ▼ -0.86 (-0.41%) |
+| DUOL  | $    97.75 | ▼ -3.25 (-3.22%) |
 
 ## Global News
 - Allies of US in the Gulf bear brunt of Iran attacks
-- Oil prices rise after ships attacked near Strait of Hormuz
+- Oil and gas prices jump as conflict escalates
 - Kidnapping of foreigners soars in Africa's lawless Sahel region
 - Could Kim's teen daughter become North Korea's next leader?
 - Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards
 - At least 153 dead after reported strike on school, Iran says
 - Nine dead in missile attack on Israel as Iran strikes region
 
-## Git Activity
-**bloop** — 4 commit(s)
-  - `ec06e8c 2026-03-01`
-  - `203fc36 daily tldr: portfolio, news, git activity`
-  - `3c6d5e4 2026-03-01`
-**competitve-programming** — 1 commit(s)
-  - `cc63739 asd`
-
 ---
-_Updated 2026-03-01_
+_Updated 2026-03-02_
