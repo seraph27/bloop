@@ -1,4 +1,4 @@
-# Daily TL;DR — March 07, 2026
+# Daily TL;DR — March 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   101.92 | ▲ +0.38 (+0.37%) |
 
 ## Global News
-- Iran will continue to defend itself against aggression, ambassador to UK says
-- Armed robots take to the battlefield in Ukraine war
-- We've been speaking to Iranians during one week of war. Here's what they said
+- War fuels debate in Cyprus over UK military bases
+- Explosion at US embassy in Oslo may have been terrorism, Norway police say
+- Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma
+- Swiss reject right-wing plan to cut licence fee for public broadcaster
+- Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory
+- Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains
 - Heavy rains and flooding kills at least 23 in Nairobi
-- Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah
-- 'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC
-- Swiss to vote on right-wing push to slash licence fee for public broadcaster
 
 ---
-_Updated 2026-03-07_
+_Updated 2026-03-08_
