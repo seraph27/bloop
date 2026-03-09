@@ -1,34 +1,34 @@
-# Daily TL;DR — March 08, 2026
+# Daily TL;DR — March 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   177.82 | ▼ -5.52 (-3.01%) |
-| SPGI  | $   452.36 | ▲ +1.25 (+0.28%) |
-| META  | $   644.86 | ▼ -15.71 (-2.38%) |
-| AAPL  | $   257.46 | ▼ -2.83 (-1.09%) |
-| MSFT  | $   408.96 | ▼ -1.72 (-0.42%) |
-| GOOG  | $   298.30 | ▼ -2.61 (-0.87%) |
-| TSM   | $   338.89 | ▼ -14.97 (-4.23%) |
-| IONQ  | $    35.73 | ▼ -0.29 (-0.81%) |
-| COST  | $   998.10 | ▲ +15.53 (+1.58%) |
-| ASML  | $  1292.80 | ▼ -75.56 (-5.52%) |
-| SPYM  | $    79.13 | ▼ -1.04 (-1.30%) |
-| LLY   | $   990.33 | ▲ +7.07 (+0.72%) |
-| OKLO  | $    58.25 | ▼ -3.78 (-6.09%) |
-| V     | $   317.36 | ▼ -2.44 (-0.76%) |
-| MA    | $   522.34 | ▼ -2.32 (-0.44%) |
-| AMZN  | $   213.21 | ▼ -5.73 (-2.62%) |
-| DUOL  | $   101.92 | ▲ +0.38 (+0.37%) |
+| NVDA  | $   180.20 | ▲ +2.38 (+1.34%) |
+| SPGI  | $   444.10 | ▼ -8.26 (-1.83%) |
+| META  | $   635.82 | ▼ -9.04 (-1.40%) |
+| AAPL  | $   257.70 | ▲ +0.24 (+0.09%) |
+| MSFT  | $   407.31 | ▼ -1.65 (-0.40%) |
+| GOOG  | $   301.29 | ▲ +2.99 (+1.00%) |
+| TSM   | $   342.80 | ▲ +3.90 (+1.15%) |
+| IONQ  | $    35.14 | ▼ -0.59 (-1.66%) |
+| COST  | $  1001.42 | ▲ +3.32 (+0.33%) |
+| ASML  | $  1331.01 | ▲ +38.20 (+2.96%) |
+| SPYM  | $    78.99 | ▼ -0.14 (-0.18%) |
+| LLY   | $   999.18 | ▲ +8.85 (+0.89%) |
+| OKLO  | $    59.72 | ▲ +1.47 (+2.52%) |
+| V     | $   314.12 | ▼ -3.23 (-1.02%) |
+| MA    | $   514.56 | ▼ -7.78 (-1.49%) |
+| AMZN  | $   209.96 | ▼ -3.26 (-1.53%) |
+| DUOL  | $   102.47 | ▲ +0.55 (+0.54%) |
 
 ## Global News
-- War fuels debate in Cyprus over UK military bases
-- Explosion at US embassy in Oslo may have been terrorism, Norway police say
-- Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma
-- Swiss reject right-wing plan to cut licence fee for public broadcaster
-- Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory
-- Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains
-- Heavy rains and flooding kills at least 23 in Nairobi
+- Who is Mojtaba Khamenei, Iran's new supreme leader? 
+- G7 to take 'necessary measures' to support energy supplies
+- India offered sanctuary to Iranian ship three days before US sank it
+- Alleged Bondi gunman seeks order to suppress family's identity
+- Police release images of Oslo US embassy explosion suspect
+- Bag of cannabis and cash accidentally donated to NZ charity shop
+- Guinea opposition leader urges 'direct resistance' after 40 parties dissolved
 
 ---
-_Updated 2026-03-08_
+_Updated 2026-03-09_
