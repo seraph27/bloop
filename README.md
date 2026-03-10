@@ -1,34 +1,34 @@
-# Daily TL;DR — March 09, 2026
+# Daily TL;DR — March 10, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   180.20 | ▲ +2.38 (+1.34%) |
-| SPGI  | $   444.10 | ▼ -8.26 (-1.83%) |
-| META  | $   635.82 | ▼ -9.04 (-1.40%) |
-| AAPL  | $   257.70 | ▲ +0.24 (+0.09%) |
-| MSFT  | $   407.31 | ▼ -1.65 (-0.40%) |
-| GOOG  | $   301.29 | ▲ +2.99 (+1.00%) |
-| TSM   | $   342.80 | ▲ +3.90 (+1.15%) |
-| IONQ  | $    35.14 | ▼ -0.59 (-1.66%) |
-| COST  | $  1001.42 | ▲ +3.32 (+0.33%) |
-| ASML  | $  1331.01 | ▲ +38.20 (+2.96%) |
-| SPYM  | $    78.99 | ▼ -0.14 (-0.18%) |
-| LLY   | $   999.18 | ▲ +8.85 (+0.89%) |
-| OKLO  | $    59.72 | ▲ +1.47 (+2.52%) |
-| V     | $   314.12 | ▼ -3.23 (-1.02%) |
-| MA    | $   514.56 | ▼ -7.78 (-1.49%) |
-| AMZN  | $   209.96 | ▼ -3.26 (-1.53%) |
-| DUOL  | $   102.47 | ▲ +0.55 (+0.54%) |
+| NVDA  | $   185.60 | ▲ +2.95 (+1.62%) |
+| SPGI  | $   437.93 | ▼ -7.35 (-1.65%) |
+| META  | $   658.03 | ▲ +10.64 (+1.64%) |
+| AAPL  | $   261.14 | ▲ +1.26 (+0.49%) |
+| MSFT  | $   406.43 | ▼ -2.98 (-0.73%) |
+| GOOG  | $   308.02 | ▲ +2.01 (+0.66%) |
+| TSM   | $   351.60 | ▲ +2.89 (+0.83%) |
+| IONQ  | $    36.24 | ▲ +0.37 (+1.03%) |
+| COST  | $  1007.90 | ▲ +2.60 (+0.26%) |
+| ASML  | $  1399.96 | ▲ +42.54 (+3.13%) |
+| SPYM  | $    80.18 | ▲ +0.37 (+0.46%) |
+| LLY   | $  1007.56 | ▼ -0.83 (-0.08%) |
+| OKLO  | $    62.89 | ▲ +1.11 (+1.80%) |
+| V     | $   316.60 | ▲ +0.63 (+0.20%) |
+| MA    | $   518.52 | ▲ +0.80 (+0.15%) |
+| AMZN  | $   215.09 | ▲ +1.60 (+0.75%) |
+| DUOL  | $    96.46 | ▼ -3.96 (-3.94%) |
 
 ## Global News
-- Who is Mojtaba Khamenei, Iran's new supreme leader? 
-- G7 to take 'necessary measures' to support energy supplies
-- India offered sanctuary to Iranian ship three days before US sank it
-- Alleged Bondi gunman seeks order to suppress family's identity
-- Police release images of Oslo US embassy explosion suspect
-- Bag of cannabis and cash accidentally donated to NZ charity shop
-- Guinea opposition leader urges 'direct resistance' after 40 parties dissolved
+- 'I just want to be able to sleep': Attacks in Iran rock cities and cut power
+- Five Iranian footballers granted Australian visas after anthem protest
+- Lebanon calls for talks with Israel on plan to end Hezbollah conflict
+- Family of child injured in Canada school shooting sues OpenAI 
+- Syrian ex-colonel in court on crimes against humanity charge 
+- Italy buys rare Caravaggio portrait for €30m
+- Volkswagen to cut 50,000 jobs as profits drop
 
 ---
-_Updated 2026-03-09_
+_Updated 2026-03-10_
