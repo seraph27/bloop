@@ -1,34 +1,34 @@
-# Daily TL;DR — March 10, 2026
+# Daily TL;DR — March 11, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   185.60 | ▲ +2.95 (+1.62%) |
-| SPGI  | $   437.93 | ▼ -7.35 (-1.65%) |
-| META  | $   658.03 | ▲ +10.64 (+1.64%) |
-| AAPL  | $   261.14 | ▲ +1.26 (+0.49%) |
-| MSFT  | $   406.43 | ▼ -2.98 (-0.73%) |
-| GOOG  | $   308.02 | ▲ +2.01 (+0.66%) |
-| TSM   | $   351.60 | ▲ +2.89 (+0.83%) |
-| IONQ  | $    36.24 | ▲ +0.37 (+1.03%) |
-| COST  | $  1007.90 | ▲ +2.60 (+0.26%) |
-| ASML  | $  1399.96 | ▲ +42.54 (+3.13%) |
-| SPYM  | $    80.18 | ▲ +0.37 (+0.46%) |
-| LLY   | $  1007.56 | ▼ -0.83 (-0.08%) |
-| OKLO  | $    62.89 | ▲ +1.11 (+1.80%) |
-| V     | $   316.60 | ▲ +0.63 (+0.20%) |
-| MA    | $   518.52 | ▲ +0.80 (+0.15%) |
-| AMZN  | $   215.09 | ▲ +1.60 (+0.75%) |
-| DUOL  | $    96.46 | ▼ -3.96 (-3.94%) |
+| NVDA  | $   185.75 | ▲ +0.98 (+0.53%) |
+| SPGI  | $   428.72 | ▼ -6.72 (-1.54%) |
+| META  | $   653.73 | ▼ -0.34 (-0.05%) |
+| AAPL  | $   260.62 | ▼ -0.21 (-0.08%) |
+| MSFT  | $   403.86 | ▼ -1.90 (-0.47%) |
+| GOOG  | $   308.82 | ▲ +1.89 (+0.61%) |
+| TSM   | $   354.01 | ▲ +6.92 (+1.99%) |
+| IONQ  | $    34.59 | ▼ -0.53 (-1.51%) |
+| COST  | $   995.93 | ▼ -1.43 (-0.14%) |
+| ASML  | $  1386.75 | ▲ +3.35 (+0.24%) |
+| SPYM  | $    79.55 | ▼ -0.12 (-0.15%) |
+| LLY   | $   997.97 | ▼ -3.38 (-0.34%) |
+| OKLO  | $    62.03 | ▲ +0.65 (+1.05%) |
+| V     | — | — |
+| MA    | $   506.83 | ▼ -7.89 (-1.53%) |
+| AMZN  | $   212.91 | ▼ -1.42 (-0.66%) |
+| DUOL  | $    97.57 | ▲ +2.39 (+2.51%) |
 
 ## Global News
-- 'I just want to be able to sleep': Attacks in Iran rock cities and cut power
-- Five Iranian footballers granted Australian visas after anthem protest
-- Lebanon calls for talks with Israel on plan to end Hezbollah conflict
-- Family of child injured in Canada school shooting sues OpenAI 
-- Syrian ex-colonel in court on crimes against humanity charge 
-- Italy buys rare Caravaggio portrait for €30m
-- Volkswagen to cut 50,000 jobs as profits drop
+- Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large
+- Countries agree to record release of emergency oil reserves as prices surge
+- 'Even under missiles we carry on living' - how young Iranians are coping with war
+- EU and UK demand Israel stop surge in West Bank settler violence since Iran war
+- Ukraine says it has hit Russian 'missile component' plant
+- French aid worker among three killed in drone strikes in rebel-held DR Congo city
+- Member of Iranian football delegation granted Australian asylum changes her mind
 
 ---
-_Updated 2026-03-10_
+_Updated 2026-03-11_
