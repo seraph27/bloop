@@ -1,34 +1,34 @@
-# Daily TL;DR — March 12, 2026
+# Daily TL;DR — March 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   184.01 | ▼ -2.02 (-1.09%) |
-| SPGI  | $   422.67 | ▼ -6.29 (-1.47%) |
-| META  | $   640.03 | ▼ -14.83 (-2.26%) |
-| AAPL  | $   255.22 | ▼ -5.59 (-2.14%) |
-| MSFT  | $   405.12 | ▲ +0.24 (+0.06%) |
-| GOOG  | $   303.22 | ▼ -5.20 (-1.69%) |
-| TSM   | $   340.12 | ▼ -14.43 (-4.07%) |
-| IONQ  | $    33.96 | ▼ -0.31 (-0.90%) |
-| COST  | $  1000.97 | ▲ +8.74 (+0.88%) |
-| ASML  | $  1354.08 | ▼ -32.60 (-2.35%) |
-| SPYM  | $    78.72 | ▼ -0.87 (-1.09%) |
-| LLY   | $   976.15 | ▼ -23.69 (-2.37%) |
-| OKLO  | $    61.00 | ▼ -1.76 (-2.80%) |
-| V     | $   307.40 | ▼ -1.56 (-0.50%) |
-| MA    | $   498.58 | ▼ -5.42 (-1.07%) |
-| AMZN  | $   210.21 | ▼ -2.44 (-1.15%) |
-| DUOL  | $    95.81 | ▼ -3.00 (-3.04%) |
+| NVDA  | $   181.24 | ▼ -1.90 (-1.04%) |
+| SPGI  | $   420.54 | ▲ +0.84 (+0.20%) |
+| META  | $   614.36 | ▼ -23.82 (-3.73%) |
+| AAPL  | $   251.71 | ▼ -4.05 (-1.59%) |
+| MSFT  | $   395.59 | ▼ -6.27 (-1.56%) |
+| GOOG  | $   300.93 | ▼ -2.28 (-0.75%) |
+| TSM   | $   338.95 | ▲ +2.24 (+0.67%) |
+| IONQ  | $    33.49 | ▲ +0.46 (+1.39%) |
+| COST  | $  1007.67 | ▲ +4.35 (+0.43%) |
+| ASML  | $  1351.61 | ▲ +0.03 (+0.00%) |
+| SPYM  | $    77.90 | ▼ -0.48 (-0.61%) |
+| LLY   | $   989.96 | ▲ +12.71 (+1.30%) |
+| OKLO  | $    58.77 | ▼ -0.82 (-1.38%) |
+| V     | $   307.63 | ▲ +1.13 (+0.37%) |
+| MA    | $   497.08 | ▼ -0.23 (-0.05%) |
+| AMZN  | $   207.15 | ▼ -2.38 (-1.13%) |
+| DUOL  | $    97.43 | ▲ +2.51 (+2.64%) |
 
 ## Global News
-- 'What if we're left with ruins?': Doubts creep in for Iranians who supported war
-- China approves 'ethnic unity' law requiring minorities to learn Mandarin
-- Epstein used modelling agent to recruit girls, Brazilian women tell BBC
-- Nineteen jailed over deadly Moscow concert attack
-- Noma head chef resigns from restaurant amid abuse allegations 
-- Hozier, Jessie Buckley and Bruce Springsteen record Shane MacGowan tribute album
-- Cartoonist freed after 15 years in prison without charge in Eritrea
+- All six crew members killed after US refuelling plane crashes in Iraq
+- Ukraine and allies fear easing Russian sanctions will prolong war
+- Michigan synagogue attack was 'hate, plain and simple', says governor
+- Cuba says it will release 51 prisoners in the coming days
+- 'No-one will hire women' - India's top court rejects menstrual leave petition
+- KPop Demon Hunters to return as Netflix announces sequel
+- Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated
 
 ---
-_Updated 2026-03-12_
+_Updated 2026-03-13_
