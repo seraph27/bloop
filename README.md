@@ -1,34 +1,34 @@
-# Daily TL;DR — March 13, 2026
+# Daily TL;DR — March 14, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   181.24 | ▼ -1.90 (-1.04%) |
-| SPGI  | $   420.54 | ▲ +0.84 (+0.20%) |
-| META  | $   614.36 | ▼ -23.82 (-3.73%) |
-| AAPL  | $   251.71 | ▼ -4.05 (-1.59%) |
-| MSFT  | $   395.59 | ▼ -6.27 (-1.56%) |
-| GOOG  | $   300.93 | ▼ -2.28 (-0.75%) |
-| TSM   | $   338.95 | ▲ +2.24 (+0.67%) |
-| IONQ  | $    33.49 | ▲ +0.46 (+1.39%) |
-| COST  | $  1007.67 | ▲ +4.35 (+0.43%) |
-| ASML  | $  1351.61 | ▲ +0.03 (+0.00%) |
-| SPYM  | $    77.90 | ▼ -0.48 (-0.61%) |
-| LLY   | $   989.96 | ▲ +12.71 (+1.30%) |
-| OKLO  | $    58.77 | ▼ -0.82 (-1.38%) |
-| V     | $   307.63 | ▲ +1.13 (+0.37%) |
-| MA    | $   497.08 | ▼ -0.23 (-0.05%) |
-| AMZN  | $   207.15 | ▼ -2.38 (-1.13%) |
-| DUOL  | $    97.43 | ▲ +2.51 (+2.64%) |
+| NVDA  | $   180.25 | ▼ -2.89 (-1.58%) |
+| SPGI  | $   422.49 | ▲ +2.79 (+0.66%) |
+| META  | $   613.71 | ▼ -24.47 (-3.83%) |
+| AAPL  | $   250.12 | ▼ -5.64 (-2.21%) |
+| MSFT  | $   395.55 | ▼ -6.31 (-1.57%) |
+| GOOG  | $   301.46 | ▼ -1.75 (-0.58%) |
+| TSM   | $   338.31 | ▲ +1.60 (+0.48%) |
+| IONQ  | $    32.98 | ▼ -0.05 (-0.15%) |
+| COST  | $  1008.43 | ▲ +5.11 (+0.51%) |
+| ASML  | $  1345.69 | ▼ -5.89 (-0.44%) |
+| SPYM  | $    77.74 | ▼ -0.45 (-0.57%) |
+| LLY   | $   985.08 | ▲ +7.83 (+0.80%) |
+| OKLO  | $    58.37 | ▼ -1.22 (-2.05%) |
+| V     | $   307.14 | ▲ +0.64 (+0.21%) |
+| MA    | $   497.99 | ▲ +0.68 (+0.14%) |
+| AMZN  | $   207.67 | ▼ -1.86 (-0.89%) |
+| DUOL  | $    98.39 | ▲ +3.47 (+3.66%) |
 
 ## Global News
-- All six crew members killed after US refuelling plane crashes in Iraq
-- Ukraine and allies fear easing Russian sanctions will prolong war
-- Michigan synagogue attack was 'hate, plain and simple', says governor
-- Cuba says it will release 51 prisoners in the coming days
-- 'No-one will hire women' - India's top court rejects menstrual leave petition
-- KPop Demon Hunters to return as Netflix announces sequel
-- Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated
+- Why has the US targeted Iran's Kharg Island?
+- Hamas urges key ally Iran to halt attacks on Gulf states
+- More US Marines and warships being moved to Middle East, reports say
+- Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths
+- Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor
+- Kennedy Center head steps down after tumultuous year
+- 'Hate-watch classic' War of the Worlds sweeps Razzie Awards
 
 ---
-_Updated 2026-03-13_
+_Updated 2026-03-14_
