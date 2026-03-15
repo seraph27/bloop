@@ -1,4 +1,4 @@
-# Daily TL;DR — March 14, 2026
+# Daily TL;DR — March 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $    98.39 | ▲ +3.47 (+3.66%) |
 
 ## Global News
-- Why has the US targeted Iran's Kharg Island?
-- Hamas urges key ally Iran to halt attacks on Gulf states
-- More US Marines and warships being moved to Middle East, reports say
-- Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths
-- Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor
-- Kennedy Center head steps down after tumultuous year
-- 'Hate-watch classic' War of the Worlds sweeps Razzie Awards
+- BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah
+- Zelensky accuses EU allies of 'blackmail' in oil pipeline row
+- Severe flooding kills 66 in Kenya, as heavy rains continue
+- Israeli forces kill Palestinian couple and two of their children in occupied West Bank
+- US names six crew killed in refuelling plane crash in Iraq
+- Treasure hunter freed from prison after refusing to turn over shipwreck gold
+- French police detain brothers over 'lethal and antisemitic' plot
 
 ---
-_Updated 2026-03-14_
+_Updated 2026-03-15_
