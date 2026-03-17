@@ -1,34 +1,34 @@
-# Daily TL;DR — March 16, 2026
+# Daily TL;DR — March 17, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   184.71 | ▲ +4.46 (+2.47%) |
-| SPGI  | $   426.44 | ▲ +3.95 (+0.93%) |
-| META  | $   625.60 | ▲ +11.89 (+1.94%) |
-| AAPL  | $   252.63 | ▲ +2.51 (+1.00%) |
-| MSFT  | $   398.86 | ▲ +3.32 (+0.84%) |
-| GOOG  | $   303.24 | ▲ +1.78 (+0.59%) |
-| TSM   | $   341.58 | ▲ +3.27 (+0.97%) |
-| IONQ  | $    32.75 | ▼ -0.23 (-0.70%) |
-| COST  | $  1001.38 | ▼ -7.05 (-0.70%) |
-| ASML  | $  1374.22 | ▲ +28.53 (+2.12%) |
-| SPYM  | $    78.50 | ▲ +0.76 (+0.98%) |
-| LLY   | $   988.05 | ▲ +2.97 (+0.30%) |
-| OKLO  | $    58.59 | ▲ +0.22 (+0.38%) |
-| V     | $   308.71 | ▲ +1.57 (+0.51%) |
-| MA    | $   503.83 | ▲ +5.84 (+1.17%) |
-| AMZN  | $   209.69 | ▲ +2.02 (+0.97%) |
-| DUOL  | $   101.35 | ▲ +2.96 (+3.00%) |
+| NVDA  | $   182.44 | ▼ -0.78 (-0.43%) |
+| SPGI  | $   433.95 | ▲ +7.36 (+1.72%) |
+| META  | $   625.84 | ▼ -1.61 (-0.26%) |
+| AAPL  | $   253.86 | ▲ +1.04 (+0.41%) |
+| MSFT  | $   400.10 | ▲ +0.15 (+0.04%) |
+| GOOG  | $   306.89 | ▲ +2.47 (+0.81%) |
+| TSM   | $   344.90 | ▲ +4.67 (+1.37%) |
+| IONQ  | $    33.22 | ▼ -0.08 (-0.23%) |
+| COST  | $  1003.63 | ▲ +1.89 (+0.19%) |
+| ASML  | $  1376.00 | ▲ +0.44 (+0.03%) |
+| SPYM  | $    78.85 | ▲ +0.33 (+0.42%) |
+| LLY   | $   934.90 | ▼ -54.22 (-5.48%) |
+| OKLO  | $    60.72 | ▲ +1.03 (+1.72%) |
+| V     | $   310.21 | ▲ +0.10 (+0.03%) |
+| MA    | $   510.64 | ▲ +2.14 (+0.42%) |
+| AMZN  | $   214.25 | ▲ +2.51 (+1.19%) |
+| DUOL  | $   107.73 | ▲ +5.78 (+5.67%) |
 
 ## Global News
-- Wary allies show there's no quick fix to Trump's Iran crisis
-- Iran hits key UAE oil port and Dubai airport
-- How US groups are driving a new generation of anti-abortion activism in the UK
-- Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers
-- Ecuador deploys 75,000 soldiers and police to combat drug gangs
-- Whistleblower murder suspect is former elite officer, South African police say
-- Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says
+- Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'
+- Israel says it killed Iranian security chief Ali Larijani in air strike
+- Pakistan air strike kills at least 100 at Kabul drug rehab centre
+- Chile's president begins building border barrier less than week into term
+- Utah mother who wrote book about grief found guilty of poisoning husband
+- US west coast prepares for 'dangerous' heatwave in early spring
+- Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine
 
 ---
-_Updated 2026-03-16_
+_Updated 2026-03-17_
