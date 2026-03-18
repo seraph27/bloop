@@ -1,34 +1,34 @@
-# Daily TL;DR — March 17, 2026
+# Daily TL;DR — March 18, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   182.44 | ▼ -0.78 (-0.43%) |
-| SPGI  | $   433.95 | ▲ +7.36 (+1.72%) |
-| META  | $   625.84 | ▼ -1.61 (-0.26%) |
-| AAPL  | $   253.86 | ▲ +1.04 (+0.41%) |
-| MSFT  | $   400.10 | ▲ +0.15 (+0.04%) |
-| GOOG  | $   306.89 | ▲ +2.47 (+0.81%) |
-| TSM   | $   344.90 | ▲ +4.67 (+1.37%) |
-| IONQ  | $    33.22 | ▼ -0.08 (-0.23%) |
-| COST  | $  1003.63 | ▲ +1.89 (+0.19%) |
-| ASML  | $  1376.00 | ▲ +0.44 (+0.03%) |
-| SPYM  | $    78.85 | ▲ +0.33 (+0.42%) |
-| LLY   | $   934.90 | ▼ -54.22 (-5.48%) |
-| OKLO  | $    60.72 | ▲ +1.03 (+1.72%) |
-| V     | $   310.21 | ▲ +0.10 (+0.03%) |
-| MA    | $   510.64 | ▲ +2.14 (+0.42%) |
-| AMZN  | $   214.25 | ▲ +2.51 (+1.19%) |
-| DUOL  | $   107.73 | ▲ +5.78 (+5.67%) |
+| NVDA  | $   182.12 | ▲ +0.20 (+0.11%) |
+| SPGI  | $   428.61 | ▼ -4.33 (-1.00%) |
+| META  | $   617.86 | ▼ -4.79 (-0.77%) |
+| AAPL  | $   250.81 | ▼ -3.42 (-1.35%) |
+| MSFT  | $   392.98 | ▼ -6.43 (-1.61%) |
+| GOOG  | $   307.74 | ▼ -1.67 (-0.54%) |
+| TSM   | $   343.04 | ▼ -2.94 (-0.85%) |
+| IONQ  | $    33.05 | ▼ -0.26 (-0.78%) |
+| COST  | $   988.31 | ▼ -7.85 (-0.79%) |
+| ASML  | $  1371.00 | ▼ -18.16 (-1.31%) |
+| SPYM  | $    78.20 | ▼ -0.53 (-0.67%) |
+| LLY   | $   918.78 | ▼ -11.57 (-1.24%) |
+| OKLO  | $    59.52 | ▼ -1.01 (-1.67%) |
+| V     | $   300.87 | ▼ -7.59 (-2.46%) |
+| MA    | $   492.07 | ▼ -14.51 (-2.86%) |
+| AMZN  | $   210.87 | ▼ -4.33 (-2.01%) |
+| DUOL  | $   100.76 | ▼ -3.60 (-3.45%) |
 
 ## Global News
-- Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'
-- Israel says it killed Iranian security chief Ali Larijani in air strike
-- Pakistan air strike kills at least 100 at Kabul drug rehab centre
-- Chile's president begins building border barrier less than week into term
-- Utah mother who wrote book about grief found guilty of poisoning husband
-- US west coast prepares for 'dangerous' heatwave in early spring
-- Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine
+- 'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel
+- Oil nears $110 a barrel after gas field strike
+- India's cheap weight-loss drugs could reshape global obesity fight
+- US judge orders Trump administration to reopen Voice of America
+- Norway prosecutor asks for seven years' jail for crown princess's son in rape trial
+- Hittler faces Zielinski as French town's election contest goes viral
+- King Charles greets Nigerian president in Windsor sunshine
 
 ---
-_Updated 2026-03-17_
+_Updated 2026-03-18_
