@@ -1,4 +1,4 @@
-# Daily TL;DR — March 21, 2026
+# Daily TL;DR — March 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $    98.05 | ▼ -1.56 (-1.56%) |
 
 ## Global News
-- Iranian strikes on bases used by US caused $800m in damage, new analysis shows
-- Thousands evacuated as Hawaii faces worst flooding in 20 years
-- First photos as BTS make live return in front of huge crowd
-- Russian drone attack kills two in Ukraine ahead of talks in US, officials say
-- Socialists battle to hold Paris in key mayoral elections across France
-- Remember Chuck Norris memes but never watched his films? You're not alone
-- Elon Musk misled Twitter investors, jury finds
+- Iranian missiles injure 160 in towns near Israeli nuclear site
+- Sudan drone attack on key hospital killed 64 people during Eid, WHO says
+- National blackout hits Cuba for second time in a week
+- Qatari and Turkish citizens die in military helicopter crash
+- Russian attacks kill six in Ukraine, officials say
+- 'We cannot be in peace', say Guthrie family as they renew appeal over missing mother
+- Socialists battle to hold Paris as France holds mayoral elections
 
 ---
-_Updated 2026-03-21_
+_Updated 2026-03-22_
