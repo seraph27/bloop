@@ -1,34 +1,34 @@
-# Daily TL;DR — March 24, 2026
+# Daily TL;DR — March 25, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   174.98 | ▼ -0.66 (-0.38%) |
-| SPGI  | $   415.62 | ▼ -13.24 (-3.09%) |
-| META  | $   594.44 | ▼ -9.62 (-1.59%) |
-| AAPL  | $   253.39 | ▲ +1.90 (+0.76%) |
-| MSFT  | $   372.88 | ▼ -10.12 (-2.64%) |
-| GOOG  | $   290.76 | ▼ -8.26 (-2.76%) |
-| TSM   | $   342.24 | ▲ +3.79 (+1.12%) |
-| IONQ  | $    32.68 | ▼ -0.43 (-1.30%) |
-| COST  | $   978.50 | ▲ +12.77 (+1.32%) |
-| ASML  | $  1394.61 | ▲ +24.99 (+1.82%) |
-| SPYM  | $    77.00 | ▼ -0.13 (-0.18%) |
-| LLY   | $   902.97 | ▼ -7.58 (-0.83%) |
-| OKLO  | $    55.01 | ▼ -1.25 (-2.22%) |
-| V     | $   303.91 | ▼ -0.53 (-0.17%) |
-| MA    | $   499.74 | ▼ -0.64 (-0.13%) |
-| AMZN  | $   207.57 | ▼ -2.57 (-1.22%) |
-| DUOL  | $    97.94 | ▼ -1.81 (-1.81%) |
+| NVDA  | $   178.74 | ▲ +3.54 (+2.02%) |
+| SPGI  | $   409.33 | ▼ -1.87 (-0.45%) |
+| META  | $   597.40 | ▲ +4.48 (+0.76%) |
+| AAPL  | $   254.04 | ▲ +2.40 (+0.95%) |
+| MSFT  | $   370.75 | ▼ -1.99 (-0.53%) |
+| GOOG  | $   289.33 | ▲ +0.12 (+0.04%) |
+| TSM   | $   347.30 | ▲ +4.05 (+1.18%) |
+| IONQ  | $    32.59 | ▼ -0.11 (-0.34%) |
+| COST  | $   975.68 | ▲ +1.86 (+0.19%) |
+| ASML  | $  1400.64 | ▲ +1.22 (+0.09%) |
+| SPYM  | $    77.38 | ▲ +0.50 (+0.66%) |
+| LLY   | $   919.53 | ▲ +16.51 (+1.83%) |
+| OKLO  | $    55.90 | ▲ +0.94 (+1.71%) |
+| V     | $   305.29 | ▲ +1.53 (+0.50%) |
+| MA    | $   501.84 | ▲ +2.91 (+0.58%) |
+| AMZN  | $   212.15 | ▲ +4.91 (+2.37%) |
+| DUOL  | $    98.15 | ▲ +0.47 (+0.48%) |
 
 ## Global News
-- Iran war shows norms of international conflicts have been upended
-- Israel says it will take control of large buffer zone in southern Lebanon
-- Ukraine Unesco site damaged as Russia launches 400 drones in deadly daytime attack
-- Australia and EU agree sweeping trade deal in face of global uncertainty
-- Danes vote as PM Mette Frederiksen seeks third term after Greenland boost
-- Married at First Sight star Mel Schilling dies at 54
-- Decline in migratory fish populations prompts fight for protection 
+- 'There's no safety anymore': Palestinians warn of expanding West Bank settler violence
+- Ghana demands compensation for slavery in landmark UN vote
+- Democrats flip Florida state seat that includes Trump's Mar-a-Lago home
+- 'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC
+- Musketeer d'Artagnan's remains believed found under Dutch church
+- 'We are in agony' - Savannah Guthrie does first interview since mum's disappearance
+- Marcos promises 'flow of oil' as Philippines declares energy emergency
 
 ---
-_Updated 2026-03-24_
+_Updated 2026-03-25_
