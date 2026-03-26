@@ -1,34 +1,34 @@
-# Daily TL;DR — March 25, 2026
+# Daily TL;DR — March 26, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   178.74 | ▲ +3.54 (+2.02%) |
-| SPGI  | $   409.33 | ▼ -1.87 (-0.45%) |
-| META  | $   597.40 | ▲ +4.48 (+0.76%) |
-| AAPL  | $   254.04 | ▲ +2.40 (+0.95%) |
-| MSFT  | $   370.75 | ▼ -1.99 (-0.53%) |
-| GOOG  | $   289.33 | ▲ +0.12 (+0.04%) |
-| TSM   | $   347.30 | ▲ +4.05 (+1.18%) |
-| IONQ  | $    32.59 | ▼ -0.11 (-0.34%) |
-| COST  | $   975.68 | ▲ +1.86 (+0.19%) |
-| ASML  | $  1400.64 | ▲ +1.22 (+0.09%) |
-| SPYM  | $    77.38 | ▲ +0.50 (+0.66%) |
-| LLY   | $   919.53 | ▲ +16.51 (+1.83%) |
-| OKLO  | $    55.90 | ▲ +0.94 (+1.71%) |
-| V     | $   305.29 | ▲ +1.53 (+0.50%) |
-| MA    | $   501.84 | ▲ +2.91 (+0.58%) |
-| AMZN  | $   212.15 | ▲ +4.91 (+2.37%) |
-| DUOL  | $    98.15 | ▲ +0.47 (+0.48%) |
+| NVDA  | — | — |
+| SPGI  | $   412.75 | ▲ +4.27 (+1.05%) |
+| META  | $   552.82 | ▼ -42.07 (-7.07%) |
+| AAPL  | — | — |
+| MSFT  | — | — |
+| GOOG  | $   282.87 | ▼ -6.72 (-2.32%) |
+| TSM   | — | — |
+| IONQ  | $    29.90 | ▼ -2.06 (-6.45%) |
+| COST  | $   984.91 | ▲ +10.05 (+1.03%) |
+| ASML  | $  1338.44 | ▼ -55.45 (-3.98%) |
+| SPYM  | $    76.44 | ▼ -0.86 (-1.11%) |
+| LLY   | $   905.22 | ▼ -11.09 (-1.21%) |
+| OKLO  | $    51.47 | ▼ -3.81 (-6.88%) |
+| V     | — | — |
+| MA    | $   501.69 | ▼ -1.07 (-0.21%) |
+| AMZN  | $   209.80 | ▼ -1.91 (-0.90%) |
+| DUOL  | $    98.51 | ▼ -0.61 (-0.62%) |
 
 ## Global News
-- 'There's no safety anymore': Palestinians warn of expanding West Bank settler violence
-- Ghana demands compensation for slavery in landmark UN vote
-- Democrats flip Florida state seat that includes Trump's Mar-a-Lago home
-- 'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC
-- Musketeer d'Artagnan's remains believed found under Dutch church
-- 'We are in agony' - Savannah Guthrie does first interview since mum's disappearance
-- Marcos promises 'flow of oil' as Philippines declares energy emergency
+- Olympic women's sport limited to biological females
+- 'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?
+- European Parliament gives conditional approval to EU-US trade deal
+- French court hands Islam scholar Tariq Ramadan 18-year jail term for rape
+- Senegal to parade Afcon trophy despite title being stripped
+- Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash
+- Zimbabwe says 15 nationals killed after being lured to fight for Russia
 
 ---
-_Updated 2026-03-25_
+_Updated 2026-03-26_
