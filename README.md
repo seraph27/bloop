@@ -1,34 +1,34 @@
-# Daily TL;DR — March 26, 2026
+# Daily TL;DR — March 27, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | — | — |
-| SPGI  | $   412.75 | ▲ +4.27 (+1.05%) |
-| META  | $   552.82 | ▼ -42.07 (-7.07%) |
-| AAPL  | — | — |
-| MSFT  | — | — |
-| GOOG  | $   282.87 | ▼ -6.72 (-2.32%) |
-| TSM   | — | — |
-| IONQ  | $    29.90 | ▼ -2.06 (-6.45%) |
-| COST  | $   984.91 | ▲ +10.05 (+1.03%) |
-| ASML  | $  1338.44 | ▼ -55.45 (-3.98%) |
-| SPYM  | $    76.44 | ▼ -0.86 (-1.11%) |
-| LLY   | $   905.22 | ▼ -11.09 (-1.21%) |
-| OKLO  | $    51.47 | ▼ -3.81 (-6.88%) |
-| V     | — | — |
-| MA    | $   501.69 | ▼ -1.07 (-0.21%) |
-| AMZN  | $   209.80 | ▼ -1.91 (-0.90%) |
-| DUOL  | $    98.51 | ▼ -0.61 (-0.62%) |
+| NVDA  | $   168.85 | ▼ -2.40 (-1.40%) |
+| SPGI  | $   408.94 | ▼ -3.51 (-0.85%) |
+| META  | $   527.98 | ▼ -19.56 (-3.57%) |
+| AAPL  | $   252.45 | ▼ -0.44 (-0.17%) |
+| MSFT  | $   359.77 | ▼ -6.20 (-1.69%) |
+| GOOG  | $   276.01 | ▼ -4.73 (-1.68%) |
+| TSM   | $   329.05 | ▲ +2.94 (+0.90%) |
+| IONQ  | $    28.30 | ▼ -1.54 (-5.17%) |
+| COST  | $   984.49 | ▲ +4.84 (+0.49%) |
+| ASML  | $  1318.60 | ▼ -10.90 (-0.82%) |
+| SPYM  | $    75.18 | ▼ -0.74 (-0.97%) |
+| LLY   | $   888.22 | ▼ -8.78 (-0.98%) |
+| OKLO  | $    51.81 | ▲ +0.00 (+0.01%) |
+| V     | $   295.55 | ▼ -9.98 (-3.26%) |
+| MA    | $   482.11 | ▼ -18.64 (-3.72%) |
+| AMZN  | $   201.25 | ▼ -6.29 (-3.03%) |
+| DUOL  | $    94.21 | ▼ -3.90 (-3.98%) |
 
 ## Global News
-- Olympic women's sport limited to biological females
-- 'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?
-- European Parliament gives conditional approval to EU-US trade deal
-- French court hands Islam scholar Tariq Ramadan 18-year jail term for rape
-- Senegal to parade Afcon trophy despite title being stripped
-- Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash
-- Zimbabwe says 15 nationals killed after being lured to fight for Russia
+- Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?
+- UN human rights chief calls on US to conclude probe into Iran school strike
+- Spanish woman who died through euthanasia failed by state, say critics
+- Austria becomes latest to propose social media ban for children
+- Marco Rubio joins G7 talks with focus on Iran war
+- Two Cuba-bound aid ships missing after leaving Mexico
+- Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty
 
 ---
-_Updated 2026-03-26_
+_Updated 2026-03-27_
