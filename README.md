@@ -1,4 +1,4 @@
-# Daily TL;DR — March 28, 2026
+# Daily TL;DR — March 29, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $    95.35 | ▼ -2.76 (-2.81%) |
 
 ## Global News
-- Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp
-- Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike
-- Gaza peace doubts deepen as attention shifts to Iran
-- Tiger Woods released on bail after DUI arrest
-- Looksmaxxing influencer Clavicular arrested on battery charge in Florida
-- Two Cuba-bound aid ships found days after disappearing
-- Bank of America to pay out $72.5m over Epstein lawsuit
+- Jeremy Bowen: Trump is waging war based on instinct and it isn't working
+- Iranian attacks across Gulf continue as major industrial sites hit
+- Three Lebanese journalists killed in Israeli strike, say broadcasters
+- Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial
+- Three arrested in Paris after attempted bomb attack outside Bank of America
+- African football chief resigns following row over Morocco-Senegal final
+- Two Australian states offer free public transport as war pushes up fuel prices
 
 ---
-_Updated 2026-03-28_
+_Updated 2026-03-29_
