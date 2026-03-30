@@ -1,34 +1,34 @@
-# Daily TL;DR — March 29, 2026
+# Daily TL;DR — March 30, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   167.52 | ▼ -3.72 (-2.17%) |
-| SPGI  | $   406.24 | ▼ -6.21 (-1.51%) |
-| META  | $   525.72 | ▼ -21.82 (-3.99%) |
-| AAPL  | $   248.80 | ▼ -4.09 (-1.62%) |
-| MSFT  | $   356.77 | ▼ -9.20 (-2.51%) |
-| GOOG  | $   273.76 | ▼ -6.98 (-2.49%) |
-| TSM   | $   326.74 | ▲ +0.63 (+0.19%) |
-| IONQ  | $    27.51 | ▼ -2.33 (-7.81%) |
-| COST  | $   983.86 | ▲ +4.21 (+0.43%) |
-| ASML  | $  1302.47 | ▼ -27.03 (-2.03%) |
-| SPYM  | $    74.64 | ▼ -1.28 (-1.69%) |
-| LLY   | $   878.24 | ▼ -18.76 (-2.09%) |
-| OKLO  | $    50.23 | ▼ -1.58 (-3.05%) |
-| V     | $   295.52 | ▼ -10.01 (-3.28%) |
-| MA    | $   484.24 | ▼ -16.51 (-3.30%) |
-| AMZN  | $   199.34 | ▼ -8.20 (-3.95%) |
-| DUOL  | $    95.35 | ▼ -2.76 (-2.81%) |
+| NVDA  | $   166.65 | ▼ -0.87 (-0.52%) |
+| SPGI  | $   417.09 | ▲ +10.85 (+2.67%) |
+| META  | $   537.29 | ▲ +11.57 (+2.20%) |
+| AAPL  | $   247.31 | ▼ -1.49 (-0.60%) |
+| MSFT  | $   361.45 | ▲ +4.68 (+1.31%) |
+| GOOG  | $   273.60 | ▼ -0.16 (-0.06%) |
+| TSM   | $   317.54 | ▼ -9.20 (-2.82%) |
+| IONQ  | $    26.87 | ▼ -0.64 (-2.33%) |
+| COST  | $  1003.80 | ▲ +19.94 (+2.03%) |
+| ASML  | $  1262.86 | ▼ -39.61 (-3.04%) |
+| SPYM  | $    74.79 | ▲ +0.15 (+0.19%) |
+| LLY   | $   891.58 | ▲ +13.34 (+1.52%) |
+| OKLO  | $    46.85 | ▼ -3.38 (-6.73%) |
+| V     | $   299.54 | ▲ +4.02 (+1.36%) |
+| MA    | $   494.04 | ▲ +9.80 (+2.02%) |
+| AMZN  | $   202.78 | ▲ +3.44 (+1.73%) |
+| DUOL  | $    95.79 | ▲ +0.44 (+0.46%) |
 
 ## Global News
-- Jeremy Bowen: Trump is waging war based on instinct and it isn't working
-- Iranian attacks across Gulf continue as major industrial sites hit
-- Three Lebanese journalists killed in Israeli strike, say broadcasters
-- Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial
-- Three arrested in Paris after attempted bomb attack outside Bank of America
-- African football chief resigns following row over Morocco-Senegal final
-- Two Australian states offer free public transport as war pushes up fuel prices
+- How the US could try to seize Iran's Kharg Island
+- Spain closes airspace to US aircraft involved in Iran war
+- Russian oil tanker reaches Cuba after Trump appears to loosen blockade
+- Russia expels British diplomat over spying allegations
+- Kris Jenner's image spreads in Chinese social media good luck trend
+- Air Canada CEO to retire after criticism for English-only condolence video
+- Cardiff City damages claim over Emiliano Sala death dismissed
 
 ---
-_Updated 2026-03-29_
+_Updated 2026-03-30_
