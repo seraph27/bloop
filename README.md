@@ -1,34 +1,34 @@
-# Daily TL;DR — March 30, 2026
+# Daily TL;DR — March 31, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   166.65 | ▼ -0.87 (-0.52%) |
-| SPGI  | $   417.09 | ▲ +10.85 (+2.67%) |
-| META  | $   537.29 | ▲ +11.57 (+2.20%) |
-| AAPL  | $   247.31 | ▼ -1.49 (-0.60%) |
-| MSFT  | $   361.45 | ▲ +4.68 (+1.31%) |
-| GOOG  | $   273.60 | ▼ -0.16 (-0.06%) |
-| TSM   | $   317.54 | ▼ -9.20 (-2.82%) |
-| IONQ  | $    26.87 | ▼ -0.64 (-2.33%) |
-| COST  | $  1003.80 | ▲ +19.94 (+2.03%) |
-| ASML  | $  1262.86 | ▼ -39.61 (-3.04%) |
-| SPYM  | $    74.79 | ▲ +0.15 (+0.19%) |
-| LLY   | $   891.58 | ▲ +13.34 (+1.52%) |
-| OKLO  | $    46.85 | ▼ -3.38 (-6.73%) |
-| V     | $   299.54 | ▲ +4.02 (+1.36%) |
-| MA    | $   494.04 | ▲ +9.80 (+2.02%) |
-| AMZN  | $   202.78 | ▲ +3.44 (+1.73%) |
-| DUOL  | $    95.79 | ▲ +0.44 (+0.46%) |
+| NVDA  | $   173.01 | ▲ +7.84 (+4.75%) |
+| SPGI  | $   424.80 | ▲ +7.21 (+1.73%) |
+| META  | $   567.31 | ▲ +30.93 (+5.77%) |
+| AAPL  | $   253.59 | ▲ +6.96 (+2.82%) |
+| MSFT  | $   368.38 | ▲ +9.42 (+2.62%) |
+| GOOG  | $   284.71 | ▲ +11.57 (+4.24%) |
+| TSM   | $   331.07 | ▲ +14.57 (+4.60%) |
+| IONQ  | $    28.38 | ▲ +1.79 (+6.73%) |
+| COST  | $   996.24 | ▼ -0.34 (-0.03%) |
+| ASML  | $  1300.49 | ▲ +46.53 (+3.71%) |
+| SPYM  | $    76.19 | ▲ +1.81 (+2.43%) |
+| LLY   | $   914.19 | ▲ +27.56 (+3.11%) |
+| OKLO  | $    48.62 | ▲ +3.04 (+6.67%) |
+| V     | $   300.42 | ▲ +0.88 (+0.29%) |
+| MA    | $   497.23 | ▲ +3.23 (+0.65%) |
+| AMZN  | $   208.75 | ▲ +7.80 (+3.88%) |
+| DUOL  | $   100.93 | ▲ +6.81 (+7.24%) |
 
 ## Global News
-- How the US could try to seize Iran's Kharg Island
-- Spain closes airspace to US aircraft involved in Iran war
-- Russian oil tanker reaches Cuba after Trump appears to loosen blockade
-- Russia expels British diplomat over spying allegations
-- Kris Jenner's image spreads in Chinese social media good luck trend
-- Air Canada CEO to retire after criticism for English-only condolence video
-- Cardiff City damages claim over Emiliano Sala death dismissed
+- Iran using children in security roles in war, reports and witnesses say
+- Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends
+- China bans storing cremated remains in empty 'bone ash apartments'
+- Wolf bites woman in shock German attack in Hamburg shopping street 
+- Eurovision Song Contest launches first-ever Asia edition
+- Russian oil tanker docks in Cuba ending near-total blockade
+- King Charles and Queen Camilla's state visit to US to go ahead in April
 
 ---
-_Updated 2026-03-30_
+_Updated 2026-03-31_
