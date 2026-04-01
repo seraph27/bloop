@@ -1,34 +1,34 @@
-# Daily TL;DR — March 31, 2026
+# Daily TL;DR — April 01, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   173.01 | ▲ +7.84 (+4.75%) |
-| SPGI  | $   424.80 | ▲ +7.21 (+1.73%) |
-| META  | $   567.31 | ▲ +30.93 (+5.77%) |
-| AAPL  | $   253.59 | ▲ +6.96 (+2.82%) |
-| MSFT  | $   368.38 | ▲ +9.42 (+2.62%) |
-| GOOG  | $   284.71 | ▲ +11.57 (+4.24%) |
-| TSM   | $   331.07 | ▲ +14.57 (+4.60%) |
-| IONQ  | $    28.38 | ▲ +1.79 (+6.73%) |
-| COST  | $   996.24 | ▼ -0.34 (-0.03%) |
-| ASML  | $  1300.49 | ▲ +46.53 (+3.71%) |
-| SPYM  | $    76.19 | ▲ +1.81 (+2.43%) |
-| LLY   | $   914.19 | ▲ +27.56 (+3.11%) |
-| OKLO  | $    48.62 | ▲ +3.04 (+6.67%) |
-| V     | $   300.42 | ▲ +0.88 (+0.29%) |
-| MA    | $   497.23 | ▲ +3.23 (+0.65%) |
-| AMZN  | $   208.75 | ▲ +7.80 (+3.88%) |
-| DUOL  | $   100.93 | ▲ +6.81 (+7.24%) |
+| NVDA  | $   176.65 | ▲ +2.26 (+1.29%) |
+| SPGI  | $   427.45 | ▲ +2.11 (+0.50%) |
+| META  | $   589.71 | ▲ +17.58 (+3.07%) |
+| AAPL  | $   254.59 | ▲ +0.80 (+0.32%) |
+| MSFT  | $   372.47 | ▲ +2.30 (+0.62%) |
+| GOOG  | $   297.28 | ▲ +10.42 (+3.63%) |
+| TSM   | $   345.57 | ▲ +7.62 (+2.25%) |
+| IONQ  | $    28.84 | ▲ +0.01 (+0.03%) |
+| COST  | $   993.87 | ▼ -2.56 (-0.26%) |
+| ASML  | $  1379.83 | ▲ +59.00 (+4.47%) |
+| SPYM  | $    77.43 | ▲ +0.89 (+1.16%) |
+| LLY   | $   963.41 | ▲ +43.64 (+4.74%) |
+| OKLO  | $    49.78 | ▲ +0.19 (+0.39%) |
+| V     | $   300.11 | ▼ -2.12 (-0.70%) |
+| MA    | $   497.30 | ▼ -2.36 (-0.47%) |
+| AMZN  | $   212.65 | ▲ +4.38 (+2.10%) |
+| DUOL  | $    98.60 | ▲ +0.03 (+0.03%) |
 
 ## Global News
-- Iran using children in security roles in war, reports and witnesses say
-- Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends
-- China bans storing cremated remains in empty 'bone ash apartments'
-- Wolf bites woman in shock German attack in Hamburg shopping street 
-- Eurovision Song Contest launches first-ever Asia edition
-- Russian oil tanker docks in Cuba ending near-total blockade
-- King Charles and Queen Camilla's state visit to US to go ahead in April
+- What do Trump's latest comments on leaving Nato mean for the alliance?
+- Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control
+- Families cram into Greek court for trial into deadliest train crash
+- Peter Magyar, the former Orban ally vying for power in Hungary
+- Mass robotaxi malfunction halts traffic in Chinese city
+- Devastated Italians reckon with 'third apocalypse' of World Cup failure
+- Russian military plane crash kills 29 in occupied Crimea
 
 ---
-_Updated 2026-03-31_
+_Updated 2026-04-01_
