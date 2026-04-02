@@ -1,34 +1,34 @@
-# Daily TL;DR — April 01, 2026
+# Daily TL;DR — April 02, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   176.65 | ▲ +2.26 (+1.29%) |
-| SPGI  | $   427.45 | ▲ +2.11 (+0.50%) |
-| META  | $   589.71 | ▲ +17.58 (+3.07%) |
-| AAPL  | $   254.59 | ▲ +0.80 (+0.32%) |
-| MSFT  | $   372.47 | ▲ +2.30 (+0.62%) |
-| GOOG  | $   297.28 | ▲ +10.42 (+3.63%) |
-| TSM   | $   345.57 | ▲ +7.62 (+2.25%) |
-| IONQ  | $    28.84 | ▲ +0.01 (+0.03%) |
-| COST  | $   993.87 | ▼ -2.56 (-0.26%) |
-| ASML  | $  1379.83 | ▲ +59.00 (+4.47%) |
-| SPYM  | $    77.43 | ▲ +0.89 (+1.16%) |
-| LLY   | $   963.41 | ▲ +43.64 (+4.74%) |
-| OKLO  | $    49.78 | ▲ +0.19 (+0.39%) |
-| V     | $   300.11 | ▼ -2.12 (-0.70%) |
-| MA    | $   497.30 | ▼ -2.36 (-0.47%) |
-| AMZN  | $   212.65 | ▲ +4.38 (+2.10%) |
-| DUOL  | $    98.60 | ▲ +0.03 (+0.03%) |
+| NVDA  | $   176.52 | ▲ +0.77 (+0.44%) |
+| SPGI  | $   429.79 | ▲ +4.62 (+1.09%) |
+| META  | $   571.70 | ▼ -7.53 (-1.30%) |
+| AAPL  | $   254.63 | ▼ -1.00 (-0.39%) |
+| MSFT  | $   371.31 | ▲ +1.94 (+0.53%) |
+| GOOG  | $   294.24 | ▼ -0.66 (-0.22%) |
+| TSM   | $   338.13 | ▼ -3.36 (-0.98%) |
+| IONQ  | $    28.65 | ▲ +0.86 (+3.09%) |
+| COST  | $  1009.24 | ▲ +12.68 (+1.27%) |
+| ASML  | $  1325.84 | ▼ -33.92 (-2.49%) |
+| SPYM  | $    76.97 | ▼ -0.15 (-0.19%) |
+| LLY   | $   933.29 | ▼ -21.23 (-2.22%) |
+| OKLO  | $    48.21 | ▲ +0.14 (+0.29%) |
+| V     | $   301.32 | ▲ +2.81 (+0.94%) |
+| MA    | $   494.71 | ▲ +3.06 (+0.62%) |
+| AMZN  | $   209.83 | ▼ -0.74 (-0.35%) |
+| DUOL  | $    97.09 | ▲ +0.90 (+0.94%) |
 
 ## Global News
-- What do Trump's latest comments on leaving Nato mean for the alliance?
-- Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control
-- Families cram into Greek court for trial into deadliest train crash
-- Peter Magyar, the former Orban ally vying for power in Hungary
-- Mass robotaxi malfunction halts traffic in Chinese city
-- Devastated Italians reckon with 'third apocalypse' of World Cup failure
-- Russian military plane crash kills 29 in occupied Crimea
+- Man dies in storm as Saharan dust shrouds Crete
+- 'Be serious... don't speak every day': Macron criticises Trump approach to Iran war
+- Brazil grants joint custody over pets in new law for separated couples
+- US lifts sanctions on Venezuelan interim leader Delcy Rodríguez
+- Baby shot dead in pram in New York City, police say
+- Ancient golden helmet recovered more than a year after Dutch heist
+- Iranian Nobel laureate suffered suspected heart attack in prison, family says
 
 ---
-_Updated 2026-04-01_
+_Updated 2026-04-02_
