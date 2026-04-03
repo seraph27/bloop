@@ -1,34 +1,34 @@
-# Daily TL;DR — April 02, 2026
+# Daily TL;DR — April 03, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   176.52 | ▲ +0.77 (+0.44%) |
-| SPGI  | $   429.79 | ▲ +4.62 (+1.09%) |
-| META  | $   571.70 | ▼ -7.53 (-1.30%) |
-| AAPL  | $   254.63 | ▼ -1.00 (-0.39%) |
-| MSFT  | $   371.31 | ▲ +1.94 (+0.53%) |
-| GOOG  | $   294.24 | ▼ -0.66 (-0.22%) |
-| TSM   | $   338.13 | ▼ -3.36 (-0.98%) |
-| IONQ  | $    28.65 | ▲ +0.86 (+3.09%) |
-| COST  | $  1009.24 | ▲ +12.68 (+1.27%) |
-| ASML  | $  1325.84 | ▼ -33.92 (-2.49%) |
-| SPYM  | $    76.97 | ▼ -0.15 (-0.19%) |
-| LLY   | $   933.29 | ▼ -21.23 (-2.22%) |
-| OKLO  | $    48.21 | ▲ +0.14 (+0.29%) |
-| V     | $   301.32 | ▲ +2.81 (+0.94%) |
-| MA    | $   494.71 | ▲ +3.06 (+0.62%) |
-| AMZN  | $   209.83 | ▼ -0.74 (-0.35%) |
-| DUOL  | $    97.09 | ▲ +0.90 (+0.94%) |
+| NVDA  | $   177.39 | ▲ +1.64 (+0.93%) |
+| SPGI  | $   431.16 | ▲ +5.99 (+1.41%) |
+| META  | $   574.46 | ▼ -4.77 (-0.82%) |
+| AAPL  | $   255.92 | ▲ +0.29 (+0.11%) |
+| MSFT  | $   373.46 | ▲ +4.09 (+1.11%) |
+| GOOG  | $   294.46 | ▼ -0.44 (-0.15%) |
+| TSM   | $   339.04 | ▼ -2.45 (-0.72%) |
+| IONQ  | $    29.30 | ▲ +1.51 (+5.43%) |
+| COST  | $  1014.96 | ▲ +18.40 (+1.85%) |
+| ASML  | $  1317.23 | ▼ -42.53 (-3.13%) |
+| SPYM  | $    77.19 | ▲ +0.07 (+0.09%) |
+| LLY   | $   935.58 | ▼ -18.94 (-1.98%) |
+| OKLO  | $    48.13 | ▲ +0.06 (+0.12%) |
+| V     | $   300.80 | ▲ +2.29 (+0.77%) |
+| MA    | $   493.44 | ▲ +1.79 (+0.36%) |
+| AMZN  | $   209.77 | ▼ -0.80 (-0.38%) |
+| DUOL  | $    96.54 | ▲ +0.35 (+0.36%) |
 
 ## Global News
-- Man dies in storm as Saharan dust shrouds Crete
-- 'Be serious... don't speak every day': Macron criticises Trump approach to Iran war
-- Brazil grants joint custody over pets in new law for separated couples
-- US lifts sanctions on Venezuelan interim leader Delcy Rodríguez
-- Baby shot dead in pram in New York City, police say
-- Ancient golden helmet recovered more than a year after Dutch heist
-- Iranian Nobel laureate suffered suspected heart attack in prison, family says
+- Artemis II leaves Earth's orbit on track for far side of the Moon
+- France's Muslim gathering ban overturned by courts
+- Italy's famed Uffizi admits cyber-attack but denies security breach
+- Burkina Faso must 'forget' about democracy, military leader says
+- Trump removes US Attorney General Pam Bondi 
+- Italy part company with manager after failing to qualify for World Cup
+- US deports eight people 'of African origin' to Uganda
 
 ---
-_Updated 2026-04-02_
+_Updated 2026-04-03_
