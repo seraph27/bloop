@@ -1,4 +1,4 @@
-# Daily TL;DR — April 03, 2026
+# Daily TL;DR — April 04, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $    96.54 | ▲ +0.35 (+0.36%) |
 
 ## Global News
-- Artemis II leaves Earth's orbit on track for far side of the Moon
-- France's Muslim gathering ban overturned by courts
-- Italy's famed Uffizi admits cyber-attack but denies security breach
-- Burkina Faso must 'forget' about democracy, military leader says
-- Trump removes US Attorney General Pam Bondi 
-- Italy part company with manager after failing to qualify for World Cup
-- US deports eight people 'of African origin' to Uganda
+- UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant
+- US arrests relatives of deceased Iranian ​general Qasem ​Soleimani
+- Russian attack on Ukraine market kills five
+- Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa  
+- Trump seeks $152m to reopen notorious Alcatraz prison 
+- Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth 
+- After 16 years in power, could Viktor Orban finally be unseated?
 
 ---
-_Updated 2026-04-03_
+_Updated 2026-04-04_
