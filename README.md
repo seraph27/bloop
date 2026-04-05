@@ -1,4 +1,4 @@
-# Daily TL;DR — April 04, 2026
+# Daily TL;DR — April 05, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $    96.54 | ▲ +0.35 (+0.36%) |
 
 ## Global News
-- UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant
-- US arrests relatives of deceased Iranian ​general Qasem ​Soleimani
-- Russian attack on Ukraine market kills five
-- Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa  
-- Trump seeks $152m to reopen notorious Alcatraz prison 
-- Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth 
-- After 16 years in power, could Viktor Orban finally be unseated?
+- US airman injured but safe after rescue from inside Iran, Trump says 
+- How downed F-15 US airman was rescued inside Iran
+- Pope Leo calls for global leaders to choose peace in his first Easter Mass
+- AI videos fuel rhetoric as Orbán bids for four more years in Hungary
+- Cambodia unveils statue to honour famous landmine-sniffing rat
+- Artemis's stunning Moon pictures - science or holiday photos?
+- Man charged over fatal shooting of baby in pram in New York
 
 ---
-_Updated 2026-04-04_
+_Updated 2026-04-05_
