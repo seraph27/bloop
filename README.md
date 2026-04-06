@@ -1,34 +1,34 @@
-# Daily TL;DR — April 05, 2026
+# Daily TL;DR — April 06, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   177.39 | ▲ +1.64 (+0.93%) |
-| SPGI  | $   431.16 | ▲ +5.99 (+1.41%) |
-| META  | $   574.46 | ▼ -4.77 (-0.82%) |
-| AAPL  | $   255.92 | ▲ +0.29 (+0.11%) |
-| MSFT  | $   373.46 | ▲ +4.09 (+1.11%) |
-| GOOG  | $   294.46 | ▼ -0.44 (-0.15%) |
-| TSM   | $   339.04 | ▼ -2.45 (-0.72%) |
-| IONQ  | $    29.30 | ▲ +1.51 (+5.43%) |
-| COST  | $  1014.96 | ▲ +18.40 (+1.85%) |
-| ASML  | $  1317.23 | ▼ -42.53 (-3.13%) |
-| SPYM  | $    77.19 | ▲ +0.07 (+0.09%) |
-| LLY   | $   935.58 | ▼ -18.94 (-1.98%) |
-| OKLO  | $    48.13 | ▲ +0.06 (+0.12%) |
-| V     | $   300.80 | ▲ +2.29 (+0.77%) |
-| MA    | $   493.44 | ▲ +1.79 (+0.36%) |
-| AMZN  | $   209.77 | ▼ -0.80 (-0.38%) |
-| DUOL  | $    96.54 | ▲ +0.35 (+0.36%) |
+| NVDA  | $   176.98 | ▼ -0.41 (-0.23%) |
+| SPGI  | $   433.34 | ▲ +2.18 (+0.51%) |
+| META  | $   578.82 | ▲ +4.35 (+0.76%) |
+| AAPL  | $   259.04 | ▲ +3.12 (+1.22%) |
+| MSFT  | $   372.12 | ▼ -1.34 (-0.36%) |
+| GOOG  | $   297.32 | ▲ +2.86 (+0.97%) |
+| TSM   | $   340.86 | ▲ +1.82 (+0.54%) |
+| IONQ  | $    29.11 | ▼ -0.18 (-0.63%) |
+| COST  | $  1015.59 | ▲ +0.63 (+0.06%) |
+| ASML  | $  1301.41 | ▼ -15.82 (-1.20%) |
+| SPYM  | $    77.42 | ▲ +0.23 (+0.30%) |
+| LLY   | $   927.50 | ▼ -8.08 (-0.86%) |
+| OKLO  | $    48.88 | ▲ +0.75 (+1.56%) |
+| V     | $   303.86 | ▲ +3.06 (+1.02%) |
+| MA    | $   500.82 | ▲ +7.38 (+1.50%) |
+| AMZN  | $   212.29 | ▲ +2.52 (+1.20%) |
+| DUOL  | $    99.88 | ▲ +3.34 (+3.46%) |
 
 ## Global News
-- US airman injured but safe after rescue from inside Iran, Trump says 
-- How downed F-15 US airman was rescued inside Iran
-- Pope Leo calls for global leaders to choose peace in his first Easter Mass
-- AI videos fuel rhetoric as Orbán bids for four more years in Hungary
-- Cambodia unveils statue to honour famous landmine-sniffing rat
-- Artemis's stunning Moon pictures - science or holiday photos?
-- Man charged over fatal shooting of baby in pram in New York
+- The 40 minutes when the Artemis crew loses contact with the Earth
+- How rescue of US airman in remote part of Iran unfolded
+- Trump declares victory after rescue but threats to US operation in Iran still loom
+- 'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on
+- Emergency jabs after 100 children die of suspected measles in a month in Bangladesh
+- Ladysmith Black Mambazo's 'wise elder' dies aged 77
+- Young gray whale dies after swimming up river in Washington state
 
 ---
-_Updated 2026-04-05_
+_Updated 2026-04-06_
