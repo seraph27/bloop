@@ -1,34 +1,34 @@
-# Daily TL;DR — April 06, 2026
+# Daily TL;DR — April 07, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   176.98 | ▼ -0.41 (-0.23%) |
-| SPGI  | $   433.34 | ▲ +2.18 (+0.51%) |
-| META  | $   578.82 | ▲ +4.35 (+0.76%) |
-| AAPL  | $   259.04 | ▲ +3.12 (+1.22%) |
-| MSFT  | $   372.12 | ▼ -1.34 (-0.36%) |
-| GOOG  | $   297.32 | ▲ +2.86 (+0.97%) |
-| TSM   | $   340.86 | ▲ +1.82 (+0.54%) |
-| IONQ  | $    29.11 | ▼ -0.18 (-0.63%) |
-| COST  | $  1015.59 | ▲ +0.63 (+0.06%) |
-| ASML  | $  1301.41 | ▼ -15.82 (-1.20%) |
-| SPYM  | $    77.42 | ▲ +0.23 (+0.30%) |
-| LLY   | $   927.50 | ▼ -8.08 (-0.86%) |
-| OKLO  | $    48.88 | ▲ +0.75 (+1.56%) |
-| V     | $   303.86 | ▲ +3.06 (+1.02%) |
-| MA    | $   500.82 | ▲ +7.38 (+1.50%) |
-| AMZN  | $   212.29 | ▲ +2.52 (+1.20%) |
-| DUOL  | $    99.88 | ▲ +3.34 (+3.46%) |
+| NVDA  | $   175.77 | ▼ -1.87 (-1.05%) |
+| SPGI  | $   430.17 | ▼ -3.94 (-0.91%) |
+| META  | $   569.67 | ▼ -3.35 (-0.58%) |
+| AAPL  | $   251.81 | ▼ -7.05 (-2.72%) |
+| MSFT  | $   370.90 | ▼ -1.98 (-0.53%) |
+| GOOG  | $   300.70 | ▲ +3.04 (+1.02%) |
+| TSM   | $   341.32 | ▼ -0.44 (-0.13%) |
+| IONQ  | $    27.92 | ▼ -1.32 (-4.51%) |
+| COST  | $  1009.78 | ▼ -8.77 (-0.86%) |
+| ASML  | $  1298.93 | ▼ -5.08 (-0.39%) |
+| SPYM  | $    77.30 | ▼ -0.26 (-0.34%) |
+| LLY   | $   930.33 | ▲ +3.27 (+0.35%) |
+| OKLO  | $    46.29 | ▼ -2.47 (-5.07%) |
+| V     | $   302.64 | ▼ -0.68 (-0.23%) |
+| MA    | $   498.29 | ▼ -3.21 (-0.64%) |
+| AMZN  | $   211.90 | ▼ -0.89 (-0.42%) |
+| DUOL  | $    96.76 | ▼ -2.62 (-2.64%) |
 
 ## Global News
-- The 40 minutes when the Artemis crew loses contact with the Earth
-- How rescue of US airman in remote part of Iran unfolded
-- Trump declares victory after rescue but threats to US operation in Iran still loom
-- 'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on
-- Emergency jabs after 100 children die of suspected measles in a month in Bangladesh
-- Ladysmith Black Mambazo's 'wise elder' dies aged 77
-- Young gray whale dies after swimming up river in Washington state
+- One gunman killed and two injured in shooting at Israeli consulate in Istanbul 
+- WHO suspends Gaza medical evacuations after contractor killed by Israeli troops
+- Earthset and a solar eclipse: Nasa releases first images from Moon fly-by
+- JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU
+- Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle
+- One dead as train travelling 99mph collides with lorry in France
+- Australia's most-decorated living soldier charged over alleged war crimes
 
 ---
-_Updated 2026-04-06_
+_Updated 2026-04-07_
