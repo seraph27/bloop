@@ -1,34 +1,34 @@
-# Daily TL;DR — April 07, 2026
+# Daily TL;DR — April 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   175.77 | ▼ -1.87 (-1.05%) |
-| SPGI  | $   430.17 | ▼ -3.94 (-0.91%) |
-| META  | $   569.67 | ▼ -3.35 (-0.58%) |
-| AAPL  | $   251.81 | ▼ -7.05 (-2.72%) |
-| MSFT  | $   370.90 | ▼ -1.98 (-0.53%) |
-| GOOG  | $   300.70 | ▲ +3.04 (+1.02%) |
-| TSM   | $   341.32 | ▼ -0.44 (-0.13%) |
-| IONQ  | $    27.92 | ▼ -1.32 (-4.51%) |
-| COST  | $  1009.78 | ▼ -8.77 (-0.86%) |
-| ASML  | $  1298.93 | ▼ -5.08 (-0.39%) |
-| SPYM  | $    77.30 | ▼ -0.26 (-0.34%) |
-| LLY   | $   930.33 | ▲ +3.27 (+0.35%) |
-| OKLO  | $    46.29 | ▼ -2.47 (-5.07%) |
-| V     | $   302.64 | ▼ -0.68 (-0.23%) |
-| MA    | $   498.29 | ▼ -3.21 (-0.64%) |
-| AMZN  | $   211.90 | ▼ -0.89 (-0.42%) |
-| DUOL  | $    96.76 | ▼ -2.62 (-2.64%) |
+| NVDA  | $   181.73 | ▲ +3.63 (+2.04%) |
+| SPGI  | $   438.92 | ▲ +8.86 (+2.06%) |
+| META  | $   626.15 | ▲ +51.10 (+8.89%) |
+| AAPL  | $   258.39 | ▲ +4.89 (+1.93%) |
+| MSFT  | $   378.23 | ▲ +5.94 (+1.60%) |
+| GOOG  | $   316.49 | ▲ +12.56 (+4.13%) |
+| TSM   | $   366.78 | ▲ +21.46 (+6.21%) |
+| IONQ  | $    29.16 | ▲ +0.67 (+2.35%) |
+| COST  | $  1025.40 | ▲ +12.18 (+1.20%) |
+| ASML  | $  1419.00 | ▲ +112.55 (+8.61%) |
+| SPYM  | $    79.56 | ▲ +1.97 (+2.54%) |
+| LLY   | $   959.53 | ▲ +28.43 (+3.05%) |
+| OKLO  | $    49.31 | ▲ +2.72 (+5.83%) |
+| V     | $   309.49 | ▲ +6.94 (+2.29%) |
+| MA    | $   511.25 | ▲ +12.97 (+2.60%) |
+| AMZN  | $   222.02 | ▲ +8.25 (+3.86%) |
+| DUOL  | $    93.60 | ▼ -2.69 (-2.80%) |
 
 ## Global News
-- One gunman killed and two injured in shooting at Israeli consulate in Istanbul 
-- WHO suspends Gaza medical evacuations after contractor killed by Israeli troops
-- Earthset and a solar eclipse: Nasa releases first images from Moon fly-by
-- JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU
-- Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle
-- One dead as train travelling 99mph collides with lorry in France
-- Australia's most-decorated living soldier charged over alleged war crimes
+- Iran ceasefire deal gives Trump a way out of war - but at a high cost
+- What we know about the two-week ceasefire between the US and Iran 
+- Israel carries out large wave of air strikes across Lebanon
+- Oil prices plunge and shares jump on US-Iran ceasefire plan
+- Greece to ban social media for under-15s from next year
+- Germany suspends military approval for long stays abroad for men under 45
+- Ships still cautious about using Strait of Hormuz as Iran issues warning
 
 ---
-_Updated 2026-04-07_
+_Updated 2026-04-08_
