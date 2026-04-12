@@ -1,4 +1,4 @@
-# Daily TL;DR — April 11, 2026
+# Daily TL;DR — April 12, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $    90.03 | ▼ -0.50 (-0.55%) |
 
 ## Global News
-- Artemis crew home safely after completing historic mission to the Moon
-- Frontrunner for California governor denies sexual assault allegations
-- Nearly 400 sentenced in Nigeria for links to militant Islamists
-- Fuel tankers regain access to Irish oil refinery
-- Melania Trump's speech propels Epstein crisis back to forefront
-- Coachella kicks off with Sabrina Carpenter and surprise guests
-- Final push for votes as challenger to Hungary's Orbán senses victory
+- After Iran talks falter, the big question is what happens next?
+- Asha Bhosle: The sound of Bollywood dies aged 92
+- Ukraine and Russia accuse each other of hundreds of ceasefire violations
+- At least 30 feared dead in crush at Haitian tourist site
+- Why this disillusioned Trump voter spends hours searching Epstein files
+- Justin Bieber headlines Coachella with nostalgia-fuelled set
+- Prosecutor probes abuse claims against California governor candidate Swalwell
 
 ---
-_Updated 2026-04-11_
+_Updated 2026-04-12_
