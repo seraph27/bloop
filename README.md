@@ -1,34 +1,34 @@
-# Daily TL;DR — April 12, 2026
+# Daily TL;DR — April 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   188.63 | ▲ +4.72 (+2.57%) |
-| SPGI  | $   415.42 | ▼ -8.90 (-2.10%) |
-| META  | $   629.86 | ▲ +1.47 (+0.23%) |
-| AAPL  | $   260.48 | ▼ -0.01 (-0.00%) |
-| MSFT  | $   370.87 | ▼ -2.20 (-0.59%) |
-| GOOG  | $   315.72 | ▼ -0.65 (-0.21%) |
-| TSM   | $   370.60 | ▲ +5.11 (+1.40%) |
-| IONQ  | $    28.79 | ▲ +0.71 (+2.53%) |
-| COST  | $   998.47 | ▼ -33.56 (-3.25%) |
-| ASML  | $  1478.28 | ▲ +29.64 (+2.05%) |
-| SPYM  | $    79.96 | ▼ -0.06 (-0.07%) |
-| LLY   | $   939.47 | ▼ -15.72 (-1.65%) |
-| OKLO  | $    50.25 | ▲ +2.50 (+5.24%) |
-| V     | $   304.36 | ▼ -3.93 (-1.27%) |
-| MA    | $   498.66 | ▼ -4.91 (-0.98%) |
-| AMZN  | $   238.38 | ▲ +4.73 (+2.02%) |
-| DUOL  | $    90.03 | ▼ -0.50 (-0.55%) |
+| NVDA  | $   188.35 | ▼ -0.28 (-0.15%) |
+| SPGI  | $   427.16 | ▲ +11.74 (+2.83%) |
+| META  | $   630.15 | ▲ +0.29 (+0.05%) |
+| AAPL  | $   257.89 | ▼ -2.59 (-0.99%) |
+| MSFT  | $   381.29 | ▲ +10.42 (+2.81%) |
+| GOOG  | $   317.75 | ▲ +2.03 (+0.64%) |
+| TSM   | $   370.48 | ▼ -0.12 (-0.03%) |
+| IONQ  | $    29.18 | ▲ +0.39 (+1.35%) |
+| COST  | $   983.46 | ▼ -15.01 (-1.50%) |
+| ASML  | $  1484.85 | ▲ +6.57 (+0.44%) |
+| SPYM  | $    80.31 | ▲ +0.35 (+0.44%) |
+| LLY   | $   929.96 | ▼ -9.51 (-1.01%) |
+| OKLO  | $    53.00 | ▲ +2.75 (+5.47%) |
+| V     | $   306.95 | ▲ +2.59 (+0.85%) |
+| MA    | $   502.52 | ▲ +3.86 (+0.77%) |
+| AMZN  | $   238.41 | ▲ +0.03 (+0.01%) |
+| DUOL  | $    93.16 | ▲ +3.13 (+3.48%) |
 
 ## Global News
-- After Iran talks falter, the big question is what happens next?
-- Asha Bhosle: The sound of Bollywood dies aged 92
-- Ukraine and Russia accuse each other of hundreds of ceasefire violations
-- At least 30 feared dead in crush at Haitian tourist site
-- Why this disillusioned Trump voter spends hours searching Epstein files
-- Justin Bieber headlines Coachella with nostalgia-fuelled set
-- Prosecutor probes abuse claims against California governor candidate Swalwell
+- Orbán era swept away by Péter Magyar's Hungary election landslide
+- Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold
+- Pope says he has 'no fear' of Trump after scathing criticism
+- Britney Spears goes into rehab after driving under the influence arrest
+- Ex-Nigerian oil minister denies taking bribes
+- Peru election drags into second day after ballot delivery fiasco
+- Ghanaian footballer killed after armed attackers open fire at team bus
 
 ---
-_Updated 2026-04-12_
+_Updated 2026-04-13_
