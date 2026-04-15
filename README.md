@@ -1,34 +1,34 @@
-# Daily TL;DR — April 14, 2026
+# Daily TL;DR — April 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   194.57 | ▲ +5.26 (+2.78%) |
-| SPGI  | $   427.01 | ▼ -3.07 (-0.71%) |
-| META  | $   661.92 | ▲ +27.39 (+4.32%) |
-| AAPL  | $   259.42 | ▲ +0.22 (+0.08%) |
-| MSFT  | $   394.07 | ▲ +9.70 (+2.52%) |
-| GOOG  | $   330.07 | ▲ +10.86 (+3.40%) |
-| TSM   | $   380.34 | ▲ +10.77 (+2.91%) |
-| IONQ  | $    33.99 | ▲ +4.23 (+14.21%) |
-| COST  | $   972.90 | ▼ -7.95 (-0.81%) |
-| ASML  | $  1514.90 | ▲ +14.70 (+0.98%) |
-| SPYM  | $    81.61 | ▲ +0.87 (+1.07%) |
-| LLY   | $   934.58 | ▲ +5.03 (+0.54%) |
-| OKLO  | $    57.06 | ▲ +3.12 (+5.78%) |
-| V     | $   310.83 | ▲ +1.44 (+0.47%) |
-| MA    | $   511.84 | ▲ +3.26 (+0.64%) |
-| AMZN  | $   249.57 | ▲ +9.68 (+4.04%) |
-| DUOL  | $    93.71 | ▲ +0.18 (+0.19%) |
+| NVDA  | $   197.43 | ▲ +0.92 (+0.47%) |
+| SPGI  | $   431.67 | ▲ +6.43 (+1.51%) |
+| META  | $   674.43 | ▲ +11.94 (+1.80%) |
+| AAPL  | $   265.53 | ▲ +6.70 (+2.59%) |
+| MSFT  | $   408.36 | ▲ +15.25 (+3.88%) |
+| GOOG  | $   331.79 | ▲ +1.21 (+0.37%) |
+| TSM   | $   374.86 | ▼ -5.03 (-1.32%) |
+| IONQ  | $    42.34 | ▲ +6.58 (+18.40%) |
+| COST  | $   982.41 | ▲ +7.61 (+0.78%) |
+| ASML  | $  1428.96 | ▼ -89.34 (-5.88%) |
+| SPYM  | $    82.07 | ▲ +0.33 (+0.40%) |
+| LLY   | $   900.27 | ▼ -22.23 (-2.41%) |
+| OKLO  | $    63.53 | ▲ +4.95 (+8.45%) |
+| V     | $   315.28 | ▲ +3.91 (+1.26%) |
+| MA    | $   519.98 | ▲ +6.83 (+1.33%) |
+| AMZN  | $   248.35 | ▼ -0.67 (-0.27%) |
+| DUOL  | $    96.46 | ▲ +5.00 (+5.47%) |
 
 ## Global News
-- Hamas rejects Gaza disarmament plan, Palestinian official says
-- JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat
-- Accusers seek justice after unwanted explicit messages from Congressman Eric Swalwell
-- US blockade of Iran ports irresponsible and dangerous, China says
-- Retrial over death of Argentina legend Maradona to begin
-- French woman, 86, held by ICE after moving to US to reunite with long-lost love
-- Partner of US influencer who died in Zanzibar speaking to police as witness
+- Trump's rift with Pope is playing out in public - it's costing him valuable support
+- Trump threatens to fire Fed chair Powell if he doesn't leave in May
+- Nine killed in second Turkish school shooting in two days
+- Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says
+- Israel and Hezbollah continue attacks after Israel-Lebanon talks in US
+- Chinese national given one year in prison for smuggling ants out of Kenya
+- Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack
 
 ---
-_Updated 2026-04-14_
+_Updated 2026-04-15_
