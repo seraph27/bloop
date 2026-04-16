@@ -1,34 +1,34 @@
-# Daily TL;DR — April 15, 2026
+# Daily TL;DR — April 16, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   197.43 | ▲ +0.92 (+0.47%) |
-| SPGI  | $   431.67 | ▲ +6.43 (+1.51%) |
-| META  | $   674.43 | ▲ +11.94 (+1.80%) |
-| AAPL  | $   265.53 | ▲ +6.70 (+2.59%) |
-| MSFT  | $   408.36 | ▲ +15.25 (+3.88%) |
-| GOOG  | $   331.79 | ▲ +1.21 (+0.37%) |
-| TSM   | $   374.86 | ▼ -5.03 (-1.32%) |
-| IONQ  | $    42.34 | ▲ +6.58 (+18.40%) |
-| COST  | $   982.41 | ▲ +7.61 (+0.78%) |
-| ASML  | $  1428.96 | ▼ -89.34 (-5.88%) |
-| SPYM  | $    82.07 | ▲ +0.33 (+0.40%) |
-| LLY   | $   900.27 | ▼ -22.23 (-2.41%) |
-| OKLO  | $    63.53 | ▲ +4.95 (+8.45%) |
-| V     | $   315.28 | ▲ +3.91 (+1.26%) |
-| MA    | $   519.98 | ▲ +6.83 (+1.33%) |
-| AMZN  | $   248.35 | ▼ -0.67 (-0.27%) |
-| DUOL  | $    96.46 | ▲ +5.00 (+5.47%) |
+| NVDA  | $   198.10 | ▼ -0.77 (-0.39%) |
+| SPGI  | $   436.05 | ▲ +5.48 (+1.27%) |
+| META  | $   673.94 | ▲ +2.36 (+0.35%) |
+| AAPL  | $   263.39 | ▼ -3.04 (-1.14%) |
+| MSFT  | $   418.28 | ▲ +7.06 (+1.72%) |
+| GOOG  | $   333.67 | ▼ -0.80 (-0.24%) |
+| TSM   | $   363.20 | ▼ -11.90 (-3.17%) |
+| IONQ  | $    43.69 | ▲ +0.44 (+1.02%) |
+| COST  | $   986.01 | ▲ +1.26 (+0.13%) |
+| ASML  | $  1423.17 | ▼ -58.60 (-3.95%) |
+| SPYM  | $    82.40 | ▲ +0.02 (+0.03%) |
+| LLY   | $   900.91 | ▼ -4.12 (-0.45%) |
+| OKLO  | $    62.74 | ▼ -0.61 (-0.96%) |
+| V     | $   315.72 | ▼ -0.19 (-0.06%) |
+| MA    | $   519.73 | ▼ -0.23 (-0.04%) |
+| AMZN  | $   248.81 | ▲ +0.31 (+0.12%) |
+| DUOL  | $   102.55 | ▲ +3.77 (+3.82%) |
 
 ## Global News
-- Trump's rift with Pope is playing out in public - it's costing him valuable support
-- Trump threatens to fire Fed chair Powell if he doesn't leave in May
-- Nine killed in second Turkish school shooting in two days
-- Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says
-- Israel and Hezbollah continue attacks after Israel-Lebanon talks in US
-- Chinese national given one year in prison for smuggling ants out of Kenya
-- Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack
+- Pope criticises 'tyrants' who spend billions on wars after Trump spat
+- Turkish police detain 162 people over online posts about school shootings
+- Former Arsenal goalkeeper Alex Manninger dies after car hit by train
+- Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed
+- Russia launches deadliest aerial attack in months, killing 18 in Ukraine
+- Brazil's former spy chief released from ICE detention
+- Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say
 
 ---
-_Updated 2026-04-15_
+_Updated 2026-04-16_
