@@ -1,34 +1,34 @@
-# Daily TL;DR — April 16, 2026
+# Daily TL;DR — April 17, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   198.10 | ▼ -0.77 (-0.39%) |
-| SPGI  | $   436.05 | ▲ +5.48 (+1.27%) |
-| META  | $   673.94 | ▲ +2.36 (+0.35%) |
-| AAPL  | $   263.39 | ▼ -3.04 (-1.14%) |
-| MSFT  | $   418.28 | ▲ +7.06 (+1.72%) |
-| GOOG  | $   333.67 | ▼ -0.80 (-0.24%) |
-| TSM   | $   363.20 | ▼ -11.90 (-3.17%) |
-| IONQ  | $    43.69 | ▲ +0.44 (+1.02%) |
-| COST  | $   986.01 | ▲ +1.26 (+0.13%) |
-| ASML  | $  1423.17 | ▼ -58.60 (-3.95%) |
-| SPYM  | $    82.40 | ▲ +0.02 (+0.03%) |
-| LLY   | $   900.91 | ▼ -4.12 (-0.45%) |
-| OKLO  | $    62.74 | ▼ -0.61 (-0.96%) |
-| V     | $   315.72 | ▼ -0.19 (-0.06%) |
-| MA    | $   519.73 | ▼ -0.23 (-0.04%) |
-| AMZN  | $   248.81 | ▲ +0.31 (+0.12%) |
-| DUOL  | $   102.55 | ▲ +3.77 (+3.82%) |
+| NVDA  | $   200.69 | ▲ +2.34 (+1.18%) |
+| SPGI  | $   445.03 | ▲ +8.24 (+1.89%) |
+| META  | $   686.26 | ▲ +9.39 (+1.39%) |
+| AAPL  | $   270.86 | ▲ +7.46 (+2.83%) |
+| MSFT  | $   427.41 | ▲ +7.15 (+1.70%) |
+| GOOG  | $   336.76 | ▲ +3.99 (+1.20%) |
+| TSM   | $   368.12 | ▲ +4.77 (+1.31%) |
+| IONQ  | $    44.78 | ▲ +0.10 (+0.22%) |
+| COST  | $   990.74 | ▲ +3.53 (+0.36%) |
+| ASML  | $  1460.32 | ▲ +49.49 (+3.51%) |
+| SPYM  | $    83.81 | ▲ +1.22 (+1.48%) |
+| LLY   | $   923.38 | ▲ +19.39 (+2.14%) |
+| OKLO  | $    68.21 | ▲ +4.00 (+6.23%) |
+| V     | $   318.15 | ▲ +3.05 (+0.97%) |
+| MA    | $   526.94 | ▲ +8.40 (+1.62%) |
+| AMZN  | $   253.46 | ▲ +3.76 (+1.51%) |
+| DUOL  | $   101.39 | ▼ -2.06 (-1.99%) |
 
 ## Global News
-- Pope criticises 'tyrants' who spend billions on wars after Trump spat
-- Turkish police detain 162 people over online posts about school shootings
-- Former Arsenal goalkeeper Alex Manninger dies after car hit by train
-- Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed
-- Russia launches deadliest aerial attack in months, killing 18 in Ukraine
-- Brazil's former spy chief released from ICE detention
-- Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say
+- Oil prices plunge as Iran says Strait 'open'
+- Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain
+- Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures
+- Mugabe's son pleads guilty to pointing a gun in South Africa
+- Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris
+- Singer D4vd arrested on suspicion of murdering teenage girl
+- Runaway wolf finally captured after nine-day search in South Korea
 
 ---
-_Updated 2026-04-16_
+_Updated 2026-04-17_
