@@ -1,4 +1,4 @@
-# Daily TL;DR — April 18, 2026
+# Daily TL;DR — April 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   100.51 | ▼ -2.94 (-2.84%) |
 
 ## Global News
-- At least six killed in Kyiv as gunman opens fire and takes hostages
-- Madonna joins Sabrina Carpenter to surprise Coachella
-- French peacekeeper killed in southern Lebanon
-- Millions listen to Ethiopian star's song taking swipe at government
-- French film star Nathalie Baye dies aged 77, media report
-- DR Congo accepts first set of deportees from the US
-- Three sentenced for 'man in bear suit' insurance scam
+- Pope says 'tyrants' speech was not aimed at Trump
+- Rat poison found in HiPP baby food jar in Austria, police say
+- Australia's most-decorated soldier vows to fight war crime charges
+- Zelensky condemns US extension of Russian sanctions waiver
+- Bodies of 50 infants dumped at Trinidad graveyard
+- Thousands of Parisians evacuated as WW2 bomb detonated
+- Alec Baldwin to face civil trial over Rust film set shooting
 
 ---
-_Updated 2026-04-18_
+_Updated 2026-04-19_
