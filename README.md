@@ -1,34 +1,34 @@
-# Daily TL;DR — April 19, 2026
+# Daily TL;DR — April 20, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   201.68 | ▲ +3.33 (+1.68%) |
-| SPGI  | $   442.57 | ▲ +5.78 (+1.32%) |
-| META  | $   688.55 | ▲ +11.68 (+1.73%) |
-| AAPL  | $   270.23 | ▲ +6.83 (+2.59%) |
-| MSFT  | $   422.79 | ▲ +2.53 (+0.60%) |
-| GOOG  | $   339.40 | ▲ +6.63 (+1.99%) |
-| TSM   | $   370.50 | ▲ +7.15 (+1.97%) |
-| IONQ  | $    46.09 | ▲ +1.41 (+3.16%) |
-| COST  | $   999.89 | ▲ +12.68 (+1.28%) |
-| ASML  | $  1459.80 | ▲ +48.97 (+3.47%) |
-| SPYM  | $    83.58 | ▲ +1.00 (+1.21%) |
-| LLY   | $   927.03 | ▲ +23.04 (+2.55%) |
-| OKLO  | $    66.81 | ▲ +2.60 (+4.05%) |
-| V     | $   317.02 | ▲ +1.92 (+0.61%) |
-| MA    | $   521.30 | ▲ +2.76 (+0.53%) |
-| AMZN  | $   250.56 | ▲ +0.86 (+0.34%) |
-| DUOL  | $   100.51 | ▼ -2.94 (-2.84%) |
+| NVDA  | $   199.49 | ▼ -2.19 (-1.09%) |
+| SPGI  | $   442.70 | ▲ +0.13 (+0.03%) |
+| META  | $   672.29 | ▼ -16.26 (-2.36%) |
+| AAPL  | $   272.02 | ▲ +1.79 (+0.66%) |
+| MSFT  | $   419.12 | ▼ -3.67 (-0.87%) |
+| GOOG  | $   336.52 | ▼ -2.88 (-0.85%) |
+| TSM   | $   367.35 | ▼ -3.15 (-0.85%) |
+| IONQ  | $    46.23 | ▲ +0.14 (+0.30%) |
+| COST  | $  1001.68 | ▲ +1.79 (+0.18%) |
+| ASML  | $  1467.57 | ▲ +7.77 (+0.53%) |
+| SPYM  | $    83.30 | ▼ -0.28 (-0.33%) |
+| LLY   | $   926.19 | ▼ -0.84 (-0.09%) |
+| OKLO  | $    65.23 | ▼ -1.58 (-2.36%) |
+| V     | $   313.08 | ▼ -3.94 (-1.24%) |
+| MA    | $   516.23 | ▼ -5.07 (-0.97%) |
+| AMZN  | $   247.54 | ▼ -3.01 (-1.20%) |
+| DUOL  | $   103.35 | ▲ +2.83 (+2.82%) |
 
 ## Global News
-- Pope says 'tyrants' speech was not aimed at Trump
-- Rat poison found in HiPP baby food jar in Austria, police say
-- Australia's most-decorated soldier vows to fight war crime charges
-- Zelensky condemns US extension of Russian sanctions waiver
-- Bodies of 50 infants dumped at Trinidad graveyard
-- Thousands of Parisians evacuated as WW2 bomb detonated
-- Alec Baldwin to face civil trial over Rust film set shooting
+- Japan on high alert for 'huge' second quake after issuing tsunami warning
+- Man kills seven of his children, and an eighth child, in Louisiana mass shooting
+- Oil prices rise after Trump says Iranian ship seized
+- Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC
+- Trump tariff refunds begin but consumers likely to miss out
+- Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon
+- More than 200 rescued from IS-linked group in DR Congo
 
 ---
-_Updated 2026-04-19_
+_Updated 2026-04-20_
