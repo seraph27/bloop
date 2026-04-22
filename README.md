@@ -1,34 +1,34 @@
-# Daily TL;DR — April 21, 2026
+# Daily TL;DR — April 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   199.58 | ▼ -2.48 (-1.23%) |
-| SPGI  | $   445.79 | ▲ +3.05 (+0.69%) |
-| META  | $   669.97 | ▼ -0.94 (-0.14%) |
-| AAPL  | $   266.08 | ▼ -6.97 (-2.55%) |
-| MSFT  | $   424.82 | ▲ +6.75 (+1.61%) |
-| GOOG  | $   331.70 | ▼ -3.70 (-1.10%) |
-| TSM   | $   367.19 | ▲ +0.95 (+0.26%) |
-| IONQ  | $    46.49 | ▼ -1.83 (-3.79%) |
-| COST  | $  1000.36 | ▲ +2.52 (+0.25%) |
-| ASML  | $  1458.41 | ▼ -18.09 (-1.23%) |
-| SPYM  | $    82.99 | ▼ -0.43 (-0.52%) |
-| LLY   | $   899.96 | ▼ -19.94 (-2.17%) |
-| OKLO  | $    63.94 | ▼ -4.19 (-6.16%) |
-| V     | $   309.77 | ▼ -4.17 (-1.33%) |
-| MA    | $   512.14 | ▼ -4.52 (-0.87%) |
-| AMZN  | $   251.51 | ▲ +3.23 (+1.30%) |
-| DUOL  | $   103.31 | ▼ -1.53 (-1.46%) |
+| NVDA  | $   201.55 | ▲ +1.67 (+0.84%) |
+| SPGI  | $   449.51 | ▲ +4.84 (+1.09%) |
+| META  | $   675.27 | ▲ +6.43 (+0.96%) |
+| AAPL  | $   272.55 | ▲ +6.38 (+2.40%) |
+| MSFT  | $   431.15 | ▲ +6.99 (+1.65%) |
+| GOOG  | $   335.21 | ▲ +4.74 (+1.43%) |
+| TSM   | $   380.27 | ▲ +12.20 (+3.31%) |
+| IONQ  | $    47.18 | ▲ +0.90 (+1.94%) |
+| COST  | $  1004.00 | ▼ -1.81 (-0.18%) |
+| ASML  | $  1469.05 | ▲ +10.08 (+0.69%) |
+| SPYM  | $    83.52 | ▲ +0.65 (+0.78%) |
+| LLY   | $   919.99 | ▲ +16.97 (+1.88%) |
+| OKLO  | $    67.08 | ▲ +4.47 (+7.14%) |
+| V     | $   309.35 | ▼ -0.60 (-0.19%) |
+| MA    | $   507.11 | ▼ -4.24 (-0.83%) |
+| AMZN  | $   253.61 | ▲ +3.70 (+1.48%) |
+| DUOL  | $   103.56 | ▲ +0.93 (+0.91%) |
 
 ## Global News
-- Iran sees mass redundancies from war with US and Israel
-- Israeli soldiers punished over vandalism of Jesus statue in Lebanon
-- Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'
-- Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values
-- Japan loosens arms export rules in break from post-WW2 pacifism
-- Mass trial for 486 alleged MS-13 gang members begins in El Salvador
-- Madonna offers reward for return of missing Coachella costume
+- US and Iran in blockade standoff as Pakistan pushes for talks
+- Billionaire backer sues Trump family's crypto firm over alleged extortion
+- Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour
+- EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock
+- Lufthansa cuts 20,000 summer flights as fuel prices surge
+- No cartels involved - but Mexico's pyramid attack prompts new concerns
+- US charges anti-extremism organisation over payments to informants in hate groups
 
 ---
-_Updated 2026-04-21_
+_Updated 2026-04-22_
