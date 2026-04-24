@@ -1,34 +1,34 @@
-# Daily TL;DR — April 23, 2026
+# Daily TL;DR — April 24, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   199.72 | ▼ -2.78 (-1.37%) |
-| SPGI  | $   434.55 | ▼ -14.51 (-3.23%) |
-| META  | $   659.94 | ▼ -14.78 (-2.19%) |
-| AAPL  | $   272.40 | ▼ -0.77 (-0.28%) |
-| MSFT  | $   414.99 | ▼ -17.93 (-4.14%) |
-| GOOG  | $   337.18 | ▼ -0.55 (-0.16%) |
-| TSM   | $   380.76 | ▼ -6.68 (-1.73%) |
-| IONQ  | $    42.74 | ▼ -4.62 (-9.76%) |
-| COST  | $  1011.30 | ▲ +7.60 (+0.76%) |
-| ASML  | $  1412.29 | ▼ -31.38 (-2.17%) |
-| SPYM  | $    83.15 | ▼ -0.57 (-0.67%) |
-| LLY   | $   913.12 | ▼ -8.36 (-0.91%) |
-| OKLO  | $    75.97 | ▲ +3.56 (+4.92%) |
-| V     | $   305.62 | ▼ -5.67 (-1.82%) |
-| MA    | $   499.38 | ▼ -10.78 (-2.11%) |
-| AMZN  | $   255.24 | ▼ -0.12 (-0.05%) |
-| DUOL  | $    99.01 | ▼ -6.51 (-6.17%) |
+| NVDA  | $   209.76 | ▲ +10.12 (+5.07%) |
+| SPGI  | $   435.84 | ▼ -3.19 (-0.73%) |
+| META  | $   679.56 | ▲ +20.41 (+3.10%) |
+| AAPL  | $   270.54 | ▼ -2.89 (-1.06%) |
+| MSFT  | $   419.70 | ▲ +3.95 (+0.95%) |
+| GOOG  | $   341.99 | ▲ +4.24 (+1.26%) |
+| TSM   | $   407.06 | ▲ +24.40 (+6.38%) |
+| IONQ  | $    42.64 | ▼ -0.99 (-2.26%) |
+| COST  | $  1008.06 | ▼ -6.32 (-0.62%) |
+| ASML  | $  1469.24 | ▲ +51.44 (+3.63%) |
+| SPYM  | $    84.00 | ▲ +0.62 (+0.75%) |
+| LLY   | $   881.78 | ▼ -35.87 (-3.91%) |
+| OKLO  | $    73.64 | ▼ -2.82 (-3.69%) |
+| V     | $   308.46 | ▼ -0.42 (-0.14%) |
+| MA    | $   503.70 | ▲ +1.32 (+0.26%) |
+| AMZN  | $   262.24 | ▲ +7.16 (+2.81%) |
+| DUOL  | $   102.59 | ▲ +2.30 (+2.29%) |
 
 ## Global News
-- Trump tells BBC that King's visit could 'absolutely' help repair relations with UK
-- In Tehran, money is short and a return to war looms over daily life
-- Huge chunk of glacier blocks Everest route in peak climbing season
-- More than 500 people killed in Tanzania election violence, inquiry finds
-- US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say
-- US Navy chief leaving post 'effective immediately', Pentagon says 
-- South African police chief suspended over $20m health contract
+- Nato says 'no provision' to expel members after report US could seek to suspend Spain
+- No 10 says Falklands sovereignty rests with UK after report of US 'review'
+- Who is making decisions in Iran?
+- US justice department drops probe into Fed chairman Jerome Powell
+- Key suspect in notorious Tadamon massacre during Syria civil war arrested
+- Mandelson under formal investigation by EU's anti-fraud office
+- Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest
 
 ---
-_Updated 2026-04-23_
+_Updated 2026-04-24_
