@@ -1,4 +1,4 @@
-# Daily TL;DR — April 25, 2026
+# Daily TL;DR — April 26, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   103.45 | ▲ +3.16 (+3.15%) |
 
 ## Global News
-- Explosions and gunfire as armed groups launch co-ordinated attacks across Mali
-- Seven dead in major Russian attack on Ukraine
+- I was in the room with Trump and heard the low thudding sound of gunfire
+- Trump cancels US envoys' trip to Pakistan for talks on Iran war
+- Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon
+- Armed groups launch coordinated attacks across Mali
+- Mexico says US agents killed in crash weren't permitted to operate there
 - Palestinians in West Bank and some in Gaza vote in local elections
-- Nato says 'no provision' to expel members after report US could seek to suspend Spain
-- Thousands at risk after multi-million dollar Everest flood warning system left to rust
-- Thirty-one sloths die in Florida before opening of attraction
-- The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts
+- Rights groups critical as Venezuela prisoner release scheme 'coming to an end'
 
 ---
-_Updated 2026-04-25_
+_Updated 2026-04-26_
