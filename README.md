@@ -1,34 +1,34 @@
-# Daily TL;DR — April 26, 2026
+# Daily TL;DR — April 27, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   208.27 | ▲ +8.63 (+4.32%) |
-| SPGI  | $   436.79 | ▼ -2.24 (-0.51%) |
-| META  | $   675.03 | ▲ +15.88 (+2.41%) |
-| AAPL  | $   271.06 | ▼ -2.37 (-0.87%) |
-| MSFT  | $   424.62 | ▲ +8.87 (+2.13%) |
-| GOOG  | $   342.32 | ▲ +4.57 (+1.35%) |
-| TSM   | $   402.46 | ▲ +19.80 (+5.17%) |
-| IONQ  | $    42.69 | ▼ -0.94 (-2.15%) |
-| COST  | $  1011.15 | ▼ -3.23 (-0.32%) |
-| ASML  | $  1457.70 | ▲ +39.90 (+2.81%) |
-| SPYM  | $    84.03 | ▲ +0.65 (+0.78%) |
-| LLY   | $   883.96 | ▼ -33.69 (-3.67%) |
-| OKLO  | $    71.00 | ▼ -5.46 (-7.14%) |
-| V     | $   309.42 | ▲ +0.54 (+0.17%) |
-| MA    | $   504.17 | ▲ +1.79 (+0.36%) |
-| AMZN  | $   263.99 | ▲ +8.91 (+3.49%) |
-| DUOL  | $   103.45 | ▲ +3.16 (+3.15%) |
+| NVDA  | $   213.91 | ▲ +5.64 (+2.71%) |
+| SPGI  | $   436.62 | ▼ -0.17 (-0.04%) |
+| META  | $   678.75 | ▲ +3.72 (+0.55%) |
+| AAPL  | $   266.72 | ▼ -4.34 (-1.60%) |
+| MSFT  | $   424.86 | ▲ +0.24 (+0.06%) |
+| GOOG  | $   349.84 | ▲ +7.52 (+2.20%) |
+| TSM   | $   401.74 | ▼ -0.72 (-0.18%) |
+| IONQ  | $    42.28 | ▼ -0.41 (-0.96%) |
+| COST  | $  1006.59 | ▼ -4.56 (-0.45%) |
+| ASML  | $  1421.70 | ▼ -36.00 (-2.47%) |
+| SPYM  | $    84.08 | ▲ +0.06 (+0.07%) |
+| LLY   | $   880.30 | ▼ -3.66 (-0.41%) |
+| OKLO  | $    75.29 | ▲ +4.29 (+6.05%) |
+| V     | $   309.46 | ▲ +0.04 (+0.01%) |
+| MA    | $   506.39 | ▲ +2.22 (+0.44%) |
+| AMZN  | $   262.44 | ▼ -1.55 (-0.59%) |
+| DUOL  | $   103.95 | ▲ +0.50 (+0.48%) |
 
 ## Global News
-- I was in the room with Trump and heard the low thudding sound of gunfire
-- Trump cancels US envoys' trip to Pakistan for talks on Iran war
-- Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon
-- Armed groups launch coordinated attacks across Mali
-- Mexico says US agents killed in crash weren't permitted to operate there
-- Palestinians in West Bank and some in Gaza vote in local elections
-- Rights groups critical as Venezuela prisoner release scheme 'coming to an end'
+- Trump says King will be 'very safe' during US visit after security talks
+- Pakistan accused of attacking Afghan university
+- Gunmen raid Nigerian orphanage and kidnap children
+- Russian fighters confirm withdrawal from northern Mali city after separatist attacks
+- Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack
+- Michael Jackson biopic smashes box office record
+- At least 42 killed in Chad after water well dispute escalates
 
 ---
-_Updated 2026-04-26_
+_Updated 2026-04-27_
