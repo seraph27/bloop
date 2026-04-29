@@ -1,34 +1,34 @@
-# Daily TL;DR — April 28, 2026
+# Daily TL;DR — April 29, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   211.23 | ▼ -5.38 (-2.48%) |
-| SPGI  | $   444.38 | ▲ +7.16 (+1.64%) |
-| META  | $   670.70 | ▼ -7.92 (-1.17%) |
-| AAPL  | $   270.34 | ▲ +2.73 (+1.02%) |
-| MSFT  | $   427.95 | ▲ +3.12 (+0.74%) |
-| GOOG  | $   346.77 | ▼ -1.75 (-0.50%) |
-| TSM   | $   391.71 | ▼ -13.27 (-3.28%) |
-| IONQ  | $    43.73 | ▼ -0.11 (-0.25%) |
-| COST  | $   992.29 | ▼ -5.72 (-0.57%) |
-| ASML  | $  1383.62 | ▼ -48.82 (-3.41%) |
-| SPYM  | $    83.68 | ▼ -0.49 (-0.59%) |
-| LLY   | $   865.69 | ▼ -2.58 (-0.30%) |
-| OKLO  | $    70.26 | ▼ -5.67 (-7.47%) |
-| V     | $   311.64 | ▲ +1.99 (+0.64%) |
-| MA    | $   512.45 | ▲ +6.02 (+1.19%) |
-| AMZN  | $   258.44 | ▼ -2.68 (-1.03%) |
-| DUOL  | $   106.97 | ▲ +3.67 (+3.55%) |
+| NVDA  | $   209.12 | ▼ -4.05 (-1.90%) |
+| SPGI  | $   431.91 | ▼ -1.56 (-0.36%) |
+| META  | $   670.15 | ▼ -1.20 (-0.18%) |
+| AAPL  | $   270.41 | ▼ -0.30 (-0.11%) |
+| MSFT  | $   423.78 | ▼ -5.47 (-1.27%) |
+| GOOG  | $   347.26 | ▼ -0.24 (-0.07%) |
+| TSM   | $   393.98 | ▲ +1.64 (+0.42%) |
+| IONQ  | $    41.06 | ▼ -2.02 (-4.69%) |
+| COST  | $   996.45 | ▲ +2.45 (+0.25%) |
+| ASML  | $  1378.63 | ▼ -5.93 (-0.43%) |
+| SPYM  | $    83.56 | ▼ -0.21 (-0.24%) |
+| LLY   | $   853.20 | ▼ -20.80 (-2.38%) |
+| OKLO  | $    64.01 | ▼ -5.07 (-7.35%) |
+| V     | $   336.02 | ▲ +26.72 (+8.64%) |
+| MA    | $   530.01 | ▲ +22.39 (+4.41%) |
+| AMZN  | $   262.55 | ▲ +2.85 (+1.10%) |
+| DUOL  | $   103.72 | ▼ -2.52 (-2.37%) |
 
 ## Global News
-- Suspect charged with attempted assassination of Trump at Washington dinner 
-- US political violence generates a familiar cycle - this time it's in overdrive
-- Jimmy Kimmel rejects White House criticism over Melania widow joke
-- Russian superyacht sails through Strait of Hormuz despite blockade
-- United Arab Emirates to quit oil cartel Opec
-- Third Ukrainian strike hits Russian oil refinery and prompts evacuations
-- Suspected gunman aged 89 held in Greece after five wounded
+- Oil price soars above $118 after reports of 'extended' Iran blockade
+- Comey surrenders over charge of threatening Trump in Instagram post
+- New images show suspect taking selfies before Washington press dinner shooting
+- Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims
+- Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
+- Stranded whale ferried out of German waters in barge
+- France urges citizens to leave Mali after rebel attacks
 
 ---
-_Updated 2026-04-28_
+_Updated 2026-04-29_
