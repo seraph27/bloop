@@ -1,34 +1,34 @@
-# Daily TL;DR — April 29, 2026
+# Daily TL;DR — April 30, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   209.12 | ▼ -4.05 (-1.90%) |
-| SPGI  | $   431.91 | ▼ -1.56 (-0.36%) |
-| META  | $   670.15 | ▼ -1.20 (-0.18%) |
-| AAPL  | $   270.41 | ▼ -0.30 (-0.11%) |
-| MSFT  | $   423.78 | ▼ -5.47 (-1.27%) |
-| GOOG  | $   347.26 | ▼ -0.24 (-0.07%) |
-| TSM   | $   393.98 | ▲ +1.64 (+0.42%) |
-| IONQ  | $    41.06 | ▼ -2.02 (-4.69%) |
-| COST  | $   996.45 | ▲ +2.45 (+0.25%) |
-| ASML  | $  1378.63 | ▼ -5.93 (-0.43%) |
-| SPYM  | $    83.56 | ▼ -0.21 (-0.24%) |
-| LLY   | $   853.20 | ▼ -20.80 (-2.38%) |
-| OKLO  | $    64.01 | ▼ -5.07 (-7.35%) |
-| V     | $   336.02 | ▲ +26.72 (+8.64%) |
-| MA    | $   530.01 | ▲ +22.39 (+4.41%) |
-| AMZN  | $   262.55 | ▲ +2.85 (+1.10%) |
-| DUOL  | $   103.72 | ▼ -2.52 (-2.37%) |
+| NVDA  | $   200.40 | ▼ -8.85 (-4.23%) |
+| SPGI  | $   428.07 | ▼ -5.12 (-1.18%) |
+| META  | $   606.51 | ▼ -62.61 (-9.36%) |
+| AAPL  | $   272.40 | ▲ +2.23 (+0.83%) |
+| MSFT  | $   400.85 | ▼ -23.61 (-5.56%) |
+| GOOG  | $   379.41 | ▲ +32.10 (+9.24%) |
+| TSM   | $   394.70 | ▲ +0.87 (+0.22%) |
+| IONQ  | $    44.38 | ▲ +2.27 (+5.39%) |
+| COST  | $  1013.10 | ▲ +14.43 (+1.44%) |
+| ASML  | $  1433.91 | ▲ +39.83 (+2.86%) |
+| SPYM  | $    84.22 | ▲ +0.46 (+0.55%) |
+| LLY   | $   940.00 | ▲ +88.79 (+10.43%) |
+| OKLO  | $    70.02 | ▲ +5.04 (+7.76%) |
+| V     | $   330.76 | ▼ -4.10 (-1.22%) |
+| MA    | $   501.62 | ▼ -23.61 (-4.50%) |
+| AMZN  | $   259.66 | ▼ -3.38 (-1.28%) |
+| DUOL  | $   108.87 | ▲ +2.05 (+1.92%) |
 
 ## Global News
-- Oil price soars above $118 after reports of 'extended' Iran blockade
-- Comey surrenders over charge of threatening Trump in Instagram post
-- New images show suspect taking selfies before Washington press dinner shooting
-- Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims
-- Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
-- Stranded whale ferried out of German waters in barge
-- France urges citizens to leave Mali after rebel attacks
+- Oil price hits highest since 2022 after report Trump to be briefed on new Iran options
+- Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says
+- 'How are we going to get back home?' Islamist group tightens blockade on Mali capital
+- Israel intercepts Gaza flotilla near Crete and detains 175 activists
+- Trump says US studying troop cuts in Germany, as spat with Merz intensifies
+- US charges Mexican governor and other leaders with aiding drug cartel
+- Man sentenced to death for murder of toddlers at Ugandan nursery
 
 ---
-_Updated 2026-04-29_
+_Updated 2026-04-30_
