@@ -1,34 +1,34 @@
-# Daily TL;DR — May 01, 2026
+# Daily TL;DR — May 02, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   199.24 | ▼ -0.33 (-0.17%) |
-| SPGI  | $   428.46 | ▼ -2.77 (-0.64%) |
-| META  | $   612.66 | ▲ +0.75 (+0.12%) |
-| AAPL  | $   283.22 | ▲ +11.87 (+4.37%) |
-| MSFT  | $   413.28 | ▲ +5.50 (+1.35%) |
-| GOOG  | $   381.37 | ▼ -0.57 (-0.15%) |
-| TSM   | $   398.34 | ▲ +2.28 (+0.58%) |
-| IONQ  | $    46.12 | ▲ +1.01 (+2.23%) |
-| COST  | $  1014.65 | ▲ +0.12 (+0.01%) |
-| ASML  | $  1437.91 | ▼ -1.08 (-0.08%) |
-| SPYM  | $    84.97 | ▲ +0.42 (+0.49%) |
-| LLY   | $   961.55 | ▲ +26.95 (+2.88%) |
-| OKLO  | $    70.81 | ▼ -1.69 (-2.33%) |
-| V     | $   332.78 | ▲ +2.94 (+0.89%) |
-| MA    | $   497.27 | ▼ -5.65 (-1.12%) |
-| AMZN  | $   268.49 | ▲ +3.43 (+1.29%) |
-| DUOL  | $   112.50 | ▲ +2.40 (+2.18%) |
+| NVDA  | $   198.45 | ▼ -1.12 (-0.56%) |
+| SPGI  | $   426.06 | ▼ -5.17 (-1.20%) |
+| META  | $   608.75 | ▼ -3.16 (-0.52%) |
+| AAPL  | $   280.14 | ▲ +8.79 (+3.24%) |
+| MSFT  | $   414.44 | ▲ +6.66 (+1.63%) |
+| GOOG  | $   383.22 | ▲ +1.28 (+0.34%) |
+| TSM   | $   397.67 | ▲ +1.61 (+0.41%) |
+| IONQ  | $    46.20 | ▲ +1.08 (+2.39%) |
+| COST  | $  1011.70 | ▼ -1.36 (-0.13%) |
+| ASML  | $  1427.02 | ▼ -11.97 (-0.83%) |
+| SPYM  | $    84.83 | ▲ +0.27 (+0.32%) |
+| LLY   | $   963.33 | ▲ +28.73 (+3.07%) |
+| OKLO  | $    70.40 | ▼ -2.10 (-2.90%) |
+| V     | $   328.03 | ▼ -1.81 (-0.55%) |
+| MA    | $   495.46 | ▼ -7.46 (-1.48%) |
+| AMZN  | $   268.26 | ▲ +3.20 (+1.21%) |
+| DUOL  | $   111.25 | ▲ +1.15 (+1.04%) |
 
 ## Global News
-- Hegseth says clock paused on deadline to seek approval for Iran war
-- Billions of meals at risk due to Iran war, says fertiliser boss 
-- War criminal Mladic close to death, say lawyers asking judge for jail release
-- Turkish police arrest more than 500 people at May Day rallies
-- Israel releases all but two activists in Greece after intercepting Gaza aid flotilla
-- Missing Oscar found after Academy Award winner blocked from taking it on flight
-- Israeli police arrest man after nun attacked in Jerusalem
+- Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification
+- US threatens shipping firms with sanctions if they pay Iran tolls
+- Thirteen killed in Israeli strikes on southern Lebanon, health ministry says 
+- 'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans
+- Ex-F1 driver and Paralympic champion Zanardi dies
+- Spirit Airlines shutting down after rescue talks collapse
+- California to begin ticketing driverless cars that violate traffic laws
 
 ---
-_Updated 2026-05-01_
+_Updated 2026-05-02_
