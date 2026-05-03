@@ -1,4 +1,4 @@
-# Daily TL;DR — May 02, 2026
+# Daily TL;DR — May 03, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   111.25 | ▲ +1.15 (+1.04%) |
 
 ## Global News
-- Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification
-- US threatens shipping firms with sanctions if they pay Iran tolls
-- Thirteen killed in Israeli strikes on southern Lebanon, health ministry says 
-- 'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans
-- Ex-F1 driver and Paralympic champion Zanardi dies
-- Spirit Airlines shutting down after rescue talks collapse
-- California to begin ticketing driverless cars that violate traffic laws
+- Germany troop cuts send wrong signal to Russia, say two top US Republicans
+- Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal
+- Nigeria summons South African envoy over attacks on its nationals
+- Police officer lowered into crocodile-infested river to recover human remains
+- Two US service members reported missing in Morocco, officials say
+- The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?
+- The clandestine network smuggling Starlink tech into Iran to beat internet blackout
 
 ---
-_Updated 2026-05-02_
+_Updated 2026-05-03_
