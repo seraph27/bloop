@@ -1,34 +1,34 @@
-# Daily TL;DR — May 03, 2026
+# Daily TL;DR — May 04, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   198.45 | ▼ -1.12 (-0.56%) |
-| SPGI  | $   426.06 | ▼ -5.17 (-1.20%) |
-| META  | $   608.75 | ▼ -3.16 (-0.52%) |
-| AAPL  | $   280.14 | ▲ +8.79 (+3.24%) |
-| MSFT  | $   414.44 | ▲ +6.66 (+1.63%) |
-| GOOG  | $   383.22 | ▲ +1.28 (+0.34%) |
-| TSM   | $   397.67 | ▲ +1.61 (+0.41%) |
-| IONQ  | $    46.20 | ▲ +1.08 (+2.39%) |
-| COST  | $  1011.70 | ▼ -1.36 (-0.13%) |
-| ASML  | $  1427.02 | ▼ -11.97 (-0.83%) |
-| SPYM  | $    84.83 | ▲ +0.27 (+0.32%) |
-| LLY   | $   963.33 | ▲ +28.73 (+3.07%) |
-| OKLO  | $    70.40 | ▼ -2.10 (-2.90%) |
-| V     | $   328.03 | ▼ -1.81 (-0.55%) |
-| MA    | $   495.46 | ▼ -7.46 (-1.48%) |
-| AMZN  | $   268.26 | ▲ +3.20 (+1.21%) |
-| DUOL  | $   111.25 | ▲ +1.15 (+1.04%) |
+| NVDA  | $   197.70 | ▼ -0.75 (-0.38%) |
+| SPGI  | $   426.92 | ▲ +0.86 (+0.20%) |
+| META  | $   612.46 | ▲ +3.71 (+0.61%) |
+| AAPL  | $   277.19 | ▼ -2.95 (-1.05%) |
+| MSFT  | $   414.83 | ▲ +0.39 (+0.09%) |
+| GOOG  | $   380.68 | ▼ -2.54 (-0.66%) |
+| TSM   | $   401.07 | ▲ +3.40 (+0.85%) |
+| IONQ  | $    46.60 | ▲ +0.40 (+0.88%) |
+| COST  | $  1012.48 | ▲ +0.78 (+0.08%) |
+| ASML  | $  1386.47 | ▼ -40.55 (-2.84%) |
+| SPYM  | $    84.54 | ▼ -0.29 (-0.35%) |
+| LLY   | $   963.58 | ▲ +0.24 (+0.03%) |
+| OKLO  | $    70.60 | ▲ +0.20 (+0.28%) |
+| V     | $   328.77 | ▲ +0.74 (+0.23%) |
+| MA    | $   506.25 | ▲ +10.79 (+2.18%) |
+| AMZN  | $   271.70 | ▲ +3.44 (+1.28%) |
+| DUOL  | $   114.27 | ▲ +3.02 (+2.71%) |
 
 ## Global News
-- Germany troop cuts send wrong signal to Russia, say two top US Republicans
-- Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal
-- Nigeria summons South African envoy over attacks on its nationals
-- Police officer lowered into crocodile-infested river to recover human remains
-- Two US service members reported missing in Morocco, officials say
-- The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?
-- The clandestine network smuggling Starlink tech into Iran to beat internet blackout
+- Two killed and many injured after car driven into crowd in German city of Leipzig
+- Three dead in suspected virus outbreak on Atlantic cruise ship
+- Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'
+- Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations
+- Britney Spears pleads guilty to reckless driving after arrest
+- Three Russian diplomats expelled from Austria over spying accusations
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers
 
 ---
-_Updated 2026-05-03_
+_Updated 2026-05-04_
