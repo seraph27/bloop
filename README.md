@@ -1,34 +1,34 @@
-# Daily TL;DR — May 05, 2026
+# Daily TL;DR — May 06, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   197.61 | ▼ -0.87 (-0.44%) |
-| SPGI  | $   421.60 | ▼ -3.15 (-0.74%) |
-| META  | $   602.28 | ▼ -8.12 (-1.33%) |
-| AAPL  | $   283.07 | ▲ +6.24 (+2.25%) |
-| MSFT  | $   410.07 | ▼ -3.55 (-0.86%) |
-| GOOG  | $   381.20 | ▲ +1.56 (+0.41%) |
-| TSM   | $   397.23 | ▼ -4.38 (-1.09%) |
-| IONQ  | $    46.60 | ▲ +0.85 (+1.85%) |
-| COST  | $  1015.28 | ▲ +2.49 (+0.25%) |
-| ASML  | $  1442.83 | ▲ +56.62 (+4.08%) |
-| SPYM  | $    85.19 | ▲ +0.67 (+0.79%) |
-| LLY   | $   987.84 | ▲ +19.91 (+2.06%) |
-| OKLO  | $    66.60 | ▼ -2.00 (-2.92%) |
-| V     | $   320.67 | ▼ -6.18 (-1.89%) |
-| MA    | $   495.57 | ▼ -9.17 (-1.82%) |
-| AMZN  | $   273.59 | ▲ +1.54 (+0.57%) |
-| DUOL  | $    99.22 | ▼ -11.01 (-9.99%) |
+| NVDA  | $   205.80 | ▲ +9.30 (+4.73%) |
+| SPGI  | $   425.17 | ▲ +1.30 (+0.31%) |
+| META  | $   611.93 | ▲ +6.97 (+1.15%) |
+| AAPL  | $   286.78 | ▲ +2.60 (+0.91%) |
+| MSFT  | $   412.62 | ▲ +1.24 (+0.30%) |
+| GOOG  | $   394.30 | ▲ +10.03 (+2.61%) |
+| TSM   | $   416.80 | ▲ +22.39 (+5.68%) |
+| IONQ  | $    53.05 | ▲ +5.05 (+10.52%) |
+| COST  | $   992.70 | ▼ -23.72 (-2.33%) |
+| ASML  | $  1533.49 | ▲ +90.57 (+6.28%) |
+| SPYM  | $    86.14 | ▲ +0.95 (+1.12%) |
+| LLY   | $   991.89 | ▲ +3.02 (+0.31%) |
+| OKLO  | $    78.38 | ▲ +10.00 (+14.62%) |
+| V     | $   318.69 | ▼ -3.34 (-1.04%) |
+| MA    | $   490.19 | ▼ -6.89 (-1.39%) |
+| AMZN  | $   276.50 | ▲ +2.95 (+1.08%) |
+| DUOL  | $   105.14 | ▲ +1.11 (+1.07%) |
 
 ## Global News
-- Hantavirus may have spread between passengers on cruise ship, WHO says
-- Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow
-- Nine coal miners die in gas explosion in Colombia
-- Two killed and many injured after car driven into crowd in German city of Leipzig
-- Romanian PM ousted in no-confidence vote
-- Explosion at China fireworks factory kills 26 people
-- A 'fun' superstar stuns rivals and reshapes politics in an Indian state
+- Oil prices drop and stock markets rise after reports of deal to end Iran war
+- Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87
+- Massive Alaska megatsunami was second largest ever recorded
+- German police raid neo-Nazi criminal youth groups
+- Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten
+- Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary
+- To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city
 
 ---
-_Updated 2026-05-05_
+_Updated 2026-05-06_
