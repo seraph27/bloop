@@ -1,34 +1,34 @@
-# Daily TL;DR — May 06, 2026
+# Daily TL;DR — May 07, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   205.80 | ▲ +9.30 (+4.73%) |
-| SPGI  | $   425.17 | ▲ +1.30 (+0.31%) |
-| META  | $   611.93 | ▲ +6.97 (+1.15%) |
-| AAPL  | $   286.78 | ▲ +2.60 (+0.91%) |
-| MSFT  | $   412.62 | ▲ +1.24 (+0.30%) |
-| GOOG  | $   394.30 | ▲ +10.03 (+2.61%) |
-| TSM   | $   416.80 | ▲ +22.39 (+5.68%) |
-| IONQ  | $    53.05 | ▲ +5.05 (+10.52%) |
-| COST  | $   992.70 | ▼ -23.72 (-2.33%) |
-| ASML  | $  1533.49 | ▲ +90.57 (+6.28%) |
-| SPYM  | $    86.14 | ▲ +0.95 (+1.12%) |
-| LLY   | $   991.89 | ▲ +3.02 (+0.31%) |
-| OKLO  | $    78.38 | ▲ +10.00 (+14.62%) |
-| V     | $   318.69 | ▼ -3.34 (-1.04%) |
-| MA    | $   490.19 | ▼ -6.89 (-1.39%) |
-| AMZN  | $   276.50 | ▲ +2.95 (+1.08%) |
-| DUOL  | $   105.14 | ▲ +1.11 (+1.07%) |
+| NVDA  | $   211.84 | ▲ +4.01 (+1.93%) |
+| SPGI  | $   428.15 | ▲ +4.58 (+1.08%) |
+| META  | $   613.84 | ▲ +0.96 (+0.16%) |
+| AAPL  | $   288.27 | ▲ +0.76 (+0.26%) |
+| MSFT  | $   421.12 | ▲ +7.17 (+1.73%) |
+| GOOG  | $   393.37 | ▼ -1.77 (-0.45%) |
+| TSM   | $   410.89 | ▼ -8.61 (-2.05%) |
+| IONQ  | $    46.41 | ▼ -6.16 (-11.72%) |
+| COST  | $  1001.99 | ▲ +6.24 (+0.63%) |
+| ASML  | $  1510.43 | ▼ -34.31 (-2.22%) |
+| SPYM  | $    85.97 | ▼ -0.40 (-0.46%) |
+| LLY   | $   973.26 | ▼ -13.79 (-1.40%) |
+| OKLO  | $    72.43 | ▼ -7.19 (-9.03%) |
+| V     | $   321.25 | ▲ +2.45 (+0.77%) |
+| MA    | $   498.34 | ▲ +6.45 (+1.31%) |
+| AMZN  | $   271.81 | ▼ -3.18 (-1.16%) |
+| DUOL  | $   112.54 | ▲ +7.52 (+7.16%) |
 
 ## Global News
-- Oil prices drop and stock markets rise after reports of deal to end Iran war
-- Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87
-- Massive Alaska megatsunami was second largest ever recorded
-- German police raid neo-Nazi criminal youth groups
-- Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten
-- Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary
-- To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city
+- Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says
+- Three women linked to Islamic State arrested in Australia on return from Syria
+- Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan
+- Fears of renewed Gaza war as Hamas disarmament talks stall
+- US judge releases Jeffrey Epstein's purported suicide note
+- Rwandan singer dies as he was being released from prison
+- China announces suspended death sentences for former defence ministers
 
 ---
-_Updated 2026-05-06_
+_Updated 2026-05-07_
