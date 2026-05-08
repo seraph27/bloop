@@ -1,34 +1,34 @@
-# Daily TL;DR — May 07, 2026
+# Daily TL;DR — May 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   211.84 | ▲ +4.01 (+1.93%) |
-| SPGI  | $   428.15 | ▲ +4.58 (+1.08%) |
-| META  | $   613.84 | ▲ +0.96 (+0.16%) |
-| AAPL  | $   288.27 | ▲ +0.76 (+0.26%) |
-| MSFT  | $   421.12 | ▲ +7.17 (+1.73%) |
-| GOOG  | $   393.37 | ▼ -1.77 (-0.45%) |
-| TSM   | $   410.89 | ▼ -8.61 (-2.05%) |
-| IONQ  | $    46.41 | ▼ -6.16 (-11.72%) |
-| COST  | $  1001.99 | ▲ +6.24 (+0.63%) |
-| ASML  | $  1510.43 | ▼ -34.31 (-2.22%) |
-| SPYM  | $    85.97 | ▼ -0.40 (-0.46%) |
-| LLY   | $   973.26 | ▼ -13.79 (-1.40%) |
-| OKLO  | $    72.43 | ▼ -7.19 (-9.03%) |
-| V     | $   321.25 | ▲ +2.45 (+0.77%) |
-| MA    | $   498.34 | ▲ +6.45 (+1.31%) |
-| AMZN  | $   271.81 | ▼ -3.18 (-1.16%) |
-| DUOL  | $   112.54 | ▲ +7.52 (+7.16%) |
+| NVDA  | $   215.99 | ▲ +4.49 (+2.12%) |
+| SPGI  | $   420.12 | ▼ -8.56 (-2.00%) |
+| META  | $   609.72 | ▼ -7.09 (-1.15%) |
+| AAPL  | $   292.22 | ▲ +4.78 (+1.66%) |
+| MSFT  | $   416.91 | ▼ -3.86 (-0.92%) |
+| GOOG  | $   394.70 | ▼ -0.60 (-0.15%) |
+| TSM   | $   405.65 | ▼ -8.50 (-2.05%) |
+| IONQ  | $    46.23 | ▼ -1.45 (-3.04%) |
+| COST  | $  1012.83 | ▲ +0.77 (+0.08%) |
+| ASML  | $  1585.31 | ▲ +68.71 (+4.53%) |
+| SPYM  | $    86.83 | ▲ +0.73 (+0.85%) |
+| LLY   | $   955.00 | ▼ -19.96 (-2.05%) |
+| OKLO  | $    70.74 | ▼ -1.09 (-1.52%) |
+| V     | $   319.96 | ▼ -1.32 (-0.41%) |
+| MA    | $   497.76 | ▼ -3.18 (-0.64%) |
+| AMZN  | $   273.06 | ▲ +1.89 (+0.70%) |
+| DUOL  | $   109.38 | ▼ -4.23 (-3.72%) |
 
 ## Global News
-- Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says
-- Three women linked to Islamic State arrested in Australia on return from Syria
-- Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan
-- Fears of renewed Gaza war as Hamas disarmament talks stall
-- US judge releases Jeffrey Epstein's purported suicide note
-- Rwandan singer dies as he was being released from prison
-- China announces suspended death sentences for former defence ministers
+- Iran accuses US of 'reckless military adventure'
+- Russia and Ukraine accuse each other of breaching Victory Day ceasefire
+- Worldwide race to trace passengers from hantavirus-hit cruise ship
+- White House calls Mark Hamill 'sick' after actor's Trump grave post
+- International cyber attack disrupts swathe of universities and schools 
+- Three dead after volcano erupts on Indonesian island
+- South Africa president faces call to resign after court ruling
 
 ---
-_Updated 2026-05-07_
+_Updated 2026-05-08_
