@@ -1,34 +1,34 @@
-# Daily TL;DR — May 08, 2026
+# Daily TL;DR — May 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   215.99 | ▲ +4.49 (+2.12%) |
+| NVDA  | $   215.20 | ▲ +3.70 (+1.75%) |
 | SPGI  | $   420.12 | ▼ -8.56 (-2.00%) |
-| META  | $   609.72 | ▼ -7.09 (-1.15%) |
-| AAPL  | $   292.22 | ▲ +4.78 (+1.66%) |
-| MSFT  | $   416.91 | ▼ -3.86 (-0.92%) |
-| GOOG  | $   394.70 | ▼ -0.60 (-0.15%) |
-| TSM   | $   405.65 | ▼ -8.50 (-2.05%) |
-| IONQ  | $    46.23 | ▼ -1.45 (-3.04%) |
-| COST  | $  1012.83 | ▲ +0.77 (+0.08%) |
-| ASML  | $  1585.31 | ▲ +68.71 (+4.53%) |
-| SPYM  | $    86.83 | ▲ +0.73 (+0.85%) |
-| LLY   | $   955.00 | ▼ -19.96 (-2.05%) |
-| OKLO  | $    70.74 | ▼ -1.09 (-1.52%) |
-| V     | $   319.96 | ▼ -1.32 (-0.41%) |
-| MA    | $   497.76 | ▼ -3.18 (-0.64%) |
-| AMZN  | $   273.06 | ▲ +1.89 (+0.70%) |
-| DUOL  | $   109.38 | ▼ -4.23 (-3.72%) |
+| META  | $   609.63 | ▼ -7.18 (-1.16%) |
+| AAPL  | $   293.32 | ▲ +5.88 (+2.05%) |
+| MSFT  | $   415.12 | ▼ -5.65 (-1.34%) |
+| GOOG  | $   397.05 | ▲ +1.75 (+0.44%) |
+| TSM   | $   411.68 | ▼ -2.47 (-0.60%) |
+| IONQ  | $    49.24 | ▲ +1.56 (+3.27%) |
+| COST  | $  1008.79 | ▼ -3.27 (-0.32%) |
+| ASML  | $  1592.02 | ▲ +75.42 (+4.97%) |
+| SPYM  | $    86.82 | ▲ +0.72 (+0.84%) |
+| LLY   | $   948.45 | ▼ -26.51 (-2.72%) |
+| OKLO  | $    72.51 | ▲ +0.68 (+0.95%) |
+| V     | $   318.79 | ▼ -2.49 (-0.78%) |
+| MA    | $   495.48 | ▼ -5.46 (-1.09%) |
+| AMZN  | $   272.68 | ▲ +1.51 (+0.56%) |
+| DUOL  | $   107.99 | ▼ -5.62 (-4.95%) |
 
 ## Global News
+- Putin denounces Nato at scaled back Victory Day parade
 - Iran accuses US of 'reckless military adventure'
-- Russia and Ukraine accuse each other of breaching Victory Day ceasefire
-- Worldwide race to trace passengers from hantavirus-hit cruise ship
-- White House calls Mark Hamill 'sick' after actor's Trump grave post
-- International cyber attack disrupts swathe of universities and schools 
-- Three dead after volcano erupts on Indonesian island
-- South Africa president faces call to resign after court ruling
+- I will serve - not rule over Hungary, says new PM
+- WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship
+- Australia's right-wing One Nation party scores historic parliamentary win 
+- UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission
+- Person killed after being hit by plane on runway at Denver airport
 
 ---
-_Updated 2026-05-08_
+_Updated 2026-05-09_
