@@ -1,4 +1,4 @@
-# Daily TL;DR — May 09, 2026
+# Daily TL;DR — May 10, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   107.99 | ▼ -5.62 (-4.95%) |
 
 ## Global News
-- Putin denounces Nato at scaled back Victory Day parade
-- Iran accuses US of 'reckless military adventure'
-- I will serve - not rule over Hungary, says new PM
-- WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship
-- Australia's right-wing One Nation party scores historic parliamentary win 
-- UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission
-- Person killed after being hit by plane on runway at Denver airport
+- Countries airlift nationals evacuated from virus-hit cruise ship
+- Army parachutes onto remote island to help Briton with suspected hantavirus
+- Iran sends response to US proposals to end war
+- Putin says he thinks Ukraine conflict 'coming to an end'
+- Lebanon says Israeli strikes killed 39 
+- Israel deports two activists detained on board Gaza flotilla
+- Dress made from 500 loaves stuns African film awards
 
 ---
-_Updated 2026-05-09_
+_Updated 2026-05-10_
