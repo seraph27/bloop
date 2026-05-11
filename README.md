@@ -1,34 +1,34 @@
-# Daily TL;DR — May 10, 2026
+# Daily TL;DR — May 11, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   215.20 | ▲ +3.70 (+1.75%) |
-| SPGI  | $   420.12 | ▼ -8.56 (-2.00%) |
-| META  | $   609.63 | ▼ -7.18 (-1.16%) |
-| AAPL  | $   293.32 | ▲ +5.88 (+2.05%) |
-| MSFT  | $   415.12 | ▼ -5.65 (-1.34%) |
-| GOOG  | $   397.05 | ▲ +1.75 (+0.44%) |
-| TSM   | $   411.68 | ▼ -2.47 (-0.60%) |
-| IONQ  | $    49.24 | ▲ +1.56 (+3.27%) |
-| COST  | $  1008.79 | ▼ -3.27 (-0.32%) |
-| ASML  | $  1592.02 | ▲ +75.42 (+4.97%) |
-| SPYM  | $    86.82 | ▲ +0.72 (+0.84%) |
-| LLY   | $   948.45 | ▼ -26.51 (-2.72%) |
-| OKLO  | $    72.51 | ▲ +0.68 (+0.95%) |
-| V     | $   318.79 | ▼ -2.49 (-0.78%) |
-| MA    | $   495.48 | ▼ -5.46 (-1.09%) |
-| AMZN  | $   272.68 | ▲ +1.51 (+0.56%) |
-| DUOL  | $   107.99 | ▼ -5.62 (-4.95%) |
+| NVDA  | $   220.74 | ▲ +5.54 (+2.57%) |
+| SPGI  | $   421.52 | ▲ +1.40 (+0.33%) |
+| META  | $   602.75 | ▼ -6.88 (-1.13%) |
+| AAPL  | $   292.14 | ▼ -1.18 (-0.40%) |
+| MSFT  | $   411.33 | ▼ -3.79 (-0.91%) |
+| GOOG  | $   389.35 | ▼ -7.70 (-1.94%) |
+| TSM   | $   404.68 | ▼ -7.00 (-1.70%) |
+| IONQ  | $    57.08 | ▲ +7.84 (+15.92%) |
+| COST  | $   992.58 | ▼ -16.21 (-1.61%) |
+| ASML  | $  1557.53 | ▼ -34.49 (-2.17%) |
+| SPYM  | $    87.14 | ▲ +0.32 (+0.36%) |
+| LLY   | $   971.33 | ▲ +22.88 (+2.41%) |
+| OKLO  | $    79.11 | ▲ +6.60 (+9.10%) |
+| V     | $   324.06 | ▲ +5.27 (+1.65%) |
+| MA    | $   498.93 | ▲ +3.45 (+0.70%) |
+| AMZN  | $   270.95 | ▼ -1.73 (-0.63%) |
+| DUOL  | $   106.47 | ▼ -1.52 (-1.41%) |
 
 ## Global News
-- Countries airlift nationals evacuated from virus-hit cruise ship
-- Army parachutes onto remote island to help Briton with suspected hantavirus
-- Iran sends response to US proposals to end war
-- Putin says he thinks Ukraine conflict 'coming to an end'
-- Lebanon says Israeli strikes killed 39 
-- Israel deports two activists detained on board Gaza flotilla
-- Dress made from 500 loaves stuns African film awards
+- US and French nationals test positive for hantavirus after leaving ship
+- US passengers from ship quarantined as officials say public risk 'very low'
+- Portrait looted by Nazis found in home of Dutch SS leader's descendants
+- Washington dinner shooting suspect pleads not guilty
+- Whales could be harmed by diverted ships avoiding Middle East, scientists warn
+- Trump calls Iran response to US proposal to end war 'totally unacceptable' 
+- Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram
 
 ---
-_Updated 2026-05-10_
+_Updated 2026-05-11_
