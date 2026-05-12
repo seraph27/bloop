@@ -1,34 +1,34 @@
-# Daily TL;DR — May 11, 2026
+# Daily TL;DR — May 12, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   220.74 | ▲ +5.54 (+2.57%) |
-| SPGI  | $   421.52 | ▲ +1.40 (+0.33%) |
-| META  | $   602.75 | ▼ -6.88 (-1.13%) |
-| AAPL  | $   292.14 | ▼ -1.18 (-0.40%) |
-| MSFT  | $   411.33 | ▼ -3.79 (-0.91%) |
-| GOOG  | $   389.35 | ▼ -7.70 (-1.94%) |
-| TSM   | $   404.68 | ▼ -7.00 (-1.70%) |
-| IONQ  | $    57.08 | ▲ +7.84 (+15.92%) |
-| COST  | $   992.58 | ▼ -16.21 (-1.61%) |
-| ASML  | $  1557.53 | ▼ -34.49 (-2.17%) |
-| SPYM  | $    87.14 | ▲ +0.32 (+0.36%) |
-| LLY   | $   971.33 | ▲ +22.88 (+2.41%) |
-| OKLO  | $    79.11 | ▲ +6.60 (+9.10%) |
-| V     | $   324.06 | ▲ +5.27 (+1.65%) |
-| MA    | $   498.93 | ▲ +3.45 (+0.70%) |
-| AMZN  | $   270.95 | ▼ -1.73 (-0.63%) |
-| DUOL  | $   106.47 | ▼ -1.52 (-1.41%) |
+| NVDA  | $   218.48 | ▼ -0.96 (-0.44%) |
+| SPGI  | $   426.12 | ▲ +5.12 (+1.22%) |
+| META  | $   600.22 | ▲ +1.36 (+0.23%) |
+| AAPL  | $   294.18 | ▲ +1.50 (+0.51%) |
+| MSFT  | $   408.73 | ▼ -3.93 (-0.95%) |
+| GOOG  | $   381.80 | ▼ -4.97 (-1.28%) |
+| TSM   | $   393.24 | ▼ -11.30 (-2.79%) |
+| IONQ  | $    53.80 | ▼ -3.09 (-5.43%) |
+| COST  | $  1020.49 | ▲ +21.02 (+2.10%) |
+| ASML  | $  1499.02 | ▼ -66.79 (-4.27%) |
+| SPYM  | $    86.53 | ▼ -0.49 (-0.56%) |
+| LLY   | $   991.62 | ▲ +24.63 (+2.55%) |
+| OKLO  | $    72.75 | ▼ -5.38 (-6.89%) |
+| V     | $   328.05 | ▲ +4.19 (+1.29%) |
+| MA    | $   503.74 | ▲ +5.93 (+1.19%) |
+| AMZN  | $   264.22 | ▼ -4.77 (-1.77%) |
+| DUOL  | $   107.38 | ▲ +2.23 (+2.12%) |
 
 ## Global News
-- US and French nationals test positive for hantavirus after leaving ship
-- US passengers from ship quarantined as officials say public risk 'very low'
-- Portrait looted by Nazis found in home of Dutch SS leader's descendants
-- Washington dinner shooting suspect pleads not guilty
-- Whales could be harmed by diverted ships avoiding Middle East, scientists warn
-- Trump calls Iran response to US proposal to end war 'totally unacceptable' 
-- Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram
+- No sign of larger hantavirus outbreak, says UN health agency 
+- Trump says Iran ceasefire is on 'massive life support'
+- Lebanon says two paramedics among 10 killed in Israeli strikes
+- Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates
+- US inflation jumps to 3.8% as energy costs surge from Iran war
+- South Africa's top court bars repeat asylum applications
+- Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says
 
 ---
-_Updated 2026-05-11_
+_Updated 2026-05-12_
