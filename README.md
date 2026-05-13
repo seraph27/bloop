@@ -1,34 +1,34 @@
-# Daily TL;DR — May 12, 2026
+# Daily TL;DR — May 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   218.48 | ▼ -0.96 (-0.44%) |
-| SPGI  | $   426.12 | ▲ +5.12 (+1.22%) |
-| META  | $   600.22 | ▲ +1.36 (+0.23%) |
-| AAPL  | $   294.18 | ▲ +1.50 (+0.51%) |
-| MSFT  | $   408.73 | ▼ -3.93 (-0.95%) |
-| GOOG  | $   381.80 | ▼ -4.97 (-1.28%) |
-| TSM   | $   393.24 | ▼ -11.30 (-2.79%) |
-| IONQ  | $    53.80 | ▼ -3.09 (-5.43%) |
-| COST  | $  1020.49 | ▲ +21.02 (+2.10%) |
-| ASML  | $  1499.02 | ▼ -66.79 (-4.27%) |
-| SPYM  | $    86.53 | ▼ -0.49 (-0.56%) |
-| LLY   | $   991.62 | ▲ +24.63 (+2.55%) |
-| OKLO  | $    72.75 | ▼ -5.38 (-6.89%) |
-| V     | $   328.05 | ▲ +4.19 (+1.29%) |
-| MA    | $   503.74 | ▲ +5.93 (+1.19%) |
-| AMZN  | $   264.22 | ▼ -4.77 (-1.77%) |
-| DUOL  | $   107.38 | ▲ +2.23 (+2.12%) |
+| NVDA  | $   226.16 | ▲ +5.38 (+2.44%) |
+| SPGI  | $   405.27 | ▼ -18.90 (-4.46%) |
+| META  | $   616.38 | ▲ +13.38 (+2.22%) |
+| AAPL  | $   300.08 | ▲ +5.28 (+1.79%) |
+| MSFT  | $   404.10 | ▼ -3.67 (-0.90%) |
+| GOOG  | $   398.30 | ▲ +14.48 (+3.77%) |
+| TSM   | $   403.16 | ▲ +5.88 (+1.48%) |
+| IONQ  | $    55.27 | ▼ -0.60 (-1.07%) |
+| COST  | $  1026.58 | ▲ +4.70 (+0.46%) |
+| ASML  | $  1584.10 | ▲ +63.16 (+4.15%) |
+| SPYM  | $    87.41 | ▲ +0.51 (+0.59%) |
+| LLY   | $  1021.60 | ▲ +31.73 (+3.21%) |
+| OKLO  | $    70.08 | ▼ -3.55 (-4.82%) |
+| V     | $   321.58 | ▼ -4.84 (-1.48%) |
+| MA    | $   493.86 | ▼ -5.95 (-1.19%) |
+| AMZN  | $   269.38 | ▲ +3.56 (+1.34%) |
+| DUOL  | $   104.32 | ▼ -1.69 (-1.59%) |
 
 ## Global News
-- No sign of larger hantavirus outbreak, says UN health agency 
-- Trump says Iran ceasefire is on 'massive life support'
-- Lebanon says two paramedics among 10 killed in Israeli strikes
-- Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates
-- US inflation jumps to 3.8% as energy costs surge from Iran war
-- South Africa's top court bars repeat asylum applications
-- Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says
+- Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi 
+- Court overturns Alex Murdaugh's murder convictions and orders new trial
+- Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation
+- Woman isolating on British island in South Pacific after hantavirus contact
+- What to know as Trump visits Xi in China
+- Philippine Senate in lockdown after gunshots fired
+- Israeli strikes on cars in southern Lebanon kill 12, health ministry says
 
 ---
-_Updated 2026-05-12_
+_Updated 2026-05-13_
