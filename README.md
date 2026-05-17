@@ -1,4 +1,4 @@
-# Daily TL;DR — May 16, 2026
+# Daily TL;DR — May 17, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   112.06 | ▲ +2.90 (+2.66%) |
 
 ## Global News
-- Senior IS leader killed in joint operation, US and Nigeria say
-- Rescue diver dies during search for bodies of Italians who drowned in Maldives caves
-- US planning to charge ex-Cuban leader Raúl Castro
-- Toddlers among more than 50 schoolchildren kidnapped in Nigeria
-- Trump warns Taiwan against declaring independence, hours after summit with China's Xi
-- Man killed by 13ft shark in Western Australia
-- Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
+- WHO declares Ebola outbreak in DR Congo an international emergency
+- How worrying is the Ebola outbreak in DR Congo?
+- Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
+- UAE reports strike near Abu Dhabi nuclear power plant
+- Man drives car into pedestrians in Italy, injuring eight
+- Hezbollah drone strike videos show evolving tactics against Israel
+- Taiwan insists it is independent after Trump warning
 
 ---
-_Updated 2026-05-16_
+_Updated 2026-05-17_
