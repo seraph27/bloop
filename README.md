@@ -1,34 +1,34 @@
-# Daily TL;DR — May 17, 2026
+# Daily TL;DR — May 18, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   225.32 | ▼ -10.42 (-4.42%) |
-| SPGI  | $   403.15 | ▼ -0.77 (-0.19%) |
-| META  | $   614.23 | ▼ -4.20 (-0.68%) |
-| AAPL  | $   300.23 | ▲ +2.02 (+0.68%) |
-| MSFT  | $   421.92 | ▲ +12.49 (+3.05%) |
-| GOOG  | $   393.32 | ▼ -3.85 (-0.97%) |
-| TSM   | $   404.35 | ▼ -13.37 (-3.20%) |
-| IONQ  | $    51.95 | ▼ -5.52 (-9.61%) |
-| COST  | $  1048.95 | ▲ +7.70 (+0.74%) |
-| ASML  | $  1501.81 | ▼ -82.70 (-5.22%) |
-| SPYM  | $    86.99 | ▼ -1.06 (-1.20%) |
-| LLY   | $  1004.92 | ▼ -0.05 (-0.00%) |
-| OKLO  | $    62.25 | ▼ -4.96 (-7.38%) |
-| V     | $   325.75 | ▲ +3.23 (+1.00%) |
-| MA    | $   494.20 | ▲ +4.26 (+0.87%) |
-| AMZN  | $   264.14 | ▼ -3.08 (-1.15%) |
-| DUOL  | $   112.06 | ▲ +2.90 (+2.66%) |
+| NVDA  | $   220.69 | ▼ -4.63 (-2.05%) |
+| SPGI  | $   417.81 | ▲ +14.66 (+3.64%) |
+| META  | $   613.49 | ▼ -0.74 (-0.12%) |
+| AAPL  | $   296.22 | ▼ -4.01 (-1.34%) |
+| MSFT  | $   423.55 | ▲ +1.63 (+0.39%) |
+| GOOG  | $   396.93 | ▲ +3.61 (+0.92%) |
+| TSM   | $   393.74 | ▼ -10.61 (-2.62%) |
+| IONQ  | $    48.18 | ▼ -3.77 (-7.26%) |
+| COST  | $  1069.37 | ▲ +20.42 (+1.95%) |
+| ASML  | $  1464.25 | ▼ -37.56 (-2.50%) |
+| SPYM  | $    86.64 | ▼ -0.35 (-0.40%) |
+| LLY   | $   989.27 | ▼ -15.65 (-1.56%) |
+| OKLO  | $    57.31 | ▼ -4.94 (-7.93%) |
+| V     | $   331.54 | ▲ +5.79 (+1.78%) |
+| MA    | $   502.38 | ▲ +8.18 (+1.66%) |
+| AMZN  | $   264.36 | ▲ +0.22 (+0.09%) |
+| DUOL  | $   114.20 | ▲ +2.14 (+1.91%) |
 
 ## Global News
-- WHO declares Ebola outbreak in DR Congo an international emergency
-- How worrying is the Ebola outbreak in DR Congo?
-- Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
-- UAE reports strike near Abu Dhabi nuclear power plant
-- Man drives car into pedestrians in Italy, injuring eight
-- Hezbollah drone strike videos show evolving tactics against Israel
-- Taiwan insists it is independent after Trump warning
+- At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed
+- What is Ebola and why is stopping this outbreak so difficult?
+- Death toll from Israeli strikes on Lebanon passes 3,000, officials say
+- Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial
+- Two men arrested over stunt at enclosure of famous monkey Punch
+- Shakira wins £50m tax refund from Spanish government
+- Former Google CEO Eric Schmidt booed by graduates at mention of AI
 
 ---
-_Updated 2026-05-17_
+_Updated 2026-05-18_
