@@ -1,34 +1,34 @@
-# Daily TL;DR — May 18, 2026
+# Daily TL;DR — May 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   220.69 | ▼ -4.63 (-2.05%) |
-| SPGI  | $   417.81 | ▲ +14.66 (+3.64%) |
-| META  | $   613.49 | ▼ -0.74 (-0.12%) |
-| AAPL  | $   296.22 | ▼ -4.01 (-1.34%) |
-| MSFT  | $   423.55 | ▲ +1.63 (+0.39%) |
-| GOOG  | $   396.93 | ▲ +3.61 (+0.92%) |
-| TSM   | $   393.74 | ▼ -10.61 (-2.62%) |
-| IONQ  | $    48.18 | ▼ -3.77 (-7.26%) |
-| COST  | $  1069.37 | ▲ +20.42 (+1.95%) |
-| ASML  | $  1464.25 | ▼ -37.56 (-2.50%) |
-| SPYM  | $    86.64 | ▼ -0.35 (-0.40%) |
-| LLY   | $   989.27 | ▼ -15.65 (-1.56%) |
-| OKLO  | $    57.31 | ▼ -4.94 (-7.93%) |
-| V     | $   331.54 | ▲ +5.79 (+1.78%) |
-| MA    | $   502.38 | ▲ +8.18 (+1.66%) |
-| AMZN  | $   264.36 | ▲ +0.22 (+0.09%) |
-| DUOL  | $   114.20 | ▲ +2.14 (+1.91%) |
+| NVDA  | $   223.55 | ▲ +1.23 (+0.55%) |
+| SPGI  | $   412.15 | ▼ -5.26 (-1.26%) |
+| META  | $   602.35 | ▼ -8.86 (-1.45%) |
+| AAPL  | $   298.35 | ▲ +0.51 (+0.17%) |
+| MSFT  | $   418.96 | ▼ -4.58 (-1.08%) |
+| GOOG  | $   387.65 | ▼ -5.46 (-1.39%) |
+| TSM   | $   396.57 | ▲ +0.62 (+0.16%) |
+| IONQ  | $    48.99 | ▼ -0.32 (-0.65%) |
+| COST  | $  1086.84 | ▲ +10.37 (+0.96%) |
+| ASML  | $  1470.13 | ▼ -2.26 (-0.15%) |
+| SPYM  | $    86.75 | ▼ -0.19 (-0.22%) |
+| LLY   | $  1011.72 | ▲ +23.63 (+2.39%) |
+| OKLO  | $    55.81 | ▼ -2.75 (-4.69%) |
+| V     | $   330.73 | ▼ -1.91 (-0.57%) |
+| MA    | $   500.45 | ▼ -5.34 (-1.06%) |
+| AMZN  | $   259.44 | ▼ -5.42 (-2.05%) |
+| DUOL  | $   113.22 | ▼ -0.01 (-0.01%) |
 
 ## Global News
-- At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed
-- What is Ebola and why is stopping this outbreak so difficult?
-- Death toll from Israeli strikes on Lebanon passes 3,000, officials say
-- Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial
-- Two men arrested over stunt at enclosure of famous monkey Punch
-- Shakira wins £50m tax refund from Spanish government
-- Former Google CEO Eric Schmidt booed by graduates at mention of AI
+- Ebola outbreak may be spreading faster than first thought, WHO doctor warns
+- Father-of-eight killed in San Diego mosque shooting hailed as hero
+- Victim or enabler? Epstein girlfriend who could face questions despite plea deal
+- Son of Mango boss arrested over father's fatal fall from cliff
+- Selling children to survive: Afghan fathers forced to make impossible choices
+- Two bodies of missing Italians recovered from inside Maldives cave
+- Uncontrolled California wildfires seen from space
 
 ---
-_Updated 2026-05-18_
+_Updated 2026-05-19_
