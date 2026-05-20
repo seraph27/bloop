@@ -1,34 +1,34 @@
-# Daily TL;DR — May 19, 2026
+# Daily TL;DR — May 20, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   223.55 | ▲ +1.23 (+0.55%) |
-| SPGI  | $   412.15 | ▼ -5.26 (-1.26%) |
-| META  | $   602.35 | ▼ -8.86 (-1.45%) |
-| AAPL  | $   298.35 | ▲ +0.51 (+0.17%) |
-| MSFT  | $   418.96 | ▼ -4.58 (-1.08%) |
-| GOOG  | $   387.65 | ▼ -5.46 (-1.39%) |
-| TSM   | $   396.57 | ▲ +0.62 (+0.16%) |
-| IONQ  | $    48.99 | ▼ -0.32 (-0.65%) |
-| COST  | $  1086.84 | ▲ +10.37 (+0.96%) |
-| ASML  | $  1470.13 | ▼ -2.26 (-0.15%) |
-| SPYM  | $    86.75 | ▼ -0.19 (-0.22%) |
-| LLY   | $  1011.72 | ▲ +23.63 (+2.39%) |
-| OKLO  | $    55.81 | ▼ -2.75 (-4.69%) |
-| V     | $   330.73 | ▼ -1.91 (-0.57%) |
-| MA    | $   500.45 | ▼ -5.34 (-1.06%) |
-| AMZN  | $   259.44 | ▼ -5.42 (-2.05%) |
-| DUOL  | $   113.22 | ▼ -0.01 (-0.01%) |
+| NVDA  | $   224.37 | ▲ +3.76 (+1.70%) |
+| SPGI  | $   416.08 | ▲ +5.68 (+1.38%) |
+| META  | $   604.52 | ▲ +1.91 (+0.32%) |
+| AAPL  | $   301.58 | ▲ +2.61 (+0.87%) |
+| MSFT  | $   420.16 | ▲ +2.74 (+0.66%) |
+| GOOG  | $   383.37 | ▼ -1.53 (-0.40%) |
+| TSM   | $   401.55 | ▲ +8.94 (+2.28%) |
+| IONQ  | $    52.66 | ▲ +4.22 (+8.71%) |
+| COST  | $  1079.52 | ▼ -14.80 (-1.35%) |
+| ASML  | $  1541.20 | ▲ +81.76 (+5.60%) |
+| SPYM  | $    87.13 | ▲ +0.78 (+0.90%) |
+| LLY   | $  1007.56 | ▼ -13.85 (-1.36%) |
+| OKLO  | $    61.63 | ▲ +5.75 (+10.29%) |
+| V     | $   330.94 | ▲ +1.03 (+0.31%) |
+| MA    | $   497.41 | ▼ -2.29 (-0.46%) |
+| AMZN  | $   263.76 | ▲ +4.42 (+1.70%) |
+| DUOL  | $   108.22 | ▼ -5.88 (-5.15%) |
 
 ## Global News
-- Ebola outbreak may be spreading faster than first thought, WHO doctor warns
-- Father-of-eight killed in San Diego mosque shooting hailed as hero
-- Victim or enabler? Epstein girlfriend who could face questions despite plea deal
-- Son of Mango boss arrested over father's fatal fall from cliff
-- Selling children to survive: Afghan fathers forced to make impossible choices
-- Two bodies of missing Italians recovered from inside Maldives cave
-- Uncontrolled California wildfires seen from space
+- Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal
+- Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists
+- Ebola vaccine could take nine months as death toll rises further, WHO warns
+- Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest
+- US military jets and drones tracked near Cuba as tensions rise
+- Whale to be removed from Danish island after failed German rescue
+- Barney Frank: One of the first openly gay US congressmen dies aged 86
 
 ---
-_Updated 2026-05-19_
+_Updated 2026-05-20_
