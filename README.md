@@ -1,34 +1,34 @@
-# Daily TL;DR — May 20, 2026
+# Daily TL;DR — May 21, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   224.37 | ▲ +3.76 (+1.70%) |
-| SPGI  | $   416.08 | ▲ +5.68 (+1.38%) |
-| META  | $   604.52 | ▲ +1.91 (+0.32%) |
-| AAPL  | $   301.58 | ▲ +2.61 (+0.87%) |
-| MSFT  | $   420.16 | ▲ +2.74 (+0.66%) |
-| GOOG  | $   383.37 | ▼ -1.53 (-0.40%) |
-| TSM   | $   401.55 | ▲ +8.94 (+2.28%) |
-| IONQ  | $    52.66 | ▲ +4.22 (+8.71%) |
-| COST  | $  1079.52 | ▼ -14.80 (-1.35%) |
-| ASML  | $  1541.20 | ▲ +81.76 (+5.60%) |
-| SPYM  | $    87.13 | ▲ +0.78 (+0.90%) |
-| LLY   | $  1007.56 | ▼ -13.85 (-1.36%) |
-| OKLO  | $    61.63 | ▲ +5.75 (+10.29%) |
-| V     | $   330.94 | ▲ +1.03 (+0.31%) |
-| MA    | $   497.41 | ▼ -2.29 (-0.46%) |
-| AMZN  | $   263.76 | ▲ +4.42 (+1.70%) |
-| DUOL  | $   108.22 | ▼ -5.88 (-5.15%) |
+| NVDA  | $   221.21 | ▼ -2.26 (-1.01%) |
+| SPGI  | $   415.43 | ▼ -1.58 (-0.38%) |
+| META  | $   608.60 | ▲ +3.54 (+0.59%) |
+| AAPL  | $   304.83 | ▲ +2.58 (+0.85%) |
+| MSFT  | $   418.24 | ▼ -2.82 (-0.67%) |
+| GOOG  | $   387.25 | ▲ +2.35 (+0.61%) |
+| TSM   | $   410.40 | ▲ +8.78 (+2.19%) |
+| IONQ  | $    58.35 | ▲ +5.88 (+11.21%) |
+| COST  | $  1050.09 | ▼ -23.92 (-2.23%) |
+| ASML  | $  1595.72 | ▲ +45.59 (+2.94%) |
+| SPYM  | $    87.53 | ▲ +0.27 (+0.31%) |
+| LLY   | $  1042.00 | ▲ +23.13 (+2.27%) |
+| OKLO  | $    64.67 | ▲ +2.09 (+3.34%) |
+| V     | $   331.89 | ▲ +1.14 (+0.34%) |
+| MA    | $   500.70 | ▲ +2.66 (+0.53%) |
+| AMZN  | $   268.83 | ▲ +3.82 (+1.44%) |
+| DUOL  | $   106.80 | ▼ -0.02 (-0.02%) |
 
 ## Global News
-- Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal
-- Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists
-- Ebola vaccine could take nine months as death toll rises further, WHO warns
-- Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest
-- US military jets and drones tracked near Cuba as tensions rise
-- Whale to be removed from Danish island after failed German rescue
-- Barney Frank: One of the first openly gay US congressmen dies aged 86
+- Iran steps up claim to control Strait of Hormuz
+- Gaza flotilla activists deported from Israel as backlash over treatment grows 
+- Russia and China condemn US over indictment of former Cuban leader
+- Air France and Airbus found guilty of manslaughter over 2009 plane crash
+- Charges dismissed against official at school where six-year-old shot teacher
+- Gonorrhoea and syphilis hit record levels in Europe
+- Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday
 
 ---
-_Updated 2026-05-20_
+_Updated 2026-05-21_
