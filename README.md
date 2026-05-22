@@ -1,34 +1,34 @@
-# Daily TL;DR — May 21, 2026
+# Daily TL;DR — May 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   221.21 | ▼ -2.26 (-1.01%) |
-| SPGI  | $   415.43 | ▼ -1.58 (-0.38%) |
-| META  | $   608.60 | ▲ +3.54 (+0.59%) |
-| AAPL  | $   304.83 | ▲ +2.58 (+0.85%) |
-| MSFT  | $   418.24 | ▼ -2.82 (-0.67%) |
-| GOOG  | $   387.25 | ▲ +2.35 (+0.61%) |
-| TSM   | $   410.40 | ▲ +8.78 (+2.19%) |
-| IONQ  | $    58.35 | ▲ +5.88 (+11.21%) |
-| COST  | $  1050.09 | ▼ -23.92 (-2.23%) |
-| ASML  | $  1595.72 | ▲ +45.59 (+2.94%) |
-| SPYM  | $    87.53 | ▲ +0.27 (+0.31%) |
-| LLY   | $  1042.00 | ▲ +23.13 (+2.27%) |
-| OKLO  | $    64.67 | ▲ +2.09 (+3.34%) |
-| V     | $   331.89 | ▲ +1.14 (+0.34%) |
-| MA    | $   500.70 | ▲ +2.66 (+0.53%) |
-| AMZN  | $   268.83 | ▲ +3.82 (+1.44%) |
-| DUOL  | $   106.80 | ▼ -0.02 (-0.02%) |
+| NVDA  | $   215.86 | ▼ -3.65 (-1.66%) |
+| SPGI  | $   418.51 | ▲ +2.78 (+0.67%) |
+| META  | $   609.51 | ▲ +2.13 (+0.35%) |
+| AAPL  | $   309.46 | ▲ +4.47 (+1.47%) |
+| MSFT  | $   418.16 | ▼ -0.93 (-0.22%) |
+| GOOG  | $   381.41 | ▼ -2.06 (-0.54%) |
+| TSM   | $   406.49 | ▼ -0.66 (-0.16%) |
+| IONQ  | $    63.61 | ▲ +4.72 (+8.01%) |
+| COST  | $  1028.39 | ▼ -22.06 (-2.10%) |
+| ASML  | $  1645.82 | ▲ +53.82 (+3.38%) |
+| SPYM  | $    87.97 | ▲ +0.56 (+0.63%) |
+| LLY   | $  1064.59 | ▲ +22.94 (+2.20%) |
+| OKLO  | $    66.66 | ▲ +1.57 (+2.41%) |
+| V     | $   329.77 | ▼ -1.35 (-0.41%) |
+| MA    | $   499.42 | ▼ -0.20 (-0.04%) |
+| AMZN  | $   268.55 | ▲ +0.09 (+0.03%) |
+| DUOL  | $   105.50 | ▼ -0.14 (-0.13%) |
 
 ## Global News
-- Iran steps up claim to control Strait of Hormuz
-- Gaza flotilla activists deported from Israel as backlash over treatment grows 
-- Russia and China condemn US over indictment of former Cuban leader
-- Air France and Airbus found guilty of manslaughter over 2009 plane crash
-- Charges dismissed against official at school where six-year-old shot teacher
-- Gonorrhoea and syphilis hit record levels in Europe
-- Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday
+- Ebola risk raised to 'very high' in DR Congo
+- Rubio tries to reassure Nato allies over US troop deployments
+- Waymo pauses robotaxis in five US cities after cars drive into flooded roads
+- Cubans grapple with fuel shortages and blackouts as US steps up pressure
+- UK scientists developing Ebola vaccine that could be ready for trials in months
+- US navy chief says $14bn arms sale to Taiwan paused due to Iran war
+- Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan
 
 ---
-_Updated 2026-05-21_
+_Updated 2026-05-22_
