@@ -1,34 +1,34 @@
-# Daily TL;DR — May 22, 2026
+# Daily TL;DR — May 23, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   215.86 | ▼ -3.65 (-1.66%) |
-| SPGI  | $   418.51 | ▲ +2.78 (+0.67%) |
-| META  | $   609.51 | ▲ +2.13 (+0.35%) |
-| AAPL  | $   309.46 | ▲ +4.47 (+1.47%) |
-| MSFT  | $   418.16 | ▼ -0.93 (-0.22%) |
-| GOOG  | $   381.41 | ▼ -2.06 (-0.54%) |
-| TSM   | $   406.49 | ▼ -0.66 (-0.16%) |
-| IONQ  | $    63.61 | ▲ +4.72 (+8.01%) |
-| COST  | $  1028.39 | ▼ -22.06 (-2.10%) |
-| ASML  | $  1645.82 | ▲ +53.82 (+3.38%) |
-| SPYM  | $    87.97 | ▲ +0.56 (+0.63%) |
-| LLY   | $  1064.59 | ▲ +22.94 (+2.20%) |
-| OKLO  | $    66.66 | ▲ +1.57 (+2.41%) |
-| V     | $   329.77 | ▼ -1.35 (-0.41%) |
-| MA    | $   499.42 | ▼ -0.20 (-0.04%) |
-| AMZN  | $   268.55 | ▲ +0.09 (+0.03%) |
-| DUOL  | $   105.50 | ▼ -0.14 (-0.13%) |
+| NVDA  | $   215.33 | ▼ -4.18 (-1.90%) |
+| SPGI  | $   417.60 | ▲ +1.87 (+0.45%) |
+| META  | $   610.26 | ▲ +2.88 (+0.47%) |
+| AAPL  | $   308.82 | ▲ +3.83 (+1.26%) |
+| MSFT  | $   418.57 | ▼ -0.52 (-0.12%) |
+| GOOG  | $   379.38 | ▼ -4.09 (-1.07%) |
+| TSM   | $   404.52 | ▼ -2.63 (-0.65%) |
+| IONQ  | $    63.64 | ▲ +4.75 (+8.07%) |
+| COST  | $  1028.24 | ▼ -22.21 (-2.11%) |
+| ASML  | $  1632.90 | ▲ +40.90 (+2.57%) |
+| SPYM  | $    87.75 | ▲ +0.33 (+0.38%) |
+| LLY   | $  1065.00 | ▲ +23.35 (+2.24%) |
+| OKLO  | $    65.88 | ▲ +0.79 (+1.21%) |
+| V     | $   328.88 | ▼ -2.24 (-0.68%) |
+| MA    | $   498.54 | ▼ -1.08 (-0.22%) |
+| AMZN  | $   266.32 | ▼ -2.14 (-0.80%) |
+| DUOL  | $   106.61 | ▲ +0.97 (+0.92%) |
 
 ## Global News
-- Ebola risk raised to 'very high' in DR Congo
-- Rubio tries to reassure Nato allies over US troop deployments
-- Waymo pauses robotaxis in five US cities after cars drive into flooded roads
-- Cubans grapple with fuel shortages and blackouts as US steps up pressure
-- UK scientists developing Ebola vaccine that could be ready for trials in months
-- US navy chief says $14bn arms sale to Taiwan paused due to Iran war
-- Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan
+- At least 82 killed in Chinese coal mine explosion
+- Putin vows retaliation after accusing Ukraine of hitting student dormitory
+- French mum and partner held until trial after sons abandoned by road in Portugal
+- Rubio meets Modi during India visit with energy high on agenda
+- SpaceX launches massive Starship V3 rocket on test flight
+- Senegal's president sacks PM and former ally after months-long feud
+- F1 great Prost 'injured as masked gang raid home'
 
 ---
-_Updated 2026-05-22_
+_Updated 2026-05-23_
