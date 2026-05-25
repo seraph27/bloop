@@ -1,4 +1,4 @@
-# Daily TL;DR — May 24, 2026
+# Daily TL;DR — May 25, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   106.61 | ▲ +0.97 (+0.92%) |
 
 ## Global News
-- Suspect killed after opening fire on Secret Service near White House
-- Large-scale Russian attack on Ukraine leaves four dead and dozens injured
-- BBC at the site of China's worst mining disaster in more than a decade
-- Blast targeting train kills at least 20 in Pakistan
-- Turkish riot police storm opposition offices after leaders ousted
-- Man killed in shark attack off Australia's north-east coast
-- One killed and many feared trapped under collapsed building in Philippines
+- Deal with US not imminent, Iran says
+- Oil prices slide on hopes of US-Iran peace deal
+- Russia threatens more Kyiv strikes and tells foreign nationals to leave
+- White House gunman had previous run-ins with Secret Service, court documents show
+- Three killed in Uganda after crashing into elephant
+- Cambodia's former opposition leader receives royal pardon for 27-year sentence
+- 'Blistering heat': Indians warned to stay indoors as temperatures soar
 
 ---
-_Updated 2026-05-24_
+_Updated 2026-05-25_
