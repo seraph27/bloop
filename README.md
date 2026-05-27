@@ -1,34 +1,34 @@
-# Daily TL;DR — May 26, 2026
+# Daily TL;DR — May 27, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   213.95 | ▼ -1.38 (-0.64%) |
-| SPGI  | $   413.08 | ▼ -4.52 (-1.08%) |
-| META  | $   610.21 | ▼ -0.05 (-0.01%) |
-| AAPL  | $   309.86 | ▲ +1.04 (+0.34%) |
-| MSFT  | $   415.11 | ▼ -3.46 (-0.83%) |
-| GOOG  | $   382.69 | ▲ +3.31 (+0.87%) |
-| TSM   | $   412.74 | ▲ +8.23 (+2.03%) |
-| IONQ  | $    63.38 | ▼ -0.26 (-0.41%) |
-| COST  | $  1002.96 | ▼ -25.28 (-2.46%) |
-| ASML  | $  1627.12 | ▼ -5.78 (-0.35%) |
-| SPYM  | $    88.25 | ▲ +0.50 (+0.56%) |
-| LLY   | $  1074.53 | ▲ +9.53 (+0.89%) |
-| OKLO  | $    69.55 | ▲ +3.67 (+5.57%) |
-| V     | $   326.37 | ▼ -2.51 (-0.76%) |
-| MA    | $   493.89 | ▼ -4.65 (-0.93%) |
-| AMZN  | $   263.21 | ▼ -3.11 (-1.17%) |
-| DUOL  | $   107.37 | ▲ +0.76 (+0.71%) |
+| NVDA  | $   213.10 | ▼ -1.76 (-0.82%) |
+| SPGI  | $   413.45 | ▲ +0.97 (+0.24%) |
+| META  | $   629.22 | ▲ +16.88 (+2.76%) |
+| AAPL  | $   310.83 | ▲ +2.50 (+0.81%) |
+| MSFT  | $   412.51 | ▼ -3.52 (-0.85%) |
+| GOOG  | $   388.54 | ▲ +3.70 (+0.96%) |
+| TSM   | $   419.98 | ▲ +7.66 (+1.86%) |
+| IONQ  | $    65.32 | ▲ +1.70 (+2.67%) |
+| COST  | $  1006.99 | ▲ +4.06 (+0.40%) |
+| ASML  | $  1604.38 | ▼ -27.65 (-1.69%) |
+| SPYM  | $    88.36 | ▲ +0.02 (+0.02%) |
+| LLY   | $  1083.34 | ▲ +18.60 (+1.75%) |
+| OKLO  | $    67.38 | ▼ -1.32 (-1.92%) |
+| V     | $   329.10 | ▲ +2.62 (+0.80%) |
+| MA    | $   494.58 | ▲ +1.57 (+0.32%) |
+| AMZN  | $   270.10 | ▲ +4.80 (+1.81%) |
+| DUOL  | $   107.67 | ▲ +1.18 (+1.11%) |
 
 ## Global News
-- Iran condemns US strikes as 'gross violation' of ceasefire
-- Russia threatens more Kyiv strikes and tells foreign nationals to leave
-- Four killed as school minibus collides with train in Belgium
-- Eleven killed in Lebanon village as Israel intensifies strikes
-- Why temperature records are being not only broken but smashed
-- Ebola needs swift response to prevent catastrophe, says DR Congo governor
-- Australia confirms first diphtheria death amid worst outbreak in decades
+- Israel strikes Tyre after ordering evacuation of south Lebanon city
+- Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns
+- Trump says US 'not satisfied' with Iran deal yet
+- Five people found alive after week trapped in flooded Laos cave 
+- Israeli strike in Gaza City kills new head of Hamas's military wing
+- Woman caught after 30 years on the run is jailed for armed robberies
+- One killed and nine missing after chemical explosion at US paper mill
 
 ---
-_Updated 2026-05-26_
+_Updated 2026-05-27_
