@@ -1,34 +1,34 @@
-# Daily TL;DR — May 28, 2026
+# Daily TL;DR — May 29, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   214.46 | ▲ +1.86 (+0.87%) |
-| SPGI  | $   417.70 | ▲ +1.90 (+0.46%) |
-| META  | $   633.61 | ▼ -1.65 (-0.26%) |
-| AAPL  | $   310.95 | ▲ +0.10 (+0.03%) |
-| MSFT  | $   426.45 | ▲ +13.78 (+3.34%) |
-| GOOG  | $   386.56 | ▲ +1.73 (+0.45%) |
-| TSM   | $   422.80 | ▲ +0.07 (+0.02%) |
-| IONQ  | $    69.64 | ▲ +4.24 (+6.48%) |
-| COST  | $   998.41 | ▼ -5.28 (-0.53%) |
-| ASML  | $  1606.97 | ▲ +9.10 (+0.57%) |
-| SPYM  | $    88.81 | ▲ +0.46 (+0.51%) |
-| LLY   | $  1126.69 | ▲ +43.77 (+4.04%) |
-| OKLO  | $    68.39 | ▲ +0.57 (+0.84%) |
-| V     | $   322.86 | ▼ -4.74 (-1.45%) |
-| MA    | $   490.30 | ▼ -4.74 (-0.96%) |
-| AMZN  | $   273.14 | ▲ +1.29 (+0.47%) |
-| DUOL  | $   108.99 | ▲ +1.17 (+1.09%) |
+| NVDA  | $   216.77 | ▲ +2.52 (+1.18%) |
+| SPGI  | $   424.60 | ▲ +6.92 (+1.66%) |
+| META  | $   627.10 | ▼ -8.19 (-1.29%) |
+| AAPL  | $   310.64 | ▼ -1.87 (-0.60%) |
+| MSFT  | $   443.37 | ▲ +16.38 (+3.84%) |
+| GOOG  | $   379.29 | ▼ -6.83 (-1.77%) |
+| TSM   | $   419.64 | ▼ -5.22 (-1.23%) |
+| IONQ  | $    69.49 | ▼ -0.65 (-0.93%) |
+| COST  | $   952.56 | ▼ -42.64 (-4.28%) |
+| ASML  | $  1614.07 | ▲ +8.30 (+0.52%) |
+| SPYM  | $    89.07 | ▲ +0.23 (+0.25%) |
+| LLY   | $  1089.77 | ▼ -37.03 (-3.29%) |
+| OKLO  | $    68.15 | ▲ +0.06 (+0.09%) |
+| V     | $   330.14 | ▲ +5.19 (+1.60%) |
+| MA    | $   497.27 | ▲ +3.52 (+0.71%) |
+| AMZN  | $   270.70 | ▼ -3.30 (-1.20%) |
+| DUOL  | $   111.43 | ▲ +2.76 (+2.54%) |
 
 ## Global News
-- Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders
-- Are US and Iran close to peace or sliding back to war?
-- Iran says it targeted American base after fresh US strikes
-- Israel hits Lebanese capital in 'targeted strike'
-- Villas, cars and cash: Italy seizes dead Mafia mobster's millions
-- Portugal breaks hottest May day record as Europe swelters in heatwave
-- US justice department launches criminal investigation into Trump accuser E Jean Carroll
+- 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides
+- Nato and EU condemn Russia after drone hits Romanian residential block
+- 'Controversial' North Korean invasion setting for next Call of Duty game
+- Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe
+- Eight students arrested in Kenya after suspected deadly school arson attack
+- Exploding rocket casts doubts over Nasa's Moon plans
+- US and Iran 'very close' to deal but 'not there yet', Vance says
 
 ---
-_Updated 2026-05-28_
+_Updated 2026-05-29_
