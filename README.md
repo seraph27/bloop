@@ -1,34 +1,34 @@
-# Daily TL;DR — May 29, 2026
+# Daily TL;DR — May 30, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   216.77 | ▲ +2.52 (+1.18%) |
-| SPGI  | $   424.60 | ▲ +6.92 (+1.66%) |
-| META  | $   627.10 | ▼ -8.19 (-1.29%) |
-| AAPL  | $   310.64 | ▼ -1.87 (-0.60%) |
-| MSFT  | $   443.37 | ▲ +16.38 (+3.84%) |
-| GOOG  | $   379.29 | ▼ -6.83 (-1.77%) |
-| TSM   | $   419.64 | ▼ -5.22 (-1.23%) |
-| IONQ  | $    69.49 | ▼ -0.65 (-0.93%) |
-| COST  | $   952.56 | ▼ -42.64 (-4.28%) |
-| ASML  | $  1614.07 | ▲ +8.30 (+0.52%) |
-| SPYM  | $    89.07 | ▲ +0.23 (+0.25%) |
-| LLY   | $  1089.77 | ▼ -37.03 (-3.29%) |
-| OKLO  | $    68.15 | ▲ +0.06 (+0.09%) |
-| V     | $   330.14 | ▲ +5.19 (+1.60%) |
-| MA    | $   497.27 | ▲ +3.52 (+0.71%) |
-| AMZN  | $   270.70 | ▼ -3.30 (-1.20%) |
-| DUOL  | $   111.43 | ▲ +2.76 (+2.54%) |
+| NVDA  | $   211.14 | ▼ -3.11 (-1.45%) |
+| SPGI  | $   424.00 | ▲ +7.29 (+1.75%) |
+| META  | $   632.51 | ▼ -2.78 (-0.44%) |
+| AAPL  | $   312.06 | ▼ -0.45 (-0.14%) |
+| MSFT  | $   450.24 | ▲ +23.25 (+5.45%) |
+| GOOG  | $   376.43 | ▼ -9.69 (-2.51%) |
+| TSM   | $   418.45 | ▼ -6.41 (-1.51%) |
+| IONQ  | $    72.07 | ▲ +1.93 (+2.75%) |
+| COST  | $   956.32 | ▼ -38.88 (-3.91%) |
+| ASML  | $  1612.76 | ▲ +6.99 (+0.44%) |
+| SPYM  | $    89.05 | ▲ +0.21 (+0.24%) |
+| LLY   | $  1105.00 | ▼ -21.80 (-1.93%) |
+| OKLO  | $    66.88 | ▼ -1.21 (-1.78%) |
+| V     | $   326.36 | ▲ +1.41 (+0.43%) |
+| MA    | $   493.98 | ▲ +0.23 (+0.05%) |
+| AMZN  | $   270.64 | ▼ -3.36 (-1.23%) |
+| DUOL  | $   111.36 | ▲ +2.69 (+2.48%) |
 
 ## Global News
-- 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides
-- Nato and EU condemn Russia after drone hits Romanian residential block
-- 'Controversial' North Korean invasion setting for next Call of Duty game
-- Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe
-- Eight students arrested in Kenya after suspected deadly school arson attack
-- Exploding rocket casts doubts over Nasa's Moon plans
-- US and Iran 'very close' to deal but 'not there yet', Vance says
+- No deal announced after Trump meeting to make 'final determination' on Iran
+- US, UK and Australia to develop underwater drone technology
+- Italy bans Kanye West and Travis Scott concerts over security concerns
+- Four more men freed from flooded Laos cave after 10 days
+- Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area
+- Ghana's parliament passes anti-LGBTQ+ bill
+- Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival
 
 ---
-_Updated 2026-05-29_
+_Updated 2026-05-30_
