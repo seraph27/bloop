@@ -1,4 +1,4 @@
-# Daily TL;DR — May 30, 2026
+# Daily TL;DR — May 31, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   111.36 | ▲ +2.69 (+2.48%) |
 
 ## Global News
-- No deal announced after Trump meeting to make 'final determination' on Iran
-- US, UK and Australia to develop underwater drone technology
-- Italy bans Kanye West and Travis Scott concerts over security concerns
-- Four more men freed from flooded Laos cave after 10 days
-- Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area
-- Ghana's parliament passes anti-LGBTQ+ bill
-- Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival
+- Israel seizes castle in Lebanon as it expands ground offensive
+- Hundreds arrested and dozens of police injured after Champions League riots in France
+- Japan defence minister denies militarism and criticises China's 'huge arsenal'
+- Huge blast kills dozens in rebel-held village in Myanmar
+- Colombia votes in presidential election that could redefine relations with US
+- Laos cave survivors help with plan to find last two missing men
+- South Africa made to look like fools over World Cup visa issues, says minister
 
 ---
-_Updated 2026-05-30_
+_Updated 2026-05-31_
