@@ -1,34 +1,34 @@
-# Daily TL;DR — May 31, 2026
+# Daily TL;DR — June 01, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   211.14 | ▼ -3.11 (-1.45%) |
-| SPGI  | $   424.00 | ▲ +7.29 (+1.75%) |
-| META  | $   632.51 | ▼ -2.78 (-0.44%) |
-| AAPL  | $   312.06 | ▼ -0.45 (-0.14%) |
-| MSFT  | $   450.24 | ▲ +23.25 (+5.45%) |
-| GOOG  | $   376.43 | ▼ -9.69 (-2.51%) |
-| TSM   | $   418.45 | ▼ -6.41 (-1.51%) |
-| IONQ  | $    72.07 | ▲ +1.93 (+2.75%) |
-| COST  | $   956.32 | ▼ -38.88 (-3.91%) |
-| ASML  | $  1612.76 | ▲ +6.99 (+0.44%) |
-| SPYM  | $    89.05 | ▲ +0.21 (+0.24%) |
-| LLY   | $  1105.00 | ▼ -21.80 (-1.93%) |
-| OKLO  | $    66.88 | ▼ -1.21 (-1.78%) |
-| V     | $   326.36 | ▲ +1.41 (+0.43%) |
-| MA    | $   493.98 | ▲ +0.23 (+0.05%) |
-| AMZN  | $   270.64 | ▼ -3.36 (-1.23%) |
-| DUOL  | $   111.36 | ▲ +2.69 (+2.48%) |
+| NVDA  | $   224.36 | ▲ +13.22 (+6.26%) |
+| SPGI  | $   428.56 | ▲ +4.56 (+1.08%) |
+| META  | $   600.47 | ▼ -32.04 (-5.07%) |
+| AAPL  | $   306.31 | ▼ -5.75 (-1.84%) |
+| MSFT  | $   460.52 | ▲ +10.28 (+2.28%) |
+| GOOG  | $   372.58 | ▼ -3.85 (-1.02%) |
+| TSM   | $   435.63 | ▲ +17.18 (+4.11%) |
+| IONQ  | $    69.28 | ▼ -2.79 (-3.87%) |
+| COST  | $   946.11 | ▼ -10.21 (-1.07%) |
+| ASML  | $  1628.57 | ▲ +15.81 (+0.98%) |
+| SPYM  | $    89.29 | ▲ +0.24 (+0.27%) |
+| LLY   | $  1082.20 | ▼ -22.80 (-2.06%) |
+| OKLO  | $    66.89 | ▲ +0.01 (+0.01%) |
+| V     | $   322.77 | ▼ -3.59 (-1.10%) |
+| MA    | $   495.25 | ▲ +1.27 (+0.26%) |
+| AMZN  | $   261.26 | ▼ -9.38 (-3.47%) |
+| DUOL  | $   117.97 | ▲ +6.61 (+5.94%) |
 
 ## Global News
-- Israel seizes castle in Lebanon as it expands ground offensive
-- Hundreds arrested and dozens of police injured after Champions League riots in France
-- Japan defence minister denies militarism and criticises China's 'huge arsenal'
-- Huge blast kills dozens in rebel-held village in Myanmar
-- Colombia votes in presidential election that could redefine relations with US
-- Laos cave survivors help with plan to find last two missing men
-- South Africa made to look like fools over World Cup visa issues, says minister
+- Iran warns Israeli attacks in Lebanon threaten ceasefire with US
+- Bowen: Trump needs this war to end but Iran is not backing down
+- Three Ebola vaccines in development amid growing outbreak fears
+- OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims
+- Hungarian PM threatens to oust Orbán-era president
+- Williams, 44, to return to action in Queen's doubles
+- Italians bemused by Milan bull mosaic restoration
 
 ---
-_Updated 2026-05-31_
+_Updated 2026-06-01_
