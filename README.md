@@ -1,34 +1,34 @@
-# Daily TL;DR — June 01, 2026
+# Daily TL;DR — June 02, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   224.36 | ▲ +13.22 (+6.26%) |
-| SPGI  | $   428.56 | ▲ +4.56 (+1.08%) |
-| META  | $   600.47 | ▼ -32.04 (-5.07%) |
-| AAPL  | $   306.31 | ▼ -5.75 (-1.84%) |
-| MSFT  | $   460.52 | ▲ +10.28 (+2.28%) |
-| GOOG  | $   372.58 | ▼ -3.85 (-1.02%) |
-| TSM   | $   435.63 | ▲ +17.18 (+4.11%) |
-| IONQ  | $    69.28 | ▼ -2.79 (-3.87%) |
-| COST  | $   946.11 | ▼ -10.21 (-1.07%) |
-| ASML  | $  1628.57 | ▲ +15.81 (+0.98%) |
-| SPYM  | $    89.29 | ▲ +0.24 (+0.27%) |
-| LLY   | $  1082.20 | ▼ -22.80 (-2.06%) |
-| OKLO  | $    66.89 | ▲ +0.01 (+0.01%) |
-| V     | $   322.77 | ▼ -3.59 (-1.10%) |
-| MA    | $   495.25 | ▲ +1.27 (+0.26%) |
-| AMZN  | $   261.26 | ▼ -9.38 (-3.47%) |
-| DUOL  | $   117.97 | ▲ +6.61 (+5.94%) |
+| NVDA  | $   222.22 | ▼ -2.14 (-0.95%) |
+| SPGI  | $   416.79 | ▼ -11.77 (-2.75%) |
+| META  | $   600.41 | ▼ -0.05 (-0.01%) |
+| AAPL  | $   314.95 | ▲ +8.64 (+2.82%) |
+| MSFT  | $   441.82 | ▼ -18.70 (-4.06%) |
+| GOOG  | $   359.99 | ▼ -12.58 (-3.38%) |
+| TSM   | $   445.83 | ▲ +10.20 (+2.34%) |
+| IONQ  | $    71.89 | ▲ +2.61 (+3.76%) |
+| COST  | $   952.45 | ▲ +6.34 (+0.67%) |
+| ASML  | $  1696.75 | ▲ +68.18 (+4.19%) |
+| SPYM  | $    89.39 | ▲ +0.10 (+0.12%) |
+| LLY   | $  1067.00 | ▼ -15.20 (-1.40%) |
+| OKLO  | $    73.18 | ▲ +6.29 (+9.40%) |
+| V     | $   317.48 | ▼ -5.29 (-1.64%) |
+| MA    | $   481.36 | ▼ -13.89 (-2.81%) |
+| AMZN  | $   257.80 | ▼ -3.46 (-1.32%) |
+| DUOL  | $   110.28 | ▼ -7.69 (-6.52%) |
 
 ## Global News
-- Iran warns Israeli attacks in Lebanon threaten ceasefire with US
-- Bowen: Trump needs this war to end but Iran is not backing down
-- Three Ebola vaccines in development amid growing outbreak fears
-- OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims
-- Hungarian PM threatens to oust Orbán-era president
-- Williams, 44, to return to action in Queen's doubles
-- Italians bemused by Milan bull mosaic restoration
+- Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold
+- 'Whole of Ukraine is in grief' after attacks, but life in Kyiv goes on 
+- British couple lose Iran jail sentence appeal, family says
+- Two people shot dead amid Kenya protests against US Ebola quarantine centre plan
+- Canada formally requests 16-year renewal of North American free trade pact
+- Two arrested after four migrant farm workers killed in Italy minivan fire
+- Maga influencer admits London Tube station assault
 
 ---
-_Updated 2026-06-01_
+_Updated 2026-06-02_
