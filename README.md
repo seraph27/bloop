@@ -1,34 +1,34 @@
-# Daily TL;DR — June 05, 2026
+# Daily TL;DR — June 06, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   207.93 | ▼ -10.73 (-4.91%) |
-| SPGI  | $   425.53 | ▲ +5.41 (+1.29%) |
-| META  | $   609.18 | ▼ -18.39 (-2.93%) |
-| AAPL  | $   312.50 | ▲ +1.27 (+0.41%) |
-| MSFT  | $   420.49 | ▼ -7.56 (-1.77%) |
-| GOOG  | $   366.45 | ▼ -2.82 (-0.76%) |
-| TSM   | $   421.80 | ▼ -23.12 (-5.20%) |
-| IONQ  | $    57.63 | ▼ -8.03 (-12.23%) |
-| COST  | $   981.47 | ▲ +9.12 (+0.94%) |
-| ASML  | $  1672.55 | ▼ -84.92 (-4.83%) |
-| SPYM  | $    87.63 | ▼ -1.48 (-1.66%) |
-| LLY   | $  1147.41 | ▲ +22.14 (+1.97%) |
-| OKLO  | $    58.08 | ▼ -7.31 (-11.19%) |
-| V     | $   324.52 | ▲ +4.34 (+1.35%) |
-| MA    | $   491.70 | ▲ +9.93 (+2.06%) |
-| AMZN  | $   253.56 | ▼ -0.23 (-0.09%) |
-| DUOL  | $   108.54 | ▼ -0.61 (-0.55%) |
+| NVDA  | $   205.10 | ▼ -13.56 (-6.20%) |
+| SPGI  | $   424.44 | ▲ +4.32 (+1.03%) |
+| META  | $   593.00 | ▼ -34.57 (-5.51%) |
+| AAPL  | $   307.34 | ▼ -3.89 (-1.25%) |
+| MSFT  | $   416.67 | ▼ -11.38 (-2.66%) |
+| GOOG  | $   365.76 | ▼ -3.51 (-0.95%) |
+| TSM   | $   415.17 | ▼ -29.75 (-6.69%) |
+| IONQ  | $    56.78 | ▼ -8.88 (-13.52%) |
+| COST  | $   971.87 | ▼ -0.48 (-0.05%) |
+| ASML  | $  1641.74 | ▼ -115.73 (-6.59%) |
+| SPYM  | $    86.81 | ▼ -2.30 (-2.58%) |
+| LLY   | $  1131.42 | ▲ +6.15 (+0.55%) |
+| OKLO  | $    58.09 | ▼ -7.30 (-11.16%) |
+| V     | $   323.57 | ▲ +3.39 (+1.06%) |
+| MA    | $   491.08 | ▲ +9.32 (+1.93%) |
+| AMZN  | $   246.03 | ▼ -7.76 (-3.06%) |
+| DUOL  | $   109.03 | ▼ -0.12 (-0.11%) |
 
 ## Global News
-- Astronauts return to ISS after sheltering during air leak repair attempt
-- Ukraine strikes cargo ships and admits Romania drone blast
-- Fury in France after child murder suspect's criminal record released
-- Nearly 50 people die of thirst in Sahara desert after lorry breaks down
-- US actor James Handy stabbed to death, with girlfriend's son arrested
-- Three jailed over heist of ancient golden helmet from Dutch museum
-- Norway's crown princess on lung transplant waiting list, palace says
+- Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'
+- US and Iran exchange strikes in Gulf in latest test of ceasefire
+- Armenia braces for election as Russia piles pressure on pro-West government
+- Lebanese general among three soldiers killed in Israeli attack on car
+- Andreeva wins French Open as Chwalinska fairytale ends
+- Iran says staff blocked from entering US after players given World Cup visas
+- Man dies after shark attack in Western Australia, police say
 
 ---
-_Updated 2026-06-05_
+_Updated 2026-06-06_
