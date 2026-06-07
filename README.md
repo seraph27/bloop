@@ -1,4 +1,4 @@
-# Daily TL;DR — June 06, 2026
+# Daily TL;DR — June 07, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   109.03 | ▼ -0.12 (-0.11%) |
 
 ## Global News
-- Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'
-- US and Iran exchange strikes in Gulf in latest test of ceasefire
-- Armenia braces for election as Russia piles pressure on pro-West government
-- Lebanese general among three soldiers killed in Israeli attack on car
-- Andreeva wins French Open as Chwalinska fairytale ends
-- Iran says staff blocked from entering US after players given World Cup visas
-- Man dies after shark attack in Western Australia, police say
+- Israel strikes Beirut suburb days after US-brokered truce
+- Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks
+- Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg
+- Armenia votes as Russia piles pressure on pro-West government
+- Huge crowds throng Madrid streets for Pope's open-air Mass
+- 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia
+- Insecurity and instability drive voters in Peru's tight presidential race
 
 ---
-_Updated 2026-06-06_
+_Updated 2026-06-07_
