@@ -1,34 +1,34 @@
-# Daily TL;DR — June 07, 2026
+# Daily TL;DR — June 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   205.10 | ▼ -13.56 (-6.20%) |
-| SPGI  | $   424.44 | ▲ +4.32 (+1.03%) |
-| META  | $   593.00 | ▼ -34.57 (-5.51%) |
-| AAPL  | $   307.34 | ▼ -3.89 (-1.25%) |
-| MSFT  | $   416.67 | ▼ -11.38 (-2.66%) |
-| GOOG  | $   365.76 | ▼ -3.51 (-0.95%) |
-| TSM   | $   415.17 | ▼ -29.75 (-6.69%) |
-| IONQ  | $    56.78 | ▼ -8.88 (-13.52%) |
-| COST  | $   971.87 | ▼ -0.48 (-0.05%) |
-| ASML  | $  1641.74 | ▼ -115.73 (-6.59%) |
-| SPYM  | $    86.81 | ▼ -2.30 (-2.58%) |
-| LLY   | $  1131.42 | ▲ +6.15 (+0.55%) |
-| OKLO  | $    58.09 | ▼ -7.30 (-11.16%) |
-| V     | $   323.57 | ▲ +3.39 (+1.06%) |
-| MA    | $   491.08 | ▲ +9.32 (+1.93%) |
-| AMZN  | $   246.03 | ▼ -7.76 (-3.06%) |
-| DUOL  | $   109.03 | ▼ -0.12 (-0.11%) |
+| NVDA  | $   209.10 | ▲ +4.00 (+1.95%) |
+| SPGI  | $   419.45 | ▼ -4.99 (-1.18%) |
+| META  | $   588.55 | ▼ -4.45 (-0.75%) |
+| AAPL  | $   304.58 | ▼ -2.76 (-0.90%) |
+| MSFT  | $   412.30 | ▼ -4.38 (-1.05%) |
+| GOOG  | $   361.40 | ▼ -4.36 (-1.19%) |
+| TSM   | $   428.68 | ▲ +13.51 (+3.26%) |
+| IONQ  | $    64.38 | ▲ +7.60 (+13.38%) |
+| COST  | $   974.52 | ▲ +2.65 (+0.27%) |
+| ASML  | $  1755.58 | ▲ +113.84 (+6.93%) |
+| SPYM  | $    87.33 | ▲ +0.52 (+0.60%) |
+| LLY   | $  1155.70 | ▲ +24.28 (+2.15%) |
+| OKLO  | $    59.42 | ▲ +1.33 (+2.28%) |
+| V     | $   321.61 | ▼ -1.96 (-0.61%) |
+| MA    | $   486.64 | ▼ -4.44 (-0.90%) |
+| AMZN  | $   244.29 | ▼ -1.74 (-0.71%) |
+| DUOL  | $   118.44 | ▲ +9.41 (+8.63%) |
 
 ## Global News
-- Israel strikes Beirut suburb days after US-brokered truce
-- Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks
-- Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg
-- Armenia votes as Russia piles pressure on pro-West government
-- Huge crowds throng Madrid streets for Pope's open-air Mass
-- 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia
-- Insecurity and instability drive voters in Peru's tight presidential race
+- Iran and Israel say they have halted strikes after first exchange of fire since truce
+- Iran's strike on Israel suggests the regime's sense of resilience is growing
+- At least 35 dead after major earthquake strikes southern Philippines
+- Armenia's pro-West government wins election despite Russian pressure
+- 'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions
+- Malawians repatriated from South Africa amid xenophobia concerns
+- Jailed crypto founder Sam Bankman-Fried seeks Trump pardon
 
 ---
-_Updated 2026-06-07_
+_Updated 2026-06-08_
