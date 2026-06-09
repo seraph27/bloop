@@ -1,34 +1,34 @@
-# Daily TL;DR — June 08, 2026
+# Daily TL;DR — June 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   209.10 | ▲ +4.00 (+1.95%) |
-| SPGI  | $   419.45 | ▼ -4.99 (-1.18%) |
-| META  | $   588.55 | ▼ -4.45 (-0.75%) |
-| AAPL  | $   304.58 | ▼ -2.76 (-0.90%) |
-| MSFT  | $   412.30 | ▼ -4.38 (-1.05%) |
-| GOOG  | $   361.40 | ▼ -4.36 (-1.19%) |
-| TSM   | $   428.68 | ▲ +13.51 (+3.26%) |
-| IONQ  | $    64.38 | ▲ +7.60 (+13.38%) |
-| COST  | $   974.52 | ▲ +2.65 (+0.27%) |
-| ASML  | $  1755.58 | ▲ +113.84 (+6.93%) |
-| SPYM  | $    87.33 | ▲ +0.52 (+0.60%) |
-| LLY   | $  1155.70 | ▲ +24.28 (+2.15%) |
-| OKLO  | $    59.42 | ▲ +1.33 (+2.28%) |
-| V     | $   321.61 | ▼ -1.96 (-0.61%) |
-| MA    | $   486.64 | ▼ -4.44 (-0.90%) |
-| AMZN  | $   244.29 | ▼ -1.74 (-0.71%) |
-| DUOL  | $   118.44 | ▲ +9.41 (+8.63%) |
+| NVDA  | $   205.57 | ▼ -3.07 (-1.47%) |
+| SPGI  | $   423.39 | ▲ +6.30 (+1.51%) |
+| META  | $   590.49 | ▲ +5.10 (+0.87%) |
+| AAPL  | $   290.05 | ▼ -11.49 (-3.81%) |
+| MSFT  | $   403.81 | ▼ -7.93 (-1.93%) |
+| GOOG  | $   362.52 | ▲ +1.35 (+0.37%) |
+| TSM   | $   420.55 | ▼ -6.24 (-1.46%) |
+| IONQ  | $    56.85 | ▼ -5.95 (-9.47%) |
+| COST  | $   969.27 | ▼ -5.48 (-0.56%) |
+| ASML  | $  1742.63 | ▼ -6.41 (-0.37%) |
+| SPYM  | $    86.35 | ▼ -0.67 (-0.77%) |
+| LLY   | $  1149.70 | ▲ +0.55 (+0.05%) |
+| OKLO  | $    55.83 | ▼ -3.11 (-5.28%) |
+| V     | $   324.27 | ▲ +4.60 (+1.44%) |
+| MA    | $   493.30 | ▲ +7.63 (+1.57%) |
+| AMZN  | $   245.44 | ▲ +0.22 (+0.09%) |
+| DUOL  | $   118.53 | ▲ +0.57 (+0.48%) |
 
 ## Global News
-- Iran and Israel say they have halted strikes after first exchange of fire since truce
-- Iran's strike on Israel suggests the regime's sense of resilience is growing
-- At least 35 dead after major earthquake strikes southern Philippines
-- Armenia's pro-West government wins election despite Russian pressure
-- 'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions
-- Malawians repatriated from South Africa amid xenophobia concerns
-- Jailed crypto founder Sam Bankman-Fried seeks Trump pardon
+- Trump says Iran shot down US helicopter and vows to respond
+- Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks
+- Hundreds of aftershocks jolt Philippines as officials say death toll could rise
+- Man reportedly shot at Kenya protest against US Ebola quarantine centre
+- Murder of Lyhanna, 11, enrages France and turns up heat on government 
+- Two reportedly killed as women take part in rare protest in Afghanistan
+- Scrapping of Franco-German fighter jet leaves allies at odds on defence future
 
 ---
-_Updated 2026-06-08_
+_Updated 2026-06-09_
