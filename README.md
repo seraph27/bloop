@@ -1,34 +1,34 @@
-# Daily TL;DR — June 12, 2026
+# Daily TL;DR — June 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   204.97 | ▲ +0.10 (+0.05%) |
-| SPGI  | $   417.06 | ▲ +3.72 (+0.90%) |
-| META  | $   565.79 | ▼ -2.64 (-0.46%) |
-| AAPL  | $   289.93 | ▼ -5.70 (-1.93%) |
-| MSFT  | $   386.87 | ▼ -3.47 (-0.89%) |
-| GOOG  | $   359.10 | ▲ +2.54 (+0.71%) |
-| TSM   | $   424.03 | ▲ +2.96 (+0.70%) |
-| IONQ  | $    57.64 | ▼ -0.35 (-0.60%) |
-| COST  | $   978.52 | ▲ +2.83 (+0.29%) |
-| ASML  | $  1877.56 | ▼ -21.92 (-1.15%) |
-| SPYM  | $    86.96 | ▲ +0.12 (+0.14%) |
-| LLY   | $  1141.19 | ▼ -19.76 (-1.70%) |
-| OKLO  | $    57.46 | ▼ -0.40 (-0.70%) |
-| V     | $   321.14 | ▲ +2.09 (+0.66%) |
-| MA    | $   487.13 | ▲ +0.62 (+0.13%) |
-| AMZN  | $   236.37 | ▼ -5.14 (-2.13%) |
-| DUOL  | $   122.46 | ▼ -1.38 (-1.11%) |
+| NVDA  | $   205.19 | ▲ +0.32 (+0.16%) |
+| SPGI  | $   418.91 | ▲ +5.57 (+1.35%) |
+| META  | $   566.98 | ▼ -1.45 (-0.26%) |
+| AAPL  | $   291.13 | ▼ -4.50 (-1.52%) |
+| MSFT  | $   390.74 | ▲ +0.40 (+0.10%) |
+| GOOG  | $   358.16 | ▲ +1.60 (+0.45%) |
+| TSM   | $   423.93 | ▲ +2.86 (+0.68%) |
+| IONQ  | $    57.85 | ▼ -0.14 (-0.24%) |
+| COST  | $   982.35 | ▲ +6.66 (+0.68%) |
+| ASML  | $  1863.55 | ▼ -35.93 (-1.89%) |
+| SPYM  | $    87.06 | ▲ +0.46 (+0.53%) |
+| LLY   | $  1133.00 | ▼ -27.95 (-2.41%) |
+| OKLO  | $    57.49 | ▼ -0.37 (-0.64%) |
+| V     | $   322.39 | ▲ +3.34 (+1.05%) |
+| MA    | $   489.98 | ▲ +3.47 (+0.71%) |
+| AMZN  | $   238.55 | ▼ -2.96 (-1.23%) |
+| DUOL  | $   122.63 | ▼ -1.22 (-0.98%) |
 
 ## Global News
-- Iran says deal to end fighting with US has 'never been closer'
-- French town buries murdered child as questions mount over police failings
-- Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM
-- King leads tributes to 'giant of the art world' David Hockney
-- Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame
-- Thai Princess Bajrakitiyabha dies after more than three years in coma
-- More time needed for deadly Air India crash inquiry, officials say
+- Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near
+- Switzerland to vote on plan to cap population at 10 million
+- Married at First Sight Australia stars not told partners had drug and violence convictions
+- Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut
+- US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says
+- Woman seriously injured in shark attack at Sydney beach
+- Trump's name removed from Kennedy Center after court order
 
 ---
-_Updated 2026-06-12_
+_Updated 2026-06-13_
