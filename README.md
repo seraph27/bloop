@@ -1,4 +1,4 @@
-# Daily TL;DR — June 13, 2026
+# Daily TL;DR — June 14, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   122.63 | ▼ -1.22 (-0.98%) |
 
 ## Global News
-- Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near
-- Switzerland to vote on plan to cap population at 10 million
-- Married at First Sight Australia stars not told partners had drug and violence convictions
-- Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut
-- US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says
-- Woman seriously injured in shark attack at Sydney beach
-- Trump's name removed from Kennedy Center after court order
+- Lebanon says three killed in Israeli strike on Beirut suburb
+- Swiss voters reject 10 million population cap, early projections say
+- Teen shot and buses torched in Manhattan after historic NBA win for Knicks
+- Tourist train overturns and injures 17 during Cártama tapas festival
+- UK and Japan agree £18bn investment deal
+- 'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry
+- Fifa to pay Somali referee Artan full World Cup fee
 
 ---
-_Updated 2026-06-13_
+_Updated 2026-06-14_
