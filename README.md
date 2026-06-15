@@ -1,34 +1,34 @@
-# Daily TL;DR — June 14, 2026
+# Daily TL;DR — June 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   205.19 | ▲ +0.32 (+0.16%) |
-| SPGI  | $   418.91 | ▲ +5.57 (+1.35%) |
-| META  | $   566.98 | ▼ -1.45 (-0.26%) |
-| AAPL  | $   291.13 | ▼ -4.50 (-1.52%) |
-| MSFT  | $   390.74 | ▲ +0.40 (+0.10%) |
-| GOOG  | $   358.16 | ▲ +1.60 (+0.45%) |
-| TSM   | $   423.93 | ▲ +2.86 (+0.68%) |
-| IONQ  | $    57.85 | ▼ -0.14 (-0.24%) |
-| COST  | $   982.35 | ▲ +6.66 (+0.68%) |
-| ASML  | $  1863.55 | ▼ -35.93 (-1.89%) |
-| SPYM  | $    87.06 | ▲ +0.46 (+0.53%) |
-| LLY   | $  1133.00 | ▼ -27.95 (-2.41%) |
-| OKLO  | $    57.49 | ▼ -0.37 (-0.64%) |
-| V     | $   322.39 | ▲ +3.34 (+1.05%) |
-| MA    | $   489.98 | ▲ +3.47 (+0.71%) |
-| AMZN  | $   238.55 | ▼ -2.96 (-1.23%) |
-| DUOL  | $   122.63 | ▼ -1.22 (-0.98%) |
+| NVDA  | $   211.70 | ▲ +6.51 (+3.17%) |
+| SPGI  | $   425.04 | ▲ +6.13 (+1.46%) |
+| META  | $   592.57 | ▲ +25.59 (+4.51%) |
+| AAPL  | $   295.92 | ▲ +4.79 (+1.65%) |
+| MSFT  | $   399.80 | ▲ +9.06 (+2.32%) |
+| GOOG  | $   366.73 | ▲ +8.57 (+2.39%) |
+| TSM   | $   440.37 | ▲ +16.44 (+3.88%) |
+| IONQ  | $    62.27 | ▲ +4.42 (+7.64%) |
+| COST  | $   979.88 | ▼ -2.47 (-0.25%) |
+| ASML  | $  1898.51 | ▲ +34.95 (+1.88%) |
+| SPYM  | $    88.57 | ▲ +1.51 (+1.73%) |
+| LLY   | $  1128.88 | ▼ -4.12 (-0.36%) |
+| OKLO  | $    60.94 | ▲ +3.44 (+5.99%) |
+| V     | $   324.45 | ▲ +2.06 (+0.64%) |
+| MA    | $   490.24 | ▲ +0.26 (+0.05%) |
+| AMZN  | $   246.03 | ▲ +7.48 (+3.14%) |
+| DUOL  | $   127.48 | ▲ +4.85 (+3.95%) |
 
 ## Global News
-- Lebanon says three killed in Israeli strike on Beirut suburb
-- Swiss voters reject 10 million population cap, early projections say
-- Teen shot and buses torched in Manhattan after historic NBA win for Knicks
-- Tourist train overturns and injures 17 during Cártama tapas festival
-- UK and Japan agree £18bn investment deal
-- 'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry
-- Fifa to pay Somali referee Artan full World Cup fee
+- Bowen: Iran deal ends Trump's war that revealed limit of US dominance
+- Norwegian crown princess's son found guilty of two counts of rape
+- Brazil woman dies after rope-jumping instructors fail to attach cord
+- South African jazz legend Abdullah Ibrahim dies at 91
+- MSF staff abused Sudanese refugees in sex-for-food scandal
+- 'Spider-Man of Yemen' dies falling into volcanic crater
+- Russian strikes kill 11 and set historic cathedral in Kyiv ablaze
 
 ---
-_Updated 2026-06-14_
+_Updated 2026-06-15_
