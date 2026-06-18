@@ -1,34 +1,34 @@
-# Daily TL;DR — June 17, 2026
+# Daily TL;DR — June 18, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   206.16 | ▼ -1.25 (-0.60%) |
-| SPGI  | $   421.32 | ▼ -11.93 (-2.75%) |
-| META  | $   577.17 | ▼ -23.04 (-3.84%) |
-| AAPL  | $   296.14 | ▼ -3.10 (-1.04%) |
-| MSFT  | $   383.47 | ▼ -10.36 (-2.63%) |
-| GOOG  | $   364.12 | ▼ -6.98 (-1.88%) |
-| TSM   | $   437.48 | ▲ +11.65 (+2.73%) |
-| IONQ  | $    55.98 | ▼ -0.08 (-0.14%) |
-| COST  | $   964.76 | ▼ -21.92 (-2.22%) |
-| ASML  | $  1904.76 | ▲ +100.87 (+5.59%) |
-| SPYM  | $    87.70 | ▼ -0.39 (-0.44%) |
-| LLY   | $  1115.42 | ▼ -7.08 (-0.63%) |
-| OKLO  | $    60.29 | ▲ +2.84 (+4.95%) |
-| V     | $   332.26 | ▼ -0.86 (-0.26%) |
-| MA    | $   498.28 | ▼ -3.05 (-0.61%) |
-| AMZN  | $   239.56 | ▼ -6.44 (-2.62%) |
-| DUOL  | $   129.13 | ▲ +1.06 (+0.83%) |
+| NVDA  | $   209.95 | ▲ +5.30 (+2.59%) |
+| SPGI  | $   408.89 | ▼ -9.12 (-2.18%) |
+| META  | $   573.44 | ▲ +5.86 (+1.03%) |
+| AAPL  | $   297.20 | ▲ +1.25 (+0.42%) |
+| MSFT  | $   378.10 | ▼ -0.81 (-0.21%) |
+| GOOG  | $   366.30 | ▲ +4.20 (+1.16%) |
+| TSM   | $   460.16 | ▲ +28.01 (+6.48%) |
+| IONQ  | $    54.62 | ▼ -0.07 (-0.13%) |
+| COST  | $   949.97 | ▼ -15.62 (-1.62%) |
+| ASML  | $  1914.64 | ▲ +46.81 (+2.51%) |
+| SPYM  | $    87.86 | ▲ +0.86 (+0.99%) |
+| LLY   | $  1103.52 | ▼ -8.48 (-0.76%) |
+| OKLO  | $    59.71 | ▲ +0.89 (+1.51%) |
+| V     | $   328.47 | ▼ -1.91 (-0.58%) |
+| MA    | $   489.99 | ▼ -2.99 (-0.61%) |
+| AMZN  | $   243.12 | ▲ +5.62 (+2.37%) |
+| DUOL  | $   125.84 | ▲ +2.45 (+1.99%) |
 
 ## Global News
-- Iran sends tankers loaded with oil past US military blockade
-- Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules
-- Search for six-year-old Ebola patient after armed men storm DR Congo hospital
-- Israel launches fresh strikes on Lebanon despite Trump criticism
-- Serial killer who murdered eight women in Long Island town imprisoned for life
-- Norway's crown princess undergoes successful lung transplant, palace says
-- Bystanders smash windows of private jet to rescue passengers after crash
+- Bowen: US-Iran deal raises inescapable question of what the war was for
+- Why Iran believes deal with US leaves it stronger than before
+- Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
+- Thirty-five killed as gunmen attack Niger's biggest airport
+- Hegseth renews Nato criticism and says US will review presence in Europe
+- British man dies in paragliding accident in Spain
+- Weapons, money and ships: How is this Iran deal different from others?
 
 ---
-_Updated 2026-06-17_
+_Updated 2026-06-18_
