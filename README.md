@@ -1,34 +1,34 @@
-# Daily TL;DR — June 18, 2026
+# Daily TL;DR — June 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   209.95 | ▲ +5.30 (+2.59%) |
-| SPGI  | $   408.89 | ▼ -9.12 (-2.18%) |
-| META  | $   573.44 | ▲ +5.86 (+1.03%) |
-| AAPL  | $   297.20 | ▲ +1.25 (+0.42%) |
-| MSFT  | $   378.10 | ▼ -0.81 (-0.21%) |
-| GOOG  | $   366.30 | ▲ +4.20 (+1.16%) |
-| TSM   | $   460.16 | ▲ +28.01 (+6.48%) |
-| IONQ  | $    54.62 | ▼ -0.07 (-0.13%) |
-| COST  | $   949.97 | ▼ -15.62 (-1.62%) |
-| ASML  | $  1914.64 | ▲ +46.81 (+2.51%) |
-| SPYM  | $    87.86 | ▲ +0.86 (+0.99%) |
-| LLY   | $  1103.52 | ▼ -8.48 (-0.76%) |
-| OKLO  | $    59.71 | ▲ +0.89 (+1.51%) |
-| V     | $   328.47 | ▼ -1.91 (-0.58%) |
-| MA    | $   489.99 | ▼ -2.99 (-0.61%) |
-| AMZN  | $   243.12 | ▲ +5.62 (+2.37%) |
-| DUOL  | $   125.84 | ▲ +2.45 (+1.99%) |
+| NVDA  | $   210.69 | ▲ +6.04 (+2.95%) |
+| SPGI  | $   410.92 | ▼ -7.10 (-1.70%) |
+| META  | $   577.22 | ▲ +9.64 (+1.70%) |
+| AAPL  | $   298.01 | ▲ +2.06 (+0.70%) |
+| MSFT  | $   379.40 | ▲ +0.49 (+0.13%) |
+| GOOG  | $   367.46 | ▲ +5.36 (+1.48%) |
+| TSM   | $   462.12 | ▲ +29.97 (+6.94%) |
+| IONQ  | $    56.55 | ▲ +1.86 (+3.40%) |
+| COST  | $   951.45 | ▼ -14.14 (-1.46%) |
+| ASML  | $  1929.68 | ▲ +61.85 (+3.31%) |
+| SPYM  | $    87.89 | ▲ +0.89 (+1.02%) |
+| LLY   | $  1098.57 | ▼ -13.43 (-1.21%) |
+| OKLO  | $    61.17 | ▲ +2.35 (+4.00%) |
+| V     | $   327.24 | ▼ -3.14 (-0.95%) |
+| MA    | $   489.79 | ▼ -3.20 (-0.65%) |
+| AMZN  | $   244.39 | ▲ +6.89 (+2.90%) |
+| DUOL  | $   125.56 | ▲ +2.17 (+1.76%) |
 
 ## Global News
-- Bowen: US-Iran deal raises inescapable question of what the war was for
-- Why Iran believes deal with US leaves it stronger than before
-- Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
-- Thirty-five killed as gunmen attack Niger's biggest airport
-- Hegseth renews Nato criticism and says US will review presence in Europe
-- British man dies in paragliding accident in Spain
-- Weapons, money and ships: How is this Iran deal different from others?
+- Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7
+- US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution
+- Do it at home too, women tell Japanese fans who cleaned World Cup stadium
+- Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'
+- Morocco captain Achraf Hakimi to stand trial for rape
+- Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital
+- Zimbabwe MPs pass bill to extend president's time in power
 
 ---
-_Updated 2026-06-18_
+_Updated 2026-06-19_
