@@ -1,4 +1,4 @@
-# Daily TL;DR — June 19, 2026
+# Daily TL;DR — June 20, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   125.56 | ▲ +2.17 (+1.76%) |
 
 ## Global News
-- Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7
-- US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution
-- Do it at home too, women tell Japanese fans who cleaned World Cup stadium
-- Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'
-- Morocco captain Achraf Hakimi to stand trial for rape
-- Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital
-- Zimbabwe MPs pass bill to extend president's time in power
+- Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon
+- Israel and Hezbollah continue strikes despite ceasefire agreement
+- Meloni tells Trump to 'focus on your own popularity' as row escalates
+- Bolivian president declares state of emergency
+- Zelensky returns highest Polish honour after award stripped
+- Tourist dies in Dominican Republic luxury resort fire
+- Zelensky stripped of highest Polish honour over WW2 name of army unit
 
 ---
-_Updated 2026-06-19_
+_Updated 2026-06-20_
