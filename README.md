@@ -1,4 +1,4 @@
-# Daily TL;DR — June 20, 2026
+# Daily TL;DR — June 21, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   125.56 | ▲ +2.17 (+1.76%) |
 
 ## Global News
-- Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon
-- Israel and Hezbollah continue strikes despite ceasefire agreement
-- Meloni tells Trump to 'focus on your own popularity' as row escalates
-- Bolivian president declares state of emergency
-- Zelensky returns highest Polish honour after award stripped
-- Tourist dies in Dominican Republic luxury resort fire
-- Zelensky stripped of highest Polish honour over WW2 name of army unit
+- US and Iran begin talks on initial peace deal in Switzerland
+- Fuel sales halted in occupied Crimea as Ukraine targets oil facilities
+- Ethiopia PM's party wins landslide as fears grow of new conflict
+- Half of France under red heat alert as alcohol banned at street music festival
+- Colombia's escalating, brutal internal conflict is defining its presidential election
+- Former Olympian denies vandalising Washington Reflecting Pool after arrest
+- Tight security as Indian students resit medical exam after alleged paper leak
 
 ---
-_Updated 2026-06-20_
+_Updated 2026-06-21_
