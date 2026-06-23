@@ -1,34 +1,34 @@
-# Daily TL;DR — June 22, 2026
+# Daily TL;DR — June 23, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   208.08 | ▼ -2.61 (-1.24%) |
-| SPGI  | $   406.18 | ▼ -4.74 (-1.15%) |
-| META  | $   565.40 | ▼ -11.82 (-2.05%) |
-| AAPL  | $   297.92 | ▼ -0.09 (-0.03%) |
-| MSFT  | $   370.43 | ▼ -8.97 (-2.36%) |
-| GOOG  | $   348.80 | ▼ -18.66 (-5.08%) |
-| TSM   | $   466.12 | ▲ +4.00 (+0.87%) |
-| IONQ  | $    58.78 | ▲ +2.23 (+3.94%) |
-| COST  | $   949.52 | ▼ -1.93 (-0.20%) |
-| ASML  | $  1896.88 | ▼ -32.80 (-1.70%) |
-| SPYM  | $    87.54 | ▼ -0.35 (-0.39%) |
-| LLY   | $  1107.32 | ▲ +8.75 (+0.80%) |
-| OKLO  | $    58.40 | ▼ -2.77 (-4.53%) |
-| V     | $   326.95 | ▼ -0.29 (-0.09%) |
-| MA    | $   484.53 | ▼ -5.26 (-1.07%) |
-| AMZN  | $   233.65 | ▼ -10.74 (-4.39%) |
-| DUOL  | $   127.04 | ▲ +1.48 (+1.18%) |
+| NVDA  | $   201.65 | ▼ -7.00 (-3.35%) |
+| SPGI  | $   402.60 | ▼ -4.79 (-1.18%) |
+| META  | $   564.86 | ▲ +1.01 (+0.18%) |
+| AAPL  | $   299.06 | ▲ +2.05 (+0.69%) |
+| MSFT  | $   373.57 | ▲ +6.23 (+1.70%) |
+| GOOG  | $   346.24 | ▼ -2.54 (-0.73%) |
+| TSM   | $   440.61 | ▼ -27.06 (-5.79%) |
+| IONQ  | $    57.23 | ▼ -1.09 (-1.87%) |
+| COST  | $   962.27 | ▲ +10.92 (+1.15%) |
+| ASML  | $  1773.60 | ▼ -155.65 (-8.07%) |
+| SPYM  | $    86.61 | ▼ -1.00 (-1.14%) |
+| LLY   | $  1109.38 | ▲ +7.30 (+0.66%) |
+| OKLO  | $    58.33 | ▼ -0.07 (-0.12%) |
+| V     | $   330.45 | ▲ +3.85 (+1.18%) |
+| MA    | $   488.02 | ▲ +3.93 (+0.81%) |
+| AMZN  | $   234.82 | ▲ +2.04 (+0.87%) |
+| DUOL  | $   132.50 | ▲ +5.25 (+4.13%) |
 
 ## Global News
-- Vance says Iran will allow nuclear inspectors back into the country
-- At least 13 killed and dozens injured after Qatar gas explosion
-- Myanmar army killed over 700 civilians in six months, UN says
-- Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
-- Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94
-- Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast
-- WhatsApp to be led by Indian start-up founder as Will Cathcart steps back
+- Drowning deaths soar in France as Europe buckles in peak of heatwave
+- Israeli troops kill two in south Lebanon after lull in fighting, authorities say
+- Dozens of ships head through Strait of Hormuz after US-Iran deal
+- UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
+- Zambia ex-president's family wins latest legal battle over what should happen to his body 
+- Spider which uses spring trap to capture prey discovered in Australia
+- US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks 
 
 ---
-_Updated 2026-06-22_
+_Updated 2026-06-23_
