@@ -1,34 +1,34 @@
-# Daily TL;DR — June 23, 2026
+# Daily TL;DR — June 24, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   201.65 | ▼ -7.00 (-3.35%) |
-| SPGI  | $   402.60 | ▼ -4.79 (-1.18%) |
-| META  | $   564.86 | ▲ +1.01 (+0.18%) |
-| AAPL  | $   299.06 | ▲ +2.05 (+0.69%) |
-| MSFT  | $   373.57 | ▲ +6.23 (+1.70%) |
-| GOOG  | $   346.24 | ▼ -2.54 (-0.73%) |
-| TSM   | $   440.61 | ▼ -27.06 (-5.79%) |
-| IONQ  | $    57.23 | ▼ -1.09 (-1.87%) |
-| COST  | $   962.27 | ▲ +10.92 (+1.15%) |
-| ASML  | $  1773.60 | ▼ -155.65 (-8.07%) |
-| SPYM  | $    86.61 | ▼ -1.00 (-1.14%) |
-| LLY   | $  1109.38 | ▲ +7.30 (+0.66%) |
-| OKLO  | $    58.33 | ▼ -0.07 (-0.12%) |
-| V     | $   330.45 | ▲ +3.85 (+1.18%) |
-| MA    | $   488.02 | ▲ +3.93 (+0.81%) |
-| AMZN  | $   234.82 | ▲ +2.04 (+0.87%) |
-| DUOL  | $   132.50 | ▲ +5.25 (+4.13%) |
+| NVDA  | $   197.83 | ▼ -2.21 (-1.10%) |
+| SPGI  | $   403.60 | ▲ +3.44 (+0.86%) |
+| META  | $   556.92 | ▼ -5.28 (-0.94%) |
+| AAPL  | $   296.04 | ▲ +1.74 (+0.59%) |
+| MSFT  | $   370.86 | ▼ -3.08 (-0.82%) |
+| GOOG  | $   348.39 | ▲ +2.32 (+0.67%) |
+| TSM   | $   437.23 | ▲ +0.84 (+0.19%) |
+| IONQ  | $    53.34 | ▼ -4.51 (-7.80%) |
+| COST  | $   958.68 | ▲ +1.00 (+0.10%) |
+| ASML  | $  1742.62 | ▼ -35.84 (-2.02%) |
+| SPYM  | $    86.22 | ▼ -0.13 (-0.15%) |
+| LLY   | $  1104.85 | ▼ -2.23 (-0.20%) |
+| OKLO  | $    53.63 | ▼ -3.56 (-6.22%) |
+| V     | $   331.73 | ▲ +3.25 (+0.99%) |
+| MA    | $   494.35 | ▲ +6.28 (+1.29%) |
+| AMZN  | $   238.43 | ▲ +4.32 (+1.85%) |
+| DUOL  | $   134.91 | ▲ +2.74 (+2.07%) |
 
 ## Global News
-- Drowning deaths soar in France as Europe buckles in peak of heatwave
-- Israeli troops kill two in south Lebanon after lull in fighting, authorities say
-- Dozens of ships head through Strait of Hormuz after US-Iran deal
-- UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
-- Zambia ex-president's family wins latest legal battle over what should happen to his body 
-- Spider which uses spring trap to capture prey discovered in Australia
-- US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks 
+- Power outages hit France as it records hottest day since measurements began
+- Air conditioning creates political divide after France records hottest day
+- UN nuclear chief says inspectors will visit Iran sites as part of war deal
+- Clean sweep for Mamdani-backed candidates in New York's Democratic primary 
+- Biggest city in Crimea without power after Ukraine strikes
+- France confirms first Ebola case
+- French woman allegedly held captive by husband for 12 years rescued in Pakistan
 
 ---
-_Updated 2026-06-23_
+_Updated 2026-06-24_
