@@ -1,34 +1,34 @@
-# Daily TL;DR — June 24, 2026
+# Daily TL;DR — June 25, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   197.83 | ▼ -2.21 (-1.10%) |
-| SPGI  | $   403.60 | ▲ +3.44 (+0.86%) |
-| META  | $   556.92 | ▼ -5.28 (-0.94%) |
-| AAPL  | $   296.04 | ▲ +1.74 (+0.59%) |
-| MSFT  | $   370.86 | ▼ -3.08 (-0.82%) |
-| GOOG  | $   348.39 | ▲ +2.32 (+0.67%) |
-| TSM   | $   437.23 | ▲ +0.84 (+0.19%) |
-| IONQ  | $    53.34 | ▼ -4.51 (-7.80%) |
-| COST  | $   958.68 | ▲ +1.00 (+0.10%) |
-| ASML  | $  1742.62 | ▼ -35.84 (-2.02%) |
-| SPYM  | $    86.22 | ▼ -0.13 (-0.15%) |
-| LLY   | $  1104.85 | ▼ -2.23 (-0.20%) |
-| OKLO  | $    53.63 | ▼ -3.56 (-6.22%) |
-| V     | $   331.73 | ▲ +3.25 (+0.99%) |
-| MA    | $   494.35 | ▲ +6.28 (+1.29%) |
-| AMZN  | $   238.43 | ▲ +4.32 (+1.85%) |
-| DUOL  | $   134.91 | ▲ +2.74 (+2.07%) |
+| NVDA  | $   194.66 | ▼ -4.34 (-2.18%) |
+| SPGI  | $   401.71 | ▼ -0.64 (-0.16%) |
+| META  | $   545.44 | ▼ -12.23 (-2.19%) |
+| AAPL  | $   278.61 | ▼ -14.46 (-4.94%) |
+| MSFT  | $   351.61 | ▼ -13.85 (-3.79%) |
+| GOOG  | $   340.43 | ▼ -4.61 (-1.34%) |
+| TSM   | $   442.07 | ▲ +1.24 (+0.28%) |
+| IONQ  | $    50.97 | ▼ -2.63 (-4.92%) |
+| COST  | $   943.60 | ▼ -17.49 (-1.82%) |
+| ASML  | $  1844.32 | ▲ +81.55 (+4.63%) |
+| SPYM  | $    86.35 | ▲ +0.09 (+0.11%) |
+| LLY   | $  1119.44 | ▲ +2.18 (+0.20%) |
+| OKLO  | $    51.59 | ▼ -2.47 (-4.57%) |
+| V     | $   334.39 | ▲ +2.16 (+0.65%) |
+| MA    | $   493.98 | ▼ -0.43 (-0.09%) |
+| AMZN  | $   228.97 | ▼ -5.30 (-2.26%) |
+| DUOL  | $   119.53 | ▼ -12.62 (-9.55%) |
 
 ## Global News
-- Power outages hit France as it records hottest day since measurements began
-- Air conditioning creates political divide after France records hottest day
-- UN nuclear chief says inspectors will visit Iran sites as part of war deal
-- Clean sweep for Mamdani-backed candidates in New York's Democratic primary 
-- Biggest city in Crimea without power after Ukraine strikes
-- France confirms first Ebola case
-- French woman allegedly held captive by husband for 12 years rescued in Pakistan
+- Earthquake is devastating blow to Venezuela at time of uncertainty  
+- People flee as building collapses on Caracas outskirts
+- Europe's heatwave shifts east as France raises health alert to highest level
+- Trump asks Congress for billions for Iran war, after tension with Republicans
+- Key figure in South Africa police corruption scandal pleads guilty
+- Oil price falls back to pre-Iran war levels
+- IBM hails new 'block of flats' design breakthrough for ultra tiny chips
 
 ---
-_Updated 2026-06-24_
+_Updated 2026-06-25_
