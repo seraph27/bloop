@@ -1,34 +1,34 @@
-# Daily TL;DR — June 28, 2026
+# Daily TL;DR — June 29, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   192.53 | ▼ -3.21 (-1.64%) |
-| SPGI  | $   408.16 | ▲ +13.02 (+3.30%) |
-| META  | $   550.25 | ▲ +7.38 (+1.36%) |
-| AAPL  | — | — |
-| MSFT  | $   372.97 | ▲ +20.14 (+5.71%) |
-| GOOG  | $   334.69 | ▼ -7.50 (-2.19%) |
-| TSM   | $   432.35 | ▼ -2.64 (-0.61%) |
-| IONQ  | $    49.31 | ▼ -1.25 (-2.47%) |
-| COST  | $   952.54 | ▲ +10.30 (+1.09%) |
-| ASML  | $  1794.62 | ▼ -46.56 (-2.53%) |
-| SPYM  | $    85.76 | ▼ -0.55 (-0.64%) |
-| LLY   | $  1208.12 | ▲ +80.43 (+7.13%) |
-| OKLO  | $    50.00 | ▼ -1.01 (-1.98%) |
-| V     | $   336.23 | ▲ +5.71 (+1.73%) |
-| MA    | $   499.02 | ▲ +10.10 (+2.07%) |
-| AMZN  | $   232.69 | ▲ +5.68 (+2.50%) |
-| DUOL  | $   121.49 | ▲ +1.55 (+1.29%) |
+| NVDA  | $   193.79 | ▲ +1.26 (+0.65%) |
+| SPGI  | $   406.86 | ▼ -1.30 (-0.32%) |
+| META  | $   565.47 | ▲ +15.22 (+2.77%) |
+| AAPL  | $   281.17 | ▼ -2.61 (-0.92%) |
+| MSFT  | $   368.32 | ▼ -4.65 (-1.25%) |
+| GOOG  | $   351.08 | ▲ +16.39 (+4.90%) |
+| TSM   | $   452.22 | ▲ +19.87 (+4.60%) |
+| IONQ  | $    53.27 | ▲ +3.96 (+8.03%) |
+| COST  | $   944.26 | ▼ -8.28 (-0.87%) |
+| ASML  | $  1875.55 | ▲ +80.93 (+4.51%) |
+| SPYM  | $    87.16 | ▲ +1.40 (+1.63%) |
+| LLY   | $  1224.31 | ▲ +16.19 (+1.34%) |
+| OKLO  | $    52.76 | ▲ +2.76 (+5.51%) |
+| V     | $   342.15 | ▲ +5.92 (+1.76%) |
+| MA    | $   511.91 | ▲ +12.89 (+2.58%) |
+| AMZN  | $   240.50 | ▲ +7.81 (+3.36%) |
+| DUOL  | $   116.39 | ▼ -5.10 (-4.20%) |
 
 ## Global News
-- Two boys rescued from Venezuela earthquake rubble after days of being trapped
-- In Caracas, this feels like the hardest moment in Venezuela's modern history
-- Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C
-- Eleven killed after plane carrying skydivers crashes in eastern France
-- US and Iran exchange strikes and accuse each other of violating ceasefire
-- Australian man charged with murder after girl found dead in suitcase in Thailand
-- Fourteen killed in Saudi Arabia helicopter crash 
+- Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive
+- Sixth person dies after shooting at youth welfare centre in Germany
+- Trump's final appeal of E Jean Carroll sex abuse case rejected
+- DR Congo bans mass gatherings in the  capital to prevent spread of Ebola
+- US says it has agreed to 'stand down' after exchange of strikes with Iran
+- Pakistani strikes kill at least 28 civilians in Afghanistan, UN says
+- Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook
 
 ---
-_Updated 2026-06-28_
+_Updated 2026-06-29_
