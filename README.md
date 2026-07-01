@@ -1,34 +1,34 @@
-# Daily TL;DR — June 30, 2026
+# Daily TL;DR — July 01, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   198.31 | ▲ +3.34 (+1.71%) |
-| SPGI  | $   404.73 | ▼ -3.83 (-0.94%) |
-| META  | $   560.22 | ▼ -2.38 (-0.42%) |
-| AAPL  | $   288.42 | ▲ +6.68 (+2.37%) |
-| MSFT  | $   371.39 | ▲ +2.82 (+0.76%) |
-| GOOG  | $   353.00 | ▲ +1.72 (+0.49%) |
-| TSM   | $   471.20 | ▲ +16.10 (+3.54%) |
-| IONQ  | $    53.15 | ▼ -0.73 (-1.35%) |
-| COST  | $   936.29 | ▼ -10.39 (-1.10%) |
-| ASML  | $  1974.00 | ▲ +90.89 (+4.83%) |
-| SPYM  | $    87.85 | ▲ +0.67 (+0.77%) |
-| LLY   | $  1211.14 | ▼ -18.80 (-1.53%) |
-| OKLO  | $    51.54 | ▼ -1.22 (-2.31%) |
-| V     | $   342.59 | ▲ +0.94 (+0.28%) |
-| MA    | $   511.28 | ▲ +1.64 (+0.32%) |
-| AMZN  | $   238.68 | ▼ -1.46 (-0.61%) |
-| DUOL  | $   115.13 | ▼ -0.90 (-0.78%) |
+| NVDA  | $   198.62 | ▼ -1.47 (-0.73%) |
+| SPGI  | $   418.63 | ▲ +11.37 (+2.79%) |
+| META  | $   621.48 | ▲ +58.20 (+10.33%) |
+| AAPL  | $   293.88 | ▲ +4.52 (+1.56%) |
+| MSFT  | $   387.53 | ▲ +14.51 (+3.89%) |
+| GOOG  | $   356.62 | ▲ +3.29 (+0.93%) |
+| TSM   | $   444.56 | ▼ -33.01 (-6.91%) |
+| IONQ  | $    53.16 | ▼ -0.10 (-0.19%) |
+| COST  | $   925.84 | ▼ -9.62 (-1.03%) |
+| ASML  | $  1842.25 | ▼ -147.19 (-7.40%) |
+| SPYM  | $    87.94 | ▲ +0.07 (+0.07%) |
+| LLY   | $  1176.45 | ▼ -22.98 (-1.92%) |
+| OKLO  | $    53.26 | ▲ +0.93 (+1.78%) |
+| V     | $   351.48 | ▲ +8.39 (+2.45%) |
+| MA    | $   526.01 | ▲ +12.41 (+2.42%) |
+| AMZN  | $   243.83 | ▲ +5.49 (+2.30%) |
+| DUOL  | $   120.70 | ▲ +5.68 (+4.94%) |
 
 ## Global News
-- Supreme Court's birthright ruling is major blow to Trump
-- Roof collapse kills 14 children at Pakistan tuition centre
-- Almost 60,000 far-right extremists in Germany, intelligence agency says
-- US Supreme Court upholds bans on transgender women in female school and college sports
-- Angry Venezuelans accuse government of negligence over earthquake response
-- Manhunt after bomb injures Ukrainian oligarch in Monaco
-- US envoys in Doha to meet mediators but not Iranians, Qatar says
+- 'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails
+- Controversial bishops ordained as Pope warns of 'schism' in Catholic Church
+- Three die in Mexico City World Cup celebrations
+- Fire kills five at Antwerp apartment block
+- Businessman goes on trial over murder of Maltese journalist
+- Syria's president names final 70 lawmakers to new post-Assad parliament
+- Man guilty of attempted murder of three children in Dublin
 
 ---
-_Updated 2026-06-30_
+_Updated 2026-07-01_
