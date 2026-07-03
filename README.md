@@ -1,34 +1,34 @@
-# Daily TL;DR — July 02, 2026
+# Daily TL;DR — July 03, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   192.82 | ▼ -4.76 (-2.41%) |
-| SPGI  | $   437.30 | ▲ +22.33 (+5.38%) |
-| META  | $   584.61 | ▼ -28.30 (-4.62%) |
-| AAPL  | $   307.98 | ▲ +13.60 (+4.62%) |
-| MSFT  | $   390.71 | ▲ +6.43 (+1.67%) |
-| GOOG  | $   353.86 | ▼ -4.04 (-1.13%) |
-| TSM   | $   430.99 | ▼ -13.24 (-2.98%) |
-| IONQ  | $    48.68 | ▼ -2.72 (-5.29%) |
-| COST  | $   949.24 | ▲ +24.57 (+2.66%) |
-| ASML  | $  1748.67 | ▼ -94.38 (-5.12%) |
-| SPYM  | $    87.15 | ▼ -0.62 (-0.71%) |
-| LLY   | $  1210.78 | ▲ +19.04 (+1.60%) |
-| OKLO  | $    50.74 | ▼ -1.71 (-3.26%) |
-| V     | $   359.52 | ▲ +8.44 (+2.40%) |
-| MA    | $   536.97 | ▲ +14.53 (+2.78%) |
-| AMZN  | $   244.24 | ▲ +2.54 (+1.05%) |
-| DUOL  | $   122.64 | ▲ +1.43 (+1.18%) |
+| NVDA  | $   194.83 | ▼ -2.75 (-1.39%) |
+| SPGI  | $   439.89 | ▲ +24.92 (+6.01%) |
+| META  | $   582.90 | ▼ -30.01 (-4.90%) |
+| AAPL  | $   308.63 | ▲ +14.25 (+4.84%) |
+| MSFT  | $   390.49 | ▲ +6.21 (+1.62%) |
+| GOOG  | $   356.18 | ▼ -1.71 (-0.48%) |
+| TSM   | $   434.16 | ▼ -10.07 (-2.27%) |
+| IONQ  | $    49.12 | ▼ -2.28 (-4.44%) |
+| COST  | $   951.67 | ▲ +27.00 (+2.92%) |
+| ASML  | $  1769.32 | ▼ -73.72 (-4.00%) |
+| SPYM  | $    87.67 | ▼ -0.10 (-0.11%) |
+| LLY   | $  1213.91 | ▲ +22.17 (+1.86%) |
+| OKLO  | $    52.36 | ▼ -0.09 (-0.17%) |
+| V     | $   362.13 | ▲ +11.05 (+3.15%) |
+| MA    | $   539.39 | ▲ +16.95 (+3.24%) |
+| AMZN  | $   242.67 | ▲ +0.97 (+0.40%) |
+| DUOL  | $   125.76 | ▲ +4.55 (+3.75%) |
 
 ## Global News
-- Venezuela quake survivor pulled out alive after eight days
-- 'Most massive' Russian attack on Kyiv kills at least 22
-- People smuggler convicted in France found by BBC living in UK and seeking asylum
-- Vatican excommunicates followers of global Catholic sect
-- China says pilot crashed small plane into skyscraper for 'personal reasons'
-- South Africa and Ghana in diplomatic row over alleged killing of migrant
-- Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'
+- Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
+- Polish PM warns critical months ahead in face of Russian threat
+- France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather
+- German row over plan for workers to need sick note on first day of illness
+- Nasa launches mission to save falling space telescope
+- Iran begins public mourning for Ayatollah killed in February
+- Stand-up comic held for jokes about Erdogan and Islam in Turkey crackdown
 
 ---
-_Updated 2026-07-02_
+_Updated 2026-07-03_
