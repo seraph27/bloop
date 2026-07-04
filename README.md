@@ -1,4 +1,4 @@
-# Daily TL;DR — July 03, 2026
+# Daily TL;DR — July 04, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   125.76 | ▲ +4.55 (+3.75%) |
 
 ## Global News
-- Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
-- Polish PM warns critical months ahead in face of Russian threat
-- France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather
-- German row over plan for workers to need sick note on first day of illness
-- Nasa launches mission to save falling space telescope
-- Iran begins public mourning for Ayatollah killed in February
-- Stand-up comic held for jokes about Erdogan and Islam in Turkey crackdown
+- Brutal heat cancels Fourth of July events, from DC to Philadelphia 
+- Ukraine hits major oil terminal in Russia's St Petersburg
+- Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral
+- Former chess champion Kramnik banned over cheating remarks
+- Injury ends Williams' Wimbledon comeback
+- Pope urges Europe to do more for migrants while visiting gateway island
+- Row after Indian state drops eggs from school lunch menu
 
 ---
-_Updated 2026-07-03_
+_Updated 2026-07-04_
