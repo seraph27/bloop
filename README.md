@@ -1,4 +1,4 @@
-# Daily TL;DR — July 04, 2026
+# Daily TL;DR — July 05, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   125.76 | ▲ +4.55 (+3.75%) |
 
 ## Global News
-- Brutal heat cancels Fourth of July events, from DC to Philadelphia 
-- Ukraine hits major oil terminal in Russia's St Petersburg
-- Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral
-- Former chess champion Kramnik banned over cheating remarks
-- Injury ends Williams' Wimbledon comeback
-- Pope urges Europe to do more for migrants while visiting gateway island
-- Row after Indian state drops eggs from school lunch menu
+- Iran's supreme leader absent as senior officials attend ayatollah's funeral
+- US marks 250th birthday with fireworks, flyovers and extreme weather
+- From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding
+- Evacuations in Guam as super typhoon Bavi approaches
+- Australia probes mystery space balls that washed up on beach
+- Moment of destiny for France's Le Pen in verdict to decide her future in presidential race
+- Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks
 
 ---
-_Updated 2026-07-04_
+_Updated 2026-07-05_
