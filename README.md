@@ -1,34 +1,34 @@
-# Daily TL;DR — July 07, 2026
+# Daily TL;DR — July 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   197.66 | ▲ +2.11 (+1.08%) |
-| SPGI  | $   443.02 | ▼ -4.20 (-0.94%) |
-| META  | $   614.05 | ▲ +13.76 (+2.29%) |
-| AAPL  | $   311.91 | ▼ -0.75 (-0.24%) |
-| MSFT  | $   393.05 | ▲ +6.31 (+1.63%) |
-| GOOG  | $   367.11 | ▲ +2.21 (+0.61%) |
-| TSM   | $   435.07 | ▼ -16.72 (-3.70%) |
-| IONQ  | $    46.62 | ▼ -2.25 (-4.61%) |
-| COST  | $   946.07 | ▼ -4.18 (-0.44%) |
-| ASML  | $  1758.13 | ▼ -66.94 (-3.67%) |
-| SPYM  | $    88.18 | ▼ -0.25 (-0.29%) |
-| LLY   | $  1229.38 | ▲ +29.31 (+2.44%) |
-| OKLO  | $    49.62 | ▼ -2.22 (-4.27%) |
-| V     | $   350.24 | ▼ -7.01 (-1.96%) |
-| MA    | $   531.57 | ▼ -1.53 (-0.29%) |
-| AMZN  | $   246.60 | ▲ +2.43 (+1.00%) |
-| DUOL  | $   133.06 | ▲ +3.34 (+2.57%) |
+| NVDA  | $   203.36 | ▲ +6.43 (+3.27%) |
+| SPGI  | $   432.24 | ▼ -11.21 (-2.53%) |
+| META  | $   606.57 | ▼ -9.01 (-1.46%) |
+| AAPL  | $   314.36 | ▲ +3.70 (+1.19%) |
+| MSFT  | $   383.11 | ▼ -5.73 (-1.47%) |
+| GOOG  | $   356.88 | ▼ -6.74 (-1.85%) |
+| TSM   | $   438.29 | ▲ +5.71 (+1.32%) |
+| IONQ  | $    44.89 | ▼ -0.47 (-1.03%) |
+| COST  | $   953.18 | ▲ +5.68 (+0.60%) |
+| ASML  | $  1777.02 | ▲ +29.74 (+1.70%) |
+| SPYM  | $    87.73 | ▼ -0.27 (-0.31%) |
+| LLY   | $  1220.11 | ▼ -15.45 (-1.25%) |
+| OKLO  | $    46.83 | ▼ -1.07 (-2.23%) |
+| V     | $   347.24 | ▼ -4.96 (-1.41%) |
+| MA    | $   517.45 | ▼ -14.17 (-2.67%) |
+| AMZN  | $   242.15 | ▼ -3.82 (-1.56%) |
+| DUOL  | $   128.18 | ▼ -3.77 (-2.86%) |
 
 ## Global News
-- Marine Le Pen found guilty, but court clears way for presidential run if she wears tag
-- Zelensky presses Nato for air defence systems after intense Russian strikes
-- Woman suspected of Monaco bomb attack found dead in Ukraine
-- Lawyer says detained Gaza doctor was severely beaten in Israeli jail
-- Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC
-- Ghana halts visit by South African president amid row over anti-migrant protests
-- Watch: Moment rare tornado lashes central Chinese cities
+- Trump says ceasefire is 'over' after US and Iran trade strikes
+- US strikes target Iranian military boats
+- Ukraine to get licence to produce Patriot missiles, Trump says
+- German doctor jailed for murder of 15 patients and suspected of more
+- Teenager arrested after two girls, 13, seriously injured in German school attack
+- Arizona toddler found alive in hospital morgue after declared dead from drowning
+- Nato allies announce £37bn for new missile project
 
 ---
-_Updated 2026-07-07_
+_Updated 2026-07-08_
