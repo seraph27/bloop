@@ -1,34 +1,34 @@
-# Daily TL;DR — July 09, 2026
+# Daily TL;DR — July 10, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   203.42 | ▼ -0.70 (-0.34%) |
-| SPGI  | $   429.52 | ▼ -1.27 (-0.29%) |
-| META  | $   611.07 | ▲ +7.95 (+1.32%) |
-| AAPL  | $   314.96 | ▲ +1.57 (+0.50%) |
-| MSFT  | $   380.57 | ▼ -2.77 (-0.72%) |
-| GOOG  | $   352.96 | ▼ -5.75 (-1.60%) |
-| TSM   | $   440.30 | ▲ +3.32 (+0.76%) |
-| IONQ  | $    45.31 | ▲ +0.23 (+0.51%) |
-| COST  | $   911.49 | ▼ -41.64 (-4.37%) |
-| ASML  | $  1828.53 | ▲ +59.88 (+3.39%) |
-| SPYM  | $    88.46 | ▲ +0.74 (+0.85%) |
-| LLY   | $  1213.11 | ▼ -2.72 (-0.22%) |
-| OKLO  | $    49.11 | ▲ +1.83 (+3.87%) |
-| V     | $   346.45 | ▼ -1.08 (-0.31%) |
-| MA    | $   520.47 | ▲ +0.61 (+0.12%) |
-| AMZN  | $   243.68 | ▲ +0.06 (+0.02%) |
-| DUOL  | $   128.63 | ▲ +1.06 (+0.83%) |
+| NVDA  | $   210.70 | ▲ +7.92 (+3.91%) |
+| SPGI  | $   428.82 | ▼ -4.14 (-0.96%) |
+| META  | $   663.41 | ▲ +31.93 (+5.06%) |
+| AAPL  | $   314.14 | ▼ -2.08 (-0.66%) |
+| MSFT  | $   383.45 | ▼ -0.91 (-0.24%) |
+| GOOG  | $   351.83 | ▼ -4.41 (-1.24%) |
+| TSM   | $   438.81 | ▲ +1.85 (+0.42%) |
+| IONQ  | $    43.54 | ▼ -1.23 (-2.74%) |
+| COST  | $   914.16 | ▲ +1.19 (+0.13%) |
+| ASML  | $  1812.44 | ▲ +8.19 (+0.45%) |
+| SPYM  | $    88.79 | ▲ +0.32 (+0.36%) |
+| LLY   | $  1184.00 | ▼ -32.95 (-2.71%) |
+| OKLO  | $    48.21 | ▼ -1.06 (-2.15%) |
+| V     | $   346.30 | ▼ -1.90 (-0.55%) |
+| MA    | $   520.67 | ▼ -2.53 (-0.48%) |
+| AMZN  | $   244.79 | ▼ -2.25 (-0.91%) |
+| DUOL  | $   126.07 | ▼ -3.88 (-2.99%) |
 
 ## Global News
-- Tehran launches more strikes after explosions reported in southern Iran
-- Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes
-- Democrat Graham Platner suspends campaign for key US Senate race after assault allegation
-- Greek F-16 fighter jet crash-lands at busy Zakynthos airport
-- Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies
-- Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges
-- Starmer gifted gun and ammunition by Turkish president at Nato
+- Wildfire in southern Spain leaves at least 12 dead and 23 missing
+- East Asia braces for destructive typhoon as landslides kill 15 in Philippines
+- Zulu king expresses regret after video captures tirade against his wife
+- Man fatally shot by ICE in Houston was not intended target, DHS says
+- Man nearly sucked out of window mid-air on Ryanair plane, passengers say
+- Boxy forms and odd lights: US declassifies more UFO files
+- China lands reusable rocket for first time, state media says
 
 ---
-_Updated 2026-07-09_
+_Updated 2026-07-10_
