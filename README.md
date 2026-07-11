@@ -1,34 +1,34 @@
-# Daily TL;DR — July 10, 2026
+# Daily TL;DR — July 11, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   210.70 | ▲ +7.92 (+3.91%) |
-| SPGI  | $   428.82 | ▼ -4.14 (-0.96%) |
-| META  | $   663.41 | ▲ +31.93 (+5.06%) |
-| AAPL  | $   314.14 | ▼ -2.08 (-0.66%) |
-| MSFT  | $   383.45 | ▼ -0.91 (-0.24%) |
-| GOOG  | $   351.83 | ▼ -4.41 (-1.24%) |
-| TSM   | $   438.81 | ▲ +1.85 (+0.42%) |
-| IONQ  | $    43.54 | ▼ -1.23 (-2.74%) |
-| COST  | $   914.16 | ▲ +1.19 (+0.13%) |
-| ASML  | $  1812.44 | ▲ +8.19 (+0.45%) |
-| SPYM  | $    88.79 | ▲ +0.32 (+0.36%) |
-| LLY   | $  1184.00 | ▼ -32.95 (-2.71%) |
-| OKLO  | $    48.21 | ▼ -1.06 (-2.15%) |
-| V     | $   346.30 | ▼ -1.90 (-0.55%) |
-| MA    | $   520.67 | ▼ -2.53 (-0.48%) |
-| AMZN  | $   244.79 | ▼ -2.25 (-0.91%) |
-| DUOL  | $   126.07 | ▼ -3.88 (-2.99%) |
+| NVDA  | $   210.96 | ▲ +8.18 (+4.03%) |
+| SPGI  | $   430.50 | ▼ -2.46 (-0.57%) |
+| META  | $   669.21 | ▲ +37.73 (+5.97%) |
+| AAPL  | $   315.32 | ▼ -0.90 (-0.28%) |
+| MSFT  | $   385.10 | ▲ +0.74 (+0.19%) |
+| GOOG  | $   355.03 | ▼ -1.21 (-0.34%) |
+| TSM   | $   434.11 | ▼ -2.85 (-0.65%) |
+| IONQ  | $    42.86 | ▼ -1.91 (-4.27%) |
+| COST  | $   916.25 | ▲ +3.28 (+0.36%) |
+| ASML  | $  1797.32 | ▼ -6.93 (-0.38%) |
+| SPYM  | $    88.85 | ▲ +0.38 (+0.43%) |
+| LLY   | $  1188.58 | ▼ -28.37 (-2.33%) |
+| OKLO  | $    48.85 | ▼ -0.42 (-0.85%) |
+| V     | $   348.97 | ▲ +0.77 (+0.22%) |
+| MA    | $   526.74 | ▲ +3.54 (+0.68%) |
+| AMZN  | $   245.34 | ▼ -1.70 (-0.69%) |
+| DUOL  | $   124.76 | ▼ -5.19 (-3.99%) |
 
 ## Global News
-- Wildfire in southern Spain leaves at least 12 dead and 23 missing
-- East Asia braces for destructive typhoon as landslides kill 15 in Philippines
-- Zulu king expresses regret after video captures tirade against his wife
-- Man fatally shot by ICE in Houston was not intended target, DHS says
-- Man nearly sucked out of window mid-air on Ryanair plane, passengers say
-- Boxy forms and odd lights: US declassifies more UFO files
-- China lands reusable rocket for first time, state media says
+- Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say
+- Spain battles to contain one of its deadliest wildfires as at least 12 killed
+- Trump administration subpoenas New York Times journalists over Air Force One reporting
+- Indian tourists among 15 killed as speedboat capsizes in Vietnam
+- China braced for second typhoon in a week as Bavi approaches landfall
+- More than 40 kidnapped children and teachers freed after Nigerian army operation
+- South Africa World Cup midfielder Adams dies aged 25
 
 ---
-_Updated 2026-07-10_
+_Updated 2026-07-11_
