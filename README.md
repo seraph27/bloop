@@ -1,4 +1,4 @@
-# Daily TL;DR — July 11, 2026
+# Daily TL;DR — July 12, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   124.76 | ▼ -5.19 (-3.99%) |
 
 ## Global News
-- Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say
-- Spain battles to contain one of its deadliest wildfires as at least 12 killed
-- Trump administration subpoenas New York Times journalists over Air Force One reporting
-- Indian tourists among 15 killed as speedboat capsizes in Vietnam
-- China braced for second typhoon in a week as Bavi approaches landfall
-- More than 40 kidnapped children and teachers freed after Nigerian army operation
-- South Africa World Cup midfielder Adams dies aged 25
+- US insists Strait of Hormuz is open as it exchanges strikes with Iran
+- US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
+- Badly burned British couple rescued from ravine during Spain wildfires, reports say 
+- China evacuates nearly two million people as powerful typhoon makes landfall
+- Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
+- T. rex could become most expensive fossil ever - but it's a ​problem for scientists
+- David Willey, esteemed BBC foreign correspondent, dies aged 93
 
 ---
-_Updated 2026-07-11_
+_Updated 2026-07-12_
