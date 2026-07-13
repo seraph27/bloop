@@ -1,34 +1,34 @@
-# Daily TL;DR — July 12, 2026
+# Daily TL;DR — July 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   210.96 | ▲ +8.18 (+4.03%) |
-| SPGI  | $   430.50 | ▼ -2.46 (-0.57%) |
-| META  | $   669.21 | ▲ +37.73 (+5.97%) |
-| AAPL  | $   315.32 | ▼ -0.90 (-0.28%) |
-| MSFT  | $   385.10 | ▲ +0.74 (+0.19%) |
-| GOOG  | $   355.03 | ▼ -1.21 (-0.34%) |
-| TSM   | $   434.11 | ▼ -2.85 (-0.65%) |
-| IONQ  | $    42.86 | ▼ -1.91 (-4.27%) |
-| COST  | $   916.25 | ▲ +3.28 (+0.36%) |
-| ASML  | $  1797.32 | ▼ -6.93 (-0.38%) |
-| SPYM  | $    88.85 | ▲ +0.38 (+0.43%) |
-| LLY   | $  1188.58 | ▼ -28.37 (-2.33%) |
-| OKLO  | $    48.85 | ▼ -0.42 (-0.85%) |
-| V     | $   348.97 | ▲ +0.77 (+0.22%) |
-| MA    | $   526.74 | ▲ +3.54 (+0.68%) |
-| AMZN  | $   245.34 | ▼ -1.70 (-0.69%) |
-| DUOL  | $   124.76 | ▼ -5.19 (-3.99%) |
+| NVDA  | $   203.74 | ▼ -7.23 (-3.42%) |
+| SPGI  | $   438.38 | ▲ +7.88 (+1.83%) |
+| META  | $   660.40 | ▼ -8.81 (-1.32%) |
+| AAPL  | $   316.39 | ▲ +1.07 (+0.34%) |
+| MSFT  | $   391.74 | ▲ +6.64 (+1.72%) |
+| GOOG  | $   353.03 | ▼ -2.00 (-0.56%) |
+| TSM   | $   423.37 | ▼ -10.74 (-2.47%) |
+| IONQ  | $    38.89 | ▼ -3.97 (-9.26%) |
+| COST  | $   926.64 | ▲ +10.39 (+1.13%) |
+| ASML  | $  1727.21 | ▼ -70.10 (-3.90%) |
+| SPYM  | $    88.19 | ▼ -0.66 (-0.74%) |
+| LLY   | $  1182.47 | ▼ -6.11 (-0.51%) |
+| OKLO  | $    45.24 | ▼ -3.61 (-7.39%) |
+| V     | $   358.54 | ▲ +9.57 (+2.74%) |
+| MA    | $   539.24 | ▲ +12.50 (+2.37%) |
+| AMZN  | $   248.04 | ▲ +2.70 (+1.10%) |
+| DUOL  | $   131.04 | ▲ +6.28 (+5.04%) |
 
 ## Global News
-- US insists Strait of Hormuz is open as it exchanges strikes with Iran
-- US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
-- Badly burned British couple rescued from ravine during Spain wildfires, reports say 
-- China evacuates nearly two million people as powerful typhoon makes landfall
-- Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
-- T. rex could become most expensive fossil ever - but it's a ​problem for scientists
-- David Willey, esteemed BBC foreign correspondent, dies aged 93
+- At least 28 killed, 25 critically injured after fire engulfs Bangkok bar
+- 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78
+- Senator Lindsey Graham died of aortic tear, examiner says
+- Wildfire raging south of Paris could have been set deliberately, says minister
+- Infantino opens door to 64-team World Cup
+- UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates
+- German court convicts Iraqi couple of enslaving Yazidi girls 
 
 ---
-_Updated 2026-07-12_
+_Updated 2026-07-13_
