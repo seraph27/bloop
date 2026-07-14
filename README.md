@@ -1,34 +1,34 @@
-# Daily TL;DR — July 13, 2026
+# Daily TL;DR — July 14, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   203.74 | ▼ -7.23 (-3.42%) |
-| SPGI  | $   438.38 | ▲ +7.88 (+1.83%) |
-| META  | $   660.40 | ▼ -8.81 (-1.32%) |
-| AAPL  | $   316.39 | ▲ +1.07 (+0.34%) |
-| MSFT  | $   391.74 | ▲ +6.64 (+1.72%) |
-| GOOG  | $   353.03 | ▼ -2.00 (-0.56%) |
-| TSM   | $   423.37 | ▼ -10.74 (-2.47%) |
-| IONQ  | $    38.89 | ▼ -3.97 (-9.26%) |
-| COST  | $   926.64 | ▲ +10.39 (+1.13%) |
-| ASML  | $  1727.21 | ▼ -70.10 (-3.90%) |
-| SPYM  | $    88.19 | ▼ -0.66 (-0.74%) |
-| LLY   | $  1182.47 | ▼ -6.11 (-0.51%) |
-| OKLO  | $    45.24 | ▼ -3.61 (-7.39%) |
-| V     | $   358.54 | ▲ +9.57 (+2.74%) |
-| MA    | $   539.24 | ▲ +12.50 (+2.37%) |
-| AMZN  | $   248.04 | ▲ +2.70 (+1.10%) |
-| DUOL  | $   131.04 | ▲ +6.28 (+5.04%) |
+| NVDA  | $   211.44 | ▲ +7.91 (+3.89%) |
+| SPGI  | $   437.16 | ▼ -0.68 (-0.16%) |
+| META  | $   661.34 | ▲ +4.61 (+0.70%) |
+| AAPL  | $   314.60 | ▼ -2.71 (-0.85%) |
+| MSFT  | $   386.58 | ▼ -4.41 (-1.13%) |
+| GOOG  | $   354.89 | ▲ +4.22 (+1.20%) |
+| TSM   | $   421.77 | ▲ +0.19 (+0.04%) |
+| IONQ  | $    38.98 | ▲ +0.10 (+0.26%) |
+| COST  | $   920.31 | ▼ -6.12 (-0.66%) |
+| ASML  | $  1785.73 | ▲ +59.69 (+3.46%) |
+| SPYM  | $    88.49 | ▲ +0.31 (+0.35%) |
+| LLY   | $  1156.91 | ▼ -24.96 (-2.11%) |
+| OKLO  | $    45.56 | ▼ -0.25 (-0.55%) |
+| V     | $   357.93 | ▲ +0.18 (+0.05%) |
+| MA    | $   539.90 | ▲ +2.20 (+0.41%) |
+| AMZN  | $   245.90 | ▼ -1.41 (-0.57%) |
+| DUOL  | $   131.28 | ▼ -1.06 (-0.80%) |
 
 ## Global News
-- At least 28 killed, 25 critically injured after fire engulfs Bangkok bar
-- 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78
-- Senator Lindsey Graham died of aortic tear, examiner says
-- Wildfire raging south of Paris could have been set deliberately, says minister
-- Infantino opens door to 64-team World Cup
-- UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates
-- German court convicts Iraqi couple of enslaving Yazidi girls 
+- How US commerce secretary's Epstein links were uncovered by British whistleblower
+- Israeli strike on police post in north Gaza kills seven, officials say
+- Diamond giant De Beers halts work at flagship South African mine as demand plummets
+- 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal
+- Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation
+- Tyrannosaurus rex most expensive dinosaur ever sold
+- Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30
 
 ---
-_Updated 2026-07-13_
+_Updated 2026-07-14_
