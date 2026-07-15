@@ -1,34 +1,34 @@
-# Daily TL;DR — July 14, 2026
+# Daily TL;DR — July 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   211.44 | ▲ +7.91 (+3.89%) |
-| SPGI  | $   437.16 | ▼ -0.68 (-0.16%) |
-| META  | $   661.34 | ▲ +4.61 (+0.70%) |
-| AAPL  | $   314.60 | ▼ -2.71 (-0.85%) |
-| MSFT  | $   386.58 | ▼ -4.41 (-1.13%) |
-| GOOG  | $   354.89 | ▲ +4.22 (+1.20%) |
-| TSM   | $   421.77 | ▲ +0.19 (+0.04%) |
-| IONQ  | $    38.98 | ▲ +0.10 (+0.26%) |
-| COST  | $   920.31 | ▼ -6.12 (-0.66%) |
-| ASML  | $  1785.73 | ▲ +59.69 (+3.46%) |
-| SPYM  | $    88.49 | ▲ +0.31 (+0.35%) |
-| LLY   | $  1156.91 | ▼ -24.96 (-2.11%) |
-| OKLO  | $    45.56 | ▼ -0.25 (-0.55%) |
-| V     | $   357.93 | ▲ +0.18 (+0.05%) |
-| MA    | $   539.90 | ▲ +2.20 (+0.41%) |
-| AMZN  | $   245.90 | ▼ -1.41 (-0.57%) |
-| DUOL  | $   131.28 | ▼ -1.06 (-0.80%) |
+| NVDA  | $   208.95 | ▼ -2.85 (-1.35%) |
+| SPGI  | $   445.46 | ▲ +6.59 (+1.50%) |
+| META  | $   674.51 | ▲ +13.47 (+2.04%) |
+| AAPL  | $   326.27 | ▲ +11.41 (+3.62%) |
+| MSFT  | $   395.72 | ▲ +10.79 (+2.80%) |
+| GOOG  | $   369.64 | ▲ +12.31 (+3.45%) |
+| TSM   | $   417.52 | ▼ -2.87 (-0.68%) |
+| IONQ  | $    37.57 | ▼ -1.72 (-4.38%) |
+| COST  | $   922.85 | ▲ +1.10 (+0.12%) |
+| ASML  | $  1778.65 | ▲ +3.01 (+0.17%) |
+| SPYM  | $    88.56 | ▲ +0.06 (+0.07%) |
+| LLY   | $  1145.00 | ▼ -7.54 (-0.65%) |
+| OKLO  | $    45.32 | ▼ -0.92 (-1.99%) |
+| V     | $   358.72 | ▲ +2.70 (+0.76%) |
+| MA    | $   538.87 | ▲ +0.85 (+0.16%) |
+| AMZN  | $   255.19 | ▲ +7.70 (+3.11%) |
+| DUOL  | $   132.29 | ▲ +3.94 (+3.07%) |
 
 ## Global News
-- How US commerce secretary's Epstein links were uncovered by British whistleblower
-- Israeli strike on police post in north Gaza kills seven, officials say
-- Diamond giant De Beers halts work at flagship South African mine as demand plummets
-- 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal
-- Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation
-- Tyrannosaurus rex most expensive dinosaur ever sold
-- Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30
+- Iran threatens to block more trade routes as US launches fresh strikes
+- Trump retreat over Hormuz tolls suggests he is struggling to end Iran war
+- Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal
+- Russian attacks kill eight as Ukraine hits Black Sea oil tankers
+- Special police team to investigate killing of an anti-migrant leader in South Africa
+- Italy's Meloni suffers surprise setback in close vote on electoral reform
+- Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes
 
 ---
-_Updated 2026-07-14_
+_Updated 2026-07-15_
