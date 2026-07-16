@@ -1,34 +1,34 @@
-# Daily TL;DR — July 15, 2026
+# Daily TL;DR — July 16, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   208.95 | ▼ -2.85 (-1.35%) |
-| SPGI  | $   445.46 | ▲ +6.59 (+1.50%) |
-| META  | $   674.51 | ▲ +13.47 (+2.04%) |
-| AAPL  | $   326.27 | ▲ +11.41 (+3.62%) |
-| MSFT  | $   395.72 | ▲ +10.79 (+2.80%) |
-| GOOG  | $   369.64 | ▲ +12.31 (+3.45%) |
-| TSM   | $   417.52 | ▼ -2.87 (-0.68%) |
-| IONQ  | $    37.57 | ▼ -1.72 (-4.38%) |
-| COST  | $   922.85 | ▲ +1.10 (+0.12%) |
-| ASML  | $  1778.65 | ▲ +3.01 (+0.17%) |
-| SPYM  | $    88.56 | ▲ +0.06 (+0.07%) |
-| LLY   | $  1145.00 | ▼ -7.54 (-0.65%) |
-| OKLO  | $    45.32 | ▼ -0.92 (-1.99%) |
-| V     | $   358.72 | ▲ +2.70 (+0.76%) |
-| MA    | $   538.87 | ▲ +0.85 (+0.16%) |
-| AMZN  | $   255.19 | ▲ +7.70 (+3.11%) |
-| DUOL  | $   132.29 | ▲ +3.94 (+3.07%) |
+| NVDA  | $   207.23 | ▼ -5.27 (-2.48%) |
+| SPGI  | $   454.89 | ▲ +10.40 (+2.34%) |
+| META  | $   670.33 | ▼ -10.98 (-1.61%) |
+| AAPL  | $   332.41 | ▲ +4.91 (+1.50%) |
+| MSFT  | $   402.49 | ▲ +6.86 (+1.73%) |
+| GOOG  | $   370.86 | ▲ +0.65 (+0.18%) |
+| TSM   | $   405.76 | ▼ -13.72 (-3.27%) |
+| IONQ  | $    35.08 | ▼ -2.43 (-6.48%) |
+| COST  | $   939.11 | ▲ +22.57 (+2.46%) |
+| ASML  | $  1801.75 | ▼ -13.52 (-0.74%) |
+| SPYM  | $    88.57 | ▼ -0.27 (-0.30%) |
+| LLY   | $  1171.54 | ▲ +14.91 (+1.29%) |
+| OKLO  | $    41.26 | ▼ -4.43 (-9.71%) |
+| V     | $   361.56 | ▲ +6.42 (+1.81%) |
+| MA    | $   547.81 | ▲ +12.60 (+2.35%) |
+| AMZN  | $   256.52 | ▲ +1.56 (+0.61%) |
+| DUOL  | $   128.46 | ▼ -2.76 (-2.10%) |
 
 ## Global News
-- Iran threatens to block more trade routes as US launches fresh strikes
-- Trump retreat over Hormuz tolls suggests he is struggling to end Iran war
-- Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal
-- Russian attacks kill eight as Ukraine hits Black Sea oil tankers
-- Special police team to investigate killing of an anti-migrant leader in South Africa
-- Italy's Meloni suffers surprise setback in close vote on electoral reform
-- Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes
+- Italian officials handed jail terms for Genoa bridge disaster that killed 43
+- Zelensky's removal of popular defence minister sparks protests in Ukraine
+- Teenager accused of carrying out sabotage actions in Poland for Russia
+- Iran targets military bases as US launches wave of strikes
+- More than 800 Canadian wildfires burning as air quality alerts extend to US
+- Argentina face action over Falklands banner
+- 'Moment of joy' as Uganda discharges last Ebola patient
 
 ---
-_Updated 2026-07-15_
+_Updated 2026-07-16_
