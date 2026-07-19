@@ -1,4 +1,4 @@
-# Daily TL;DR — July 18, 2026
+# Daily TL;DR — July 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   133.85 | ▲ +4.91 (+3.81%) |
 
 ## Global News
-- Russian online retail warehouses hit by deadly Ukrainian strikes
-- Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
-- US strikes hit Iran for seventh consecutive night
-- Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
-- Space start-up launches India’s first commercial rocket designed for orbit
-- Laos says it can't determine cause of  tourist deaths linked to methanol 
-- German politician resigns over surrogacy child controversy
+- US and Iran trade fire after two US soldiers killed in Jordan
+- Tate brothers arrested in US as further UK charges take total to 59
+- Russia launches major ballistic missile attack on Ukrainian cities
+- New EU border system tripling time at passport control, airport boss says
+- The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles
+- Ferry carrying 133 passengers and crew sinks off Guyana coast
+- Health officials identify source of US explosive diarrhoea outbreak 
 
 ---
-_Updated 2026-07-18_
+_Updated 2026-07-19_
