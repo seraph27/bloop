@@ -1,34 +1,34 @@
-# Daily TL;DR — July 20, 2026
+# Daily TL;DR — July 21, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   204.63 | ▲ +1.82 (+0.90%) |
-| SPGI  | $   451.00 | ▲ +0.16 (+0.04%) |
-| META  | $   648.41 | ▲ +2.40 (+0.37%) |
-| AAPL  | $   325.13 | ▼ -8.61 (-2.58%) |
-| MSFT  | $   401.55 | ▲ +7.73 (+1.96%) |
-| GOOG  | $   352.63 | ▲ +6.51 (+1.88%) |
-| TSM   | $   403.33 | ▲ +4.96 (+1.25%) |
-| IONQ  | $    34.95 | ▲ +0.17 (+0.49%) |
-| COST  | $   935.03 | ▼ -5.84 (-0.62%) |
-| ASML  | $  1740.07 | ▼ -7.51 (-0.43%) |
-| SPYM  | $    87.66 | ▲ +0.18 (+0.21%) |
-| LLY   | $  1158.76 | ▼ -20.35 (-1.73%) |
-| OKLO  | $    41.42 | ▲ +0.31 (+0.75%) |
-| V     | $   362.02 | ▲ +3.46 (+0.96%) |
-| MA    | $   546.24 | ▲ +2.64 (+0.49%) |
-| AMZN  | $   250.51 | ▲ +3.28 (+1.33%) |
-| DUOL  | $   135.57 | ▲ +1.72 (+1.29%) |
+| NVDA  | $   205.95 | ▲ +2.67 (+1.31%) |
+| SPGI  | $   432.81 | ▼ -15.54 (-3.47%) |
+| META  | $   646.01 | ▲ +0.16 (+0.02%) |
+| AAPL  | $   328.18 | ▲ +1.59 (+0.49%) |
+| MSFT  | $   399.05 | ▼ -3.24 (-0.81%) |
+| GOOG  | $   348.39 | ▼ -2.98 (-0.85%) |
+| TSM   | $   423.80 | ▲ +21.50 (+5.34%) |
+| IONQ  | $    35.62 | ▲ +1.38 (+4.02%) |
+| COST  | $   927.44 | ▼ -8.36 (-0.89%) |
+| ASML  | $  1818.96 | ▲ +79.94 (+4.60%) |
+| SPYM  | $    88.10 | ▲ +0.74 (+0.84%) |
+| LLY   | $  1161.47 | ▲ +14.57 (+1.27%) |
+| OKLO  | $    43.76 | ▲ +2.25 (+5.42%) |
+| V     | $   358.14 | ▼ -2.43 (-0.67%) |
+| MA    | $   541.83 | ▼ -5.61 (-1.03%) |
+| AMZN  | $   248.37 | ▼ -1.62 (-0.65%) |
+| DUOL  | $   126.27 | ▼ -7.62 (-5.69%) |
 
 ## Global News
-- Trump says US strikes hit Iran in 'honour' of American soldiers killed
-- Yemen's Houthis announce 'maritime embargo' on Saudi Arabia
-- Ten killed as Russian attacks on merchant ships in Black Sea intensify
-- Rare identical quadruplets born in Australia
-- Notorious drug cartel leader Ismael Zambada sentenced to life in US prison
-- Boy, 13, dies during World Cup celebrations in Spain 
-- Police block thousands of 'cockroach' protesters marching on India's parliament
+- Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks
+- Row escalates in Ukraine over army chief's future
+- US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
+- Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal
+- Dozens hurt in Bologna protests after man dies while being restrained by police
+- Israeli strikes in Gaza kill 12, including family of six, medics say
+- Two French firefighters die tackling blaze near Bordeaux airport
 
 ---
-_Updated 2026-07-20_
+_Updated 2026-07-21_
