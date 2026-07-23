@@ -1,34 +1,34 @@
-# Daily TL;DR — July 22, 2026
+# Daily TL;DR — July 23, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   213.31 | ▲ +6.02 (+2.90%) |
-| SPGI  | $   429.98 | ▼ -1.28 (-0.30%) |
-| META  | $   629.10 | ▼ -14.71 (-2.28%) |
-| AAPL  | $   323.54 | ▼ -4.20 (-1.28%) |
-| MSFT  | $   387.45 | ▼ -10.30 (-2.59%) |
-| GOOG  | $   347.36 | ▲ +1.17 (+0.34%) |
-| TSM   | $   422.49 | ▼ -2.12 (-0.50%) |
-| IONQ  | $    35.56 | ▲ +0.05 (+0.13%) |
-| COST  | $   924.17 | ▼ -5.05 (-0.54%) |
-| ASML  | $  1807.89 | ▲ +6.38 (+0.35%) |
-| SPYM  | $    88.17 | ▲ +0.08 (+0.10%) |
-| LLY   | $  1162.73 | ▼ -12.68 (-1.08%) |
-| OKLO  | $    44.55 | ▲ +0.42 (+0.95%) |
-| V     | $   354.98 | ▼ -0.84 (-0.24%) |
-| MA    | $   533.61 | ▼ -4.69 (-0.87%) |
-| AMZN  | $   243.19 | ▼ -4.36 (-1.76%) |
-| DUOL  | $   122.28 | ▼ -2.43 (-1.95%) |
+| NVDA  | $   210.28 | ▼ -1.78 (-0.84%) |
+| SPGI  | $   420.30 | ▼ -8.76 (-2.04%) |
+| META  | $   606.98 | ▼ -20.18 (-3.22%) |
+| AAPL  | $   320.80 | ▼ -5.09 (-1.56%) |
+| MSFT  | $   381.49 | ▼ -8.85 (-2.27%) |
+| GOOG  | $   320.92 | ▼ -20.99 (-6.14%) |
+| TSM   | $   418.05 | ▼ -3.16 (-0.75%) |
+| IONQ  | $    34.51 | ▼ -0.17 (-0.48%) |
+| COST  | $   919.56 | ▼ -7.75 (-0.84%) |
+| ASML  | $  1804.47 | ▲ +2.61 (+0.14%) |
+| SPYM  | $    86.99 | ▼ -0.99 (-1.12%) |
+| LLY   | $  1188.62 | ▲ +25.61 (+2.20%) |
+| OKLO  | $    43.74 | ▼ -0.76 (-1.70%) |
+| V     | $   350.84 | ▼ -2.58 (-0.73%) |
+| MA    | $   527.12 | ▼ -4.85 (-0.91%) |
+| AMZN  | $   234.61 | ▼ -10.24 (-4.18%) |
+| DUOL  | $   120.51 | ▲ +1.00 (+0.84%) |
 
 ## Global News
-- US to announce deal allowing Saudi Arabia a nuclear programme
-- Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist
-- Tankers make sharp U-turns after Houthi shipping threat
-- British woman jailed for blackmail after accusing banker of rape in Hong Kong
-- Wreckage of Pan Am plane that shaped aviation safety found 74 years on
-- Mamdani U-turn on threat to arrest Netanyahu citing lack of authority
-- Two Russians handed down jail terms for terrorism and spying in Angola
+- Oil prices hit $100 for the first time since May
+- Saudis must recognise Israel for nuclear deal, says Trump 
+- France evacuates 20,000 as wildfires spread in south-west
+- Yemen's Houthis attack Saudi tanker as US launches more Iran strikes
+- 'I am still alive': Indian activist on hunger strike for 26 days loses 11kg
+- Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says
+- Canada's 'powerful' dairy sector is in Trump's trade crosshairs
 
 ---
-_Updated 2026-07-22_
+_Updated 2026-07-23_
