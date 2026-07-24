@@ -1,34 +1,34 @@
-# Daily TL;DR — July 23, 2026
+# Daily TL;DR — July 24, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   210.28 | ▼ -1.78 (-0.84%) |
-| SPGI  | $   420.30 | ▼ -8.76 (-2.04%) |
-| META  | $   606.98 | ▼ -20.18 (-3.22%) |
-| AAPL  | $   320.80 | ▼ -5.09 (-1.56%) |
-| MSFT  | $   381.49 | ▼ -8.85 (-2.27%) |
-| GOOG  | $   320.92 | ▼ -20.99 (-6.14%) |
-| TSM   | $   418.05 | ▼ -3.16 (-0.75%) |
-| IONQ  | $    34.51 | ▼ -0.17 (-0.48%) |
-| COST  | $   919.56 | ▼ -7.75 (-0.84%) |
-| ASML  | $  1804.47 | ▲ +2.61 (+0.14%) |
-| SPYM  | $    86.99 | ▼ -0.99 (-1.12%) |
-| LLY   | $  1188.62 | ▲ +25.61 (+2.20%) |
-| OKLO  | $    43.74 | ▼ -0.76 (-1.70%) |
-| V     | $   350.84 | ▼ -2.58 (-0.73%) |
-| MA    | $   527.12 | ▼ -4.85 (-0.91%) |
-| AMZN  | $   234.61 | ▼ -10.24 (-4.18%) |
-| DUOL  | $   120.51 | ▲ +1.00 (+0.84%) |
+| NVDA  | $   210.30 | ▲ +1.54 (+0.74%) |
+| SPGI  | $   424.85 | ▲ +4.85 (+1.15%) |
+| META  | $   601.41 | ▼ -4.68 (-0.77%) |
+| AAPL  | $   332.63 | ▲ +10.97 (+3.41%) |
+| MSFT  | $   384.06 | ▲ +2.48 (+0.65%) |
+| GOOG  | $   319.39 | ▲ +1.05 (+0.33%) |
+| TSM   | $   407.24 | ▼ -8.34 (-2.01%) |
+| IONQ  | $    33.33 | ▼ -0.74 (-2.17%) |
+| COST  | $   932.37 | ▲ +6.31 (+0.68%) |
+| ASML  | $  1779.46 | ▼ -23.54 (-1.31%) |
+| SPYM  | $    87.28 | ▲ +0.36 (+0.42%) |
+| LLY   | $  1197.79 | ▲ +11.92 (+1.01%) |
+| OKLO  | $    40.99 | ▼ -3.01 (-6.84%) |
+| V     | $   353.49 | ▲ +1.89 (+0.54%) |
+| MA    | $   534.86 | ▲ +4.58 (+0.86%) |
+| AMZN  | $   232.65 | ▼ -1.01 (-0.43%) |
+| DUOL  | $   123.04 | ▲ +2.37 (+1.96%) |
 
 ## Global News
-- Oil prices hit $100 for the first time since May
-- Saudis must recognise Israel for nuclear deal, says Trump 
-- France evacuates 20,000 as wildfires spread in south-west
-- Yemen's Houthis attack Saudi tanker as US launches more Iran strikes
-- 'I am still alive': Indian activist on hunger strike for 26 days loses 11kg
-- Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says
-- Canada's 'powerful' dairy sector is in Trump's trade crosshairs
+- US hits dozens of countries with new wave of tariffs
+- US and Iran trade more strikes in Gulf as fears of escalation mount
+- Indonesian babies were trafficked to Singapore. What happens to them now?
+- South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'
+- Four Palestinians and two Israelis killed in West Bank shooting
+- Nigeria's president approves largest military expansion in recent times
+- World chess chief faces endgame after EU announces Russia war sanctions
 
 ---
-_Updated 2026-07-23_
+_Updated 2026-07-24_
