@@ -1,34 +1,34 @@
-# Daily TL;DR — July 24, 2026
+# Daily TL;DR — July 25, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   210.30 | ▲ +1.54 (+0.74%) |
-| SPGI  | $   424.85 | ▲ +4.85 (+1.15%) |
-| META  | $   601.41 | ▼ -4.68 (-0.77%) |
-| AAPL  | $   332.63 | ▲ +10.97 (+3.41%) |
-| MSFT  | $   384.06 | ▲ +2.48 (+0.65%) |
-| GOOG  | $   319.39 | ▲ +1.05 (+0.33%) |
-| TSM   | $   407.24 | ▼ -8.34 (-2.01%) |
-| IONQ  | $    33.33 | ▼ -0.74 (-2.17%) |
-| COST  | $   932.37 | ▲ +6.31 (+0.68%) |
-| ASML  | $  1779.46 | ▼ -23.54 (-1.31%) |
-| SPYM  | $    87.28 | ▲ +0.36 (+0.42%) |
-| LLY   | $  1197.79 | ▲ +11.92 (+1.01%) |
-| OKLO  | $    40.99 | ▼ -3.01 (-6.84%) |
-| V     | $   353.49 | ▲ +1.89 (+0.54%) |
-| MA    | $   534.86 | ▲ +4.58 (+0.86%) |
-| AMZN  | $   232.65 | ▼ -1.01 (-0.43%) |
-| DUOL  | $   123.04 | ▲ +2.37 (+1.96%) |
+| NVDA  | $   206.84 | ▼ -1.92 (-0.92%) |
+| SPGI  | $   426.40 | ▲ +6.40 (+1.52%) |
+| META  | $   595.19 | ▼ -10.91 (-1.80%) |
+| AAPL  | $   333.02 | ▲ +11.36 (+3.53%) |
+| MSFT  | $   381.70 | ▲ +0.12 (+0.03%) |
+| GOOG  | $   319.09 | ▲ +0.75 (+0.24%) |
+| TSM   | $   403.41 | ▼ -12.17 (-2.93%) |
+| IONQ  | $    32.84 | ▼ -1.23 (-3.61%) |
+| COST  | $   935.03 | ▲ +10.44 (+1.13%) |
+| ASML  | $  1757.09 | ▼ -45.91 (-2.55%) |
+| SPYM  | $    86.96 | ▲ +0.05 (+0.06%) |
+| LLY   | $  1196.03 | ▲ +10.16 (+0.86%) |
+| OKLO  | $    40.25 | ▼ -3.75 (-8.52%) |
+| V     | $   355.74 | ▲ +4.14 (+1.18%) |
+| MA    | $   539.66 | ▲ +9.37 (+1.77%) |
+| AMZN  | $   232.11 | ▼ -1.55 (-0.66%) |
+| DUOL  | $   122.24 | ▲ +1.57 (+1.30%) |
 
 ## Global News
-- US hits dozens of countries with new wave of tariffs
-- US and Iran trade more strikes in Gulf as fears of escalation mount
-- Indonesian babies were trafficked to Singapore. What happens to them now?
-- South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'
+- Trump takes swipes at press during White House Correspondents' Dinner
+- Iran-backed Houthis claim missile attack on Saudi Arabia
+- Ten killed in Russian attack on drone exhibition near Kyiv
+- Zelensky tries to fix crisis over removal of defence minister and counts the cost
 - Four Palestinians and two Israelis killed in West Bank shooting
-- Nigeria's president approves largest military expansion in recent times
-- World chess chief faces endgame after EU announces Russia war sanctions
+- ICC top prosecutor removed over sexual misconduct allegations
+- Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion
 
 ---
-_Updated 2026-07-24_
+_Updated 2026-07-25_
