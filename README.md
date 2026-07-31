@@ -1,34 +1,34 @@
-# Daily TL;DR — July 30, 2026
+# Daily TL;DR — July 31, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   193.40 | ▲ +3.39 (+1.78%) |
-| SPGI  | $   410.85 | ▼ -8.79 (-2.09%) |
-| META  | $   534.25 | ▼ -51.36 (-8.77%) |
-| AAPL  | $   332.38 | ▼ -5.81 (-1.72%) |
-| MSFT  | $   457.23 | ▲ +66.69 (+17.08%) |
-| GOOG  | $   332.82 | ▼ -2.94 (-0.88%) |
-| TSM   | $   403.36 | ▲ +28.69 (+7.66%) |
-| IONQ  | $    34.91 | ▲ +2.92 (+9.13%) |
-| COST  | $   950.48 | ▼ -23.55 (-2.42%) |
-| ASML  | $  1652.90 | ▲ +102.21 (+6.59%) |
-| SPYM  | $    87.08 | ▲ +1.15 (+1.34%) |
-| LLY   | $  1162.16 | ▼ -47.86 (-3.96%) |
-| OKLO  | $    40.85 | ▲ +4.01 (+10.88%) |
-| V     | $   363.77 | ▼ -4.96 (-1.35%) |
-| MA    | $   578.32 | ▲ +15.00 (+2.66%) |
-| AMZN  | $   237.81 | ▲ +11.16 (+4.92%) |
-| DUOL  | $   130.98 | ▼ -9.19 (-6.56%) |
+| NVDA  | $   199.37 | ▲ +4.33 (+2.22%) |
+| SPGI  | $   414.61 | ▼ -0.39 (-0.09%) |
+| META  | $   549.76 | ▲ +10.73 (+1.99%) |
+| AAPL  | $   301.58 | ▼ -31.85 (-9.55%) |
+| MSFT  | $   462.08 | ▲ +10.98 (+2.43%) |
+| GOOG  | $   353.96 | ▲ +20.28 (+6.08%) |
+| TSM   | $   408.10 | ▲ +4.79 (+1.19%) |
+| IONQ  | $    36.49 | ▲ +0.72 (+2.01%) |
+| COST  | $   951.21 | ▼ -2.96 (-0.31%) |
+| ASML  | $  1660.01 | ▲ +8.57 (+0.52%) |
+| SPYM  | $    87.79 | ▲ +0.49 (+0.56%) |
+| LLY   | $  1143.57 | ▼ -11.40 (-0.99%) |
+| OKLO  | $    39.69 | ▼ -1.40 (-3.39%) |
+| V     | $   365.43 | ▼ -0.84 (-0.23%) |
+| MA    | $   573.90 | ▼ -3.45 (-0.60%) |
+| AMZN  | $   270.42 | ▲ +34.92 (+14.83%) |
+| DUOL  | $   134.15 | ▲ +0.55 (+0.41%) |
 
 ## Global News
-- US launches 'heavy' strikes on Iran after attempted attack on American troops
-- Why limited war with the US may suit Iran better than peace
-- Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta
-- Missile that left crater deep inside Poland was probably Russian - Polish PM
-- At least five members of same family killed in Russian missile attack, Zelensky says
-- Nicaraguan leader proposes extending presidential term by another year
-- Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect
+- Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+- Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza
+- Two bodies located and search ongoing after avalanche hits Nirmal Purja's team
+- Peru's ex-president has 15-year jail sentence for corruption charges overturned
+- Hundreds escape Greek wildfire by sea as blazes continue across Europe 
+- Fifa says 'nobody selling football' as plan continues
+- UK rapper Yung Filly found not guilty of raping woman after Australian show
 
 ---
-_Updated 2026-07-30_
+_Updated 2026-07-31_
