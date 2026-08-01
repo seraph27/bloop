@@ -1,34 +1,34 @@
-# Daily TL;DR — July 31, 2026
+# Daily TL;DR — August 01, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   199.37 | ▲ +4.33 (+2.22%) |
-| SPGI  | $   414.61 | ▼ -0.39 (-0.09%) |
-| META  | $   549.76 | ▲ +10.73 (+1.99%) |
-| AAPL  | $   301.58 | ▼ -31.85 (-9.55%) |
-| MSFT  | $   462.08 | ▲ +10.98 (+2.43%) |
-| GOOG  | $   353.96 | ▲ +20.28 (+6.08%) |
-| TSM   | $   408.10 | ▲ +4.79 (+1.19%) |
-| IONQ  | $    36.49 | ▲ +0.72 (+2.01%) |
-| COST  | $   951.21 | ▼ -2.96 (-0.31%) |
-| ASML  | $  1660.01 | ▲ +8.57 (+0.52%) |
-| SPYM  | $    87.79 | ▲ +0.49 (+0.56%) |
-| LLY   | $  1143.57 | ▼ -11.40 (-0.99%) |
-| OKLO  | $    39.69 | ▼ -1.40 (-3.39%) |
-| V     | $   365.43 | ▼ -0.84 (-0.23%) |
-| MA    | $   573.90 | ▼ -3.45 (-0.60%) |
-| AMZN  | $   270.42 | ▲ +34.92 (+14.83%) |
-| DUOL  | $   134.15 | ▲ +0.55 (+0.41%) |
+| NVDA  | $   200.75 | ▲ +5.71 (+2.93%) |
+| SPGI  | $   411.93 | ▼ -3.07 (-0.74%) |
+| META  | $   556.71 | ▲ +17.68 (+3.28%) |
+| AAPL  | $   308.91 | ▼ -24.52 (-7.35%) |
+| MSFT  | $   464.72 | ▲ +13.62 (+3.02%) |
+| GOOG  | $   356.65 | ▲ +22.97 (+6.88%) |
+| TSM   | $   404.25 | ▲ +0.94 (+0.23%) |
+| IONQ  | $    36.44 | ▲ +0.67 (+1.87%) |
+| COST  | $   951.89 | ▼ -2.28 (-0.24%) |
+| ASML  | $  1629.00 | ▼ -22.44 (-1.36%) |
+| SPYM  | $    87.90 | ▲ +0.59 (+0.68%) |
+| LLY   | $  1148.84 | ▼ -6.13 (-0.53%) |
+| OKLO  | $    38.83 | ▼ -2.26 (-5.50%) |
+| V     | $   366.13 | ▼ -0.14 (-0.04%) |
+| MA    | $   573.10 | ▼ -4.25 (-0.74%) |
+| AMZN  | $   271.58 | ▲ +36.08 (+15.32%) |
+| DUOL  | $   134.81 | ▲ +1.21 (+0.91%) |
 
 ## Global News
-- Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
-- Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza
-- Two bodies located and search ongoing after avalanche hits Nirmal Purja's team
-- Peru's ex-president has 15-year jail sentence for corruption charges overturned
-- Hundreds escape Greek wildfire by sea as blazes continue across Europe 
-- Fifa says 'nobody selling football' as plan continues
-- UK rapper Yung Filly found not guilty of raping woman after Australian show
+- Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+- Call for 'full review' as pressure grows on Infantino
+- Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
+- Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
+- Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship
+- Current Ebola outbreak worst ever in DR Congo, WHO says 
+- Peru's ex-president leaves jail after 15-year jail term for corruption overturned
 
 ---
-_Updated 2026-07-31_
+_Updated 2026-08-01_
