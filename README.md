@@ -1,4 +1,4 @@
-# Daily TL;DR — August 01, 2026
+# Daily TL;DR — August 02, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   134.81 | ▲ +1.21 (+0.91%) |
 
 ## Global News
-- Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
-- Call for 'full review' as pressure grows on Infantino
-- Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
-- Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
-- Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship
-- Current Ebola outbreak worst ever in DR Congo, WHO says 
-- Peru's ex-president leaves jail after 15-year jail term for corruption overturned
+- Helicopters fighting Greece wildfires collide in mid-air
+- Trump cancels Iran strikes subject to deal being made 'rapidly'
+- At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal 
+- How Spain's migrant crisis created a political storm - whipped up by social media
+- Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths 
+- Five dead, 41 missing, after Indonesia ferry catches fire
+- Young guns for hire - the teenage hitmen recruited to kill across Europe
 
 ---
-_Updated 2026-08-01_
+_Updated 2026-08-02_
