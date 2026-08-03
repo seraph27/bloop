@@ -1,34 +1,34 @@
-# Daily TL;DR — August 02, 2026
+# Daily TL;DR — August 03, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   200.75 | ▲ +5.71 (+2.93%) |
-| SPGI  | $   411.93 | ▼ -3.07 (-0.74%) |
-| META  | $   556.71 | ▲ +17.68 (+3.28%) |
-| AAPL  | $   308.91 | ▼ -24.52 (-7.35%) |
-| MSFT  | $   464.72 | ▲ +13.62 (+3.02%) |
-| GOOG  | $   356.65 | ▲ +22.97 (+6.88%) |
-| TSM   | $   404.25 | ▲ +0.94 (+0.23%) |
-| IONQ  | $    36.44 | ▲ +0.67 (+1.87%) |
-| COST  | $   951.89 | ▼ -2.28 (-0.24%) |
-| ASML  | $  1629.00 | ▼ -22.44 (-1.36%) |
-| SPYM  | $    87.90 | ▲ +0.59 (+0.68%) |
-| LLY   | $  1148.84 | ▼ -6.13 (-0.53%) |
-| OKLO  | $    38.83 | ▼ -2.26 (-5.50%) |
-| V     | $   366.13 | ▼ -0.14 (-0.04%) |
-| MA    | $   573.10 | ▼ -4.25 (-0.74%) |
-| AMZN  | $   271.58 | ▲ +36.08 (+15.32%) |
-| DUOL  | $   134.81 | ▲ +1.21 (+0.91%) |
+| NVDA  | $   207.80 | ▲ +7.05 (+3.51%) |
+| SPGI  | $   412.96 | ▲ +1.04 (+0.25%) |
+| META  | $   590.62 | ▲ +33.91 (+6.09%) |
+| AAPL  | $   306.33 | ▼ -2.58 (-0.83%) |
+| MSFT  | $   488.86 | ▲ +24.14 (+5.19%) |
+| GOOG  | $   373.85 | ▲ +17.20 (+4.82%) |
+| TSM   | $   406.00 | ▲ +1.75 (+0.43%) |
+| IONQ  | $    40.03 | ▲ +3.59 (+9.84%) |
+| COST  | $   950.64 | ▼ -1.26 (-0.13%) |
+| ASML  | $  1644.32 | ▲ +15.32 (+0.94%) |
+| SPYM  | $    89.17 | ▲ +1.27 (+1.44%) |
+| LLY   | $  1118.81 | ▼ -30.03 (-2.61%) |
+| OKLO  | $    41.87 | ▲ +3.03 (+7.82%) |
+| V     | $   365.86 | ▼ -0.27 (-0.07%) |
+| MA    | $   574.84 | ▲ +1.74 (+0.30%) |
+| AMZN  | $   283.61 | ▲ +12.03 (+4.43%) |
+| DUOL  | $   137.23 | ▲ +2.42 (+1.80%) |
 
 ## Global News
-- Helicopters fighting Greece wildfires collide in mid-air
-- Trump cancels Iran strikes subject to deal being made 'rapidly'
-- At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal 
-- How Spain's migrant crisis created a political storm - whipped up by social media
-- Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths 
-- Five dead, 41 missing, after Indonesia ferry catches fire
-- Young guns for hire - the teenage hitmen recruited to kill across Europe
+- Rhine falls to record low levels as drought strains Europe's rivers
+- Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
+- Threat to oil tankers in Middle East  worst since start of Iran war, analysts say
+- 'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir
+- Russian anti-war politician says he has fled the country
+- Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years
+- Two workers killed in blast after re-entering quake-hit Japan mall on boss' order
 
 ---
-_Updated 2026-08-02_
+_Updated 2026-08-03_
