@@ -1,34 +1,34 @@
-# Daily TL;DR — August 04, 2026
+# Daily TL;DR — August 05, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   211.71 | ▲ +5.07 (+2.45%) |
-| SPGI  | $   412.36 | ▼ -3.89 (-0.93%) |
-| META  | $   588.46 | ▼ -1.78 (-0.30%) |
-| AAPL  | $   309.83 | ▲ +6.41 (+2.11%) |
-| MSFT  | $   495.90 | ▲ +8.26 (+1.69%) |
-| GOOG  | $   375.73 | ▲ +3.26 (+0.88%) |
-| TSM   | $   418.80 | ▲ +12.69 (+3.12%) |
-| IONQ  | $    41.62 | ▲ +2.77 (+7.12%) |
-| COST  | $   945.32 | ▼ -8.76 (-0.92%) |
-| ASML  | $  1702.14 | ▲ +59.62 (+3.63%) |
-| SPYM  | $    90.90 | ▲ +1.71 (+1.92%) |
-| LLY   | $  1116.80 | ▼ -4.56 (-0.41%) |
-| OKLO  | $    43.68 | ▲ +2.46 (+5.97%) |
-| V     | $   370.38 | ▲ +4.71 (+1.29%) |
-| MA    | $   572.27 | ▲ +1.30 (+0.23%) |
-| AMZN  | $   278.58 | ▼ -5.43 (-1.91%) |
-| DUOL  | $   132.17 | ▼ -3.63 (-2.67%) |
+| NVDA  | $   221.32 | ▲ +9.38 (+4.43%) |
+| SPGI  | $   412.01 | ▼ -0.52 (-0.13%) |
+| META  | $   583.28 | ▼ -4.66 (-0.79%) |
+| AAPL  | $   309.75 | ▲ +0.37 (+0.12%) |
+| MSFT  | $   488.15 | ▼ -4.65 (-0.94%) |
+| GOOG  | — | — |
+| TSM   | $   415.36 | ▼ -1.81 (-0.43%) |
+| IONQ  | $    40.82 | ▼ -0.90 (-2.16%) |
+| COST  | $   941.30 | ▼ -6.55 (-0.69%) |
+| ASML  | $  1695.81 | ▼ -16.08 (-0.94%) |
+| SPYM  | $    90.86 | ▲ +0.07 (+0.07%) |
+| LLY   | $  1157.49 | ▲ +41.81 (+3.75%) |
+| OKLO  | $    43.31 | ▼ -0.03 (-0.06%) |
+| V     | $   368.73 | ▼ -0.86 (-0.23%) |
+| MA    | $   572.22 | ▲ +1.12 (+0.20%) |
+| AMZN  | $   271.55 | ▼ -5.87 (-2.11%) |
+| DUOL  | $   134.36 | ▼ -3.39 (-2.46%) |
 
 ## Global News
-- Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
-- Oil prices fall on hopes Strait of Hormuz could reopen
-- EU commends Spain's 'swift response' to Ceuta migrant crisis
-- Ukraine hits more Wildberries sites as strike kills five in Moscow region
-- More than 170 migrants rescued after boat catches fire in Channel
-- What will happen when a SpaceX rocket collides with the Moon?
-- Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike
+- Left-wing political outsider wins Democratic Senate primary in Michigan
+- Drone carrying explosives found at German airport, police say
+- Russia strike kills 21 as Ukraine says it needs more missile interceptors
+- Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon
+- UN rights chief alarmed by rise in Iran executions since March
+- Waste workers help winner find binned €1m lottery ticket in Italy
+- Mexican influencer shot dead during livestream
 
 ---
-_Updated 2026-08-04_
+_Updated 2026-08-05_
