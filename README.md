@@ -1,4 +1,4 @@
-# Daily TL;DR — August 08, 2026
+# Daily TL;DR — August 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   130.90 | ▲ +8.32 (+6.79%) |
 
 ## Global News
-- Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general
-- US offers $1bn to Colombia on new right-wing president's first day of office
-- The phone book that led us to Assad's spy chief in hiding
-- Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
-- Madonna pays tribute to 'genius, otherworldly' producer William Orbit
-- Typhoon Dolphin batters Japan's Okinawa before bearing down on China
-- Messi's father Jorge dies aged 68 after illness
+- Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation 
+- Ancient Roman shipwreck discovered off Sicily coast
+- Perez Hilton faces long recovery after reports he self-harmed during livestream
+- Residents warned to brace for the worst as Canada wildfire rages out of control
+- Ecuador charges ex-minister over presidential candidate assassination case
+- Drones spotted over German base days after Leipzig bomb incident
 
 ---
-_Updated 2026-08-08_
+_Updated 2026-08-09_
