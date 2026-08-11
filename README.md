@@ -1,34 +1,34 @@
-# Daily TL;DR — August 10, 2026
+# Daily TL;DR — August 11, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   217.13 | ▼ -6.83 (-3.05%) |
-| SPGI  | $   411.56 | ▲ +3.37 (+0.83%) |
-| META  | $   593.97 | ▲ +1.87 (+0.32%) |
-| AAPL  | $   306.08 | ▼ -7.25 (-2.31%) |
-| MSFT  | $   506.86 | ▲ +6.87 (+1.37%) |
-| GOOG  | $   353.05 | ▼ -0.42 (-0.12%) |
-| TSM   | $   421.71 | ▲ +1.67 (+0.40%) |
-| IONQ  | $    43.30 | ▼ -1.13 (-2.54%) |
-| COST  | $   947.72 | ▼ -0.10 (-0.01%) |
-| ASML  | $  1748.64 | ▲ +7.65 (+0.44%) |
-| SPYM  | $    90.95 | ▼ -0.06 (-0.07%) |
-| LLY   | $  1216.34 | ▲ +30.63 (+2.58%) |
-| OKLO  | $    44.66 | ▼ -3.76 (-7.77%) |
-| V     | $   359.78 | ▼ -2.72 (-0.75%) |
-| MA    | $   561.72 | ▼ -1.23 (-0.22%) |
-| AMZN  | $   277.32 | ▲ +2.83 (+1.03%) |
-| DUOL  | $   134.29 | ▲ +3.39 (+2.59%) |
+| NVDA  | $   217.82 | ▲ +0.26 (+0.12%) |
+| SPGI  | $   411.04 | ▲ +0.10 (+0.02%) |
+| META  | $   603.91 | ▲ +8.99 (+1.51%) |
+| AAPL  | $   306.19 | ▼ -2.07 (-0.67%) |
+| MSFT  | $   501.95 | ▼ -4.11 (-0.81%) |
+| GOOG  | $   347.30 | ▼ -8.54 (-2.40%) |
+| TSM   | $   421.50 | ▲ +3.03 (+0.72%) |
+| IONQ  | $    42.42 | ▼ -0.11 (-0.27%) |
+| COST  | $   940.57 | ▼ -12.18 (-1.28%) |
+| ASML  | $  1787.86 | ▲ +54.38 (+3.14%) |
+| SPYM  | $    90.76 | ▼ -0.24 (-0.26%) |
+| LLY   | $  1220.74 | ▼ -11.20 (-0.91%) |
+| OKLO  | $    46.47 | ▲ +1.98 (+4.45%) |
+| V     | $   363.99 | ▲ +2.67 (+0.74%) |
+| MA    | $   564.92 | ▲ +1.75 (+0.31%) |
+| AMZN  | $   272.04 | ▼ -6.05 (-2.18%) |
+| DUOL  | $   135.68 | ▼ -1.51 (-1.10%) |
 
 ## Global News
-- At least 13 killed in Ukrainian drone strike deep into Russia
-- World's oceans hit record-high July temperatures
-- Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word
-- 'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes
-- Evidence that South African special forces murdered top detective shared with BBC
-- Former Thai MP allegedly kills official and confesses on YouTube
-- Alleged rebel leader killed in Colombia as president targets armed groups
+- Trump hid in catering truck in secret plane swap over Iran threat, reports say
+- Russia using North Korean missiles to strike Ukraine, Zelensky says
+- Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
+- Russia releases former US Marine reported in poor health
+- Watch: Family escapes home during Colombia earthquake
+- Lebanon parliament votes to abolish death penalty
+- France bans unsolicited telemarketing calls
 
 ---
-_Updated 2026-08-10_
+_Updated 2026-08-11_
