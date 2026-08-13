@@ -1,34 +1,34 @@
-# Daily TL;DR — August 12, 2026
+# Daily TL;DR — August 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   223.71 | ▲ +6.21 (+2.86%) |
-| SPGI  | $   409.48 | ▲ +0.79 (+0.19%) |
-| META  | — | — |
-| AAPL  | $   302.05 | ▼ -2.86 (-0.94%) |
-| MSFT  | $   494.13 | ▼ -9.68 (-1.92%) |
-| GOOG  | — | — |
-| TSM   | $   428.56 | ▲ +6.50 (+1.54%) |
-| IONQ  | — | — |
-| COST  | $   950.00 | ▲ +5.68 (+0.60%) |
-| ASML  | $  1818.94 | ▲ +19.56 (+1.09%) |
-| SPYM  | $    90.97 | ▲ +0.28 (+0.31%) |
-| LLY   | $  1215.49 | ▲ +0.47 (+0.04%) |
-| OKLO  | — | — |
-| V     | $   358.76 | ▼ -4.06 (-1.12%) |
-| MA    | $   557.19 | ▼ -4.25 (-0.76%) |
-| AMZN  | $   269.32 | ▼ -2.95 (-1.08%) |
-| DUOL  | — | — |
+| NVDA  | $   225.23 | ▲ +1.14 (+0.51%) |
+| SPGI  | $   415.00 | ▲ +4.90 (+1.19%) |
+| META  | $   587.70 | ▲ +8.85 (+1.53%) |
+| AAPL  | $   303.23 | ▲ +0.98 (+0.32%) |
+| MSFT  | $   494.28 | ▲ +1.85 (+0.38%) |
+| GOOG  | $   344.34 | ▲ +1.97 (+0.58%) |
+| TSM   | $   433.83 | ▲ +4.68 (+1.09%) |
+| IONQ  | $    45.26 | ▲ +0.06 (+0.13%) |
+| COST  | $   954.09 | ▲ +4.51 (+0.47%) |
+| ASML  | $  1863.45 | ▲ +53.38 (+2.95%) |
+| SPYM  | $    91.43 | ▲ +0.49 (+0.53%) |
+| LLY   | $  1218.59 | ▼ -1.69 (-0.14%) |
+| OKLO  | $    45.77 | ▲ +0.64 (+1.42%) |
+| V     | $   360.38 | ▲ +0.96 (+0.27%) |
+| MA    | $   560.49 | ▲ +0.76 (+0.14%) |
+| AMZN  | $   265.80 | ▼ -1.48 (-0.56%) |
+| DUOL  | $   136.52 | ▲ +1.89 (+1.40%) |
 
 ## Global News
-- Members of Trump's cabinet remained on decoy plane, after president's quiet exit
-- Israeli settlers besieging Palestinian families in West Bank village
-- Woman pulled alive from rubble 36 hours after Colombia quake
-- LA Lakers to be sold in record $12.5bn deal
-- US inflation eases as food and fuel costs cool
-- Danube river's low water levels reveal remains of WWII soldiers and motorcycle
-- Thousands of Canadians call for US ambassador's expulsion 
+- Palestinians told to leave homes in village where Israeli settlers besieged houses
+- Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC
+- Ebola outbreak on track to be deadliest ever, WHO chief says
+- Conditions on US aircraft carrier at sea for more than 250 days raise alarms
+- Person fined after using foghorn to wake sleeping polar bear
+- Eurovision Song Contest 2027 to be held in Burgas, Bulgaria
+- Mangione lawyers to meet federal prosecutors amid reports of plea deal
 
 ---
-_Updated 2026-08-12_
+_Updated 2026-08-13_
