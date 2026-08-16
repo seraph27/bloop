@@ -1,4 +1,4 @@
-# Daily TL;DR — August 15, 2026
+# Daily TL;DR — August 16, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   132.83 | ▼ -11.27 (-7.82%) |
 
 ## Global News
-- Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
-- Eleven killed in Israeli strikes on southern Lebanon, authorities say
-- BBC seeks to subpoena Trump's family members in Panorama lawsuit
-- US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
-- South Korea proposes talks to officially end war with North
-- Family stranded at sea for 16 hours after jet ski capsized in Thailand
-- Five injured, one critically, in shooting at Virginia State University
+- Russia says at least seven killed in largest Ukrainian attack of 2026
+- Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
+- Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist
+- Twelve killed as Polish bus veers off Hungarian motorway
+- Two dead and evacuation under way as fires break out on Greek island
+- Europe's tallest Virgin Mary statue unveiled in rural Poland
+- Belgian wildfire doubles in size on third day tearing through nature reserve
 
 ---
-_Updated 2026-08-15_
+_Updated 2026-08-16_
