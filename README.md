@@ -1,34 +1,34 @@
-# Daily TL;DR — August 17, 2026
+# Daily TL;DR — August 18, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   227.04 | ▲ +1.88 (+0.83%) |
-| SPGI  | $   411.93 | ▼ -6.86 (-1.64%) |
-| META  | $   569.57 | ▼ -20.28 (-3.44%) |
-| AAPL  | $   303.57 | ▼ -2.36 (-0.77%) |
-| MSFT  | $   482.70 | ▼ -12.70 (-2.56%) |
-| GOOG  | $   341.90 | ▼ -1.64 (-0.48%) |
-| TSM   | $   435.37 | ▲ +9.02 (+2.12%) |
-| IONQ  | $    47.12 | ▲ +0.87 (+1.87%) |
-| COST  | $   953.61 | ▼ -7.49 (-0.78%) |
-| ASML  | $  1885.04 | ▲ +40.96 (+2.22%) |
-| SPYM  | $    91.26 | ▼ -0.13 (-0.14%) |
-| LLY   | $  1194.44 | ▲ +14.28 (+1.21%) |
-| OKLO  | $    44.22 | ▼ -0.16 (-0.35%) |
-| V     | $   360.14 | ▼ -4.01 (-1.10%) |
-| MA    | $   562.40 | ▼ -6.89 (-1.21%) |
-| AMZN  | $   260.49 | ▼ -2.15 (-0.82%) |
-| DUOL  | $   129.30 | ▼ -3.53 (-2.65%) |
+| NVDA  | $   219.67 | ▼ -5.34 (-2.37%) |
+| SPGI  | $   419.15 | ▲ +8.62 (+2.10%) |
+| META  | $   550.74 | ▼ -18.23 (-3.20%) |
+| AAPL  | $   310.55 | ▲ +4.96 (+1.62%) |
+| MSFT  | $   481.35 | ▲ +1.00 (+0.21%) |
+| GOOG  | $   341.30 | ▼ -0.15 (-0.04%) |
+| TSM   | $   413.35 | ▼ -17.62 (-4.09%) |
+| IONQ  | $    45.10 | ▼ -1.74 (-3.71%) |
+| COST  | $   968.74 | ▲ +15.24 (+1.60%) |
+| ASML  | $  1795.29 | ▼ -87.83 (-4.66%) |
+| SPYM  | $    90.43 | ▼ -0.53 (-0.58%) |
+| LLY   | $  1219.38 | ▲ +36.22 (+3.06%) |
+| OKLO  | $    41.50 | ▼ -2.38 (-5.42%) |
+| V     | $   365.11 | ▲ +6.27 (+1.75%) |
+| MA    | $   574.84 | ▲ +12.58 (+2.24%) |
+| AMZN  | $   261.08 | ▼ -0.23 (-0.09%) |
+| DUOL  | $   139.55 | ▲ +9.39 (+7.21%) |
 
 ## Global News
-- Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue
-- Trump says US to reduce military drills with South Korea after it stayed out of Iran war
-- Russia and Ukraine trade more deadly strikes
-- Aid shortages and fears of starvation as Indonesia reels from deadly earthquake
-- US hiker dies after being struck by lightning on Mount Etna
-- Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan
-- Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case 
+- UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
+- Inside secret police warehouse as Germany targets small boats gangs
+- Brazil's President Lula hails oil discovery near Amazon river
+- Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'
+- Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster
+- Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail
+- IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
 ---
-_Updated 2026-08-17_
+_Updated 2026-08-18_
