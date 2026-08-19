@@ -1,34 +1,34 @@
-# Daily TL;DR — August 18, 2026
+# Daily TL;DR — August 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   219.67 | ▼ -5.34 (-2.37%) |
-| SPGI  | $   419.15 | ▲ +8.62 (+2.10%) |
-| META  | $   550.74 | ▼ -18.23 (-3.20%) |
-| AAPL  | $   310.55 | ▲ +4.96 (+1.62%) |
-| MSFT  | $   481.35 | ▲ +1.00 (+0.21%) |
-| GOOG  | $   341.30 | ▼ -0.15 (-0.04%) |
-| TSM   | $   413.35 | ▼ -17.62 (-4.09%) |
-| IONQ  | $    45.10 | ▼ -1.74 (-3.71%) |
-| COST  | $   968.74 | ▲ +15.24 (+1.60%) |
-| ASML  | $  1795.29 | ▼ -87.83 (-4.66%) |
-| SPYM  | $    90.43 | ▼ -0.53 (-0.58%) |
-| LLY   | $  1219.38 | ▲ +36.22 (+3.06%) |
-| OKLO  | $    41.50 | ▼ -2.38 (-5.42%) |
-| V     | $   365.11 | ▲ +6.27 (+1.75%) |
-| MA    | $   574.84 | ▲ +12.58 (+2.24%) |
-| AMZN  | $   261.08 | ▼ -0.23 (-0.09%) |
-| DUOL  | $   139.55 | ▲ +9.39 (+7.21%) |
+| NVDA  | $   219.38 | ▼ -0.36 (-0.16%) |
+| SPGI  | $   430.15 | ▲ +12.11 (+2.90%) |
+| META  | $   551.44 | ▲ +7.77 (+1.43%) |
+| AAPL  | $   316.27 | ▲ +6.24 (+2.01%) |
+| MSFT  | $   486.54 | ▲ +4.91 (+1.02%) |
+| GOOG  | $   342.79 | ▲ +1.51 (+0.44%) |
+| TSM   | $   413.78 | ▲ +0.37 (+0.09%) |
+| IONQ  | $    43.95 | ▼ -0.17 (-0.39%) |
+| COST  | $   965.98 | ▲ +4.63 (+0.48%) |
+| ASML  | $  1760.97 | ▼ -42.01 (-2.33%) |
+| SPYM  | $    90.71 | ▲ +0.38 (+0.42%) |
+| LLY   | $  1267.95 | ▲ +42.22 (+3.44%) |
+| OKLO  | $    42.62 | ▲ +1.26 (+3.05%) |
+| V     | $   369.29 | ▲ +5.04 (+1.38%) |
+| MA    | $   576.43 | ▲ +2.12 (+0.37%) |
+| AMZN  | $   264.54 | ▲ +5.09 (+1.96%) |
+| DUOL  | $   147.21 | ▲ +7.57 (+5.42%) |
 
 ## Global News
-- UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
-- Inside secret police warehouse as Germany targets small boats gangs
-- Brazil's President Lula hails oil discovery near Amazon river
-- Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'
-- Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster
-- Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail
-- IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
+- Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
+- Sacked Ukrainian defence minister calls for presidential election
+- Trump pauses new tariffs on Canada for three days, saying deal close
+- Israel opens up tenders for controversial West Bank settlement project
+- South Korea shortens war games with US, citing Washington request
+- Ukrainian man arrested in Croatia over Nord Stream pipeline blasts
+- Six tourists and pilot killed in Kenya helicopter crash
 
 ---
-_Updated 2026-08-18_
+_Updated 2026-08-19_
