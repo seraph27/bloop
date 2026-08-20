@@ -1,34 +1,34 @@
-# Daily TL;DR — August 19, 2026
+# Daily TL;DR — August 20, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   219.38 | ▼ -0.36 (-0.16%) |
-| SPGI  | $   430.15 | ▲ +12.11 (+2.90%) |
-| META  | $   551.44 | ▲ +7.77 (+1.43%) |
-| AAPL  | $   316.27 | ▲ +6.24 (+2.01%) |
-| MSFT  | $   486.54 | ▲ +4.91 (+1.02%) |
-| GOOG  | $   342.79 | ▲ +1.51 (+0.44%) |
-| TSM   | $   413.78 | ▲ +0.37 (+0.09%) |
-| IONQ  | $    43.95 | ▼ -0.17 (-0.39%) |
-| COST  | $   965.98 | ▲ +4.63 (+0.48%) |
-| ASML  | $  1760.97 | ▼ -42.01 (-2.33%) |
-| SPYM  | $    90.71 | ▲ +0.38 (+0.42%) |
-| LLY   | $  1267.95 | ▲ +42.22 (+3.44%) |
-| OKLO  | $    42.62 | ▲ +1.26 (+3.05%) |
-| V     | $   369.29 | ▲ +5.04 (+1.38%) |
-| MA    | $   576.43 | ▲ +2.12 (+0.37%) |
-| AMZN  | $   264.54 | ▲ +5.09 (+1.96%) |
-| DUOL  | $   147.21 | ▲ +7.57 (+5.42%) |
+| NVDA  | $   216.95 | ▼ -0.61 (-0.28%) |
+| SPGI  | $   429.80 | ▲ +3.14 (+0.74%) |
+| META  | $   545.48 | ▼ -0.55 (-0.10%) |
+| AAPL  | $   317.06 | ▲ +0.23 (+0.07%) |
+| MSFT  | $   483.41 | ▼ -0.90 (-0.19%) |
+| GOOG  | $   339.16 | ▼ -2.54 (-0.74%) |
+| TSM   | $   415.36 | ▲ +3.27 (+0.79%) |
+| IONQ  | $    40.93 | ▼ -2.43 (-5.60%) |
+| COST  | $   938.64 | ▼ -18.35 (-1.92%) |
+| ASML  | $  1755.85 | ▲ +4.12 (+0.24%) |
+| SPYM  | $    90.21 | ▼ -0.33 (-0.37%) |
+| LLY   | $  1265.56 | ▼ -14.78 (-1.15%) |
+| OKLO  | $    41.03 | ▼ -1.91 (-4.45%) |
+| V     | $   368.43 | ▲ +2.89 (+0.79%) |
+| MA    | $   578.95 | ▲ +5.23 (+0.91%) |
+| AMZN  | $   263.29 | ▼ -2.55 (-0.96%) |
+| DUOL  | $   146.20 | ▲ +0.17 (+0.11%) |
 
 ## Global News
-- Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
-- Sacked Ukrainian defence minister calls for presidential election
-- Trump pauses new tariffs on Canada for three days, saying deal close
-- Israel opens up tenders for controversial West Bank settlement project
-- South Korea shortens war games with US, citing Washington request
-- Ukrainian man arrested in Croatia over Nord Stream pipeline blasts
-- Six tourists and pilot killed in Kenya helicopter crash
+- At least 15 killed in Kyiv as Ukraine grapples with air defence shortages
+- Trump vows tougher economic measures on Iran and supporting countries
+- Founder of collapsed Chinese property giant Evergrande sentenced to life in prison
+- Belgian car salesman becomes prince after royal parentage confirmed
+- Assad officer extradited to Syria on war crimes charges for first time
+- Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told
+- Giant whales move into Greenland waters as ice disappears
 
 ---
-_Updated 2026-08-19_
+_Updated 2026-08-20_
