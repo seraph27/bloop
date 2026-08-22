@@ -1,34 +1,34 @@
-# Daily TL;DR — August 21, 2026
+# Daily TL;DR — August 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   215.65 | ▼ -1.20 (-0.55%) |
-| SPGI  | $   431.69 | ▼ -0.47 (-0.11%) |
-| META  | $   551.90 | ▲ +6.07 (+1.11%) |
-| AAPL  | $   310.41 | ▼ -0.89 (-0.29%) |
-| MSFT  | $   483.64 | ▲ +2.49 (+0.52%) |
-| GOOG  | $   342.36 | ▲ +4.16 (+1.23%) |
-| TSM   | $   417.89 | ▲ +1.89 (+0.45%) |
-| IONQ  | $    45.14 | ▲ +3.61 (+8.69%) |
-| COST  | $   948.85 | ▲ +15.34 (+1.64%) |
-| ASML  | $  1750.38 | ▲ +0.07 (+0.00%) |
-| SPYM  | $    90.18 | ▲ +0.40 (+0.45%) |
-| LLY   | $  1262.27 | ▲ +17.87 (+1.44%) |
-| OKLO  | $    42.78 | ▲ +1.12 (+2.68%) |
-| V     | $   371.19 | ▲ +5.46 (+1.49%) |
-| MA    | $   580.91 | ▲ +7.07 (+1.23%) |
-| AMZN  | $   258.90 | ▼ -1.21 (-0.47%) |
-| DUOL  | $   147.47 | ▲ +0.44 (+0.30%) |
+| NVDA  | $   214.72 | ▼ -2.13 (-0.98%) |
+| SPGI  | $   431.29 | ▼ -0.87 (-0.20%) |
+| META  | $   549.90 | ▲ +4.07 (+0.75%) |
+| AAPL  | $   309.35 | ▼ -1.95 (-0.63%) |
+| MSFT  | $   483.24 | ▲ +2.09 (+0.43%) |
+| GOOG  | $   341.75 | ▲ +3.55 (+1.05%) |
+| TSM   | $   418.95 | ▲ +2.95 (+0.71%) |
+| IONQ  | $    44.86 | ▲ +3.33 (+8.02%) |
+| COST  | $   947.74 | ▲ +14.23 (+1.52%) |
+| ASML  | $  1763.76 | ▲ +13.45 (+0.77%) |
+| SPYM  | $    90.13 | ▲ +0.35 (+0.39%) |
+| LLY   | $  1255.40 | ▲ +11.00 (+0.88%) |
+| OKLO  | $    42.09 | ▲ +0.43 (+1.03%) |
+| V     | $   371.04 | ▲ +5.31 (+1.45%) |
+| MA    | $   580.63 | ▲ +6.78 (+1.18%) |
+| AMZN  | $   258.63 | ▼ -1.48 (-0.57%) |
+| DUOL  | $   146.13 | ▼ -0.90 (-0.61%) |
 
 ## Global News
+- Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+- Carney faces crucial test after walking away from Trump's deal
+- TikTok to pay $400m to US in one of largest child privacy settlements
+- Fourteen killed in strike on Myanmar monastery
 - Israel re-establishes closed West Bank settlement, defying growing international protests
-- Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
-- Hong Kong's Tiananmen activists guilty in national security trial
-- Two teenagers seriously injured after sword attack at Swedish school
-- Ebola vaccine trial to start in DR Congo as warning issued over speed of infections
-- Five missing after fire in Swiss Alpine town
-- Peru earthquake damages buildings and causes power cuts
+- Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+- Father leaves 7-year-old son alone on Mount Fuji to continue hike
 
 ---
-_Updated 2026-08-21_
+_Updated 2026-08-22_
