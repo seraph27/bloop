@@ -1,4 +1,4 @@
-# Daily TL;DR — August 22, 2026
+# Daily TL;DR — August 23, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   146.13 | ▼ -0.90 (-0.61%) |
 
 ## Global News
-- Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
-- Carney faces crucial test after walking away from Trump's deal
-- TikTok to pay $400m to US in one of largest child privacy settlements
-- Fourteen killed in strike on Myanmar monastery
-- Israel re-establishes closed West Bank settlement, defying growing international protests
-- Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
-- Father leaves 7-year-old son alone on Mount Fuji to continue hike
+- Trump says Canada wants 'benefits' of being US state after trade talks collapse
+- Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
+- DR Congo and M23 rebels agree roadmap for peace talks
+- Dozens of co-ordinated arson attacks hit southern Thailand
+- France links rise in drownings to heatwaves
+- Thousands struggling without power in Indiana 12 days after severe storms
+- The hotel booking mix-up that could free mushroom murderer
 
 ---
-_Updated 2026-08-22_
+_Updated 2026-08-23_
