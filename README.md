@@ -1,34 +1,34 @@
-# Daily TL;DR — August 25, 2026
+# Daily TL;DR — August 26, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   212.35 | ▲ +3.87 (+1.85%) |
-| SPGI  | $   434.33 | ▼ -1.09 (-0.25%) |
-| META  | $   566.62 | ▲ +7.60 (+1.36%) |
-| AAPL  | $   309.65 | ▼ -0.68 (-0.22%) |
-| MSFT  | $   489.61 | ▲ +2.30 (+0.47%) |
-| GOOG  | $   343.34 | ▼ -1.25 (-0.36%) |
-| TSM   | $   416.70 | ▲ +6.58 (+1.60%) |
-| IONQ  | $    41.94 | ▲ +0.88 (+2.13%) |
-| COST  | $   964.03 | ▼ -7.37 (-0.76%) |
-| ASML  | $  1749.37 | ▲ +9.24 (+0.53%) |
-| SPYM  | $    90.15 | ▲ +0.27 (+0.31%) |
-| LLY   | $  1252.79 | ▲ +5.85 (+0.47%) |
-| OKLO  | $    43.17 | ▲ +3.48 (+8.76%) |
-| V     | $   382.55 | ▲ +0.14 (+0.04%) |
-| MA    | $   598.43 | ▼ -1.43 (-0.24%) |
-| AMZN  | $   261.15 | ▼ -0.92 (-0.35%) |
-| DUOL  | $   145.34 | ▼ -1.50 (-1.02%) |
+| NVDA  | $   209.76 | ▼ -3.29 (-1.55%) |
+| SPGI  | $   433.61 | ▲ +0.62 (+0.14%) |
+| META  | $   575.90 | ▲ +5.85 (+1.03%) |
+| AAPL  | $   312.81 | ▲ +2.91 (+0.94%) |
+| MSFT  | $   494.35 | ▲ +2.64 (+0.54%) |
+| GOOG  | $   337.31 | ▼ -6.03 (-1.76%) |
+| TSM   | $   416.80 | ▼ -0.61 (-0.15%) |
+| IONQ  | $    40.35 | ▼ -1.70 (-4.04%) |
+| COST  | $   958.57 | ▼ -1.45 (-0.15%) |
+| ASML  | $  1734.04 | ▼ -10.12 (-0.58%) |
+| SPYM  | $    89.96 | ▼ -0.19 (-0.21%) |
+| LLY   | $  1191.42 | ▼ -42.24 (-3.42%) |
+| OKLO  | $    41.62 | ▼ -2.65 (-5.99%) |
+| V     | $   382.17 | ▼ -1.97 (-0.51%) |
+| MA    | $   596.96 | ▼ -2.41 (-0.40%) |
+| AMZN  | $   258.54 | ▼ -2.52 (-0.97%) |
+| DUOL  | $   139.55 | ▼ -6.49 (-4.44%) |
 
 ## Global News
-- China hits out at 'illegal' new US sanctions on Iran and trading partners
-- Brain disease in dead NFL players 'higher than previously shown'
-- CIA chief in Moscow for unannounced talks, US media reports
-- Tornado tears through French village, leaving dozens hurt and homes ravaged
-- Two unvaccinated people die of measles in Pennsylvania 
-- European rights court orders Turkey to free imprisoned businessman
-- Lockerbie bombing trial postponed days before it was due to start
+- Heart, hope and a steely determination: Dolly Parton's musical legacy
+- Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say
+- Trump officials threaten Kennedy Center demolition if court blocks renovations
+- Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+- Radiation link in flight attendant's breast cancer, French court finds
+- Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
+- Libyan who was cleared after Lockerbie bombing trial dies aged 70
 
 ---
-_Updated 2026-08-25_
+_Updated 2026-08-26_
