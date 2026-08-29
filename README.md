@@ -1,34 +1,34 @@
-# Daily TL;DR — August 28, 2026
+# Daily TL;DR — August 29, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   227.98 | ▲ +18.32 (+8.74%) |
-| SPGI  | $   435.39 | ▼ -1.10 (-0.25%) |
-| META  | $   571.10 | ▼ -5.04 (-0.87%) |
-| AAPL  | $   314.58 | ▲ +1.13 (+0.36%) |
-| MSFT  | $   505.06 | ▲ +8.69 (+1.75%) |
-| GOOG  | $   337.71 | ▼ -1.39 (-0.41%) |
-| TSM   | $   427.30 | ▲ +9.61 (+2.30%) |
-| IONQ  | $    42.46 | ▲ +2.43 (+6.07%) |
-| COST  | $   934.66 | ▼ -21.46 (-2.24%) |
-| ASML  | $  1735.01 | ▼ -10.63 (-0.61%) |
-| SPYM  | $    90.75 | ▲ +0.58 (+0.64%) |
-| LLY   | $  1176.10 | ▼ -13.31 (-1.12%) |
-| OKLO  | $    42.53 | ▲ +0.93 (+2.24%) |
-| V     | $   379.66 | ▼ -4.24 (-1.10%) |
-| MA    | $   591.73 | ▼ -6.74 (-1.13%) |
-| AMZN  | $   256.26 | ▼ -4.02 (-1.54%) |
-| DUOL  | $   142.86 | ▲ +1.98 (+1.41%) |
+| NVDA  | $   217.55 | ▼ -10.43 (-4.57%) |
+| SPGI  | $   442.89 | ▲ +7.50 (+1.72%) |
+| META  | $   578.02 | ▲ +6.92 (+1.21%) |
+| AAPL  | $   319.70 | ▲ +5.12 (+1.63%) |
+| MSFT  | $   513.53 | ▲ +8.47 (+1.68%) |
+| GOOG  | $   342.88 | ▲ +5.17 (+1.53%) |
+| TSM   | $   417.52 | ▼ -9.78 (-2.29%) |
+| IONQ  | $    39.20 | ▼ -3.26 (-7.68%) |
+| COST  | $   945.47 | ▲ +10.81 (+1.16%) |
+| ASML  | $  1696.16 | ▼ -38.85 (-2.24%) |
+| SPYM  | $    90.57 | ▼ -0.18 (-0.20%) |
+| LLY   | $  1174.61 | ▼ -1.49 (-0.13%) |
+| OKLO  | $    40.14 | ▼ -2.39 (-5.62%) |
+| V     | $   381.60 | ▲ +1.94 (+0.51%) |
+| MA    | $   595.30 | ▲ +3.57 (+0.60%) |
+| AMZN  | $   266.43 | ▲ +10.17 (+3.97%) |
+| DUOL  | $   146.98 | ▲ +4.12 (+2.88%) |
 
 ## Global News
-- Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say
-- What we know about deadly Nepal-Tibet floods
-- Convicted Bosnian Serb war criminal Mladić dies aged 84
-- Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children
-- Norwegians lay flowers at palace as King Harald's condition worsens
-- Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions
-- Two killed in 'domestic violence incident' at school near Berlin
+- Footage of Tibet floods isn't being shown in China - and we know little about victims there
+- US and Venezuela reach 'historic' oil deal, Trump says
+- Norway mourns King Harald as Haakon VIII ascends throne
+- Oslo mayor calls off wedding ceremony after death of Norway's king
+- Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say
+- Right-wing commentator Milo Yiannopoulos detained by ICE
+- Canada poaches dozens of top US researchers for its universities
 
 ---
-_Updated 2026-08-28_
+_Updated 2026-08-29_
