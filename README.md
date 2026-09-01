@@ -1,34 +1,34 @@
-# Daily TL;DR — August 31, 2026
+# Daily TL;DR — September 01, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | — | — |
-| SPGI  | — | — |
-| META  | $   572.34 | ▼ -5.68 (-0.98%) |
-| AAPL  | — | — |
-| MSFT  | $   507.29 | ▼ -6.24 (-1.22%) |
-| GOOG  | $   335.41 | ▼ -7.47 (-2.18%) |
-| TSM   | $   415.32 | ▼ -2.20 (-0.53%) |
-| IONQ  | $    39.31 | ▲ +0.11 (+0.28%) |
-| COST  | — | — |
-| ASML  | $  1696.01 | ▼ -0.15 (-0.01%) |
-| SPYM  | — | — |
-| LLY   | $  1156.73 | ▼ -17.88 (-1.52%) |
-| OKLO  | $    40.57 | ▲ +0.43 (+1.07%) |
-| V     | — | — |
-| MA    | $   589.31 | ▼ -5.99 (-1.01%) |
-| AMZN  | — | — |
-| DUOL  | $   148.36 | ▲ +1.38 (+0.94%) |
+| NVDA  | $   217.78 | ▼ -3.00 (-1.36%) |
+| SPGI  | $   442.45 | ▲ +6.61 (+1.52%) |
+| META  | $   577.78 | ▲ +5.43 (+0.95%) |
+| AAPL  | $   325.76 | ▲ +8.91 (+2.81%) |
+| MSFT  | $   500.84 | ▼ -6.45 (-1.27%) |
+| GOOG  | $   331.62 | ▼ -3.79 (-1.13%) |
+| TSM   | $   414.27 | ▼ -1.05 (-0.25%) |
+| IONQ  | $    37.88 | ▼ -1.43 (-3.64%) |
+| COST  | $   936.30 | ▼ -7.59 (-0.80%) |
+| ASML  | $  1661.29 | ▼ -34.72 (-2.05%) |
+| SPYM  | $    89.64 | ▼ -0.64 (-0.71%) |
+| LLY   | $  1158.79 | ▲ +2.06 (+0.18%) |
+| OKLO  | $    38.58 | ▼ -1.99 (-4.91%) |
+| V     | $   374.33 | ▼ -5.04 (-1.33%) |
+| MA    | $   583.28 | ▼ -6.03 (-1.02%) |
+| AMZN  | $   254.49 | ▼ -5.28 (-2.03%) |
+| DUOL  | $   158.10 | ▲ +9.74 (+6.57%) |
 
 ## Global News
-- Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
-- US and Iran trade strikes for first time in weeks
-- Man arrested after Swiss rave shooting that killed woman
-- 'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus
-- US singer D4vd's celebrity lawyers withdraw from murder case
-- US Supreme Court clears way for Trump to keep building White House ballroom
-- Dolly Parton laid to rest alongside husband in Nashville
+- Germany says Russia behind Leipzig airport drone attack
+- US launches more strikes on Iran as state media reports explosions
+- 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
+- River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC
+- Sexual assaults happening almost every day in Ceuta, prosecutors say
+- Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying
+- Pistol in a lake gives hope for French cold case
 
 ---
-_Updated 2026-08-31_
+_Updated 2026-09-01_
