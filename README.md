@@ -1,34 +1,34 @@
-# Daily TL;DR — September 01, 2026
+# Daily TL;DR — September 02, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   217.78 | ▼ -3.00 (-1.36%) |
-| SPGI  | $   442.45 | ▲ +6.61 (+1.52%) |
-| META  | $   577.78 | ▲ +5.43 (+0.95%) |
-| AAPL  | $   325.76 | ▲ +8.91 (+2.81%) |
-| MSFT  | $   500.84 | ▼ -6.45 (-1.27%) |
-| GOOG  | $   331.62 | ▼ -3.79 (-1.13%) |
-| TSM   | $   414.27 | ▼ -1.05 (-0.25%) |
-| IONQ  | $    37.88 | ▼ -1.43 (-3.64%) |
-| COST  | $   936.30 | ▼ -7.59 (-0.80%) |
-| ASML  | $  1661.29 | ▼ -34.72 (-2.05%) |
-| SPYM  | $    89.64 | ▼ -0.64 (-0.71%) |
-| LLY   | $  1158.79 | ▲ +2.06 (+0.18%) |
-| OKLO  | $    38.58 | ▼ -1.99 (-4.91%) |
-| V     | $   374.33 | ▼ -5.04 (-1.33%) |
-| MA    | $   583.28 | ▼ -6.03 (-1.02%) |
-| AMZN  | $   254.49 | ▼ -5.28 (-2.03%) |
-| DUOL  | $   158.10 | ▲ +9.74 (+6.57%) |
+| NVDA  | $   224.40 | ▲ +6.96 (+3.20%) |
+| SPGI  | $   433.84 | ▼ -6.37 (-1.45%) |
+| META  | $   595.38 | ▲ +16.84 (+2.91%) |
+| AAPL  | $   325.61 | ▲ +0.48 (+0.15%) |
+| MSFT  | $   496.70 | ▼ -4.32 (-0.86%) |
+| GOOG  | $   334.57 | ▲ +2.54 (+0.77%) |
+| TSM   | $   414.60 | ▲ +0.60 (+0.14%) |
+| IONQ  | $    37.88 | ▲ +0.10 (+0.28%) |
+| COST  | $   921.55 | ▼ -18.41 (-1.96%) |
+| ASML  | $  1681.60 | ▲ +16.46 (+0.99%) |
+| SPYM  | $    90.07 | ▲ +0.42 (+0.47%) |
+| LLY   | $  1165.19 | ▲ +5.19 (+0.45%) |
+| OKLO  | $    39.49 | ▲ +0.96 (+2.49%) |
+| V     | $   378.70 | ▲ +6.03 (+1.62%) |
+| MA    | $   588.68 | ▲ +7.58 (+1.30%) |
+| AMZN  | $   255.37 | ▲ +0.45 (+0.17%) |
+| DUOL  | $   156.12 | ▼ -2.65 (-1.67%) |
 
 ## Global News
-- Germany says Russia behind Leipzig airport drone attack
-- US launches more strikes on Iran as state media reports explosions
-- 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
-- River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC
-- Sexual assaults happening almost every day in Ceuta, prosecutors say
-- Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying
-- Pistol in a lake gives hope for French cold case
+- Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians
+- Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
+- EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
+- Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
+- US sailors arrive in Thailand's Pattaya after record 250 days at sea
+- Woman charged with juror intimidation in Lindsay Clancy trial 
+- Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations
 
 ---
-_Updated 2026-09-01_
+_Updated 2026-09-02_
