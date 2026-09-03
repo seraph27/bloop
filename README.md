@@ -1,34 +1,34 @@
-# Daily TL;DR — September 02, 2026
+# Daily TL;DR — September 03, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   224.40 | ▲ +6.96 (+3.20%) |
-| SPGI  | $   433.84 | ▼ -6.37 (-1.45%) |
-| META  | $   595.38 | ▲ +16.84 (+2.91%) |
-| AAPL  | $   325.61 | ▲ +0.48 (+0.15%) |
-| MSFT  | $   496.70 | ▼ -4.32 (-0.86%) |
-| GOOG  | $   334.57 | ▲ +2.54 (+0.77%) |
-| TSM   | $   414.60 | ▲ +0.60 (+0.14%) |
-| IONQ  | $    37.88 | ▲ +0.10 (+0.28%) |
-| COST  | $   921.55 | ▼ -18.41 (-1.96%) |
-| ASML  | $  1681.60 | ▲ +16.46 (+0.99%) |
-| SPYM  | $    90.07 | ▲ +0.42 (+0.47%) |
-| LLY   | $  1165.19 | ▲ +5.19 (+0.45%) |
-| OKLO  | $    39.49 | ▲ +0.96 (+2.49%) |
-| V     | $   378.70 | ▲ +6.03 (+1.62%) |
-| MA    | $   588.68 | ▲ +7.58 (+1.30%) |
-| AMZN  | $   255.37 | ▲ +0.45 (+0.17%) |
-| DUOL  | $   156.12 | ▼ -2.65 (-1.67%) |
+| NVDA  | $   229.52 | ▲ +5.11 (+2.28%) |
+| SPGI  | $   448.55 | ▲ +16.84 (+3.90%) |
+| META  | $   613.83 | ▲ +20.98 (+3.54%) |
+| AAPL  | $   327.45 | ▲ +2.49 (+0.77%) |
+| MSFT  | $   511.60 | ▲ +14.78 (+2.97%) |
+| GOOG  | $   339.79 | ▲ +6.01 (+1.80%) |
+| TSM   | $   415.81 | ▲ +0.31 (+0.07%) |
+| IONQ  | $    39.04 | ▲ +1.40 (+3.73%) |
+| COST  | $   927.87 | ▼ -0.61 (-0.07%) |
+| ASML  | $  1642.65 | ▼ -39.65 (-2.36%) |
+| SPYM  | $    91.07 | ▲ +1.00 (+1.11%) |
+| LLY   | $  1161.34 | ▲ +1.27 (+0.11%) |
+| OKLO  | $    39.60 | ▲ +0.08 (+0.22%) |
+| V     | $   379.52 | ▲ +1.12 (+0.30%) |
+| MA    | $   585.53 | ▼ -2.61 (-0.44%) |
+| AMZN  | $   258.77 | ▲ +3.79 (+1.49%) |
+| DUOL  | $   159.88 | ▲ +2.03 (+1.29%) |
 
 ## Global News
-- Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians
-- Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
-- EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
-- Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
-- US sailors arrive in Thailand's Pattaya after record 250 days at sea
-- Woman charged with juror intimidation in Lindsay Clancy trial 
-- Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations
+- UN warns of 'supersized' El Niño as countries prepare for impact
+- Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
+- Feminist activist and journalist Gloria Steinem dies, aged 92
+- Palestinian teens killed during settler attack on West Bank village, officials say
+- 'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33
+- More than 80 migrants feared dead after boat rescued off Canary Islands
+- Anthony Joshua's driver attempted overtake before fatal crash, trial hears
 
 ---
-_Updated 2026-09-02_
+_Updated 2026-09-03_
