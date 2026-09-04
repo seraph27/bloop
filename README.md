@@ -1,34 +1,34 @@
-# Daily TL;DR — September 03, 2026
+# Daily TL;DR — September 04, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   229.52 | ▲ +5.11 (+2.28%) |
-| SPGI  | $   448.55 | ▲ +16.84 (+3.90%) |
-| META  | $   613.83 | ▲ +20.98 (+3.54%) |
-| AAPL  | $   327.45 | ▲ +2.49 (+0.77%) |
-| MSFT  | $   511.60 | ▲ +14.78 (+2.97%) |
-| GOOG  | $   339.79 | ▲ +6.01 (+1.80%) |
-| TSM   | $   415.81 | ▲ +0.31 (+0.07%) |
-| IONQ  | $    39.04 | ▲ +1.40 (+3.73%) |
-| COST  | $   927.87 | ▼ -0.61 (-0.07%) |
-| ASML  | $  1642.65 | ▼ -39.65 (-2.36%) |
-| SPYM  | $    91.07 | ▲ +1.00 (+1.11%) |
-| LLY   | $  1161.34 | ▲ +1.27 (+0.11%) |
-| OKLO  | $    39.60 | ▲ +0.08 (+0.22%) |
-| V     | $   379.52 | ▲ +1.12 (+0.30%) |
-| MA    | $   585.53 | ▼ -2.61 (-0.44%) |
-| AMZN  | $   258.77 | ▲ +3.79 (+1.49%) |
-| DUOL  | $   159.88 | ▲ +2.03 (+1.29%) |
+| NVDA  | $   230.49 | ▲ +2.04 (+0.90%) |
+| SPGI  | $   442.76 | ▼ -7.82 (-1.74%) |
+| META  | $   612.82 | ▲ +2.14 (+0.35%) |
+| AAPL  | $   321.58 | ▼ -6.63 (-2.02%) |
+| MSFT  | $   500.80 | ▼ -9.32 (-1.83%) |
+| GOOG  | $   335.56 | ▼ -3.52 (-1.04%) |
+| TSM   | $   428.58 | ▲ +11.57 (+2.77%) |
+| IONQ  | $    39.42 | ▲ +0.40 (+1.04%) |
+| COST  | $   916.80 | ▼ -8.61 (-0.93%) |
+| ASML  | $  1702.68 | ▲ +56.49 (+3.43%) |
+| SPYM  | $    90.68 | ▼ -0.33 (-0.36%) |
+| LLY   | $  1140.61 | ▼ -18.99 (-1.64%) |
+| OKLO  | $    40.88 | ▲ +1.03 (+2.60%) |
+| V     | $   375.66 | ▼ -3.09 (-0.82%) |
+| MA    | $   581.51 | ▼ -4.20 (-0.72%) |
+| AMZN  | $   257.83 | ▼ -1.07 (-0.41%) |
+| DUOL  | $   154.51 | ▼ -4.31 (-2.71%) |
 
 ## Global News
-- UN warns of 'supersized' El Niño as countries prepare for impact
-- Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
-- Feminist activist and journalist Gloria Steinem dies, aged 92
-- Palestinian teens killed during settler attack on West Bank village, officials say
-- 'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33
-- More than 80 migrants feared dead after boat rescued off Canary Islands
-- Anthony Joshua's driver attempted overtake before fatal crash, trial hears
+- Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
+- 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
+- UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
+- Russia hits Ukrainian security headquarters in drone attack, Zelensky says
+- Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death
+- Trump's peace envoys to visit Moscow and Kyiv over weekend
+- Argentine couple to return Nazi-looted painting to rightful owner
 
 ---
-_Updated 2026-09-03_
+_Updated 2026-09-04_
