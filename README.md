@@ -1,34 +1,34 @@
-# Daily TL;DR — September 04, 2026
+# Daily TL;DR — September 05, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   230.49 | ▲ +2.04 (+0.90%) |
-| SPGI  | $   442.76 | ▼ -7.82 (-1.74%) |
-| META  | $   612.82 | ▲ +2.14 (+0.35%) |
-| AAPL  | $   321.58 | ▼ -6.63 (-2.02%) |
-| MSFT  | $   500.80 | ▼ -9.32 (-1.83%) |
-| GOOG  | $   335.56 | ▼ -3.52 (-1.04%) |
-| TSM   | $   428.58 | ▲ +11.57 (+2.77%) |
-| IONQ  | $    39.42 | ▲ +0.40 (+1.04%) |
-| COST  | $   916.80 | ▼ -8.61 (-0.93%) |
-| ASML  | $  1702.68 | ▲ +56.49 (+3.43%) |
-| SPYM  | $    90.68 | ▼ -0.33 (-0.36%) |
-| LLY   | $  1140.61 | ▼ -18.99 (-1.64%) |
-| OKLO  | $    40.88 | ▲ +1.03 (+2.60%) |
-| V     | $   375.66 | ▼ -3.09 (-0.82%) |
-| MA    | $   581.51 | ▼ -4.20 (-0.72%) |
-| AMZN  | $   257.83 | ▼ -1.07 (-0.41%) |
-| DUOL  | $   154.51 | ▼ -4.31 (-2.71%) |
+| NVDA  | $   230.36 | ▲ +1.91 (+0.84%) |
+| SPGI  | $   443.51 | ▼ -7.07 (-1.57%) |
+| META  | $   616.77 | ▲ +6.09 (+1.00%) |
+| AAPL  | $   319.97 | ▼ -8.24 (-2.51%) |
+| MSFT  | $   499.70 | ▼ -10.42 (-2.04%) |
+| GOOG  | $   335.31 | ▼ -3.55 (-1.05%) |
+| TSM   | $   428.91 | ▲ +11.90 (+2.85%) |
+| IONQ  | $    39.52 | ▲ +0.50 (+1.28%) |
+| COST  | $   915.74 | ▼ -9.67 (-1.04%) |
+| ASML  | $  1714.88 | ▲ +68.69 (+4.17%) |
+| SPYM  | $    90.67 | ▼ -0.34 (-0.37%) |
+| LLY   | $  1149.36 | ▼ -10.24 (-0.88%) |
+| OKLO  | $    41.27 | ▲ +1.43 (+3.59%) |
+| V     | $   375.07 | ▼ -3.68 (-0.97%) |
+| MA    | $   579.21 | ▼ -6.50 (-1.11%) |
+| AMZN  | $   258.51 | ▼ -0.39 (-0.15%) |
+| DUOL  | $   154.46 | ▼ -4.36 (-2.75%) |
 
 ## Global News
+- US envoys meet Putin in Moscow for Ukraine talks
+- US hits three Iranian oil tankers after saying its warships were targeted
+- Mistrial declared in Lindsay Clancy murder case, after jury deadlocks 
+- At least two dead in blast at Bolivia military barracks
+- What different world maps get right - and what they get wrong
+- Trump signs order to remove endangered species protection for grey wolves
 - Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
-- 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
-- UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
-- Russia hits Ukrainian security headquarters in drone attack, Zelensky says
-- Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death
-- Trump's peace envoys to visit Moscow and Kyiv over weekend
-- Argentine couple to return Nazi-looted painting to rightful owner
 
 ---
-_Updated 2026-09-04_
+_Updated 2026-09-05_
