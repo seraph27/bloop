@@ -1,4 +1,4 @@
-# Daily TL;DR — September 05, 2026
+# Daily TL;DR — September 06, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   154.46 | ▼ -4.36 (-2.75%) |
 
 ## Global News
-- US envoys meet Putin in Moscow for Ukraine talks
-- US hits three Iranian oil tankers after saying its warships were targeted
-- Mistrial declared in Lindsay Clancy murder case, after jury deadlocks 
-- At least two dead in blast at Bolivia military barracks
-- What different world maps get right - and what they get wrong
-- Trump signs order to remove endangered species protection for grey wolves
-- Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
+- US envoys hold talks with Zelensky in Kyiv after meeting Putin
+- German far-right set for big win in eastern state - projections
+- Volcano eruption leaves 170,000 passengers stranded in Indonesia
+- Dozens feared trapped in collapsed building in Delhi
+- TV presenter among 12 sentenced to death in Egypt drugs case
+- Iran warns of 'faster, heavier, more painful response' to US attacks
+- Prince William to attend King Harald's funeral in Norway
 
 ---
-_Updated 2026-09-05_
+_Updated 2026-09-06_
