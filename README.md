@@ -1,4 +1,4 @@
-# Daily TL;DR — September 06, 2026
+# Daily TL;DR — September 07, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   154.46 | ▼ -4.36 (-2.75%) |
 
 ## Global News
-- US envoys hold talks with Zelensky in Kyiv after meeting Putin
-- German far-right set for big win in eastern state - projections
-- Volcano eruption leaves 170,000 passengers stranded in Indonesia
-- Dozens feared trapped in collapsed building in Delhi
-- TV presenter among 12 sentenced to death in Egypt drugs case
-- Iran warns of 'faster, heavier, more painful response' to US attacks
-- Prince William to attend King Harald's funeral in Norway
+- Germany's far-right AfD says 'democracy demands' parties work with them after state election win
+- Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
+- Israeli strikes in southern Lebanese village kill 12
+- Investigators begin work on why cargo plane overran Miami runway
+- Grindr to pay £26m to settle claims it allegedly shared users' HIV status
+- Nepal observes national day of mourning for victims of flash flood disaster
+- New videos of man in 9/11 lawsuit reveal extremist links
 
 ---
-_Updated 2026-09-06_
+_Updated 2026-09-07_
