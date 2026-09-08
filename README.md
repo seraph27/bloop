@@ -1,34 +1,34 @@
-# Daily TL;DR — September 07, 2026
+# Daily TL;DR — September 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   230.36 | ▲ +1.91 (+0.84%) |
-| SPGI  | $   443.51 | ▼ -7.07 (-1.57%) |
-| META  | $   616.77 | ▲ +6.09 (+1.00%) |
-| AAPL  | $   319.97 | ▼ -8.24 (-2.51%) |
-| MSFT  | $   499.70 | ▼ -10.42 (-2.04%) |
-| GOOG  | $   335.31 | ▼ -3.55 (-1.05%) |
-| TSM   | $   428.91 | ▲ +11.90 (+2.85%) |
-| IONQ  | $    39.52 | ▲ +0.50 (+1.28%) |
-| COST  | $   915.74 | ▼ -9.67 (-1.04%) |
-| ASML  | $  1714.88 | ▲ +68.69 (+4.17%) |
-| SPYM  | $    90.67 | ▼ -0.34 (-0.37%) |
-| LLY   | $  1149.36 | ▼ -10.24 (-0.88%) |
-| OKLO  | $    41.27 | ▲ +1.43 (+3.59%) |
-| V     | $   375.07 | ▼ -3.68 (-0.97%) |
-| MA    | $   579.21 | ▼ -6.50 (-1.11%) |
-| AMZN  | $   258.51 | ▼ -0.39 (-0.15%) |
-| DUOL  | $   154.46 | ▼ -4.36 (-2.75%) |
+| NVDA  | $   225.35 | ▼ -5.01 (-2.17%) |
+| SPGI  | $   430.36 | ▼ -13.15 (-2.96%) |
+| META  | $   612.69 | ▼ -4.08 (-0.66%) |
+| AAPL  | $   315.69 | ▼ -4.28 (-1.34%) |
+| MSFT  | $   492.05 | ▼ -7.65 (-1.53%) |
+| GOOG  | $   333.92 | ▼ -1.39 (-0.42%) |
+| TSM   | $   440.06 | ▲ +11.15 (+2.60%) |
+| IONQ  | $    40.22 | ▲ +0.70 (+1.77%) |
+| COST  | $   910.39 | ▼ -5.35 (-0.58%) |
+| ASML  | $  1772.23 | ▲ +57.35 (+3.34%) |
+| SPYM  | $    90.25 | ▼ -0.42 (-0.46%) |
+| LLY   | $  1123.77 | ▼ -25.59 (-2.23%) |
+| OKLO  | $    43.54 | ▲ +2.27 (+5.50%) |
+| V     | $   368.85 | ▼ -6.22 (-1.66%) |
+| MA    | $   569.01 | ▼ -10.20 (-1.76%) |
+| AMZN  | $   256.96 | ▼ -1.55 (-0.60%) |
+| DUOL  | $   146.35 | ▼ -8.12 (-5.25%) |
 
 ## Global News
-- Germany's far-right AfD says 'democracy demands' parties work with them after state election win
-- Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
-- Israeli strikes in southern Lebanese village kill 12
-- Investigators begin work on why cargo plane overran Miami runway
-- Grindr to pay £26m to settle claims it allegedly shared users' HIV status
-- Nepal observes national day of mourning for victims of flash flood disaster
-- New videos of man in 9/11 lawsuit reveal extremist links
+- UK announces sanctions on West Bank settlements prompting furious Israeli response
+- Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs
+- Renoir paintings worth millions stolen in French museum heist
+- Argentina to file criminal case against oil company operating in Falklands
+- Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
+- British widow faces deportation from Sweden after 22 years
+- Saudi Arabia vows to respond after Houthis attack cities and energy facilities
 
 ---
-_Updated 2026-09-07_
+_Updated 2026-09-08_
