@@ -1,34 +1,34 @@
-# Daily TL;DR — September 08, 2026
+# Daily TL;DR — September 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   225.35 | ▼ -5.01 (-2.17%) |
-| SPGI  | $   430.36 | ▼ -13.15 (-2.96%) |
-| META  | $   612.69 | ▼ -4.08 (-0.66%) |
-| AAPL  | $   315.69 | ▼ -4.28 (-1.34%) |
-| MSFT  | $   492.05 | ▼ -7.65 (-1.53%) |
-| GOOG  | $   333.92 | ▼ -1.39 (-0.42%) |
-| TSM   | $   440.06 | ▲ +11.15 (+2.60%) |
-| IONQ  | $    40.22 | ▲ +0.70 (+1.77%) |
-| COST  | $   910.39 | ▼ -5.35 (-0.58%) |
-| ASML  | $  1772.23 | ▲ +57.35 (+3.34%) |
-| SPYM  | $    90.25 | ▼ -0.42 (-0.46%) |
-| LLY   | $  1123.77 | ▼ -25.59 (-2.23%) |
-| OKLO  | $    43.54 | ▲ +2.27 (+5.50%) |
-| V     | $   368.85 | ▼ -6.22 (-1.66%) |
-| MA    | $   569.01 | ▼ -10.20 (-1.76%) |
-| AMZN  | $   256.96 | ▼ -1.55 (-0.60%) |
-| DUOL  | $   146.35 | ▼ -8.12 (-5.25%) |
+| NVDA  | $   224.07 | ▼ -1.66 (-0.74%) |
+| SPGI  | $   420.40 | ▼ -8.90 (-2.07%) |
+| META  | $   654.95 | ▲ +41.47 (+6.76%) |
+| AAPL  | $   315.74 | ▼ -0.48 (-0.15%) |
+| MSFT  | $   491.86 | ▼ -2.09 (-0.42%) |
+| GOOG  | $   328.17 | ▼ -7.21 (-2.15%) |
+| TSM   | $   433.71 | ▼ -5.29 (-1.21%) |
+| IONQ  | $    38.62 | ▼ -1.85 (-4.57%) |
+| COST  | $   900.19 | ▼ -9.99 (-1.10%) |
+| ASML  | $  1728.42 | ▼ -36.43 (-2.06%) |
+| SPYM  | $    89.82 | ▼ -0.35 (-0.39%) |
+| LLY   | $  1124.83 | ▲ +0.92 (+0.08%) |
+| OKLO  | $    43.09 | ▼ -0.22 (-0.51%) |
+| V     | $   368.35 | ▼ -0.29 (-0.08%) |
+| MA    | $   568.58 | ▼ -2.32 (-0.41%) |
+| AMZN  | $   252.04 | ▼ -4.93 (-1.92%) |
+| DUOL  | $   140.34 | ▼ -6.05 (-4.13%) |
 
 ## Global News
-- UK announces sanctions on West Bank settlements prompting furious Israeli response
-- Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs
-- Renoir paintings worth millions stolen in French museum heist
-- Argentina to file criminal case against oil company operating in Falklands
-- Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
-- British widow faces deportation from Sweden after 22 years
-- Saudi Arabia vows to respond after Houthis attack cities and energy facilities
+- Germany's Merz attacks AfD in stormy debate after far-right election win
+- Google picks Finland for its largest single investment in Europe
+- Oil hits $100 a barrel for first time since July after US and Houthi strikes
+- US to ban imports of some Canadian alcohol, dairy goods and motorbikes
+- Europe's royalty pay respects to King Harald V in Norway
+- N Korea has built two-storey uranium enrichment facility, says watchdog
+- Uganda pulling out of Prince Harry's Invictus Games, says military chief
 
 ---
-_Updated 2026-09-08_
+_Updated 2026-09-09_
