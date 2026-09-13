@@ -1,4 +1,4 @@
-# Daily TL;DR — September 12, 2026
+# Daily TL;DR — September 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   143.68 | ▼ -1.48 (-1.02%) |
 
 ## Global News
-- Anthropic boss Dario Amodei calls for AI development to slow down
-- Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
-- A united Ireland would be 'fantastic' says Trump during Irish visit 
-- French officials investigate if malicious act caused train derailment
-- Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
-- Uganda's King Oyo buried amid calls for unity over his successor
-- 'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders
+- Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+- Trump downplays warnings of AI risks, citing rivalry with China
+- Questions mount over what an AI 'slowdown' would look like
+- Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
+- Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists
+- Iran war reshapes Brics ties but also exposes divisions
+- Trump doubles down on united Ireland comments on day two of visit
 
 ---
-_Updated 2026-09-12_
+_Updated 2026-09-13_
