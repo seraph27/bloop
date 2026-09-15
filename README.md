@@ -1,34 +1,34 @@
-# Daily TL;DR — September 14, 2026
+# Daily TL;DR — September 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   210.96 | ▼ -7.33 (-3.36%) |
-| SPGI  | $   418.82 | ▲ +8.11 (+1.97%) |
-| META  | $   665.60 | ▲ +17.57 (+2.71%) |
-| AAPL  | $   333.08 | ▲ +0.81 (+0.24%) |
-| MSFT  | $   505.41 | ▲ +9.78 (+1.97%) |
-| GOOG  | $   345.71 | ▲ +10.26 (+3.06%) |
-| TSM   | $   418.45 | ▼ -14.79 (-3.41%) |
-| IONQ  | $    37.50 | ▲ +0.75 (+2.04%) |
-| COST  | $   918.91 | ▲ +14.14 (+1.56%) |
-| ASML  | $  1575.15 | ▼ -123.15 (-7.25%) |
-| SPYM  | $    89.31 | ▼ -0.41 (-0.46%) |
-| LLY   | $  1137.15 | ▲ +21.45 (+1.92%) |
-| OKLO  | $    36.22 | ▲ +0.00 (+0.01%) |
-| V     | $   375.33 | ▲ +4.88 (+1.32%) |
-| MA    | $   574.45 | ▲ +5.26 (+0.92%) |
-| AMZN  | $   253.54 | ▼ -3.24 (-1.26%) |
-| DUOL  | $   151.14 | ▲ +7.46 (+5.19%) |
+| NVDA  | $   212.06 | ▲ +1.10 (+0.52%) |
+| SPGI  | $   412.98 | ▼ -5.56 (-1.33%) |
+| META  | $   670.47 | ▲ +4.87 (+0.73%) |
+| AAPL  | $   330.22 | ▼ -2.86 (-0.86%) |
+| MSFT  | $   497.02 | ▼ -8.39 (-1.66%) |
+| GOOG  | $   340.55 | ▼ -5.16 (-1.49%) |
+| TSM   | $   414.56 | ▼ -3.45 (-0.83%) |
+| IONQ  | $    36.90 | ▼ -0.60 (-1.61%) |
+| COST  | $   902.71 | ▼ -16.20 (-1.76%) |
+| ASML  | $  1592.56 | ▲ +17.41 (+1.11%) |
+| SPYM  | $    88.86 | ▼ -0.46 (-0.51%) |
+| LLY   | $  1132.27 | ▼ -6.01 (-0.53%) |
+| OKLO  | $    36.27 | ▲ +0.06 (+0.17%) |
+| V     | $   375.51 | ▲ +0.23 (+0.06%) |
+| MA    | $   571.64 | ▼ -2.78 (-0.48%) |
+| AMZN  | $   247.96 | ▼ -5.58 (-2.20%) |
+| DUOL  | $   153.00 | ▲ +1.86 (+1.23%) |
 
 ## Global News
-- China criticises idea it is in 'malicious competition' over AI
-- Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
-- Swedish left-wing bloc narrowly ahead with election too close to call
-- Wild dogs record 2,500-mile trek across Zambia in search of a mate
-- Thousands demand end to violence in Mexican cartel hotspot 
-- Body of missing runner found in South Africa
-- Malaysian boy acquitted for murder of schoolgirl on grounds of insanity
+- Denmark says Russian warship fired flares at military helicopter
+- What weapon could the US have put into space?
+- Suspected sabotage causes major Netherlands rail disruption
+- South African president vows justice as more women's bodies found near Johannesburg
+- Two sailors missing after tanker attacked in Strait of Hormuz, Oman says
+- Iran war has led to US munitions shortfalls, Pentagon inspector confirms
+- Canada is a 'safe harbour' for global finance, Carney says
 
 ---
-_Updated 2026-09-14_
+_Updated 2026-09-15_
