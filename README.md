@@ -1,34 +1,34 @@
-# Daily TL;DR — September 16, 2026
+# Daily TL;DR — September 17, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   212.71 | ▲ +0.54 (+0.25%) |
-| SPGI  | $   404.96 | ▼ -7.56 (-1.83%) |
-| META  | $   672.51 | ▲ +2.27 (+0.34%) |
-| AAPL  | $   331.31 | ▼ -0.03 (-0.01%) |
-| MSFT  | $   487.89 | ▼ -9.23 (-1.86%) |
-| GOOG  | $   337.70 | ▼ -3.73 (-1.09%) |
-| TSM   | $   414.50 | ▲ +0.75 (+0.18%) |
-| IONQ  | $    36.12 | ▼ -0.93 (-2.51%) |
-| COST  | $   895.04 | ▼ -6.30 (-0.70%) |
-| ASML  | $  1586.63 | ▼ -4.85 (-0.30%) |
-| SPYM  | $    88.06 | ▼ -0.86 (-0.97%) |
-| LLY   | $  1134.69 | ▼ -1.42 (-0.12%) |
-| OKLO  | $    34.77 | ▼ -1.21 (-3.36%) |
-| V     | $   368.58 | ▼ -7.04 (-1.88%) |
-| MA    | $   566.36 | ▼ -6.91 (-1.21%) |
-| AMZN  | $   244.63 | ▼ -3.79 (-1.53%) |
-| DUOL  | $   147.74 | ▼ -6.18 (-4.02%) |
+| NVDA  | $   219.66 | ▲ +5.76 (+2.69%) |
+| SPGI  | $   405.90 | ▼ -0.86 (-0.21%) |
+| META  | $   678.82 | ▲ +5.51 (+0.82%) |
+| AAPL  | $   337.80 | ▲ +5.39 (+1.62%) |
+| MSFT  | $   496.58 | ▲ +6.29 (+1.28%) |
+| GOOG  | $   343.41 | ▲ +4.05 (+1.19%) |
+| TSM   | $   429.35 | ▲ +11.63 (+2.78%) |
+| IONQ  | $    40.49 | ▲ +3.65 (+9.92%) |
+| COST  | $   892.09 | ▼ -1.65 (-0.18%) |
+| ASML  | $  1628.73 | ▲ +26.52 (+1.65%) |
+| SPYM  | $    89.58 | ▲ +1.05 (+1.19%) |
+| LLY   | $  1145.40 | ▲ +7.58 (+0.67%) |
+| OKLO  | $    39.86 | ▲ +4.24 (+11.90%) |
+| V     | $   370.67 | ▼ -0.26 (-0.07%) |
+| MA    | $   566.67 | ▼ -1.08 (-0.19%) |
+| AMZN  | $   251.37 | ▲ +5.41 (+2.20%) |
+| DUOL  | $   147.02 | ▼ -1.15 (-0.78%) |
 
 ## Global News
-- EU chief backs plan for Canada to become 'associate member'
-- Photos show widespread damage at US sites from Iranian attacks
-- Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say
-- US accuses Russia of trying to kill Ukrainian allies overseas
-- OpenAI boss says world 'right to be afraid' but should trust AI firms
-- Eight German state premiers back Merz amid speculation over future
-- Saudi Arabia says it shot down Houthi drone south of Mecca
+- Canada welcomes EU proposal to become 'associate member'
+- Ninth woman's body found as South African police investigate string of deaths
+- UN experts say grounds to believe US committed war crimes in Iran strikes
+- Hyrox athlete apologises for continuing race after soiling herself
+- Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting 
+- Assad regime planned US journalist's kidnap for weeks, BBC finds
+- Aztec document goes on display in Mexico after 186 years abroad
 
 ---
-_Updated 2026-09-16_
+_Updated 2026-09-17_
