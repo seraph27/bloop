@@ -1,34 +1,34 @@
-# Daily TL;DR — September 18, 2026
+# Daily TL;DR — September 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   219.71 | ▲ +0.37 (+0.17%) |
-| SPGI  | $   406.32 | ▲ +2.21 (+0.55%) |
-| META  | $   673.41 | ▼ -8.90 (-1.30%) |
-| AAPL  | $   335.75 | ▼ -1.25 (-0.37%) |
-| MSFT  | $   496.25 | ▼ -1.50 (-0.30%) |
-| GOOG  | $   347.88 | ▲ +4.20 (+1.22%) |
-| TSM   | $   430.11 | ▼ -0.15 (-0.04%) |
-| IONQ  | $    38.62 | ▼ -1.72 (-4.26%) |
-| COST  | $   897.20 | ▲ +3.27 (+0.37%) |
-| ASML  | $  1648.81 | ▲ +19.14 (+1.17%) |
-| SPYM  | $    89.60 | ▲ +0.05 (+0.06%) |
-| LLY   | $  1155.49 | ▲ +3.05 (+0.26%) |
-| OKLO  | $    37.84 | ▼ -1.81 (-4.56%) |
-| V     | $   370.04 | ▲ +0.11 (+0.03%) |
-| MA    | $   566.69 | ▲ +0.96 (+0.17%) |
-| AMZN  | $   254.32 | ▲ +3.13 (+1.25%) |
-| DUOL  | $   143.48 | ▼ -3.62 (-2.46%) |
+| NVDA  | $   222.27 | ▲ +2.93 (+1.34%) |
+| SPGI  | $   405.32 | ▲ +1.21 (+0.30%) |
+| META  | $   665.75 | ▼ -16.56 (-2.43%) |
+| AAPL  | $   336.13 | ▼ -0.87 (-0.26%) |
+| MSFT  | $   493.78 | ▼ -3.97 (-0.80%) |
+| GOOG  | $   344.41 | ▲ +0.73 (+0.21%) |
+| TSM   | $   434.67 | ▲ +4.41 (+1.02%) |
+| IONQ  | $    39.13 | ▼ -1.21 (-3.00%) |
+| COST  | $   895.31 | ▲ +1.38 (+0.15%) |
+| ASML  | $  1679.92 | ▲ +50.25 (+3.08%) |
+| SPYM  | $    89.64 | ▲ +0.09 (+0.10%) |
+| LLY   | $  1152.93 | ▲ +0.49 (+0.04%) |
+| OKLO  | $    38.00 | ▼ -1.65 (-4.16%) |
+| V     | $   368.29 | ▼ -1.64 (-0.44%) |
+| MA    | $   565.24 | ▼ -0.49 (-0.09%) |
+| AMZN  | $   253.71 | ▲ +2.52 (+1.00%) |
+| DUOL  | $   141.90 | ▼ -5.20 (-3.54%) |
 
 ## Global News
-- Russian hybrid attacks against Europe intensifying, says Macron
-- Three dead and eight injured in Philippines school shooting
-- Shots heard as police start moving migrants from Ceuta beaches
-- Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children
-- At least 21 killed after vehicle loaded with explosives rams Pakistan mosque
-- Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' 
-- Ronaldo named in first Portugal squad since World Cup - at age of 41
+- Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+- Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
+- Journalists denied White House access after Trump banned some media outlets
+- Converse pulls 'deeply upsetting' advert after backlash
+- Google's Gemini AI hacked three companies in security test
+- Trump signs sweeping Russia sanctions bill 
+- Grim discoveries of murdered women spark fear in South Africa
 
 ---
-_Updated 2026-09-18_
+_Updated 2026-09-19_
