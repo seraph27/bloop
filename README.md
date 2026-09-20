@@ -1,4 +1,4 @@
-# Daily TL;DR — September 19, 2026
+# Daily TL;DR — September 20, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   141.90 | ▼ -5.20 (-3.54%) |
 
 ## Global News
-- Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
-- Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
-- Journalists denied White House access after Trump banned some media outlets
+- German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
+- Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
+- Ed Sheeran admits 'mistakes' at first show since Macklemore controversy
+- Trump says triumphal arch will be military complex with drones and snipers
+- Houthis say they targeted Saudi capital with ballistic missiles
 - Converse pulls 'deeply upsetting' advert after backlash
-- Google's Gemini AI hacked three companies in security test
-- Trump signs sweeping Russia sanctions bill 
-- Grim discoveries of murdered women spark fear in South Africa
+- Our head teacher was an abuser. We joined forces to get justice - now we're married
 
 ---
-_Updated 2026-09-19_
+_Updated 2026-09-20_
