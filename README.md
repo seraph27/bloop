@@ -1,34 +1,34 @@
-# Daily TL;DR — September 21, 2026
+# Daily TL;DR — September 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   227.38 | ▲ +5.11 (+2.30%) |
-| SPGI  | $   404.47 | ▼ -0.85 (-0.21%) |
-| META  | $   741.24 | ▲ +75.49 (+11.34%) |
-| AAPL  | $   338.98 | ▲ +2.85 (+0.85%) |
-| MSFT  | $   501.61 | ▲ +7.83 (+1.59%) |
-| GOOG  | $   350.87 | ▲ +6.46 (+1.88%) |
-| TSM   | $   445.14 | ▲ +10.47 (+2.41%) |
-| IONQ  | $    40.51 | ▲ +1.38 (+3.53%) |
-| COST  | $   898.48 | ▲ +3.17 (+0.35%) |
-| ASML  | $  1711.32 | ▲ +31.40 (+1.87%) |
-| SPYM  | $    91.03 | ▲ +1.39 (+1.55%) |
-| LLY   | $  1164.41 | ▲ +11.48 (+1.00%) |
-| OKLO  | $    40.18 | ▲ +2.18 (+5.74%) |
-| V     | $   369.95 | ▲ +1.66 (+0.45%) |
-| MA    | $   567.65 | ▲ +2.41 (+0.43%) |
-| AMZN  | $   258.45 | ▲ +4.74 (+1.87%) |
-| DUOL  | $   149.42 | ▲ +7.52 (+5.30%) |
+| NVDA  | $   229.71 | ▲ +2.33 (+1.03%) |
+| SPGI  | $   403.55 | ▼ -0.92 (-0.23%) |
+| META  | $   739.90 | ▼ -1.35 (-0.18%) |
+| AAPL  | $   340.44 | ▲ +1.46 (+0.43%) |
+| MSFT  | $   498.83 | ▼ -2.78 (-0.55%) |
+| GOOG  | $   349.30 | ▼ -1.57 (-0.45%) |
+| TSM   | $   452.09 | ▲ +6.95 (+1.56%) |
+| IONQ  | $    40.56 | ▲ +0.05 (+0.12%) |
+| COST  | $   899.83 | ▲ +1.35 (+0.15%) |
+| ASML  | $  1746.56 | ▲ +35.24 (+2.06%) |
+| SPYM  | $    91.19 | ▲ +0.16 (+0.18%) |
+| LLY   | $  1172.90 | ▲ +8.01 (+0.69%) |
+| OKLO  | $    40.72 | ▲ +0.54 (+1.34%) |
+| V     | $   363.05 | ▼ -6.90 (-1.87%) |
+| MA    | $   558.71 | ▼ -8.95 (-1.58%) |
+| AMZN  | $   256.15 | ▼ -2.30 (-0.89%) |
+| DUOL  | $   148.66 | ▼ -0.76 (-0.51%) |
 
 ## Global News
-- Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
-- CNN, MS NOW and Politico file lawsuit against Trump's White House ban
-- Merz vows to keep coalition together for Germany's 'democratic future'
-- First UK charges brought over 1994 Rwanda genocide
-- Millions urged to evacuate as powerful Typhoon Dujuan hits Japan 
-- Russia's elections had few surprises - but how the Kremlin uses the results will be crucial
-- Xhaka under investigation over Covid-19 certificate
+- US to build two military bases in Greenland under new deal with Denmark
+- Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
+- Developing El Niño becomes strongest on record weeks before expected peak
+- Ukraine anger as EU removes Russian oligarchs from sanctions list
+- Eleven injured in shooting outside Turkish school
+- Lindsay Clancy's lawyer asks judge to investigate juror and check his phone
+- Top South African policeman charged with sexual offences
 
 ---
-_Updated 2026-09-21_
+_Updated 2026-09-22_
