@@ -1,34 +1,34 @@
-# Daily TL;DR — September 22, 2026
+# Daily TL;DR — September 23, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   229.71 | ▲ +2.33 (+1.03%) |
-| SPGI  | $   403.55 | ▼ -0.92 (-0.23%) |
-| META  | $   739.90 | ▼ -1.35 (-0.18%) |
-| AAPL  | $   340.44 | ▲ +1.46 (+0.43%) |
-| MSFT  | $   498.83 | ▼ -2.78 (-0.55%) |
-| GOOG  | $   349.30 | ▼ -1.57 (-0.45%) |
-| TSM   | $   452.09 | ▲ +6.95 (+1.56%) |
-| IONQ  | $    40.56 | ▲ +0.05 (+0.12%) |
-| COST  | $   899.83 | ▲ +1.35 (+0.15%) |
-| ASML  | $  1746.56 | ▲ +35.24 (+2.06%) |
-| SPYM  | $    91.19 | ▲ +0.16 (+0.18%) |
-| LLY   | $  1172.90 | ▲ +8.01 (+0.69%) |
-| OKLO  | $    40.72 | ▲ +0.54 (+1.34%) |
-| V     | $   363.05 | ▼ -6.90 (-1.87%) |
-| MA    | $   558.71 | ▼ -8.95 (-1.58%) |
-| AMZN  | $   256.15 | ▼ -2.30 (-0.89%) |
-| DUOL  | $   148.66 | ▼ -0.76 (-0.51%) |
+| NVDA  | $   225.24 | ▼ -3.63 (-1.59%) |
+| SPGI  | — | — |
+| META  | $   749.06 | ▲ +12.46 (+1.69%) |
+| AAPL  | $   336.06 | ▼ -3.69 (-1.09%) |
+| MSFT  | $   500.27 | ▲ +2.27 (+0.46%) |
+| GOOG  | $   335.86 | ▼ -11.55 (-3.32%) |
+| TSM   | $   446.76 | ▼ -5.24 (-1.16%) |
+| IONQ  | $    42.62 | ▲ +1.88 (+4.61%) |
+| COST  | — | — |
+| ASML  | — | — |
+| SPYM  | — | — |
+| LLY   | — | — |
+| OKLO  | $    38.91 | ▼ -1.54 (-3.81%) |
+| V     | — | — |
+| MA    | — | — |
+| AMZN  | $   250.15 | ▼ -4.83 (-1.89%) |
+| DUOL  | — | — |
 
 ## Global News
-- US to build two military bases in Greenland under new deal with Denmark
-- Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
-- Developing El Niño becomes strongest on record weeks before expected peak
-- Ukraine anger as EU removes Russian oligarchs from sanctions list
-- Eleven injured in shooting outside Turkish school
-- Lindsay Clancy's lawyer asks judge to investigate juror and check his phone
-- Top South African policeman charged with sexual offences
+- Iran's president tells Trump it will never 'bend the knee'
+- Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war
+- White House rolling out red carpet for historic Xi Jinping visit
+- Dramatic eviction of woman aged 87 highlights Spain's housing shortage
+- Dolly Parton's manager accuses her nephew of 'threats and intimidation'
+- Harvey Weinstein sentenced to 15 years in prison for sexual assault
+- Poland accuses Russian military helicopter of violating its airspace
 
 ---
-_Updated 2026-09-22_
+_Updated 2026-09-23_
