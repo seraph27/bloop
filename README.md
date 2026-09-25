@@ -1,34 +1,34 @@
-# Daily TL;DR — September 24, 2026
+# Daily TL;DR — September 25, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   224.17 | ▼ -1.34 (-0.59%) |
-| SPGI  | $   402.71 | ▼ -3.79 (-0.93%) |
-| META  | $   778.44 | ▲ +34.34 (+4.61%) |
-| AAPL  | $   337.09 | ▲ +0.07 (+0.02%) |
-| MSFT  | $   498.45 | ▼ -2.14 (-0.43%) |
-| GOOG  | $   338.34 | ▲ +3.36 (+1.00%) |
-| TSM   | $   450.63 | ▲ +4.06 (+0.91%) |
-| IONQ  | $    45.08 | ▲ +2.53 (+5.96%) |
-| COST  | $   897.80 | ▼ -6.90 (-0.76%) |
-| ASML  | $  1724.43 | ▼ -20.18 (-1.16%) |
-| SPYM  | $    90.38 | ▲ +0.00 (+0.01%) |
-| LLY   | $  1187.64 | ▲ +36.65 (+3.18%) |
-| OKLO  | $    38.33 | ▼ -0.49 (-1.28%) |
-| V     | $   367.72 | ▲ +6.20 (+1.71%) |
-| MA    | $   565.32 | ▲ +5.40 (+0.96%) |
-| AMZN  | $   249.46 | ▲ +0.19 (+0.08%) |
-| DUOL  | $   146.88 | ▲ +0.90 (+0.62%) |
+| NVDA  | $   224.99 | ▲ +0.41 (+0.18%) |
+| SPGI  | $   403.64 | ▲ +0.39 (+0.10%) |
+| META  | $   751.36 | ▼ -26.23 (-3.37%) |
+| AAPL  | $   341.13 | ▲ +5.21 (+1.55%) |
+| MSFT  | $   516.55 | ▲ +18.62 (+3.74%) |
+| GOOG  | $   341.44 | ▲ +2.43 (+0.72%) |
+| TSM   | $   451.17 | ▲ +0.02 (+0.00%) |
+| IONQ  | $    45.58 | ▲ +0.60 (+1.32%) |
+| COST  | $   924.44 | ▲ +27.96 (+3.12%) |
+| ASML  | $  1741.97 | ▲ +19.47 (+1.13%) |
+| SPYM  | $    90.86 | ▲ +0.57 (+0.63%) |
+| LLY   | $  1185.71 | ▲ +3.82 (+0.32%) |
+| OKLO  | $    38.01 | ▼ -0.28 (-0.73%) |
+| V     | $   367.45 | ▼ -0.53 (-0.14%) |
+| MA    | $   567.84 | ▲ +1.76 (+0.31%) |
+| AMZN  | $   250.64 | ▲ +1.26 (+0.51%) |
+| DUOL  | $   143.50 | ▼ -4.25 (-2.88%) |
 
 ## Global News
-- White House restores access to media outlets banned by Trump after judge's order
-- Why Australia chose the world's biggest political stage to reveal OpenAI hack
-- Four civilians killed in Pakistani strikes in Afghanistan, Taliban says
-- Priest killed and four injured in knife attack at Polish abbey
-- Italy ministers agree to ban burqa and niqab in school and cap foreigners in class
-- Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout
-- Ethiopia's army says it has repelled attacks in first comment on fresh fighting
+- Zelensky says Russia has widened attacks to hit Ukraine's data centres
+- Special agents' blood and urine test results stolen in FBI hack
+- Pope warns against 'losing humanity' to AI machines
+- Supreme Court allows Trump to use controversial database to check voter citizenship
+- Trump's plans for massive arch move ahead
+- Students strike across Germany in protest against military service
+- Man shot during 2024 Trump campaign rally in Butler dies
 
 ---
-_Updated 2026-09-24_
+_Updated 2026-09-25_
