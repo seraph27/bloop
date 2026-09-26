@@ -1,34 +1,34 @@
-# Daily TL;DR — September 25, 2026
+# Daily TL;DR — September 26, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   224.99 | ▲ +0.41 (+0.18%) |
-| SPGI  | $   403.64 | ▲ +0.39 (+0.10%) |
-| META  | $   751.36 | ▼ -26.23 (-3.37%) |
-| AAPL  | $   341.13 | ▲ +5.21 (+1.55%) |
-| MSFT  | $   516.55 | ▲ +18.62 (+3.74%) |
-| GOOG  | $   341.44 | ▲ +2.43 (+0.72%) |
-| TSM   | $   451.17 | ▲ +0.02 (+0.00%) |
-| IONQ  | $    45.58 | ▲ +0.60 (+1.32%) |
-| COST  | $   924.44 | ▲ +27.96 (+3.12%) |
-| ASML  | $  1741.97 | ▲ +19.47 (+1.13%) |
-| SPYM  | $    90.86 | ▲ +0.57 (+0.63%) |
-| LLY   | $  1185.71 | ▲ +3.82 (+0.32%) |
-| OKLO  | $    38.01 | ▼ -0.28 (-0.73%) |
-| V     | $   367.45 | ▼ -0.53 (-0.14%) |
-| MA    | $   567.84 | ▲ +1.76 (+0.31%) |
-| AMZN  | $   250.64 | ▲ +1.26 (+0.51%) |
-| DUOL  | $   143.50 | ▼ -4.25 (-2.88%) |
+| NVDA  | $   225.07 | ▲ +0.49 (+0.22%) |
+| SPGI  | $   403.30 | ▲ +0.05 (+0.01%) |
+| META  | $   751.66 | ▼ -25.93 (-3.33%) |
+| AAPL  | $   341.07 | ▲ +5.15 (+1.53%) |
+| MSFT  | $   516.17 | ▲ +18.24 (+3.66%) |
+| GOOG  | $   341.08 | ▲ +2.07 (+0.61%) |
+| TSM   | $   450.61 | ▼ -0.54 (-0.12%) |
+| IONQ  | $    45.48 | ▲ +0.50 (+1.11%) |
+| COST  | $   922.77 | ▲ +26.29 (+2.93%) |
+| ASML  | $  1743.94 | ▲ +21.44 (+1.24%) |
+| SPYM  | $    90.80 | ▲ +0.51 (+0.56%) |
+| LLY   | $  1183.46 | ▲ +1.57 (+0.13%) |
+| OKLO  | $    38.04 | ▼ -0.25 (-0.65%) |
+| V     | $   367.38 | ▼ -0.60 (-0.16%) |
+| MA    | $   567.65 | ▲ +1.57 (+0.28%) |
+| AMZN  | $   249.67 | ▲ +0.29 (+0.12%) |
+| DUOL  | $   143.51 | ▼ -4.24 (-2.87%) |
 
 ## Global News
-- Zelensky says Russia has widened attacks to hit Ukraine's data centres
-- Special agents' blood and urine test results stolen in FBI hack
-- Pope warns against 'losing humanity' to AI machines
-- Supreme Court allows Trump to use controversial database to check voter citizenship
-- Trump's plans for massive arch move ahead
-- Students strike across Germany in protest against military service
-- Man shot during 2024 Trump campaign rally in Butler dies
+- Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+- Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris
+- British national among six dead in building explosion close to Acropolis in Athens
+- Security lapses at Utah campus where Charlie Kirk was killed, review says
+- German town bans 'stumbling stone' memorials to Nazi victims
+- Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency
+- Bangkok roads submerged as flood disaster declared
 
 ---
-_Updated 2026-09-25_
+_Updated 2026-09-26_
