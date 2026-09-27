@@ -1,4 +1,4 @@
-# Daily TL;DR — September 26, 2026
+# Daily TL;DR — September 27, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   143.51 | ▼ -4.24 (-2.87%) |
 
 ## Global News
-- Trump rejects Iran deal to reopen Strait of Hormuz in seven days
-- Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris
-- British national among six dead in building explosion close to Acropolis in Athens
-- Security lapses at Utah campus where Charlie Kirk was killed, review says
-- German town bans 'stumbling stone' memorials to Nazi victims
-- Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency
-- Bangkok roads submerged as flood disaster declared
+- Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
+- Two mass shootings in South Africa leave 27 dead
+- Killer Christa Pike to be executed within days - but her defence say she's a victim too
+- Two bodies found after avalanche hits Himalayan climbing group
+- Four killed in helicopter crash near Montreal
+- One dead as nor'easter storm pummels New York and New Jersey
+- Venezuela releases dozens of political prisoners as election calls grow
 
 ---
-_Updated 2026-09-26_
+_Updated 2026-09-27_
