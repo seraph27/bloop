@@ -1,34 +1,34 @@
-# Daily TL;DR — September 28, 2026
+# Daily TL;DR — September 29, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   228.86 | ▲ +3.79 (+1.68%) |
-| SPGI  | $   395.92 | ▼ -7.38 (-1.83%) |
-| META  | $   715.62 | ▼ -36.04 (-4.79%) |
-| AAPL  | $   338.40 | ▼ -2.67 (-0.78%) |
-| MSFT  | $   509.22 | ▼ -6.95 (-1.35%) |
-| GOOG  | $   339.16 | ▼ -1.92 (-0.56%) |
-| TSM   | $   452.88 | ▲ +2.27 (+0.50%) |
-| IONQ  | $    44.58 | ▼ -0.90 (-1.98%) |
-| COST  | $   922.92 | ▲ +0.15 (+0.02%) |
-| ASML  | $  1771.41 | ▲ +27.47 (+1.58%) |
-| SPYM  | $    90.08 | ▼ -0.72 (-0.79%) |
-| LLY   | $  1184.78 | ▲ +1.32 (+0.11%) |
-| OKLO  | $    37.11 | ▼ -0.93 (-2.44%) |
-| V     | $   367.74 | ▲ +0.36 (+0.10%) |
-| MA    | $   568.26 | ▲ +0.61 (+0.11%) |
-| AMZN  | $   246.15 | ▼ -3.52 (-1.41%) |
-| DUOL  | $   134.30 | ▼ -9.21 (-6.42%) |
+| NVDA  | $   227.21 | ▼ -1.65 (-0.72%) |
+| SPGI  | $   392.45 | ▼ -3.47 (-0.88%) |
+| META  | $   738.79 | ▲ +23.17 (+3.24%) |
+| AAPL  | $   329.40 | ▼ -9.00 (-2.66%) |
+| MSFT  | $   508.96 | ▼ -0.26 (-0.05%) |
+| GOOG  | $   337.32 | ▼ -1.84 (-0.54%) |
+| TSM   | $   456.94 | ▲ +4.06 (+0.90%) |
+| IONQ  | $    43.91 | ▼ -0.67 (-1.50%) |
+| COST  | $   924.59 | ▲ +1.67 (+0.18%) |
+| ASML  | $  1834.39 | ▲ +62.98 (+3.56%) |
+| SPYM  | $    89.94 | ▼ -0.14 (-0.16%) |
+| LLY   | $  1184.63 | ▼ -0.15 (-0.01%) |
+| OKLO  | $    37.11 | ▲ +0.00 (+0.00%) |
+| V     | $   365.88 | ▼ -1.86 (-0.51%) |
+| MA    | $   563.58 | ▼ -4.68 (-0.82%) |
+| AMZN  | $   246.67 | ▲ +0.52 (+0.21%) |
+| DUOL  | $   142.62 | ▲ +8.32 (+6.20%) |
 
 ## Global News
-- Inside Yemen's front-line city as Houthis battle for control
-- Seoul summons Ukraine envoy over North Korean prisoner-of-war row
-- Twelve women have been killed in one part of South Africa since July. Here's what we know so far
-- Iran court upholds lashes sentence for singer who performed without hijab
-- Nigerian attempts to break world record by dancing non-stop for seven days
-- Stand-up comic released after being convicted of insulting Erdoğan
-- Four bodies found after avalanche hits Himalayan climbing group
+- Spain announces ban on evictions after protests over 87-year-old woman's removal from flat
+- 'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail
+- Israeli settlers attack West Bank village and block Palestinian family's return home
+- Dutch police arrest suspected member of group that claimed FBI hack
+- First female prime minister named in Morocco after winning elections
+- Eiffel Tower chief to quit after female staff replaced by men during religious visit
+- Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal
 
 ---
-_Updated 2026-09-28_
+_Updated 2026-09-29_
