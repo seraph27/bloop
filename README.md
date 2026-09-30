@@ -1,34 +1,34 @@
-# Daily TL;DR — September 29, 2026
+# Daily TL;DR — September 30, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   227.21 | ▼ -1.65 (-0.72%) |
-| SPGI  | $   392.45 | ▼ -3.47 (-0.88%) |
-| META  | $   738.79 | ▲ +23.17 (+3.24%) |
-| AAPL  | $   329.40 | ▼ -9.00 (-2.66%) |
-| MSFT  | $   508.96 | ▼ -0.26 (-0.05%) |
-| GOOG  | $   337.32 | ▼ -1.84 (-0.54%) |
-| TSM   | $   456.94 | ▲ +4.06 (+0.90%) |
-| IONQ  | $    43.91 | ▼ -0.67 (-1.50%) |
-| COST  | $   924.59 | ▲ +1.67 (+0.18%) |
-| ASML  | $  1834.39 | ▲ +62.98 (+3.56%) |
-| SPYM  | $    89.94 | ▼ -0.14 (-0.16%) |
-| LLY   | $  1184.63 | ▼ -0.15 (-0.01%) |
-| OKLO  | $    37.11 | ▲ +0.00 (+0.00%) |
-| V     | $   365.88 | ▼ -1.86 (-0.51%) |
-| MA    | $   563.58 | ▼ -4.68 (-0.82%) |
-| AMZN  | $   246.67 | ▲ +0.52 (+0.21%) |
-| DUOL  | $   142.62 | ▲ +8.32 (+6.20%) |
+| NVDA  | $   228.38 | ▲ +1.17 (+0.51%) |
+| SPGI  | $   394.47 | ▲ +2.02 (+0.51%) |
+| META  | $   725.18 | ▼ -13.61 (-1.84%) |
+| AAPL  | $   333.02 | ▲ +3.62 (+1.10%) |
+| MSFT  | $   512.90 | ▲ +3.94 (+0.77%) |
+| GOOG  | $   340.74 | ▲ +3.42 (+1.01%) |
+| TSM   | $   456.19 | ▼ -0.75 (-0.16%) |
+| IONQ  | $    43.86 | ▼ -0.05 (-0.11%) |
+| COST  | $   910.34 | ▼ -14.25 (-1.54%) |
+| ASML  | $  1811.67 | ▼ -22.72 (-1.24%) |
+| SPYM  | $    89.76 | ▼ -0.18 (-0.20%) |
+| LLY   | $  1157.08 | ▼ -27.55 (-2.33%) |
+| OKLO  | $    37.02 | ▼ -0.09 (-0.24%) |
+| V     | $   359.33 | ▼ -6.55 (-1.79%) |
+| MA    | $   551.47 | ▼ -12.11 (-2.15%) |
+| AMZN  | $   249.15 | ▲ +2.48 (+1.01%) |
+| DUOL  | $   142.40 | ▼ -0.22 (-0.15%) |
 
 ## Global News
-- Spain announces ban on evictions after protests over 87-year-old woman's removal from flat
-- 'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail
-- Israeli settlers attack West Bank village and block Palestinian family's return home
-- Dutch police arrest suspected member of group that claimed FBI hack
-- First female prime minister named in Morocco after winning elections
-- Eiffel Tower chief to quit after female staff replaced by men during religious visit
-- Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal
+- What we know about stabbing on Flydubai flight to Israel
+- Six smugglers jailed for manslaughter over worst Channel small boats disaster
+- UK-France 'one in, one out' migrant scheme scrapped
+- Execution of US murderer Christa Pike halted shortly before it was due to happen
+- Russia launches largest attack on Ukraine energy infrastructure since spring
+- Last UK and US troops leave Iraq as anti-Islamic State mission ends
+- Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC
 
 ---
-_Updated 2026-09-29_
+_Updated 2026-09-30_
