@@ -1,4 +1,4 @@
-# Daily TL;DR — October 03, 2026
+# Daily TL;DR — October 04, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   144.27 | ▼ -2.30 (-1.57%) |
 
 ## Global News
-- Tennessee prison chief to resign after Christa Pike's failed execution
-- Flydubai co-pilot attacked captain with axe, UAE official says
-- Russia hits second major bridge in Ukraine's capital Kyiv
-- 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
-- G7 to release millions of barrels of oil and diesel after Trump threat
-- Medical plane with 6 on board missing off Massachusetts coast
-- Women given shorts at Oktoberfest to prevent upskirting
+- Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+- Watch: What we know about Russian strikes on Kyiv bridges
+- Yemen's government announces all-out war to reclaim land from Houthis
+- Ethiopian rebel forces withdraw from Tigray regional capital
+- Christa Pike's prognosis still unclear after failed execution, lawyer says
+- US Marine arrested over murder of woman in Okinawa, Japan
+- Indian police accused of sexual harassment against journalists at protest
 
 ---
-_Updated 2026-10-03_
+_Updated 2026-10-04_
