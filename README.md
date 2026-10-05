@@ -1,34 +1,34 @@
-# Daily TL;DR — October 04, 2026
+# Daily TL;DR — October 05, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   233.95 | ▲ +3.09 (+1.34%) |
-| SPGI  | $   386.27 | ▼ -1.89 (-0.49%) |
-| META  | $   728.08 | ▲ +2.15 (+0.30%) |
-| AAPL  | $   333.69 | ▲ +3.37 (+1.02%) |
-| MSFT  | $   517.53 | ▲ +4.73 (+0.92%) |
-| GOOG  | $   340.35 | ▲ +5.42 (+1.62%) |
-| TSM   | $   472.78 | ▲ +13.58 (+2.96%) |
-| IONQ  | $    43.77 | ▼ -0.22 (-0.50%) |
-| COST  | $   920.65 | ▲ +5.71 (+0.62%) |
-| ASML  | $  1867.31 | ▲ +58.82 (+3.25%) |
-| SPYM  | $    90.60 | ▲ +0.68 (+0.76%) |
-| LLY   | $  1142.85 | ▼ -7.00 (-0.61%) |
-| OKLO  | $    35.87 | ▼ -0.27 (-0.75%) |
-| V     | $   360.66 | ▲ +0.81 (+0.23%) |
-| MA    | $   552.26 | ▲ +2.26 (+0.41%) |
-| AMZN  | $   251.52 | ▲ +3.29 (+1.33%) |
-| DUOL  | $   144.27 | ▼ -2.30 (-1.57%) |
+| NVDA  | $   238.90 | ▲ +4.95 (+2.12%) |
+| SPGI  | $   390.92 | ▲ +4.65 (+1.20%) |
+| META  | $   741.90 | ▲ +13.82 (+1.90%) |
+| AAPL  | $   332.89 | ▼ -0.80 (-0.24%) |
+| MSFT  | $   525.18 | ▲ +7.65 (+1.48%) |
+| GOOG  | $   343.83 | ▲ +3.48 (+1.02%) |
+| TSM   | $   485.80 | ▲ +13.02 (+2.75%) |
+| IONQ  | $    42.97 | ▼ -0.80 (-1.83%) |
+| COST  | $   923.52 | ▲ +2.87 (+0.31%) |
+| ASML  | $  1859.86 | ▼ -7.45 (-0.40%) |
+| SPYM  | $    91.22 | ▲ +0.62 (+0.68%) |
+| LLY   | $  1143.12 | ▲ +0.27 (+0.02%) |
+| OKLO  | $    35.97 | ▲ +0.10 (+0.28%) |
+| V     | $   369.71 | ▲ +9.05 (+2.51%) |
+| MA    | $   564.59 | ▲ +12.33 (+2.23%) |
+| AMZN  | $   251.40 | ▼ -0.12 (-0.05%) |
+| DUOL  | $   147.10 | ▲ +2.83 (+1.96%) |
 
 ## Global News
-- Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-- Watch: What we know about Russian strikes on Kyiv bridges
-- Yemen's government announces all-out war to reclaim land from Houthis
-- Ethiopian rebel forces withdraw from Tigray regional capital
-- Christa Pike's prognosis still unclear after failed execution, lawyer says
-- US Marine arrested over murder of woman in Okinawa, Japan
-- Indian police accused of sexual harassment against journalists at protest
+- Trump says 'threat' led US to pull bombers from RAF Fairford
+- France braces for national day of school protests after injuries and mass arrests
+- Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say
+- Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea
+- Spain PM pins hopes on housing crisis to help win snap election
+- US 'watching closely' after plague researcher dies in Russia
+- Pentagon stops using Anthropic AI tools after blacklisting company, BBC told
 
 ---
-_Updated 2026-10-04_
+_Updated 2026-10-05_
