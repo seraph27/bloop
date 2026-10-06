@@ -1,34 +1,34 @@
-# Daily TL;DR — October 05, 2026
+# Daily TL;DR — October 06, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   238.90 | ▲ +4.95 (+2.12%) |
-| SPGI  | $   390.92 | ▲ +4.65 (+1.20%) |
-| META  | $   741.90 | ▲ +13.82 (+1.90%) |
-| AAPL  | $   332.89 | ▼ -0.80 (-0.24%) |
-| MSFT  | $   525.18 | ▲ +7.65 (+1.48%) |
-| GOOG  | $   343.83 | ▲ +3.48 (+1.02%) |
-| TSM   | $   485.80 | ▲ +13.02 (+2.75%) |
-| IONQ  | $    42.97 | ▼ -0.80 (-1.83%) |
-| COST  | $   923.52 | ▲ +2.87 (+0.31%) |
-| ASML  | $  1859.86 | ▼ -7.45 (-0.40%) |
-| SPYM  | $    91.22 | ▲ +0.62 (+0.68%) |
-| LLY   | $  1143.12 | ▲ +0.27 (+0.02%) |
-| OKLO  | $    35.97 | ▲ +0.10 (+0.28%) |
-| V     | $   369.71 | ▲ +9.05 (+2.51%) |
-| MA    | $   564.59 | ▲ +12.33 (+2.23%) |
-| AMZN  | $   251.40 | ▼ -0.12 (-0.05%) |
-| DUOL  | $   147.10 | ▲ +2.83 (+1.96%) |
+| NVDA  | $   239.24 | ▲ +0.34 (+0.14%) |
+| SPGI  | $   396.13 | ▲ +5.21 (+1.33%) |
+| META  | $   738.88 | ▼ -3.02 (-0.41%) |
+| AAPL  | $   333.63 | ▲ +0.74 (+0.22%) |
+| MSFT  | $   529.30 | ▲ +4.12 (+0.78%) |
+| GOOG  | $   344.59 | ▲ +0.76 (+0.22%) |
+| TSM   | $   482.30 | ▼ -3.50 (-0.72%) |
+| IONQ  | $    43.29 | ▲ +0.32 (+0.74%) |
+| COST  | $   935.68 | ▲ +12.16 (+1.32%) |
+| ASML  | $  1834.10 | ▼ -25.76 (-1.39%) |
+| SPYM  | $    91.72 | ▲ +0.50 (+0.55%) |
+| LLY   | $  1157.49 | ▲ +14.37 (+1.26%) |
+| OKLO  | $    38.55 | ▲ +2.58 (+7.17%) |
+| V     | $   370.64 | ▲ +0.93 (+0.25%) |
+| MA    | $   566.58 | ▲ +1.99 (+0.35%) |
+| AMZN  | $   256.29 | ▲ +4.89 (+1.95%) |
+| DUOL  | $   148.13 | ▲ +1.03 (+0.70%) |
 
 ## Global News
-- Trump says 'threat' led US to pull bombers from RAF Fairford
-- France braces for national day of school protests after injuries and mass arrests
-- Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say
-- Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea
-- Spain PM pins hopes on housing crisis to help win snap election
-- US 'watching closely' after plague researcher dies in Russia
-- Pentagon stops using Anthropic AI tools after blacklisting company, BBC told
+- Tear gas in Paris and Marseille as school protests grow across France
+- Former German spy chief arrested for espionage and treason
+- Ship sinks and crew missing after Black Sea drone attack
+- White House defends Trump comment to let Iran 'take out' LA and San Diego
+- Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments
+- Finland orders halt to work on two Google data centres
+- Kenya confirms its first Ebola death as outbreak spreads
 
 ---
-_Updated 2026-10-05_
+_Updated 2026-10-06_
