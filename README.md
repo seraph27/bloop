@@ -1,34 +1,34 @@
-# Daily TL;DR — October 06, 2026
+# Daily TL;DR — October 07, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   239.24 | ▲ +0.34 (+0.14%) |
-| SPGI  | $   396.13 | ▲ +5.21 (+1.33%) |
-| META  | $   738.88 | ▼ -3.02 (-0.41%) |
-| AAPL  | $   333.63 | ▲ +0.74 (+0.22%) |
-| MSFT  | $   529.30 | ▲ +4.12 (+0.78%) |
-| GOOG  | $   344.59 | ▲ +0.76 (+0.22%) |
-| TSM   | $   482.30 | ▼ -3.50 (-0.72%) |
-| IONQ  | $    43.29 | ▲ +0.32 (+0.74%) |
-| COST  | $   935.68 | ▲ +12.16 (+1.32%) |
-| ASML  | $  1834.10 | ▼ -25.76 (-1.39%) |
-| SPYM  | $    91.72 | ▲ +0.50 (+0.55%) |
-| LLY   | $  1157.49 | ▲ +14.37 (+1.26%) |
-| OKLO  | $    38.55 | ▲ +2.58 (+7.17%) |
-| V     | $   370.64 | ▲ +0.93 (+0.25%) |
-| MA    | $   566.58 | ▲ +1.99 (+0.35%) |
-| AMZN  | $   256.29 | ▲ +4.89 (+1.95%) |
-| DUOL  | $   148.13 | ▲ +1.03 (+0.70%) |
+| NVDA  | $   237.47 | ▼ -1.77 (-0.74%) |
+| SPGI  | $   395.18 | ▼ -0.95 (-0.24%) |
+| META  | $   721.31 | ▼ -17.57 (-2.38%) |
+| AAPL  | $   336.67 | ▲ +3.04 (+0.91%) |
+| MSFT  | $   529.76 | ▲ +0.46 (+0.09%) |
+| GOOG  | $   347.37 | ▲ +2.78 (+0.81%) |
+| TSM   | $   472.20 | ▼ -10.10 (-2.09%) |
+| IONQ  | $    41.34 | ▼ -1.95 (-4.50%) |
+| COST  | $   942.25 | ▲ +6.57 (+0.70%) |
+| ASML  | $  1804.96 | ▼ -29.14 (-1.59%) |
+| SPYM  | $    91.46 | ▼ -0.26 (-0.28%) |
+| LLY   | $  1188.72 | ▲ +31.23 (+2.70%) |
+| OKLO  | $    36.82 | ▼ -1.73 (-4.49%) |
+| V     | $   372.10 | ▲ +1.46 (+0.39%) |
+| MA    | $   570.06 | ▲ +3.48 (+0.61%) |
+| AMZN  | $   259.92 | ▲ +3.63 (+1.42%) |
+| DUOL  | $   151.72 | ▲ +3.59 (+2.42%) |
 
 ## Global News
-- Tear gas in Paris and Marseille as school protests grow across France
-- Former German spy chief arrested for espionage and treason
-- Ship sinks and crew missing after Black Sea drone attack
-- White House defends Trump comment to let Iran 'take out' LA and San Diego
-- Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments
-- Finland orders halt to work on two Google data centres
-- Kenya confirms its first Ebola death as outbreak spreads
+- Spanish pensioner whose eviction sparked nationwide protests dies, union says
+- Israelis mourn 7 October attack victims three years after deadly Hamas raid
+- Israelis demand accountability over 7 October failures three years after attacks
+- France halts use of stun grenades after boy's hand blown off in student protests
+- Canada suspends plans to expand assisted dying to people with mental illness 
+- Trump to speak to Putin about plague lab worker's death in Russia
+- Children killed while they slept as Russian missile kills 19 in block of flats
 
 ---
-_Updated 2026-10-06_
+_Updated 2026-10-07_
