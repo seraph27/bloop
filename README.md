@@ -1,34 +1,34 @@
-# Daily TL;DR — October 07, 2026
+# Daily TL;DR — October 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   237.47 | ▼ -1.77 (-0.74%) |
-| SPGI  | $   395.18 | ▼ -0.95 (-0.24%) |
-| META  | $   721.31 | ▼ -17.57 (-2.38%) |
-| AAPL  | $   336.67 | ▲ +3.04 (+0.91%) |
-| MSFT  | $   529.76 | ▲ +0.46 (+0.09%) |
-| GOOG  | $   347.37 | ▲ +2.78 (+0.81%) |
-| TSM   | $   472.20 | ▼ -10.10 (-2.09%) |
-| IONQ  | $    41.34 | ▼ -1.95 (-4.50%) |
-| COST  | $   942.25 | ▲ +6.57 (+0.70%) |
-| ASML  | $  1804.96 | ▼ -29.14 (-1.59%) |
-| SPYM  | $    91.46 | ▼ -0.26 (-0.28%) |
-| LLY   | $  1188.72 | ▲ +31.23 (+2.70%) |
-| OKLO  | $    36.82 | ▼ -1.73 (-4.49%) |
-| V     | $   372.10 | ▲ +1.46 (+0.39%) |
-| MA    | $   570.06 | ▲ +3.48 (+0.61%) |
-| AMZN  | $   259.92 | ▲ +3.63 (+1.42%) |
-| DUOL  | $   151.72 | ▲ +3.59 (+2.42%) |
+| NVDA  | $   230.48 | ▼ -6.99 (-2.94%) |
+| SPGI  | $   402.73 | ▲ +7.55 (+1.91%) |
+| META  | $   720.89 | ▼ -0.42 (-0.06%) |
+| AAPL  | $   340.42 | ▲ +3.75 (+1.11%) |
+| MSFT  | $   522.61 | ▼ -7.15 (-1.35%) |
+| GOOG  | $   344.86 | ▼ -2.51 (-0.72%) |
+| TSM   | $   457.99 | ▼ -14.21 (-3.01%) |
+| IONQ  | $    39.45 | ▼ -1.89 (-4.57%) |
+| COST  | $   947.92 | ▲ +5.67 (+0.60%) |
+| ASML  | $  1769.79 | ▼ -35.17 (-1.95%) |
+| SPYM  | $    91.07 | ▼ -0.39 (-0.43%) |
+| LLY   | $  1169.60 | ▼ -19.12 (-1.61%) |
+| OKLO  | $    34.57 | ▼ -2.25 (-6.11%) |
+| V     | $   375.10 | ▲ +3.00 (+0.81%) |
+| MA    | $   574.76 | ▲ +4.70 (+0.82%) |
+| AMZN  | $   254.06 | ▼ -5.86 (-2.25%) |
+| DUOL  | $   151.22 | ▼ -0.50 (-0.33%) |
 
 ## Global News
-- Spanish pensioner whose eviction sparked nationwide protests dies, union says
-- Israelis mourn 7 October attack victims three years after deadly Hamas raid
-- Israelis demand accountability over 7 October failures three years after attacks
-- France halts use of stun grenades after boy's hand blown off in student protests
-- Canada suspends plans to expand assisted dying to people with mental illness 
-- Trump to speak to Putin about plague lab worker's death in Russia
-- Children killed while they slept as Russian missile kills 19 in block of flats
+- Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge
+- Christa Pike now walking after failed US execution, lawyer tells BBC
+- Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture
+- Protesters blame 'vulture funds' for Spain's housing crisis
+- Italy approves elections overhaul as opposition accuse Meloni of 'scam'
+- US deportations to African countries unlawful and exploit suffering, rights group says
+- Teacher who sexually abused pupil back in Indonesia jail after BBC investigation
 
 ---
-_Updated 2026-10-07_
+_Updated 2026-10-08_
