@@ -1,34 +1,34 @@
-# Daily TL;DR — October 08, 2026
+# Daily TL;DR — October 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   230.48 | ▼ -6.99 (-2.94%) |
-| SPGI  | $   402.73 | ▲ +7.55 (+1.91%) |
-| META  | $   720.89 | ▼ -0.42 (-0.06%) |
-| AAPL  | $   340.42 | ▲ +3.75 (+1.11%) |
-| MSFT  | $   522.61 | ▼ -7.15 (-1.35%) |
-| GOOG  | $   344.86 | ▼ -2.51 (-0.72%) |
-| TSM   | $   457.99 | ▼ -14.21 (-3.01%) |
-| IONQ  | $    39.45 | ▼ -1.89 (-4.57%) |
-| COST  | $   947.92 | ▲ +5.67 (+0.60%) |
-| ASML  | $  1769.79 | ▼ -35.17 (-1.95%) |
-| SPYM  | $    91.07 | ▼ -0.39 (-0.43%) |
-| LLY   | $  1169.60 | ▼ -19.12 (-1.61%) |
-| OKLO  | $    34.57 | ▼ -2.25 (-6.11%) |
-| V     | $   375.10 | ▲ +3.00 (+0.81%) |
-| MA    | $   574.76 | ▲ +4.70 (+0.82%) |
-| AMZN  | $   254.06 | ▼ -5.86 (-2.25%) |
-| DUOL  | $   151.22 | ▼ -0.50 (-0.33%) |
+| NVDA  | $   229.28 | ▼ -1.20 (-0.52%) |
+| SPGI  | $   407.82 | ▲ +5.09 (+1.26%) |
+| META  | $   718.67 | ▼ -2.22 (-0.31%) |
+| AAPL  | $   336.64 | ▼ -3.78 (-1.11%) |
+| MSFT  | $   535.07 | ▲ +12.46 (+2.38%) |
+| GOOG  | $   347.86 | ▲ +3.00 (+0.87%) |
+| TSM   | $   453.31 | ▼ -4.68 (-1.02%) |
+| IONQ  | $    39.89 | ▲ +0.44 (+1.12%) |
+| COST  | $   946.92 | ▼ -1.00 (-0.11%) |
+| ASML  | $  1780.34 | ▲ +10.55 (+0.60%) |
+| SPYM  | $    91.64 | ▲ +0.57 (+0.63%) |
+| LLY   | $  1179.27 | ▲ +9.67 (+0.83%) |
+| OKLO  | $    34.70 | ▲ +0.13 (+0.38%) |
+| V     | $   385.45 | ▲ +10.35 (+2.76%) |
+| MA    | $   589.14 | ▲ +14.38 (+2.50%) |
+| AMZN  | $   262.43 | ▲ +8.37 (+3.29%) |
+| DUOL  | $   149.92 | ▼ -1.30 (-0.86%) |
 
 ## Global News
-- Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge
-- Christa Pike now walking after failed US execution, lawyer tells BBC
-- Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture
-- Protesters blame 'vulture funds' for Spain's housing crisis
-- Italy approves elections overhaul as opposition accuse Meloni of 'scam'
-- US deportations to African countries unlawful and exploit suffering, rights group says
-- Teacher who sexually abused pupil back in Indonesia jail after BBC investigation
+- Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+- US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
+- JD Vance casts doubt on firing squad execution and says he will not watch it
+- Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
+- Russian search engine Yandex struggles after Ukrainian strikes on data centres
+- Man named Hitler Mussolini elected mayor in Peru
+- Navi Pillay, former UN human rights chief, wins Nobel Peace Prize
 
 ---
-_Updated 2026-10-08_
+_Updated 2026-10-09_
