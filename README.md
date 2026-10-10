@@ -1,4 +1,4 @@
-# Daily TL;DR — October 09, 2026
+# Daily TL;DR — October 10, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -17,18 +17,18 @@
 | LLY   | $  1179.27 | ▲ +9.67 (+0.83%) |
 | OKLO  | $    34.70 | ▲ +0.13 (+0.38%) |
 | V     | $   385.45 | ▲ +10.35 (+2.76%) |
-| MA    | $   589.14 | ▲ +14.38 (+2.50%) |
+| MA    | $   589.14 | ▲ +15.25 (+2.66%) |
 | AMZN  | $   262.43 | ▲ +8.37 (+3.29%) |
 | DUOL  | $   149.92 | ▼ -1.30 (-0.86%) |
 
 ## Global News
-- Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-- US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
-- JD Vance casts doubt on firing squad execution and says he will not watch it
-- Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
-- Russian search engine Yandex struggles after Ukrainian strikes on data centres
-- Man named Hitler Mussolini elected mayor in Peru
-- Navi Pillay, former UN human rights chief, wins Nobel Peace Prize
+- 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+- Russian glide bomb attack on Zaporizhzhia kills at least 15 people
+- Several injured in attack on airport in Saudi capital Riyadh
+- US murderer Christa Pike discharged from hospital 10 days after failed execution
+- Four dead and thousands without power after Hurricane Isaias lashes US
+- Expedition hopes to find aviator Amelia Earhart's plane on remote island
+- Woman injures three people in third Poland school knife attack in a week
 
 ---
-_Updated 2026-10-09_
+_Updated 2026-10-10_
