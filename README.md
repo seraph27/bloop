@@ -1,4 +1,4 @@
-# Daily TL;DR — October 10, 2026
+# Daily TL;DR — October 11, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   149.92 | ▼ -1.30 (-0.86%) |
 
 ## Global News
-- 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
-- Russian glide bomb attack on Zaporizhzhia kills at least 15 people
-- Several injured in attack on airport in Saudi capital Riyadh
-- US murderer Christa Pike discharged from hospital 10 days after failed execution
-- Four dead and thousands without power after Hurricane Isaias lashes US
-- Expedition hopes to find aviator Amelia Earhart's plane on remote island
-- Woman injures three people in third Poland school knife attack in a week
+- Saudi capital airport hit by second Houthi strike in two days
+- Ukraine strikes Yandex data centre in third attack on Russian tech giant
+- Poland detains man suspected of planning assassination of PM Tusk
+- Homes and bridges swept away as fresh floods hit Nepal
+- Poland stabbings driven by online glorification of violence, Tusk says
+- Orangutans released back into Borneo forest after devastating fires
+- Children among 139 dead after boat capsizes off Djibouti, UN says
 
 ---
-_Updated 2026-10-10_
+_Updated 2026-10-11_
