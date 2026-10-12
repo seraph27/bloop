@@ -1,34 +1,34 @@
-# Daily TL;DR — October 11, 2026
+# Daily TL;DR — October 12, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   229.28 | ▼ -1.20 (-0.52%) |
-| SPGI  | $   407.82 | ▲ +5.09 (+1.26%) |
-| META  | $   718.67 | ▼ -2.22 (-0.31%) |
-| AAPL  | $   336.64 | ▼ -3.78 (-1.11%) |
-| MSFT  | $   535.07 | ▲ +12.46 (+2.38%) |
-| GOOG  | $   347.86 | ▲ +3.00 (+0.87%) |
-| TSM   | $   453.31 | ▼ -4.68 (-1.02%) |
-| IONQ  | $    39.89 | ▲ +0.44 (+1.12%) |
-| COST  | $   946.92 | ▼ -1.00 (-0.11%) |
-| ASML  | $  1780.34 | ▲ +10.55 (+0.60%) |
-| SPYM  | $    91.64 | ▲ +0.57 (+0.63%) |
-| LLY   | $  1179.27 | ▲ +9.67 (+0.83%) |
-| OKLO  | $    34.70 | ▲ +0.13 (+0.38%) |
-| V     | $   385.45 | ▲ +10.35 (+2.76%) |
-| MA    | $   589.14 | ▲ +15.25 (+2.66%) |
-| AMZN  | $   262.43 | ▲ +8.37 (+3.29%) |
-| DUOL  | $   149.92 | ▼ -1.30 (-0.86%) |
+| NVDA  | $   226.32 | ▼ -2.96 (-1.29%) |
+| SPGI  | $   412.19 | ▲ +4.37 (+1.07%) |
+| META  | $   742.96 | ▲ +24.29 (+3.38%) |
+| AAPL  | $   340.97 | ▲ +4.33 (+1.29%) |
+| MSFT  | $   541.15 | ▲ +6.08 (+1.14%) |
+| GOOG  | $   348.97 | ▲ +1.11 (+0.32%) |
+| TSM   | $   444.35 | ▼ -8.96 (-1.98%) |
+| IONQ  | $    36.27 | ▼ -3.62 (-9.07%) |
+| COST  | $   959.44 | ▲ +12.52 (+1.32%) |
+| ASML  | $  1750.24 | ▼ -30.10 (-1.69%) |
+| SPYM  | $    91.58 | ▼ -0.06 (-0.07%) |
+| LLY   | $  1182.62 | ▲ +3.35 (+0.28%) |
+| OKLO  | $    32.21 | ▼ -2.49 (-7.18%) |
+| V     | $   389.27 | ▲ +3.82 (+0.99%) |
+| MA    | $   595.09 | ▲ +5.95 (+1.01%) |
+| AMZN  | $   259.53 | ▼ -2.90 (-1.11%) |
+| DUOL  | $   147.74 | ▼ -2.18 (-1.45%) |
 
 ## Global News
-- Saudi capital airport hit by second Houthi strike in two days
-- Ukraine strikes Yandex data centre in third attack on Russian tech giant
-- Poland detains man suspected of planning assassination of PM Tusk
-- Homes and bridges swept away as fresh floods hit Nepal
-- Poland stabbings driven by online glorification of violence, Tusk says
-- Orangutans released back into Borneo forest after devastating fires
-- Children among 139 dead after boat capsizes off Djibouti, UN says
+- Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+- Why Moscow is staying tight-lipped on Trump's energy ceasefire
+- Documents falsified to evade tax on Abramovich's wealth, BBC finds
+- Saudi minister vows 'serious response' to Houthi attacks on airports
+- Breaking Bad actor RJ Mitte dies aged 34
+- South Africa's deputy police chief resigns after being charged with sexual offences
+- Immigration agents search congresswoman Ilhan Omar's home
 
 ---
-_Updated 2026-10-11_
+_Updated 2026-10-12_
