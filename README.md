@@ -1,34 +1,34 @@
-# Daily TL;DR — October 12, 2026
+# Daily TL;DR — October 13, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   226.32 | ▼ -2.96 (-1.29%) |
-| SPGI  | $   412.19 | ▲ +4.37 (+1.07%) |
-| META  | $   742.96 | ▲ +24.29 (+3.38%) |
-| AAPL  | $   340.97 | ▲ +4.33 (+1.29%) |
-| MSFT  | $   541.15 | ▲ +6.08 (+1.14%) |
-| GOOG  | $   348.97 | ▲ +1.11 (+0.32%) |
-| TSM   | $   444.35 | ▼ -8.96 (-1.98%) |
-| IONQ  | $    36.27 | ▼ -3.62 (-9.07%) |
-| COST  | $   959.44 | ▲ +12.52 (+1.32%) |
-| ASML  | $  1750.24 | ▼ -30.10 (-1.69%) |
-| SPYM  | $    91.58 | ▼ -0.06 (-0.07%) |
-| LLY   | $  1182.62 | ▲ +3.35 (+0.28%) |
-| OKLO  | $    32.21 | ▼ -2.49 (-7.18%) |
-| V     | $   389.27 | ▲ +3.82 (+0.99%) |
-| MA    | $   595.09 | ▲ +5.95 (+1.01%) |
-| AMZN  | $   259.53 | ▼ -2.90 (-1.11%) |
-| DUOL  | $   147.74 | ▼ -2.18 (-1.45%) |
+| NVDA  | $   228.52 | ▲ +2.20 (+0.97%) |
+| SPGI  | $   409.99 | ▼ -2.20 (-0.53%) |
+| META  | $   762.50 | ▲ +19.54 (+2.63%) |
+| AAPL  | $   341.27 | ▲ +0.30 (+0.09%) |
+| MSFT  | $   543.45 | ▲ +2.30 (+0.43%) |
+| GOOG  | $   349.52 | ▲ +0.55 (+0.16%) |
+| TSM   | $   445.12 | ▲ +0.77 (+0.17%) |
+| IONQ  | $    34.73 | ▼ -1.54 (-4.25%) |
+| COST  | $   954.63 | ▼ -4.81 (-0.50%) |
+| ASML  | $  1717.76 | ▼ -32.48 (-1.86%) |
+| SPYM  | $    91.55 | ▼ -0.03 (-0.03%) |
+| LLY   | $  1166.51 | ▼ -16.11 (-1.36%) |
+| OKLO  | $    31.78 | ▼ -0.43 (-1.33%) |
+| V     | $   396.06 | ▲ +6.79 (+1.74%) |
+| MA    | $   604.80 | ▲ +9.71 (+1.63%) |
+| AMZN  | $   258.58 | ▼ -0.95 (-0.37%) |
+| DUOL  | $   140.10 | ▼ -7.64 (-5.17%) |
 
 ## Global News
-- Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
-- Why Moscow is staying tight-lipped on Trump's energy ceasefire
-- Documents falsified to evade tax on Abramovich's wealth, BBC finds
-- Saudi minister vows 'serious response' to Houthi attacks on airports
-- Breaking Bad actor RJ Mitte dies aged 34
-- South Africa's deputy police chief resigns after being charged with sexual offences
-- Immigration agents search congresswoman Ilhan Omar's home
+- Pope diagnosed with lung cancer but had successful surgery, Vatican says
+- MI5 chief warns of threats to UK from Russia, Iran and AI
+- Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot
+- Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
+- Cornell bans all fraternity parties over gang sex assault allegations
+- Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations
+- Horrified witnesses recount fatal rollercoaster incident at Six Flags
 
 ---
-_Updated 2026-10-12_
+_Updated 2026-10-13_
