@@ -1,34 +1,34 @@
-# Daily TL;DR — October 14, 2026
+# Daily TL;DR — October 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   221.30 | ▼ -7.22 (-3.16%) |
-| SPGI  | $   408.57 | ▼ -1.42 (-0.35%) |
-| META  | $   737.54 | ▼ -24.96 (-3.27%) |
-| AAPL  | $   342.96 | ▲ +1.69 (+0.50%) |
-| MSFT  | $   533.69 | ▼ -9.76 (-1.80%) |
-| GOOG  | $   343.65 | ▼ -5.87 (-1.68%) |
-| TSM   | $   430.08 | ▼ -15.04 (-3.38%) |
-| IONQ  | $    31.42 | ▼ -3.31 (-9.55%) |
-| COST  | $   982.00 | ▲ +27.37 (+2.87%) |
-| ASML  | $  1650.00 | ▼ -67.76 (-3.94%) |
-| SPYM  | $    90.58 | ▼ -0.97 (-1.06%) |
-| LLY   | $  1210.79 | ▲ +44.28 (+3.80%) |
-| OKLO  | $    29.04 | ▼ -2.74 (-8.62%) |
-| V     | $   391.39 | ▼ -4.67 (-1.18%) |
-| MA    | $   603.35 | ▼ -1.45 (-0.24%) |
-| AMZN  | $   254.08 | ▼ -4.50 (-1.74%) |
-| DUOL  | $   139.73 | ▼ -0.37 (-0.26%) |
+| NVDA  | $   217.35 | ▼ -3.95 (-1.78%) |
+| SPGI  | $   424.78 | ▲ +16.21 (+3.97%) |
+| META  | $   738.48 | ▲ +0.94 (+0.13%) |
+| AAPL  | $   342.31 | ▼ -0.65 (-0.19%) |
+| MSFT  | $   540.33 | ▲ +6.64 (+1.24%) |
+| GOOG  | $   345.05 | ▲ +1.40 (+0.41%) |
+| TSM   | $   422.12 | ▼ -7.88 (-1.83%) |
+| IONQ  | $    34.04 | ▲ +2.62 (+8.34%) |
+| COST  | $   981.40 | ▼ -0.60 (-0.06%) |
+| ASML  | $  1653.94 | ▲ +3.94 (+0.24%) |
+| SPYM  | $    90.89 | ▲ +0.31 (+0.34%) |
+| LLY   | $  1256.67 | ▲ +47.93 (+3.96%) |
+| OKLO  | $    29.97 | ▲ +0.92 (+3.19%) |
+| V     | $   401.35 | ▲ +9.92 (+2.53%) |
+| MA    | $   617.66 | ▲ +14.42 (+2.39%) |
+| AMZN  | $   255.02 | ▲ +0.94 (+0.37%) |
+| DUOL  | $   148.18 | ▲ +8.45 (+6.05%) |
 
 ## Global News
-- Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
-- Pope walking and recovering 'as expected' after surgery, doctors say
-- US inflation rises more than expected - here's what is happening with prices
-- Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines
-- Australia's first-ever Michelin stars go to 11 restaurants in one state
-- Netflix to shed 1,000 jobs in steepest cuts since 2022
-- Kenya confirms second Ebola case - a relative of the first victim
+- Trump calls off livestream of Fort Hood attacker's execution by firing squad
+- Houthi missile attack on Yemeni presidential palace kills two, minister says
+- Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+- At least 33 pupils and teacher killed after school roof collapses in Pakistan 
+- Maduro pleads not guilty to new torture-related charges in New York
+- Two dead in Istanbul after heaviest rainfall in 84 years, governor says
+- Was Neanderthal life violent? This wound suggests lethal fighting was more common
 
 ---
-_Updated 2026-10-14_
+_Updated 2026-10-15_
