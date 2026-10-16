@@ -1,34 +1,34 @@
-# Daily TL;DR — October 15, 2026
+# Daily TL;DR — October 16, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   217.35 | ▼ -3.95 (-1.78%) |
-| SPGI  | $   424.78 | ▲ +16.21 (+3.97%) |
-| META  | $   738.48 | ▲ +0.94 (+0.13%) |
-| AAPL  | $   342.31 | ▼ -0.65 (-0.19%) |
-| MSFT  | $   540.33 | ▲ +6.64 (+1.24%) |
-| GOOG  | $   345.05 | ▲ +1.40 (+0.41%) |
-| TSM   | $   422.12 | ▼ -7.88 (-1.83%) |
-| IONQ  | $    34.04 | ▲ +2.62 (+8.34%) |
-| COST  | $   981.40 | ▼ -0.60 (-0.06%) |
-| ASML  | $  1653.94 | ▲ +3.94 (+0.24%) |
-| SPYM  | $    90.89 | ▲ +0.31 (+0.34%) |
-| LLY   | $  1256.67 | ▲ +47.93 (+3.96%) |
-| OKLO  | $    29.97 | ▲ +0.92 (+3.19%) |
-| V     | $   401.35 | ▲ +9.92 (+2.53%) |
-| MA    | $   617.66 | ▲ +14.42 (+2.39%) |
-| AMZN  | $   255.02 | ▲ +0.94 (+0.37%) |
-| DUOL  | $   148.18 | ▲ +8.45 (+6.05%) |
+| NVDA  | $   215.08 | ▼ -2.15 (-0.99%) |
+| SPGI  | $   427.33 | ▲ +2.52 (+0.59%) |
+| META  | $   706.12 | ▼ -30.60 (-4.15%) |
+| AAPL  | $   342.76 | ▲ +0.76 (+0.22%) |
+| MSFT  | $   526.25 | ▼ -13.19 (-2.45%) |
+| GOOG  | $   336.55 | ▼ -8.36 (-2.42%) |
+| TSM   | $   413.86 | ▼ -8.39 (-1.99%) |
+| IONQ  | $    31.55 | ▼ -2.80 (-8.15%) |
+| COST  | $   989.36 | ▲ +11.35 (+1.16%) |
+| ASML  | $  1651.73 | ▼ -5.71 (-0.34%) |
+| SPYM  | $    89.79 | ▼ -1.04 (-1.15%) |
+| LLY   | $  1255.29 | ▲ +3.68 (+0.29%) |
+| OKLO  | $    27.88 | ▼ -2.13 (-7.10%) |
+| V     | $   401.16 | ▲ +1.41 (+0.35%) |
+| MA    | $   614.52 | ▼ -1.80 (-0.29%) |
+| AMZN  | $   249.55 | ▼ -5.21 (-2.05%) |
+| DUOL  | $   141.65 | ▼ -7.28 (-4.89%) |
 
 ## Global News
-- Trump calls off livestream of Fort Hood attacker's execution by firing squad
-- Houthi missile attack on Yemeni presidential palace kills two, minister says
-- Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
-- At least 33 pupils and teacher killed after school roof collapses in Pakistan 
-- Maduro pleads not guilty to new torture-related charges in New York
-- Two dead in Istanbul after heaviest rainfall in 84 years, governor says
-- Was Neanderthal life violent? This wound suggests lethal fighting was more common
+- Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
+- Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+- Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'
+- Pope pictured for first time since surgery and cancer diagnosis
+- India's 'cockroach' party founder detained ahead of protest
+- US senators call for investigation into Ukraine's Starlink restrictions
+- Dad fined after son, 2, died in Cyprus hotel fall
 
 ---
-_Updated 2026-10-15_
+_Updated 2026-10-16_
