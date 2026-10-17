@@ -1,34 +1,34 @@
-# Daily TL;DR — October 16, 2026
+# Daily TL;DR — October 17, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   215.08 | ▼ -2.15 (-0.99%) |
-| SPGI  | $   427.33 | ▲ +2.52 (+0.59%) |
-| META  | $   706.12 | ▼ -30.60 (-4.15%) |
-| AAPL  | $   342.76 | ▲ +0.76 (+0.22%) |
-| MSFT  | $   526.25 | ▼ -13.19 (-2.45%) |
-| GOOG  | $   336.55 | ▼ -8.36 (-2.42%) |
-| TSM   | $   413.86 | ▼ -8.39 (-1.99%) |
-| IONQ  | $    31.55 | ▼ -2.80 (-8.15%) |
-| COST  | $   989.36 | ▲ +11.35 (+1.16%) |
-| ASML  | $  1651.73 | ▼ -5.71 (-0.34%) |
-| SPYM  | $    89.79 | ▼ -1.04 (-1.15%) |
-| LLY   | $  1255.29 | ▲ +3.68 (+0.29%) |
-| OKLO  | $    27.88 | ▼ -2.13 (-7.10%) |
-| V     | $   401.16 | ▲ +1.41 (+0.35%) |
-| MA    | $   614.52 | ▼ -1.80 (-0.29%) |
-| AMZN  | $   249.55 | ▼ -5.21 (-2.05%) |
-| DUOL  | $   141.65 | ▼ -7.28 (-4.89%) |
+| NVDA  | $   214.13 | ▼ -3.10 (-1.43%) |
+| SPGI  | $   429.64 | ▲ +4.83 (+1.14%) |
+| META  | $   709.33 | ▼ -27.39 (-3.72%) |
+| AAPL  | $   343.46 | ▲ +1.46 (+0.43%) |
+| MSFT  | $   529.05 | ▼ -10.39 (-1.93%) |
+| GOOG  | $   336.91 | ▼ -8.00 (-2.32%) |
+| TSM   | $   412.61 | ▼ -9.64 (-2.28%) |
+| IONQ  | $    31.28 | ▼ -3.07 (-8.94%) |
+| COST  | $   989.11 | ▲ +11.10 (+1.13%) |
+| ASML  | $  1641.52 | ▼ -15.92 (-0.96%) |
+| SPYM  | $    89.83 | ▼ -1.01 (-1.11%) |
+| LLY   | $  1257.03 | ▲ +5.42 (+0.43%) |
+| OKLO  | $    27.97 | ▼ -2.04 (-6.80%) |
+| V     | $   402.61 | ▲ +2.86 (+0.72%) |
+| MA    | $   617.42 | ▲ +1.10 (+0.18%) |
+| AMZN  | $   250.00 | ▼ -4.76 (-1.87%) |
+| DUOL  | $   141.76 | ▼ -7.17 (-4.81%) |
 
 ## Global News
-- Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
-- Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
-- Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'
-- Pope pictured for first time since surgery and cancer diagnosis
-- India's 'cockroach' party founder detained ahead of protest
-- US senators call for investigation into Ukraine's Starlink restrictions
-- Dad fined after son, 2, died in Cyprus hotel fall
+- Trump waives several Russia sanctions as row with Zelensky intensifies
+- Teacher fought US school attacker before armed dad shot suspect 'multiple times'
+- Three men jailed for 158 years each for murdering Australian and US surfers in Mexico
+- Brazil sees record fall in Amazon deforestation as key election looms
+- Nursery owner in China jailed for life after hundreds of children poisoned
+- Rare pink diamond goes on display in France 100 years after amateur heist
+- Pope discharged from hospital days after lung cancer surgery
 
 ---
-_Updated 2026-10-16_
+_Updated 2026-10-17_
