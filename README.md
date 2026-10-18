@@ -1,4 +1,4 @@
-# Daily TL;DR — October 17, 2026
+# Daily TL;DR — October 18, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   141.76 | ▼ -7.17 (-4.81%) |
 
 ## Global News
+- Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+- Oil facilities hit in deadly overnight attack on St Petersburg
+- A wave of homemade, synthetic drugs sweeps US and deepens crisis
+- European diplomats attacked by Israeli settlers in West Bank
 - Trump waives several Russia sanctions as row with Zelensky intensifies
-- Teacher fought US school attacker before armed dad shot suspect 'multiple times'
-- Three men jailed for 158 years each for murdering Australian and US surfers in Mexico
-- Brazil sees record fall in Amazon deforestation as key election looms
-- Nursery owner in China jailed for life after hundreds of children poisoned
-- Rare pink diamond goes on display in France 100 years after amateur heist
-- Pope discharged from hospital days after lung cancer surgery
+- Anti-government protesters battle with police in Albania
+- Search for Amelia Earhart's plane resumes after stormy weather
 
 ---
-_Updated 2026-10-17_
+_Updated 2026-10-18_
