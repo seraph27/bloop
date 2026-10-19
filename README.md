@@ -1,34 +1,34 @@
-# Daily TL;DR — October 18, 2026
+# Daily TL;DR — October 19, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   214.13 | ▼ -3.10 (-1.43%) |
-| SPGI  | $   429.64 | ▲ +4.83 (+1.14%) |
-| META  | $   709.33 | ▼ -27.39 (-3.72%) |
-| AAPL  | $   343.46 | ▲ +1.46 (+0.43%) |
-| MSFT  | $   529.05 | ▼ -10.39 (-1.93%) |
-| GOOG  | $   336.91 | ▼ -8.00 (-2.32%) |
-| TSM   | $   412.61 | ▼ -9.64 (-2.28%) |
-| IONQ  | $    31.28 | ▼ -3.07 (-8.94%) |
-| COST  | $   989.11 | ▲ +11.10 (+1.13%) |
-| ASML  | $  1641.52 | ▼ -15.92 (-0.96%) |
-| SPYM  | $    89.83 | ▼ -1.01 (-1.11%) |
-| LLY   | $  1257.03 | ▲ +5.42 (+0.43%) |
-| OKLO  | $    27.97 | ▼ -2.04 (-6.80%) |
-| V     | $   402.61 | ▲ +2.86 (+0.72%) |
-| MA    | $   617.42 | ▲ +1.10 (+0.18%) |
-| AMZN  | $   250.00 | ▼ -4.76 (-1.87%) |
-| DUOL  | $   141.76 | ▼ -7.17 (-4.81%) |
+| NVDA  | $   217.09 | ▲ +2.96 (+1.38%) |
+| SPGI  | $   427.83 | ▼ -1.81 (-0.42%) |
+| META  | $   705.44 | ▼ -3.89 (-0.55%) |
+| AAPL  | $   342.94 | ▼ -0.52 (-0.15%) |
+| MSFT  | $   533.52 | ▲ +4.47 (+0.84%) |
+| GOOG  | $   340.16 | ▲ +3.25 (+0.96%) |
+| TSM   | $   420.22 | ▲ +7.61 (+1.84%) |
+| IONQ  | $    30.78 | ▼ -0.50 (-1.60%) |
+| COST  | $   995.53 | ▲ +6.42 (+0.65%) |
+| ASML  | $  1647.12 | ▲ +5.60 (+0.34%) |
+| SPYM  | $    90.23 | ▲ +0.40 (+0.45%) |
+| LLY   | $  1240.34 | ▼ -16.69 (-1.33%) |
+| OKLO  | $    27.24 | ▼ -0.73 (-2.61%) |
+| V     | $   402.92 | ▲ +0.31 (+0.08%) |
+| MA    | $   616.40 | ▼ -1.02 (-0.17%) |
+| AMZN  | $   262.45 | ▲ +12.45 (+4.98%) |
+| DUOL  | $   142.11 | ▲ +0.35 (+0.25%) |
 
 ## Global News
-- Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
-- Oil facilities hit in deadly overnight attack on St Petersburg
-- A wave of homemade, synthetic drugs sweeps US and deepens crisis
-- European diplomats attacked by Israeli settlers in West Bank
-- Trump waives several Russia sanctions as row with Zelensky intensifies
-- Anti-government protesters battle with police in Albania
-- Search for Amelia Earhart's plane resumes after stormy weather
+- Australian MP critically injured after being hit by car in apparent attack
+- Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+- Kenya cult leader who told parents to starve children guilty of 191 murders
+- Ex-OpenAI worker accused of planting device had Saudi support says court filing
+- Alberta heads to polls to decide whether to hold vote on separation from Canada
+- Exiled critic of Rwandan president found beheaded
+- Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say
 
 ---
-_Updated 2026-10-18_
+_Updated 2026-10-19_
