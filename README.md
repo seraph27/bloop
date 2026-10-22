@@ -1,34 +1,34 @@
-# Daily TL;DR — October 21, 2026
+# Daily TL;DR — October 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   221.96 | ▲ +5.49 (+2.54%) |
-| SPGI  | $   443.11 | ▲ +4.99 (+1.14%) |
-| META  | $   699.23 | ▲ +4.98 (+0.72%) |
-| AAPL  | $   344.12 | ▲ +4.62 (+1.36%) |
-| MSFT  | $   533.09 | ▲ +1.22 (+0.23%) |
-| GOOG  | $   331.33 | ▼ -5.07 (-1.51%) |
-| TSM   | $   431.85 | ▲ +6.77 (+1.59%) |
-| IONQ  | $    32.29 | ▲ +1.03 (+3.29%) |
-| COST  | $   999.38 | ▲ +4.77 (+0.48%) |
-| ASML  | $  1677.16 | ▲ +46.32 (+2.84%) |
-| SPYM  | $    91.04 | ▲ +0.51 (+0.56%) |
-| LLY   | $  1273.41 | ▼ -10.26 (-0.80%) |
-| OKLO  | $    27.81 | ▲ +0.33 (+1.18%) |
-| V     | $   407.84 | ▲ +1.27 (+0.31%) |
-| MA    | $   622.11 | ▲ +1.69 (+0.27%) |
-| AMZN  | $   262.75 | ▲ +0.12 (+0.05%) |
-| DUOL  | $   137.17 | ▼ -2.41 (-1.73%) |
+| NVDA  | $   211.75 | ▼ -10.22 (-4.60%) |
+| SPGI  | $   452.88 | ▲ +9.71 (+2.19%) |
+| META  | $   643.87 | ▼ -53.65 (-7.69%) |
+| AAPL  | $   347.62 | ▲ +3.63 (+1.06%) |
+| MSFT  | $   520.44 | ▼ -12.51 (-2.35%) |
+| GOOG  | $   318.69 | ▼ -12.26 (-3.70%) |
+| TSM   | $   410.99 | ▼ -20.90 (-4.84%) |
+| IONQ  | $    30.98 | ▼ -1.30 (-4.04%) |
+| COST  | $  1017.79 | ▲ +19.48 (+1.95%) |
+| ASML  | $  1558.63 | ▼ -118.06 (-7.04%) |
+| SPYM  | $    89.67 | ▼ -1.32 (-1.46%) |
+| LLY   | $  1307.25 | ▲ +36.50 (+2.87%) |
+| OKLO  | $    26.64 | ▼ -1.09 (-3.93%) |
+| V     | $   413.57 | ▲ +5.72 (+1.40%) |
+| MA    | $   632.37 | ▲ +9.75 (+1.57%) |
+| AMZN  | $   249.06 | ▼ -13.31 (-5.07%) |
+| DUOL  | $   141.57 | ▲ +4.25 (+3.09%) |
 
 ## Global News
-- Russia says it is ready to resume talks with Ukraine and US to end war
-- Macron accuses foreign leaders of exploiting French riots   
-- 'Targeted' attack on much-loved MP leaves Australian town heartbroken
-- Australian MP loses both legs after alleged car attack, husband says
-- Family of prison officer killed by IRA receives state apology
-- Meta fined $25bn for 'lies' over user data privacy
-- Pakistan arrests man wanted by US over $126m postage fraud case
+- Newborn twins fight for survival as conflict fuels Yemen's hunger crisis
+- Race to update services' computer systems after cyber-security flaw found
+- Trump ordered to answer questions under oath in BBC lawsuit 
+- Crowd of 50 beats foreigner to death in South Africa
+- Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest
+- At least four dead after storm brings flooding to southern France
+- Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote
 
 ---
-_Updated 2026-10-21_
+_Updated 2026-10-22_
