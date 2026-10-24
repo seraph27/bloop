@@ -1,34 +1,34 @@
-# Daily TL;DR — October 23, 2026
+# Daily TL;DR — October 24, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   211.70 | ▼ -0.51 (-0.24%) |
-| SPGI  | $   449.31 | ▼ -3.79 (-0.84%) |
-| META  | $   641.58 | ▼ -7.27 (-1.12%) |
-| AAPL  | $   347.68 | ▼ -0.54 (-0.16%) |
-| MSFT  | $   524.59 | ▲ +3.51 (+0.67%) |
-| GOOG  | $   317.45 | ▼ -3.31 (-1.03%) |
-| TSM   | $   416.96 | ▲ +4.61 (+1.12%) |
-| IONQ  | $    31.38 | ▲ +0.22 (+0.71%) |
-| COST  | $  1003.87 | ▼ -14.34 (-1.41%) |
-| ASML  | $  1570.42 | ▲ +9.88 (+0.63%) |
-| SPYM  | $    89.49 | ▼ -0.44 (-0.49%) |
-| LLY   | $  1271.15 | ▼ -35.54 (-2.72%) |
-| OKLO  | $    26.45 | ▼ -0.56 (-2.07%) |
-| V     | $   407.68 | ▼ -6.65 (-1.61%) |
-| MA    | $   621.12 | ▼ -12.09 (-1.91%) |
-| AMZN  | $   248.03 | ▼ -2.35 (-0.94%) |
-| DUOL  | $   142.93 | ▲ +1.54 (+1.09%) |
+| NVDA  | $   210.96 | ▼ -1.25 (-0.59%) |
+| SPGI  | $   450.31 | ▼ -2.79 (-0.62%) |
+| META  | $   642.62 | ▼ -6.23 (-0.96%) |
+| AAPL  | $   347.73 | ▼ -0.49 (-0.14%) |
+| MSFT  | $   524.51 | ▲ +3.43 (+0.66%) |
+| GOOG  | $   317.28 | ▼ -3.48 (-1.08%) |
+| TSM   | $   418.51 | ▲ +6.16 (+1.49%) |
+| IONQ  | $    31.27 | ▲ +0.11 (+0.35%) |
+| COST  | $  1003.32 | ▼ -14.89 (-1.46%) |
+| ASML  | $  1571.80 | ▲ +11.26 (+0.72%) |
+| SPYM  | $    89.45 | ▼ -0.48 (-0.53%) |
+| LLY   | $  1273.46 | ▼ -33.23 (-2.54%) |
+| OKLO  | $    26.35 | ▼ -0.66 (-2.44%) |
+| V     | $   407.92 | ▼ -6.42 (-1.55%) |
+| MA    | $   623.60 | ▼ -9.61 (-1.52%) |
+| AMZN  | $   248.00 | ▼ -2.38 (-0.95%) |
+| DUOL  | $   143.04 | ▲ +1.65 (+1.17%) |
 
 ## Global News
-- Deadly shooting near Paris is a 'racist terrorist attack', Macron says
-- Seven shot dead by gunmen at church funeral in Jordan, officials say
-- Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead
-- White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
-- Ukraine says Starlink still restricted after Trump says limits lifted
-- Oil spill washes up on UAE beaches after tanker strike
-- Denmark to ban mink farming in government U-turn
+- Ukraine says Starlink connection 'now stable' after network limits
+- Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say
+- Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat
+- Father who killed Oregon school gunman describes anguish over children he couldn't save
+- British woman dies after trying to rescue sons swept away at sea in the Bahamas
+- Vanessa Trump says she is cancer-free six months after revealing diagnosis 
+- Three released without charge after fatal arson attack in Ireland
 
 ---
-_Updated 2026-10-23_
+_Updated 2026-10-24_
