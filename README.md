@@ -1,4 +1,4 @@
-# Daily TL;DR — October 24, 2026
+# Daily TL;DR — October 25, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   143.04 | ▲ +1.65 (+1.17%) |
 
 ## Global News
-- Ukraine says Starlink connection 'now stable' after network limits
-- Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say
-- Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat
-- Father who killed Oregon school gunman describes anguish over children he couldn't save
-- British woman dies after trying to rescue sons swept away at sea in the Bahamas
-- Vanessa Trump says she is cancer-free six months after revealing diagnosis 
-- Three released without charge after fatal arson attack in Ireland
+- Musk says SpaceX restricted Ukraine's Starlink connection as service restored
+- Venezuelan opposition leader María Machado returns after months in exile
+- Early reports suggest record high turnout in Serbia elections
+- Suspect in deadly Paris suburb shooting sent for psychiatric observation
+- Israel to close West Bank crossings on election day as crackdown escalates
+- Gabon says access to social media restored after eight-month ban
+- El Salvador president says bodies found in Haiti are not those of hostages 
 
 ---
-_Updated 2026-10-24_
+_Updated 2026-10-25_
