@@ -1,34 +1,34 @@
-# Daily TL;DR — October 25, 2026
+# Daily TL;DR — October 26, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   210.96 | ▼ -1.25 (-0.59%) |
-| SPGI  | $   450.31 | ▼ -2.79 (-0.62%) |
-| META  | $   642.62 | ▼ -6.23 (-0.96%) |
-| AAPL  | $   347.73 | ▼ -0.49 (-0.14%) |
-| MSFT  | $   524.51 | ▲ +3.43 (+0.66%) |
-| GOOG  | $   317.28 | ▼ -3.48 (-1.08%) |
-| TSM   | $   418.51 | ▲ +6.16 (+1.49%) |
-| IONQ  | $    31.27 | ▲ +0.11 (+0.35%) |
-| COST  | $  1003.32 | ▼ -14.89 (-1.46%) |
-| ASML  | $  1571.80 | ▲ +11.26 (+0.72%) |
-| SPYM  | $    89.45 | ▼ -0.48 (-0.53%) |
-| LLY   | $  1273.46 | ▼ -33.23 (-2.54%) |
-| OKLO  | $    26.35 | ▼ -0.66 (-2.44%) |
-| V     | $   407.92 | ▼ -6.42 (-1.55%) |
-| MA    | $   623.60 | ▼ -9.61 (-1.52%) |
-| AMZN  | $   248.00 | ▼ -2.38 (-0.95%) |
-| DUOL  | $   143.04 | ▲ +1.65 (+1.17%) |
+| NVDA  | $   216.00 | ▲ +5.04 (+2.39%) |
+| SPGI  | $   450.65 | ▲ +0.34 (+0.08%) |
+| META  | $   630.56 | ▼ -12.06 (-1.88%) |
+| AAPL  | $   343.91 | ▼ -3.82 (-1.10%) |
+| MSFT  | $   532.60 | ▲ +8.09 (+1.54%) |
+| GOOG  | $   314.19 | ▼ -3.09 (-0.97%) |
+| TSM   | $   424.37 | ▲ +5.86 (+1.40%) |
+| IONQ  | $    30.76 | ▼ -0.51 (-1.63%) |
+| COST  | $  1005.16 | ▲ +1.84 (+0.18%) |
+| ASML  | $  1590.90 | ▲ +19.10 (+1.22%) |
+| SPYM  | $    90.06 | ▲ +0.61 (+0.68%) |
+| LLY   | $  1279.14 | ▲ +5.68 (+0.45%) |
+| OKLO  | $    25.94 | ▼ -0.41 (-1.56%) |
+| V     | $   404.16 | ▼ -3.76 (-0.92%) |
+| MA    | $   613.50 | ▼ -10.10 (-1.62%) |
+| AMZN  | $   249.09 | ▲ +1.09 (+0.44%) |
+| DUOL  | $   138.60 | ▼ -4.44 (-3.10%) |
 
 ## Global News
-- Musk says SpaceX restricted Ukraine's Starlink connection as service restored
+- Lula wins fourth term in dramatic Brazil election comeback
+- Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement
+- Trump administration illegally fired James Comey's daughter, judge rules
+- Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing
+- Catholic bishops apologise for 'exploited' Trump meeting 
+- US Marine indicted for murder and robbery of woman in Japan
 - Venezuelan opposition leader María Machado returns after months in exile
-- Early reports suggest record high turnout in Serbia elections
-- Suspect in deadly Paris suburb shooting sent for psychiatric observation
-- Israel to close West Bank crossings on election day as crackdown escalates
-- Gabon says access to social media restored after eight-month ban
-- El Salvador president says bodies found in Haiti are not those of hostages 
 
 ---
-_Updated 2026-10-25_
+_Updated 2026-10-26_
