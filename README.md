@@ -1,34 +1,34 @@
-# Daily TL;DR — October 27, 2026
+# Daily TL;DR — October 28, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   217.94 | ▲ +1.94 (+0.90%) |
-| SPGI  | $   448.93 | ▼ -1.72 (-0.38%) |
-| META  | $   620.19 | ▼ -10.37 (-1.64%) |
-| AAPL  | $   347.10 | ▲ +3.19 (+0.93%) |
-| MSFT  | $   531.33 | ▼ -1.27 (-0.24%) |
-| GOOG  | $   316.83 | ▲ +2.64 (+0.84%) |
-| TSM   | $   436.87 | ▲ +12.50 (+2.95%) |
-| IONQ  | $    32.95 | ▲ +2.19 (+7.12%) |
-| COST  | $   992.13 | ▼ -13.03 (-1.30%) |
-| ASML  | $  1635.57 | ▲ +44.67 (+2.81%) |
-| SPYM  | $    90.60 | ▲ +0.54 (+0.60%) |
-| LLY   | $  1281.91 | ▲ +2.77 (+0.22%) |
-| OKLO  | $    27.33 | ▲ +1.39 (+5.36%) |
-| V     | $   401.86 | ▼ -2.30 (-0.57%) |
-| MA    | $   609.85 | ▼ -3.65 (-0.59%) |
-| AMZN  | $   253.10 | ▲ +4.01 (+1.61%) |
-| DUOL  | $   141.31 | ▲ +2.71 (+1.96%) |
+| NVDA  | $   215.38 | ▼ -2.56 (-1.17%) |
+| SPGI  | $   449.33 | ▲ +0.40 (+0.09%) |
+| META  | $   612.49 | ▼ -7.70 (-1.24%) |
+| AAPL  | $   343.83 | ▼ -3.27 (-0.94%) |
+| MSFT  | $   531.01 | ▼ -0.32 (-0.06%) |
+| GOOG  | $   321.89 | ▲ +5.06 (+1.60%) |
+| TSM   | $   439.51 | ▲ +2.64 (+0.60%) |
+| IONQ  | $    32.43 | ▼ -0.52 (-1.58%) |
+| COST  | $   982.73 | ▼ -9.40 (-0.95%) |
+| ASML  | $  1662.85 | ▲ +27.28 (+1.67%) |
+| SPYM  | $    90.90 | ▲ +0.30 (+0.33%) |
+| LLY   | $  1288.30 | ▲ +6.39 (+0.50%) |
+| OKLO  | $    27.12 | ▼ -0.21 (-0.77%) |
+| V     | $   400.60 | ▼ -1.26 (-0.31%) |
+| MA    | $   610.31 | ▲ +0.46 (+0.08%) |
+| AMZN  | $   254.60 | ▲ +1.50 (+0.59%) |
+| DUOL  | $   135.21 | ▼ -6.10 (-4.32%) |
 
 ## Global News
-- Norway and Finland leaders hold rare call with Putin
-- Ceasefire extended across Ukraine's Kherson region, officials say
-- Mbappé sorry for 'ill-judged' Mao remark after backlash in China
-- Lula's comeback in Brazil dents Trump's ambitions for Latin America
-- Dutch zookeeper dies after being mauled in leopard enclosure
-- Ghanaian twin brothers and US woman plead guilty to $9m romance scam
-- Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria
+- Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election
+- Netanyahu's bloc leading Israel election but short of majority, partial results show
+- How could Israel break election deadlock? Here are four scenarios
+- Luxury cruise passengers stranded in Cambodia due to soaring fuel costs
+- Serbian shot dead after attacking officer outside Israeli embassy, minister says
+- Tanzania celebrates first natural gas discovery in more than 10 years
+- Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman
 
 ---
-_Updated 2026-10-27_
+_Updated 2026-10-28_
