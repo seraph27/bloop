@@ -1,19 +1,19 @@
-# Daily TL;DR — October 30, 2026
+# Daily TL;DR — October 31, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
 | NVDA  | $   204.64 | ▼ -9.02 (-4.22%) |
-| SPGI  | $   465.05 | ▲ +4.39 (+0.95%) |
+| SPGI  | $   466.55 | ▲ +5.89 (+1.28%) |
 | META  | $   614.99 | ▼ -9.53 (-1.53%) |
 | AAPL  | $   344.63 | ▼ -4.28 (-1.23%) |
 | MSFT  | $   521.91 | ▼ -8.23 (-1.55%) |
 | GOOG  | $   278.22 | ▼ -4.10 (-1.45%) |
 | TSM   | $   406.13 | ▼ -25.68 (-5.95%) |
 | IONQ  | $    30.04 | ▼ -1.68 (-5.30%) |
-| COST  | $  1013.91 | ▲ +17.83 (+1.79%) |
+| COST  | $  1012.28 | ▲ +17.67 (+1.78%) |
 | ASML  | $  1565.90 | ▼ -109.80 (-6.55%) |
-| SPYM  | $    88.76 | ▼ -1.82 (-2.01%) |
+| SPYM  | $    88.95 | ▼ -1.64 (-1.81%) |
 | LLY   | $  1417.54 | ▲ +43.84 (+3.19%) |
 | OKLO  | $    25.25 | ▼ -1.56 (-5.82%) |
 | V     | $   413.59 | ▲ +3.05 (+0.74%) |
@@ -22,13 +22,13 @@
 | DUOL  | $   131.59 | ▼ -4.80 (-3.52%) |
 
 ## Global News
-- Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-- US inmate Christa Pike says she woke up 'confused and in pain' after failed execution
-- Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
-- Prominent Russian newspaper shuts down under pressure from authorities
-- Spain transport minister says he won't resign over high-speed rail disaster
-- Pope Leo XIV becomes first pontiff to vote in a US election
-- US tech stocks see sharp falls as AI spending nears $1tn
+- 'We came back from hell', say Ukrainians after years in Russia-occupied frontline city
+- Ukrainian evacuees reunite with family after years trapped in Russia-occupied city
+- Crypto firm Binance covers 90% of losses after $6.3bn hack
+- More than 5,000 die from Ebola in DR Congo's deadliest outbreak
+- Police deployed during stand-off over control of top Poland court
+- Ethiopian PM puts ministers through military training
+- Spain train disaster clouds Sánchez chances of re-election
 
 ---
-_Updated 2026-10-30_
+_Updated 2026-10-31_
