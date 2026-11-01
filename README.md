@@ -1,4 +1,4 @@
-# Daily TL;DR — October 31, 2026
+# Daily TL;DR — November 01, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   131.59 | ▼ -4.80 (-3.52%) |
 
 ## Global News
-- 'We came back from hell', say Ukrainians after years in Russia-occupied frontline city
-- Ukrainian evacuees reunite with family after years trapped in Russia-occupied city
-- Crypto firm Binance covers 90% of losses after $6.3bn hack
-- More than 5,000 die from Ebola in DR Congo's deadliest outbreak
-- Police deployed during stand-off over control of top Poland court
-- Ethiopian PM puts ministers through military training
-- Spain train disaster clouds Sánchez chances of re-election
+- Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end
+- Israeli strikes in Gaza kill eight including child, hospitals say
+- University of Cambridge scientist among those who died in Spanish train crash
+- Shops looted as German cost-of-living protests turn violent
+- Armed police start patrols in Sydney after Bondi Beach attack
+- Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
+- India's opposition holds mega rally seeking election chief's resignation
 
 ---
-_Updated 2026-10-31_
+_Updated 2026-11-01_
