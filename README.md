@@ -1,34 +1,34 @@
-# Daily TL;DR — November 02, 2026
+# Daily TL;DR — November 03, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   202.06 | ▼ -2.58 (-1.26%) |
-| SPGI  | $   475.17 | ▲ +8.62 (+1.85%) |
-| META  | $   606.73 | ▼ -8.26 (-1.34%) |
-| AAPL  | $   338.32 | ▼ -6.31 (-1.83%) |
-| MSFT  | $   507.12 | ▼ -14.79 (-2.83%) |
-| GOOG  | $   278.04 | ▼ -0.18 (-0.06%) |
-| TSM   | $   398.63 | ▼ -7.50 (-1.85%) |
-| IONQ  | $    28.17 | ▼ -1.87 (-6.23%) |
-| COST  | $  1040.55 | ▲ +28.27 (+2.79%) |
-| ASML  | $  1526.14 | ▼ -39.76 (-2.54%) |
-| SPYM  | $    88.52 | ▼ -0.43 (-0.48%) |
-| LLY   | $  1410.99 | ▼ -6.55 (-0.46%) |
-| OKLO  | $    23.52 | ▼ -1.73 (-6.85%) |
-| V     | $   425.51 | ▲ +11.92 (+2.88%) |
-| MA    | $   658.10 | ▲ +20.09 (+3.15%) |
-| AMZN  | $   245.63 | ▲ +5.28 (+2.20%) |
-| DUOL  | $   135.27 | ▲ +3.68 (+2.80%) |
+| NVDA  | $   206.69 | ▲ +4.63 (+2.29%) |
+| SPGI  | $   466.03 | ▼ -9.14 (-1.92%) |
+| META  | $   621.03 | ▲ +14.30 (+2.36%) |
+| AAPL  | $   331.90 | ▼ -6.42 (-1.90%) |
+| MSFT  | $   520.99 | ▲ +13.87 (+2.74%) |
+| GOOG  | $   278.27 | ▲ +0.23 (+0.08%) |
+| TSM   | $   404.80 | ▲ +6.17 (+1.55%) |
+| IONQ  | $    29.99 | ▲ +1.82 (+6.46%) |
+| COST  | $  1019.26 | ▼ -21.29 (-2.05%) |
+| ASML  | $  1552.14 | ▲ +26.00 (+1.70%) |
+| SPYM  | $    88.78 | ▲ +0.26 (+0.29%) |
+| LLY   | $  1409.38 | ▼ -1.61 (-0.11%) |
+| OKLO  | $    23.49 | ▼ -0.03 (-0.13%) |
+| V     | $   420.42 | ▼ -5.09 (-1.20%) |
+| MA    | $   647.18 | ▼ -10.92 (-1.66%) |
+| AMZN  | $   250.69 | ▲ +5.06 (+2.06%) |
+| DUOL  | $   128.00 | ▼ -7.27 (-5.37%) |
 
 ## Global News
-- Russian bombing kills 26 people at Ukraine aid centre, Kyiv says
-- Copilot in deadly Florida jet crash identified in reports as 20-year-old
-- Shop freezers in seven European countries hit by cyber-attack
-- Fighting returns to Kherson region after longest Ukraine war ceasefire
-- Legal challenge to Australia's social media ban to start in High Court
-- Man guilty of stealing cash from farm owned by South African president
-- Dutch police offer record €2m reward in hunt for drug lord
+- Spanish transport minister resigns days after deadly train crash
+- Seven flights across Europe targeted by suspected bomb threats
+- Binance says fake job interviews used as part of $6.3bn crypto hack
+- Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+- Libya's top religious authority rules against wearing Nike clothes
+- Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
+- US strikes Iranian island ahead of midterm elections
 
 ---
-_Updated 2026-11-02_
+_Updated 2026-11-03_
