@@ -1,34 +1,34 @@
-# Daily TL;DR — November 04, 2026
+# Daily TL;DR — November 05, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   200.13 | ▼ -6.56 (-3.17%) |
-| SPGI  | $   481.69 | ▲ +15.66 (+3.36%) |
-| META  | $   630.00 | ▲ +8.97 (+1.44%) |
-| AAPL  | $   349.51 | ▲ +17.61 (+5.31%) |
-| MSFT  | $   555.80 | ▲ +34.81 (+6.68%) |
-| GOOG  | $   287.30 | ▲ +9.03 (+3.25%) |
-| TSM   | $   395.75 | ▼ -9.05 (-2.24%) |
-| IONQ  | $    29.54 | ▼ -0.45 (-1.50%) |
-| COST  | $  1046.47 | ▲ +27.21 (+2.67%) |
-| ASML  | $  1496.30 | ▼ -55.84 (-3.60%) |
-| SPYM  | $    90.25 | ▲ +1.47 (+1.66%) |
-| LLY   | $  1417.99 | ▲ +8.61 (+0.61%) |
-| OKLO  | $    22.12 | ▼ -1.37 (-5.83%) |
-| V     | $   436.57 | ▲ +16.15 (+3.84%) |
-| MA    | $   672.68 | ▲ +25.50 (+3.94%) |
-| AMZN  | $   266.03 | ▲ +15.34 (+6.12%) |
-| DUOL  | $   161.27 | ▲ +33.27 (+25.99%) |
+| NVDA  | $   181.60 | ▼ -18.53 (-9.26%) |
+| SPGI  | $   472.41 | ▼ -9.28 (-1.93%) |
+| META  | $   605.08 | ▼ -24.92 (-3.96%) |
+| AAPL  | $   344.17 | ▼ -5.34 (-1.53%) |
+| MSFT  | $   535.93 | ▼ -19.87 (-3.58%) |
+| GOOG  | $   281.74 | ▼ -5.56 (-1.94%) |
+| TSM   | $   353.10 | ▼ -42.65 (-10.78%) |
+| IONQ  | $    26.43 | ▼ -3.11 (-10.53%) |
+| COST  | $  1065.59 | ▲ +19.12 (+1.83%) |
+| ASML  | $  1356.65 | ▼ -139.65 (-9.33%) |
+| SPYM  | $    86.30 | ▼ -3.95 (-4.38%) |
+| LLY   | $  1364.73 | ▼ -53.26 (-3.76%) |
+| OKLO  | $    19.20 | ▼ -2.92 (-13.20%) |
+| V     | $   422.59 | ▼ -13.98 (-3.20%) |
+| MA    | $   655.92 | ▼ -16.76 (-2.49%) |
+| AMZN  | $   260.21 | ▼ -5.82 (-2.19%) |
+| DUOL  | $   157.02 | ▼ -4.25 (-2.64%) |
 
 ## Global News
-- 'This is a disaster': Angry Republicans blame Trump for midterms defeat
-- US midterm results a 'victory' for Canadians hopeful of tariff relief
-- Ukraine says bodycam video shows deadly Russian double-tap bombing
-- French blood storage impacted by freezer hacks as theories swirl about culprits
-- 'Most difficult days of my life' for keeper Owono
-- Israel's president begins consultations with parties after election deadlock
-- Delhi air quality worsens ahead of Diwali as firework restrictions enter force
+- Hoax bomb threats target European airlines and airports for second time in a week
+- Who could be behind hoax bomb threats to European air travel?
+- California governor commutes sentences for state's 548 death row inmates
+- French protests see numbers surge as unions join strikes over high cost of living
+- Paraguay President Santiago Peña resigns after bank collapse
+- Eight killed in series of shootings in western Turkey
+- Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value
 
 ---
-_Updated 2026-11-04_
+_Updated 2026-11-05_
