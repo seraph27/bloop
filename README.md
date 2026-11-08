@@ -1,4 +1,4 @@
-# Daily TL;DR — November 07, 2026
+# Daily TL;DR — November 08, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   160.42 | ▲ +3.40 (+2.17%) |
 
 ## Global News
-- What we know so far after Polish gunman in military clothing opens fire in Krakow
-- No clear winner after tight New Zealand general election
-- US offers $20m reward for information about Iran's nuclear programme
-- Houthis say at least 25 killed in Saudi air strike
-- UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
-- With Stephen Miller pick, Trump readies for a battle
+- Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+- Seven dead and more than 100 injured after trains collide in Egypt
+- Homes and temples glow across India to mark Diwali
+- Iran executes three men for 'armed unrest' after January protests
+- Houthis say at least 33 killed in Saudi air strike
+- 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years
 - Paraguay's former president charged after bank collapse
 
 ---
-_Updated 2026-11-07_
+_Updated 2026-11-08_
