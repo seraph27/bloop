@@ -1,34 +1,34 @@
-# Daily TL;DR — November 08, 2026
+# Daily TL;DR — November 09, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   186.64 | ▲ +5.04 (+2.78%) |
-| SPGI  | $   467.80 | ▼ -4.61 (-0.98%) |
-| META  | $   610.15 | ▲ +5.07 (+0.84%) |
-| AAPL  | $   342.37 | ▼ -1.80 (-0.52%) |
-| MSFT  | $   530.61 | ▼ -5.32 (-0.99%) |
-| GOOG  | $   283.93 | ▲ +2.19 (+0.78%) |
-| TSM   | $   375.44 | ▲ +22.34 (+6.33%) |
-| IONQ  | $    32.62 | ▲ +6.19 (+23.42%) |
-| COST  | $  1053.56 | ▼ -12.03 (-1.13%) |
-| ASML  | $  1424.75 | ▲ +68.10 (+5.02%) |
-| SPYM  | $    86.56 | ▲ +0.26 (+0.30%) |
-| LLY   | $  1354.00 | ▼ -10.73 (-0.79%) |
-| OKLO  | $    23.55 | ▲ +4.35 (+22.66%) |
-| V     | $   422.65 | ▲ +0.06 (+0.01%) |
-| MA    | $   652.70 | ▼ -3.22 (-0.49%) |
-| AMZN  | $   259.30 | ▼ -0.91 (-0.35%) |
-| DUOL  | $   160.42 | ▲ +3.40 (+2.17%) |
+| NVDA  | $   178.67 | ▼ -7.97 (-4.27%) |
+| SPGI  | $   471.09 | ▲ +3.29 (+0.70%) |
+| META  | $   641.37 | ▲ +31.22 (+5.12%) |
+| AAPL  | $   350.69 | ▲ +8.32 (+2.43%) |
+| MSFT  | $   545.18 | ▲ +14.57 (+2.75%) |
+| GOOG  | $   286.01 | ▲ +2.08 (+0.73%) |
+| TSM   | $   388.62 | ▲ +13.18 (+3.51%) |
+| IONQ  | $    35.34 | ▲ +2.72 (+8.34%) |
+| COST  | $  1066.18 | ▲ +12.62 (+1.20%) |
+| ASML  | $  1513.25 | ▲ +88.50 (+6.21%) |
+| SPYM  | $    88.59 | ▲ +2.03 (+2.35%) |
+| LLY   | $  1411.95 | ▲ +57.95 (+4.28%) |
+| OKLO  | $    26.84 | ▲ +3.29 (+13.97%) |
+| V     | $   422.16 | ▼ -0.49 (-0.12%) |
+| MA    | $   655.81 | ▲ +3.11 (+0.48%) |
+| AMZN  | $   266.93 | ▲ +7.63 (+2.94%) |
+| DUOL  | $   154.25 | ▼ -6.17 (-3.85%) |
 
 ## Global News
-- Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
-- Seven dead and more than 100 injured after trains collide in Egypt
-- Homes and temples glow across India to mark Diwali
-- Iran executes three men for 'armed unrest' after January protests
-- Houthis say at least 33 killed in Saudi air strike
-- 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years
-- Paraguay's former president charged after bank collapse
+- Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+- Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+- France accuses Iran of supermarket fridge hacking
+- Turkey steel factory blast kills at least 17 people
+- Judge denies motion to dismiss Lindsay Clancy's murder case
+- Republican congressman to force impeachment vote on Defence Secretary Hegseth
+- Russia's leading independent newspaper closes after eviction
 
 ---
-_Updated 2026-11-08_
+_Updated 2026-11-09_
