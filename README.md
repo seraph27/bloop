@@ -1,34 +1,34 @@
-# Daily TL;DR — November 09, 2026
+# Daily TL;DR — November 10, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   178.67 | ▼ -7.97 (-4.27%) |
-| SPGI  | $   471.09 | ▲ +3.29 (+0.70%) |
-| META  | $   641.37 | ▲ +31.22 (+5.12%) |
-| AAPL  | $   350.69 | ▲ +8.32 (+2.43%) |
-| MSFT  | $   545.18 | ▲ +14.57 (+2.75%) |
-| GOOG  | $   286.01 | ▲ +2.08 (+0.73%) |
-| TSM   | $   388.62 | ▲ +13.18 (+3.51%) |
-| IONQ  | $    35.34 | ▲ +2.72 (+8.34%) |
-| COST  | $  1066.18 | ▲ +12.62 (+1.20%) |
-| ASML  | $  1513.25 | ▲ +88.50 (+6.21%) |
-| SPYM  | $    88.59 | ▲ +2.03 (+2.35%) |
-| LLY   | $  1411.95 | ▲ +57.95 (+4.28%) |
-| OKLO  | $    26.84 | ▲ +3.29 (+13.97%) |
-| V     | $   422.16 | ▼ -0.49 (-0.12%) |
-| MA    | $   655.81 | ▲ +3.11 (+0.48%) |
-| AMZN  | $   266.93 | ▲ +7.63 (+2.94%) |
-| DUOL  | $   154.25 | ▼ -6.17 (-3.85%) |
+| NVDA  | $   168.89 | ▼ -9.78 (-5.47%) |
+| SPGI  | $   473.38 | ▲ +2.29 (+0.49%) |
+| META  | $   641.39 | ▲ +0.02 (+0.00%) |
+| AAPL  | $   348.51 | ▼ -2.18 (-0.62%) |
+| MSFT  | $   533.16 | ▼ -12.02 (-2.20%) |
+| GOOG  | $   284.92 | ▼ -1.09 (-0.38%) |
+| TSM   | $   396.48 | ▲ +7.86 (+2.02%) |
+| IONQ  | $    34.99 | ▼ -0.35 (-0.99%) |
+| COST  | $  1066.14 | ▼ -0.04 (-0.00%) |
+| ASML  | $  1507.85 | ▼ -5.40 (-0.36%) |
+| SPYM  | $    88.28 | ▼ -0.31 (-0.35%) |
+| LLY   | $  1432.29 | ▲ +20.34 (+1.44%) |
+| OKLO  | $    25.09 | ▼ -1.75 (-6.52%) |
+| V     | $   423.00 | ▲ +0.84 (+0.20%) |
+| MA    | $   658.84 | ▲ +3.03 (+0.46%) |
+| AMZN  | $   270.87 | ▲ +3.94 (+1.48%) |
+| DUOL  | $   156.67 | ▲ +2.42 (+1.57%) |
 
 ## Global News
-- Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
-- Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
-- France accuses Iran of supermarket fridge hacking
-- Turkey steel factory blast kills at least 17 people
-- Judge denies motion to dismiss Lindsay Clancy's murder case
-- Republican congressman to force impeachment vote on Defence Secretary Hegseth
-- Russia's leading independent newspaper closes after eviction
+- Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say
+- Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions
+- Israel's new parliament sworn in as leaders compete to form government
+- Violence erupts in Bangladesh as ousted PM's supporters stage protest
+- Spain's king and queen attend memorial service for rail crash victims
+- Anti-homosexuality laws in Trinidad and Tobago overturned
+- Board of Peace says Israel's aid response after Gaza floods 'insufficent'
 
 ---
-_Updated 2026-11-09_
+_Updated 2026-11-10_
