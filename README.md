@@ -1,34 +1,34 @@
-# Daily TL;DR — November 10, 2026
+# Daily TL;DR — November 11, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   168.89 | ▼ -9.78 (-5.47%) |
-| SPGI  | $   473.38 | ▲ +2.29 (+0.49%) |
-| META  | $   641.39 | ▲ +0.02 (+0.00%) |
-| AAPL  | $   348.51 | ▼ -2.18 (-0.62%) |
-| MSFT  | $   533.16 | ▼ -12.02 (-2.20%) |
-| GOOG  | $   284.92 | ▼ -1.09 (-0.38%) |
-| TSM   | $   396.48 | ▲ +7.86 (+2.02%) |
-| IONQ  | $    34.99 | ▼ -0.35 (-0.99%) |
-| COST  | $  1066.14 | ▼ -0.04 (-0.00%) |
-| ASML  | $  1507.85 | ▼ -5.40 (-0.36%) |
-| SPYM  | $    88.28 | ▼ -0.31 (-0.35%) |
-| LLY   | $  1432.29 | ▲ +20.34 (+1.44%) |
-| OKLO  | $    25.09 | ▼ -1.75 (-6.52%) |
-| V     | $   423.00 | ▲ +0.84 (+0.20%) |
-| MA    | $   658.84 | ▲ +3.03 (+0.46%) |
-| AMZN  | $   270.87 | ▲ +3.94 (+1.48%) |
-| DUOL  | $   156.67 | ▲ +2.42 (+1.57%) |
+| NVDA  | $   173.73 | ▲ +4.84 (+2.87%) |
+| SPGI  | $   475.11 | ▲ +1.73 (+0.37%) |
+| META  | $   628.77 | ▼ -12.62 (-1.97%) |
+| AAPL  | $   355.63 | ▲ +7.12 (+2.04%) |
+| MSFT  | $   521.12 | ▼ -12.03 (-2.26%) |
+| GOOG  | $   290.63 | ▲ +5.71 (+2.00%) |
+| TSM   | $   413.35 | ▲ +16.87 (+4.25%) |
+| IONQ  | $    34.06 | ▼ -0.93 (-2.66%) |
+| COST  | $  1087.61 | ▲ +21.47 (+2.01%) |
+| ASML  | $  1534.42 | ▲ +26.57 (+1.76%) |
+| SPYM  | $    89.42 | ▲ +1.14 (+1.29%) |
+| LLY   | $  1437.29 | ▲ +5.00 (+0.35%) |
+| OKLO  | $    25.86 | ▲ +0.77 (+3.07%) |
+| V     | $   425.55 | ▲ +2.55 (+0.60%) |
+| MA    | $   660.73 | ▲ +1.89 (+0.29%) |
+| AMZN  | $   266.17 | ▼ -4.70 (-1.74%) |
+| DUOL  | $   164.12 | ▲ +7.45 (+4.76%) |
 
 ## Global News
-- Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say
-- Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions
-- Israel's new parliament sworn in as leaders compete to form government
-- Violence erupts in Bangladesh as ousted PM's supporters stage protest
-- Spain's king and queen attend memorial service for rail crash victims
-- Anti-homosexuality laws in Trinidad and Tobago overturned
-- Board of Peace says Israel's aid response after Gaza floods 'insufficent'
+- Clashes erupt in Barcelona after thousands join Spain general strike
+- Russia-Ukraine talks turn to post-war security but end without breakthrough
+- US Treasury Secretary Scott Bessent relocated after alleged Iranian threats
+- Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax
+- Indonesia's vice president resigns amid signs ruling alliance is fraying
+- Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony
+- Missing 11-month-old baby found buried alive in a crate in South Carolina
 
 ---
-_Updated 2026-11-10_
+_Updated 2026-11-11_
