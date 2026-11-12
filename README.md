@@ -1,34 +1,34 @@
-# Daily TL;DR — November 11, 2026
+# Daily TL;DR — November 12, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   173.73 | ▲ +4.84 (+2.87%) |
-| SPGI  | $   475.11 | ▲ +1.73 (+0.37%) |
-| META  | $   628.77 | ▼ -12.62 (-1.97%) |
-| AAPL  | $   355.63 | ▲ +7.12 (+2.04%) |
-| MSFT  | $   521.12 | ▼ -12.03 (-2.26%) |
-| GOOG  | $   290.63 | ▲ +5.71 (+2.00%) |
-| TSM   | $   413.35 | ▲ +16.87 (+4.25%) |
-| IONQ  | $    34.06 | ▼ -0.93 (-2.66%) |
-| COST  | $  1087.61 | ▲ +21.47 (+2.01%) |
-| ASML  | $  1534.42 | ▲ +26.57 (+1.76%) |
-| SPYM  | $    89.42 | ▲ +1.14 (+1.29%) |
-| LLY   | $  1437.29 | ▲ +5.00 (+0.35%) |
-| OKLO  | $    25.86 | ▲ +0.77 (+3.07%) |
-| V     | $   425.55 | ▲ +2.55 (+0.60%) |
-| MA    | $   660.73 | ▲ +1.89 (+0.29%) |
-| AMZN  | $   266.17 | ▼ -4.70 (-1.74%) |
-| DUOL  | $   164.12 | ▲ +7.45 (+4.76%) |
+| NVDA  | $   166.19 | ▼ -7.54 (-4.34%) |
+| SPGI  | $   468.51 | ▼ -6.60 (-1.39%) |
+| META  | $   623.61 | ▼ -5.16 (-0.82%) |
+| AAPL  | $   354.88 | ▼ -0.75 (-0.21%) |
+| MSFT  | $   523.00 | ▲ +1.87 (+0.36%) |
+| GOOG  | $   295.35 | ▲ +4.72 (+1.62%) |
+| TSM   | $   405.49 | ▼ -7.86 (-1.90%) |
+| IONQ  | $    30.86 | ▼ -3.20 (-9.40%) |
+| COST  | $  1092.21 | ▲ +4.60 (+0.42%) |
+| ASML  | $  1497.12 | ▼ -37.30 (-2.43%) |
+| SPYM  | $    89.13 | ▼ -0.29 (-0.32%) |
+| LLY   | $  1427.28 | ▼ -10.01 (-0.70%) |
+| OKLO  | $    24.45 | ▼ -1.41 (-5.45%) |
+| V     | $   420.31 | ▼ -5.24 (-1.23%) |
+| MA    | $   652.60 | ▼ -8.13 (-1.23%) |
+| AMZN  | $   267.44 | ▲ +1.27 (+0.48%) |
+| DUOL  | $   157.42 | ▼ -6.70 (-4.08%) |
 
 ## Global News
-- Clashes erupt in Barcelona after thousands join Spain general strike
-- Russia-Ukraine talks turn to post-war security but end without breakthrough
-- US Treasury Secretary Scott Bessent relocated after alleged Iranian threats
-- Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax
-- Indonesia's vice president resigns amid signs ruling alliance is fraying
-- Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony
-- Missing 11-month-old baby found buried alive in a crate in South Carolina
+- US envoys head to meet Zelensky after talks with Putin in Moscow
+- Russian warship hit by Ukrainian drone in Gulf of Finland
+- Suspected bomb hoax threats force fresh evacuations of Italian schools
+- Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century
+- Hegseth awards medal to war memorial guard who reprimanded him and group
+- Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says
+- Israeli strike on Gaza hospital kills six Palestinians, health ministry says
 
 ---
-_Updated 2026-11-11_
+_Updated 2026-11-12_
