@@ -1,4 +1,4 @@
-# Daily TL;DR — November 13, 2026
+# Daily TL;DR — November 14, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -14,7 +14,7 @@
 | COST  | $  1106.21 | ▲ +14.00 (+1.28%) |
 | ASML  | $  1495.16 | ▼ -1.96 (-0.13%) |
 | SPYM  | $    88.77 | ▼ -0.36 (-0.40%) |
-| LLY   | $  1443.50 | ▲ +16.22 (+1.14%) |
+| LLY   | $  1443.50 | ▲ +17.95 (+1.26%) |
 | OKLO  | $    23.92 | ▼ -0.53 (-2.17%) |
 | V     | $   425.76 | ▲ +5.45 (+1.30%) |
 | MA    | $   661.19 | ▲ +8.59 (+1.32%) |
@@ -22,13 +22,13 @@
 | DUOL  | $   165.31 | ▲ +7.89 (+5.01%) |
 
 ## Global News
-- Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
-- Why is Microsoft's outage lasting so long and will emails be lost?
-- Watch: How a server outage took down Microsoft Teams and Outlook
-- Rosenberg: Uncompromising Putin ups demands for peace with Ukraine
-- Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague
-- The Peruvian city that has embraced Pope Leo as one of its own
-- German spies handed new powers to tackle 'hybrid threats' from abroad
+- Copper wire upgrade caused nationwide flight suspension, US transport secretary says
+- US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+- Italy fines Meta €805m over accessing users' photos
+- Philippines wins first Eurovision Song Contest Asia 
+- Second catch attempt for SpaceX Starship rocket
+- Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'
+- Trump, Putin and Xi plan historic joint meeting in China next week, White House says
 
 ---
-_Updated 2026-11-13_
+_Updated 2026-11-14_
