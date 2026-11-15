@@ -1,4 +1,4 @@
-# Daily TL;DR — November 14, 2026
+# Daily TL;DR — November 15, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   165.31 | ▲ +7.89 (+5.01%) |
 
 ## Global News
-- Copper wire upgrade caused nationwide flight suspension, US transport secretary says
-- US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-- Italy fines Meta €805m over accessing users' photos
-- Philippines wins first Eurovision Song Contest Asia 
-- Second catch attempt for SpaceX Starship rocket
-- Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'
-- Trump, Putin and Xi plan historic joint meeting in China next week, White House says
+- Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
+- Iran targets US military base in Bahrain with drone attack
+- Three men sentenced to death in Jordan over fatal church mass shooting
+- South Korea's top scorer in tax accountancy exam admits cheating
+- Pope Leo rides in helicopter cockpit during Peru trip
+- Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says 
+- Czechs rally against plan to switch funding of public media
 
 ---
-_Updated 2026-11-14_
+_Updated 2026-11-15_
