@@ -1,34 +1,34 @@
-# Daily TL;DR — November 15, 2026
+# Daily TL;DR — November 17, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   162.85 | ▼ -3.34 (-2.01%) |
-| SPGI  | $   473.59 | ▲ +5.08 (+1.08%) |
-| META  | $   641.69 | ▲ +18.08 (+2.90%) |
-| AAPL  | $   356.27 | ▲ +1.39 (+0.39%) |
-| MSFT  | $   523.88 | ▲ +0.88 (+0.17%) |
-| GOOG  | $   292.52 | ▼ -2.83 (-0.96%) |
-| TSM   | $   398.73 | ▼ -6.76 (-1.67%) |
-| IONQ  | $    28.88 | ▼ -1.98 (-6.42%) |
-| COST  | $  1106.21 | ▲ +14.00 (+1.28%) |
-| ASML  | $  1495.16 | ▼ -1.96 (-0.13%) |
-| SPYM  | $    88.77 | ▼ -0.36 (-0.40%) |
-| LLY   | $  1443.50 | ▲ +17.95 (+1.26%) |
-| OKLO  | $    23.92 | ▼ -0.53 (-2.17%) |
-| V     | $   425.76 | ▲ +5.45 (+1.30%) |
-| MA    | $   661.19 | ▲ +8.59 (+1.32%) |
-| AMZN  | $   266.66 | ▼ -0.78 (-0.29%) |
-| DUOL  | $   165.31 | ▲ +7.89 (+5.01%) |
+| NVDA  | $   156.14 | ▼ -6.71 (-4.12%) |
+| SPGI  | $   471.59 | ▼ -2.00 (-0.42%) |
+| META  | $   626.41 | ▼ -15.28 (-2.38%) |
+| AAPL  | $   352.78 | ▼ -3.49 (-0.98%) |
+| MSFT  | $   517.99 | ▼ -5.89 (-1.12%) |
+| GOOG  | $   281.26 | ▼ -11.26 (-3.85%) |
+| TSM   | $   373.45 | ▼ -25.28 (-6.34%) |
+| IONQ  | $    26.45 | ▼ -2.43 (-8.41%) |
+| COST  | $  1113.74 | ▲ +7.53 (+0.68%) |
+| ASML  | $  1406.79 | ▼ -88.38 (-5.91%) |
+| SPYM  | $    87.10 | ▼ -1.67 (-1.88%) |
+| LLY   | $  1431.67 | ▼ -11.83 (-0.82%) |
+| OKLO  | $    23.03 | ▼ -0.89 (-3.72%) |
+| V     | $   426.46 | ▲ +0.70 (+0.16%) |
+| MA    | $   661.71 | ▲ +0.52 (+0.08%) |
+| AMZN  | $   257.75 | ▼ -8.91 (-3.34%) |
+| DUOL  | $   168.75 | ▲ +3.44 (+2.08%) |
 
 ## Global News
-- Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
-- Iran targets US military base in Bahrain with drone attack
-- Three men sentenced to death in Jordan over fatal church mass shooting
-- South Korea's top scorer in tax accountancy exam admits cheating
-- Pope Leo rides in helicopter cockpit during Peru trip
-- Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says 
-- Czechs rally against plan to switch funding of public media
+- Five EU countries announce migrant deportation centre in Rwanda
+- Houthi rebel advance in Yemen may further destabilise global economy
+- Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO
+- Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war
+- When will we see Robert Pattinson as Bond in cinemas?
+- Forensic expert says his analysis of autopsy photos suggests Epstein was killed
+- Lindsay Clancy to face retrial next year for deaths of her three children
 
 ---
-_Updated 2026-11-15_
+_Updated 2026-11-17_
