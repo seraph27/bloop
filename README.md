@@ -1,34 +1,34 @@
-# Daily TL;DR — November 17, 2026
+# Daily TL;DR — November 18, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   155.46 | ▼ -0.68 (-0.44%) |
-| SPGI  | $   452.35 | ▼ -19.24 (-4.08%) |
-| META  | $   618.87 | ▼ -7.54 (-1.20%) |
-| AAPL  | $   351.91 | ▼ -0.87 (-0.25%) |
-| MSFT  | $   506.24 | ▼ -11.75 (-2.27%) |
-| GOOG  | $   277.60 | ▼ -3.66 (-1.30%) |
-| TSM   | $   359.69 | ▼ -13.76 (-3.68%) |
-| IONQ  | $    24.84 | ▼ -1.61 (-6.09%) |
-| COST  | $  1110.08 | ▼ -3.66 (-0.33%) |
-| ASML  | $  1383.11 | ▼ -23.68 (-1.68%) |
-| SPYM  | $    86.22 | ▼ -0.88 (-1.01%) |
-| LLY   | $  1415.55 | ▼ -16.12 (-1.13%) |
-| OKLO  | $    22.37 | ▼ -0.66 (-2.87%) |
-| V     | $   416.77 | ▼ -9.69 (-2.27%) |
-| MA    | $   645.73 | ▼ -15.98 (-2.41%) |
-| AMZN  | $   257.89 | ▲ +0.14 (+0.05%) |
-| DUOL  | $   160.08 | ▼ -8.67 (-5.14%) |
+| NVDA  | $   150.96 | ▼ -4.50 (-2.89%) |
+| SPGI  | $   446.38 | ▼ -5.97 (-1.32%) |
+| META  | $   616.38 | ▼ -2.49 (-0.40%) |
+| AAPL  | $   352.45 | ▲ +0.54 (+0.15%) |
+| MSFT  | $   508.29 | ▲ +2.05 (+0.40%) |
+| GOOG  | $   279.20 | ▲ +1.60 (+0.58%) |
+| TSM   | $   362.62 | ▲ +2.93 (+0.81%) |
+| IONQ  | $    23.48 | ▼ -1.36 (-5.48%) |
+| COST  | $  1096.62 | ▼ -13.46 (-1.21%) |
+| ASML  | $  1395.27 | ▲ +12.16 (+0.88%) |
+| SPYM  | $    85.97 | ▼ -0.25 (-0.29%) |
+| LLY   | — | — |
+| OKLO  | $    21.80 | ▼ -0.57 (-2.55%) |
+| V     | $   415.22 | ▼ -1.55 (-0.37%) |
+| MA    | $   643.37 | ▼ -2.36 (-0.37%) |
+| AMZN  | $   267.74 | ▲ +9.85 (+3.82%) |
+| DUOL  | $   160.29 | ▲ +0.21 (+0.13%) |
 
 ## Global News
-- Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine
-- How the attack on Crimean Bridge unfolded
-- Nvidia reports bumper results as firm says it not reinstating Huang
-- Thomas Markle charged over child sex abuse material in Philippines
-- 'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge
-- Russian military plane crashes, killing all 19 on board
-- Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says
+- Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
+- 'The drones don't fly here' - BBC reports from Ukraine's new front line
+- Trump shakes hands with Putin and Xi ahead of historic talks in China
+- Israeli military launches rare ground operation in Gaza beyond Yellow Line
+- Grand Theft Auto 6 is a masterpiece, say critics
+- Parents jailed for torture and death of four-year-old girl found along French motorway in 1987
+- William and Kate meet PM Modi as they wrap up India tour
 
 ---
-_Updated 2026-11-17_
+_Updated 2026-11-18_
