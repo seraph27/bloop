@@ -1,4 +1,4 @@
-# Daily TL;DR — November 20, 2026
+# Daily TL;DR — November 21, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -9,7 +9,7 @@
 | AAPL  | $   342.56 | ▼ -6.65 (-1.90%) |
 | MSFT  | $   484.52 | ▼ -13.78 (-2.77%) |
 | GOOG  | $   264.00 | ▼ -7.02 (-2.59%) |
-| TSM   | — | — |
+| TSM   | $   318.71 | ▼ -33.38 (-9.48%) |
 | IONQ  | $    20.72 | ▼ -1.99 (-8.76%) |
 | COST  | $  1102.15 | ▲ +8.32 (+0.76%) |
 | ASML  | $  1266.22 | ▼ -89.98 (-6.63%) |
@@ -22,13 +22,13 @@
 | DUOL  | $   145.02 | ▼ -4.36 (-2.92%) |
 
 ## Global News
-- UK to explore even closer ties with EU after agreeing deal, says Burnham
-- Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk
-- Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge
-- Gérard Depardieu and French author investigated over sexual allegations
-- Anthropic shares fall after blockbuster opening as wider tech sell-off continues
-- Trump threatens ban on US firms building AI data centres overseas
-- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper
+- Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+- Russia-bound ship attacked in Gulf of Finland
+- Tech stock sell-off drags markets down as Anthropic shares slide
+- Fight over fossil fuels leaves COP31 climate talks in deadlock
+- FBI reportedly investigating apparent hack of its criminal database
+- Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
+- French police officers sentenced for beating of music producer Michel Zecler
 
 ---
-_Updated 2026-11-20_
+_Updated 2026-11-21_
