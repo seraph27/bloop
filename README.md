@@ -1,4 +1,4 @@
-# Daily TL;DR — November 21, 2026
+# Daily TL;DR — November 22, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
@@ -22,13 +22,13 @@
 | DUOL  | $   145.02 | ▼ -4.36 (-2.92%) |
 
 ## Global News
-- Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
-- Russia-bound ship attacked in Gulf of Finland
-- Tech stock sell-off drags markets down as Anthropic shares slide
-- Fight over fossil fuels leaves COP31 climate talks in deadlock
-- FBI reportedly investigating apparent hack of its criminal database
-- Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
-- French police officers sentenced for beating of music producer Michel Zecler
+- COP31 fails to reach major climate deal as talks expose deep divisions
+- What's next after no deal at COP31 climate talks?
+- Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
+- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes
+- Russia-bound ship towed away after it was attacked in Gulf of Finland
+- South Korea education minister resigns over exam cheating scandal
+- Three killed and dozens missing after fire at Indonesian factory
 
 ---
-_Updated 2026-11-21_
+_Updated 2026-11-22_
