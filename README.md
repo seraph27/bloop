@@ -1,34 +1,34 @@
-# Daily TL;DR — November 25, 2026
+# Daily TL;DR — November 26, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   155.38 | ▼ -9.67 (-5.86%) |
-| SPGI  | $   455.17 | ▲ +3.21 (+0.71%) |
-| META  | $   589.82 | ▼ -7.78 (-1.30%) |
-| AAPL  | $   354.07 | ▲ +4.99 (+1.43%) |
-| MSFT  | $   496.13 | ▲ +3.63 (+0.74%) |
-| GOOG  | $   276.58 | ▼ -2.95 (-1.06%) |
-| TSM   | $   349.20 | ▼ -14.40 (-3.96%) |
-| IONQ  | $    22.40 | ▼ -0.94 (-4.03%) |
-| COST  | $  1091.71 | ▼ -6.20 (-0.56%) |
-| ASML  | $  1336.06 | ▼ -47.72 (-3.45%) |
-| SPYM  | $    84.61 | ▼ -0.43 (-0.51%) |
-| LLY   | $  1407.59 | ▲ +42.99 (+3.15%) |
-| OKLO  | $    19.20 | ▼ -1.57 (-7.56%) |
-| V     | $   416.78 | ▲ +7.38 (+1.80%) |
-| MA    | $   647.44 | ▲ +11.96 (+1.88%) |
-| AMZN  | $   252.29 | ▼ -3.10 (-1.21%) |
-| DUOL  | $   146.92 | ▼ -0.18 (-0.12%) |
+| NVDA  | $   149.30 | ▼ -6.08 (-3.91%) |
+| SPGI  | $   460.74 | ▲ +5.57 (+1.22%) |
+| META  | — | — |
+| AAPL  | $   355.58 | ▲ +1.51 (+0.43%) |
+| MSFT  | $   489.93 | ▼ -6.20 (-1.25%) |
+| GOOG  | $   270.98 | ▼ -5.60 (-2.02%) |
+| TSM   | $   342.34 | ▼ -6.86 (-1.96%) |
+| IONQ  | $    23.54 | ▲ +1.14 (+5.09%) |
+| COST  | $  1086.81 | ▼ -4.90 (-0.45%) |
+| ASML  | $  1303.08 | ▼ -32.98 (-2.47%) |
+| SPYM  | $    84.37 | ▼ -0.24 (-0.28%) |
+| LLY   | $  1392.22 | ▼ -15.37 (-1.09%) |
+| OKLO  | $    19.47 | ▲ +0.27 (+1.41%) |
+| V     | $   424.39 | ▲ +7.61 (+1.83%) |
+| MA    | $   659.97 | ▲ +12.53 (+1.94%) |
+| AMZN  | $   244.43 | ▼ -7.86 (-3.12%) |
+| DUOL  | $   153.45 | ▲ +6.53 (+4.44%) |
 
 ## Global News
-- US attorney general dodges questions about Nvidia investigation
-- French ex-President Sarkozy and wife Carla Bruni to face trial
-- Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight
-- Huawei found guilty of stealing trade secrets but acquitted of racketeering
-- Land mine casualties soar in Syria, two years after war
-- Nigerian monarch, 92, suspended after sexual assault claims
-- Israeli air strike kills Hamas internal security chief in Gaza
+- US announces new tariffs on host of countries including China
+- Images of asteroid targeted to test Earth's defences reveal stadium-sized crater
+- Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
+- Israeli judges recommend dropping most serious charges against Netanyahu
+- US stocks fall further as fears over AI intensify
+- US Army says controlled blast of explosives in Iowa was 'huge success'
+- North Korea expels Swiss diplomat in sanctions row
 
 ---
-_Updated 2026-11-25_
+_Updated 2026-11-26_
