@@ -1,11 +1,11 @@
-# Daily TL;DR — November 26, 2026
+# Daily TL;DR — November 27, 2026
 
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
 | NVDA  | $   149.30 | ▼ -6.08 (-3.91%) |
-| SPGI  | $   460.74 | ▲ +5.57 (+1.22%) |
-| META  | — | — |
+| SPGI  | $   460.74 | ▲ +6.54 (+1.44%) |
+| META  | $   609.89 | ▲ +20.07 (+3.40%) |
 | AAPL  | $   355.58 | ▲ +1.51 (+0.43%) |
 | MSFT  | $   489.93 | ▼ -6.20 (-1.25%) |
 | GOOG  | $   270.98 | ▼ -5.60 (-2.02%) |
@@ -17,18 +17,18 @@
 | LLY   | $  1392.22 | ▼ -15.37 (-1.09%) |
 | OKLO  | $    19.47 | ▲ +0.27 (+1.41%) |
 | V     | $   424.39 | ▲ +7.61 (+1.83%) |
-| MA    | $   659.97 | ▲ +12.53 (+1.94%) |
+| MA    | — | — |
 | AMZN  | $   244.43 | ▼ -7.86 (-3.12%) |
 | DUOL  | $   153.45 | ▲ +6.53 (+4.44%) |
 
 ## Global News
-- US announces new tariffs on host of countries including China
-- Images of asteroid targeted to test Earth's defences reveal stadium-sized crater
-- Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
-- Israeli judges recommend dropping most serious charges against Netanyahu
-- US stocks fall further as fears over AI intensify
-- US Army says controlled blast of explosives in Iowa was 'huge success'
-- North Korea expels Swiss diplomat in sanctions row
+- US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+- Watch: Roofs torn off and streets under water as severe weather hits US
+- German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+- Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
+- Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one
+- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
+- Pregnant US inmate escapes in prison vehicle after medical appointment
 
 ---
-_Updated 2026-11-26_
+_Updated 2026-11-27_
