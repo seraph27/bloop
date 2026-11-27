@@ -3,32 +3,32 @@
 ## Portfolio
 | Ticker | Price | Change |
 |--------|------:|-------:|
-| NVDA  | $   149.30 | ▼ -6.08 (-3.91%) |
-| SPGI  | $   460.74 | ▲ +6.54 (+1.44%) |
-| META  | $   609.89 | ▲ +20.07 (+3.40%) |
-| AAPL  | $   355.58 | ▲ +1.51 (+0.43%) |
-| MSFT  | $   489.93 | ▼ -6.20 (-1.25%) |
-| GOOG  | $   270.98 | ▼ -5.60 (-2.02%) |
-| TSM   | $   342.34 | ▼ -6.86 (-1.96%) |
-| IONQ  | $    23.54 | ▲ +1.14 (+5.09%) |
-| COST  | $  1086.81 | ▼ -4.90 (-0.45%) |
-| ASML  | $  1303.08 | ▼ -32.98 (-2.47%) |
-| SPYM  | $    84.37 | ▼ -0.24 (-0.28%) |
-| LLY   | $  1392.22 | ▼ -15.37 (-1.09%) |
-| OKLO  | $    19.47 | ▲ +0.27 (+1.41%) |
-| V     | $   424.39 | ▲ +7.61 (+1.83%) |
-| MA    | — | — |
-| AMZN  | $   244.43 | ▼ -7.86 (-3.12%) |
-| DUOL  | $   153.45 | ▲ +6.53 (+4.44%) |
+| NVDA  | $   150.49 | ▲ +1.19 (+0.80%) |
+| SPGI  | $   461.24 | ▲ +0.50 (+0.11%) |
+| META  | $   628.96 | ▲ +19.07 (+3.13%) |
+| AAPL  | $   358.54 | ▲ +2.96 (+0.83%) |
+| MSFT  | $   492.85 | ▲ +2.92 (+0.60%) |
+| GOOG  | $   272.44 | ▲ +1.46 (+0.54%) |
+| TSM   | $   353.34 | ▲ +11.00 (+3.21%) |
+| IONQ  | $    24.97 | ▲ +1.43 (+6.07%) |
+| COST  | $  1097.81 | ▲ +11.00 (+1.01%) |
+| ASML  | $  1325.82 | ▲ +22.74 (+1.75%) |
+| SPYM  | $    85.75 | ▲ +1.38 (+1.64%) |
+| LLY   | $  1392.38 | ▲ +0.16 (+0.01%) |
+| OKLO  | $    20.85 | ▲ +1.38 (+7.09%) |
+| V     | $   429.56 | ▲ +5.17 (+1.22%) |
+| MA    | $   666.96 | ▲ +6.99 (+1.06%) |
+| AMZN  | $   254.12 | ▲ +9.69 (+3.96%) |
+| DUOL  | $   155.34 | ▲ +1.89 (+1.23%) |
 
 ## Global News
-- US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
-- Watch: Roofs torn off and streets under water as severe weather hits US
-- German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
-- Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
-- Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
-- Pregnant US inmate escapes in prison vehicle after medical appointment
+- Spanish PM and rivals rally supporters in final pitch for votes
+- Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+- Weary of war but with no sign of backing down, Kyiv faces another punishing winter
+- 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged
+- Brazil pushes back on Macron calling its meat 'doped'
+- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law
+- Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza
 
 ---
 _Updated 2026-11-27_
